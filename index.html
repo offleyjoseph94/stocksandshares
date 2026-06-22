@@ -38,6 +38,9 @@
   .r-moonshot{color:#d2a8ff;border-color:#8957e566}
   .h-short{background:#241a08}.h-medium{background:#0d1f26}.h-long{background:#0d2613}
   .rev-yes{color:var(--good)} .rev-likely{color:#9fe0a8} .rev-unsure{color:var(--warn)} .rev-no{color:var(--bad)}
+  .t212{color:#58a6ff;font-weight:600;font-size:12px}
+  .notes-input{width:100%;min-width:160px;background:#0d1521;color:var(--text);
+    border:1px solid var(--line);border-radius:6px;padding:6px 8px;font-size:12px;font-family:inherit}
   table{width:100%;border-collapse:collapse;font-size:13px}
   th,td{text-align:left;padding:9px 10px;border-bottom:1px solid var(--line);vertical-align:top}
   th{color:var(--dim);font-weight:600;cursor:pointer;user-select:none;position:sticky;top:0;background:var(--panel2)}
@@ -145,7 +148,7 @@
           <th data-k="price">Price (USD)</th>
           <th data-k="risk">Risk</th>
           <th data-k="horizon">Horizon</th>
-          <th data-k="revolut">Revolut UK</th>
+          <th data-k="revolut">Broker</th>
           <th data-k="thesis">Why it's here / catalyst / risk</th>
         </tr></thead>
         <tbody id="tbody"></tbody>
@@ -156,7 +159,21 @@
       <span class="pill r-balanced">Balanced</span> quality growth ·
       <span class="pill r-aggressive">Aggressive</span> volatile, real business ·
       <span class="pill r-moonshot">Moonshot</span> could 5×+ or go to zero ·
-      Revolut: <span class="rev-yes">yes</span>/<span class="rev-likely">likely</span> = check in-app, <span class="rev-unsure">unsure</span> = may be watch-only, <span class="rev-no">no</span> = not tradeable there.
+      Broker: primary is <strong>Revolut UK</strong> — <span class="rev-yes">yes</span>/<span class="rev-likely">likely</span> = check in-app. Anything not on Revolut (<span class="rev-unsure">unsure</span>/<span class="rev-no">no</span>) shows <span class="t212">Buy via Trading 212</span> (fallback broker) instead of watch-only.
+    </div>
+  </section>
+
+  <!-- ============ THEMATIC ETFs ============ -->
+  <section>
+    <h2>Thematic ETFs</h2>
+    <p class="updated">Sector/thematic ETFs giving one-click exposure to each theme already in your watchlist — kept separate from individual stocks. Broad index funds (e.g. VOO/VTI/VT) are intentionally excluded; this is thematic only. <strong>UK heads-up:</strong> every ETF below is US-listed and <em>not</em> directly buyable by UK retail on Revolut or Trading 212 (no UCITS KID) — the UK-tradeable UCITS/London equivalent is shown under Broker. Click a ticker to chart it; the Notes column is editable and saved in your browser.</p>
+    <div style="overflow-x:auto">
+      <table id="etftbl">
+        <thead><tr>
+          <th>ETF</th><th>Ticker</th><th>Theme</th><th>Price (USD)</th><th>Broker (UK route)</th><th>Notes (editable)</th>
+        </tr></thead>
+        <tbody id="etfbody"></tbody>
+      </table>
     </div>
   </section>
 
@@ -229,6 +246,44 @@
 ]
 </script>
 
+<!-- =================================================================== -->
+<!-- THEMATIC ETFs — edit this array freely (one/two ETFs per theme       -->
+<!-- already in your watchlist).                                          -->
+<!--   name    : fund name                                                -->
+<!--   ticker  : US ticker (used for the TradingView chart)               -->
+<!--   tv      : TradingView symbol                                       -->
+<!--   theme   : maps to a theme already in your watchlist                -->
+<!--   price   : USD snapshot (refreshed weekly, same as the stocks)      -->
+<!--   revolut : yes / likely / unsure / no  (drives broker fallback)     -->
+<!--   ucits   : the UK-tradeable UCITS/London equivalent (the real buy)  -->
+<!--   note    : prefilled text; editable in the table & saved in-browser -->
+<!-- IMPORTANT: all US ETFs below are NOT buyable by UK retail on Revolut -->
+<!-- or Trading 212 (no UCITS KID) — buy the UCITS equivalent instead.    -->
+<!-- =================================================================== -->
+<script>
+var ETF = [
+  // ---- AI & Compute: semiconductors + AI/robotics ----
+  {name:"VanEck Semiconductor ETF", ticker:"SMH", tv:"NASDAQ:SMH", theme:"AI & Compute (Semiconductors)", price:659.9, revolut:"no", ucits:"LSE: SMGB — VanEck Semiconductor UCITS", note:"Concentrated semis basket (Nvidia/TSMC-heavy). UK: buy SMGB UCITS on Trading 212."},
+  {name:"Global X Robotics & AI ETF", ticker:"BOTZ", tv:"NASDAQ:BOTZ", theme:"AI & Compute (Robotics)", price:38.4, revolut:"no", ucits:"Global X Robotics & AI UCITS (IE00BLCHJB90); or iShares Automation & Robotics (RBOT)", note:"Broad AI + robotics exposure. UK: use the UCITS line via Trading 212."},
+  // ---- Energy & Nuclear ----
+  {name:"Global X Uranium ETF", ticker:"URA", tv:"AMEX:URA", theme:"Energy & Nuclear", price:47.9, revolut:"no", ucits:"LSE: URNU/URNG — Global X Uranium UCITS", note:"Uranium miners + nuclear fuel cycle. UK: URNU UCITS on Trading 212."},
+  {name:"VanEck Uranium & Nuclear ETF", ticker:"NLR", tv:"AMEX:NLR", theme:"Energy & Nuclear", price:128, revolut:"no", ucits:"LSE: NUKL — VanEck Uranium & Nuclear Technologies UCITS", note:"Broader nuclear utilities + tech, less pure-miner. UK: NUKL UCITS."},
+  // ---- Clean & Batteries ----
+  {name:"iShares Global Clean Energy ETF", ticker:"ICLN", tv:"NASDAQ:ICLN", theme:"Clean & Batteries", price:21.2, revolut:"no", ucits:"LSE: INRG — iShares Global Clean Energy UCITS", note:"Solar/wind/clean-power basket. UK: INRG UCITS on Trading 212."},
+  {name:"Global X Lithium & Battery Tech ETF", ticker:"LIT", tv:"AMEX:LIT", theme:"Clean & Batteries", price:82.1, revolut:"no", ucits:"LSE: LITU/LITG — Global X Lithium & Battery Tech UCITS", note:"Lithium miners + battery makers. UK: LITU UCITS."},
+  // ---- Defence & Space ----
+  {name:"iShares U.S. Aerospace & Defense ETF", ticker:"ITA", tv:"BATS:ITA", theme:"Defence & Space", price:240, revolut:"no", ucits:"No direct UCITS; closest: VanEck Defense (DFNS) or HANetf Future of Defence (NATO/ASWC)", note:"US prime-contractor defence basket. UK: nearest is DFNS/NATO UCITS."},
+  {name:"Procure Space ETF", ticker:"UFO", tv:"BATS:UFO", theme:"Defence & Space", price:50, revolut:"no", ucits:"LSE: YODA/8GIG — Procure Space UCITS (HANetf)", note:"Pure-play space economy. UK: YODA UCITS on Trading 212."},
+  // ---- Quantum ----
+  {name:"Defiance Quantum ETF", ticker:"QTUM", tv:"AMEX:QTUM", theme:"Quantum", price:168.0, revolut:"no", ucits:"No direct UCITS clone; nearest = broad AI/tech UCITS ETFs", note:"Quantum + machine-learning basket (broader than pure-quantum names). No clean UCITS equivalent — verify before buying."},
+  // ---- Fintech ----
+  {name:"Global X FinTech ETF", ticker:"FINX", tv:"NASDAQ:FINX", theme:"Fintech", price:25, revolut:"no", ucits:"LSE: FTEK — Global X FinTech & Blockchain UCITS", note:"Payments/neobank/fintech basket. UK: FTEK UCITS on Trading 212."},
+  // ---- Biotech (Frontier) ----
+  {name:"SPDR S&P Biotech ETF", ticker:"XBI", tv:"AMEX:XBI", theme:"Biotech", price:140.5, revolut:"no", ucits:"iShares Nasdaq US Biotech UCITS (LSE: BTEC/BTEK)", note:"Equal-weight biotech (more small/mid-cap, higher beta). UK: BTEC UCITS."},
+  {name:"iShares Biotechnology ETF", ticker:"IBB", tv:"NASDAQ:IBB", theme:"Biotech", price:173.6, revolut:"no", ucits:"iShares Nasdaq US Biotech UCITS (LSE: BTEC/BTEK)", note:"Large-cap-tilted biotech (steadier than XBI). UK: BTEC UCITS."}
+];
+</script>
+
 <script>
   var DATA = JSON.parse(document.getElementById('stockData').textContent);
   var IPO  = JSON.parse(document.getElementById('ipoData').textContent);
@@ -237,6 +292,14 @@
 
   function fmtPrice(p){ return p==null ? '<span class="rev-unsure">verify</span>' : '$'+Number(p).toLocaleString(); }
   function cap(s){ return s.charAt(0).toUpperCase()+s.slice(1); }
+  // Broker logic: primary = Revolut. If a name isn't available on Revolut
+  // (anything other than yes/likely), show the Trading 212 fallback.
+  function brokerCell(rev){
+    var onRevolut = (rev==='yes' || rev==='likely');
+    var label = '<span class="rev-'+rev+'">Revolut: '+cap(rev)+'</span>';
+    if(onRevolut) return label;
+    return label+'<br><span class="t212">Buy via Trading 212</span>';
+  }
 
   function render(){
     var rows = DATA.filter(function(d){ return filter==='all' || d.risk===filter; });
@@ -254,7 +317,7 @@
         '<td>'+fmtPrice(d.price)+'</td>'+
         '<td><span class="pill r-'+d.risk+'">'+cap(d.risk)+'</span></td>'+
         '<td><span class="pill h-'+d.horizon+'">'+cap(d.horizon)+'</span></td>'+
-        '<td class="rev-'+d.revolut+'">'+cap(d.revolut)+'</td>'+
+        '<td>'+brokerCell(d.revolut)+'</td>'+
         '<td class="th-thesis">'+d.thesis+' <br><strong>Catalyst:</strong> '+d.cat+' · <strong>Risk:</strong> '+d.risknote+'</td>'+
       '</tr>';
     }).join('');
@@ -299,7 +362,36 @@
       '<p><strong>Watch:</strong> '+i.risk+'</p></div>';
   }).join('');
 
+  // ---- Thematic ETFs table (reuses fmtPrice / brokerCell / loadChart) ----
+  function renderETFs(){
+    var box=document.getElementById('etfbody');
+    box.innerHTML = ETF.map(function(e){
+      var saved = localStorage.getItem('etfnote_'+e.ticker);
+      var noteVal = (saved!=null ? saved : e.note);
+      return '<tr class="stock" data-tv="'+e.tv+'">'+
+        '<td>'+e.name+'</td>'+
+        '<td class="tk">'+e.ticker+'</td>'+
+        '<td>'+e.theme+'</td>'+
+        '<td>'+fmtPrice(e.price)+'</td>'+
+        '<td>'+brokerCell(e.revolut)+'<br><span class="updated">UK: '+e.ucits+'</span></td>'+
+        '<td><input class="notes-input" data-tk="'+e.ticker+'" value="'+noteVal.replace(/"/g,'&quot;')+'"></td>'+
+      '</tr>';
+    }).join('');
+    box.querySelectorAll('tr.stock').forEach(function(tr){
+      tr.addEventListener('click',function(ev){
+        if(ev.target.tagName==='INPUT') return;   // don't chart while editing notes
+        loadChart(tr.getAttribute('data-tv'));
+      });
+    });
+    box.querySelectorAll('input.notes-input').forEach(function(inp){
+      inp.addEventListener('change',function(){
+        localStorage.setItem('etfnote_'+inp.getAttribute('data-tk'), inp.value);
+      });
+    });
+  }
+
   render();
+  renderETFs();
   loadChart('NASDAQ:NVDA');
 </script>
 </body>
