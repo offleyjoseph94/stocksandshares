@@ -39,6 +39,10 @@
   .h-short{background:#241a08}.h-medium{background:#0d1f26}.h-long{background:#0d2613}
   .rev-yes{color:var(--good)} .rev-likely{color:#9fe0a8} .rev-unsure{color:var(--warn)} .rev-no{color:var(--bad)}
   .t212{color:#58a6ff;font-weight:600;font-size:12px}
+  .rlinks{display:flex;flex-wrap:wrap;gap:4px;max-width:150px}
+  .rlinks a{font-size:11px;color:#9fb6d4;text-decoration:none;border:1px solid var(--line);
+    border-radius:5px;padding:2px 6px;white-space:nowrap}
+  .rlinks a:hover{background:#10202f;color:var(--text)}
   .notes-input{width:100%;min-width:160px;background:#0d1521;color:var(--text);
     border:1px solid var(--line);border-radius:6px;padding:6px 8px;font-size:12px;font-family:inherit}
   table{width:100%;border-collapse:collapse;font-size:13px}
@@ -150,6 +154,7 @@
           <th data-k="horizon">Horizon</th>
           <th data-k="revolut">Broker</th>
           <th data-k="thesis">Why it's here / catalyst / risk</th>
+          <th>Research</th>
         </tr></thead>
         <tbody id="tbody"></tbody>
       </table>
@@ -170,7 +175,7 @@
     <div style="overflow-x:auto">
       <table id="etftbl">
         <thead><tr>
-          <th>ETF</th><th>Ticker</th><th>Theme</th><th>Price (USD)</th><th>Broker (UK route)</th><th>Notes (editable)</th>
+          <th>ETF</th><th>Ticker</th><th>Theme</th><th>Price (USD)</th><th>Broker (UK route)</th><th>Research</th><th>Notes (editable)</th>
         </tr></thead>
         <tbody id="etfbody"></tbody>
       </table>
@@ -294,6 +299,22 @@ var ETF = [
   function cap(s){ return s.charAt(0).toUpperCase()+s.slice(1); }
   // Broker logic: primary = Revolut. If a name isn't available on Revolut
   // (anything other than yes/likely), show the Trading 212 fallback.
+  // Deterministic research links built from the ticker + TradingView symbol.
+  // These feed the monthly research scrape and quick manual due-diligence.
+  function researchLinks(tv, ticker){
+    var tvSym = (tv||'').replace(':','-');
+    var t = encodeURIComponent(ticker);
+    var links = [
+      ['Chart','https://www.tradingview.com/symbols/'+tvSym+'/'],
+      ['Yahoo','https://finance.yahoo.com/quote/'+t],
+      ['News','https://www.google.com/search?q='+t+'+stock+news&tbm=nws'],
+      ['SEC','https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK='+t+'&type=10-K&dateb=&owner=include&count=10']
+    ];
+    return '<div class="rlinks">'+links.map(function(l){
+      return '<a href="'+l[1]+'" target="_blank" rel="noopener">'+l[0]+'</a>';
+    }).join('')+'</div>';
+  }
+
   function brokerCell(rev){
     var onRevolut = (rev==='yes' || rev==='likely');
     var label = '<span class="rev-'+rev+'">Revolut: '+cap(rev)+'</span>';
@@ -319,6 +340,7 @@ var ETF = [
         '<td><span class="pill h-'+d.horizon+'">'+cap(d.horizon)+'</span></td>'+
         '<td>'+brokerCell(d.revolut)+'</td>'+
         '<td class="th-thesis">'+d.thesis+' <br><strong>Catalyst:</strong> '+d.cat+' · <strong>Risk:</strong> '+d.risknote+'</td>'+
+        '<td onclick="event.stopPropagation()">'+researchLinks(d.tv, d.ticker)+'</td>'+
       '</tr>';
     }).join('');
     document.querySelectorAll('tr.stock').forEach(function(tr){
@@ -374,6 +396,7 @@ var ETF = [
         '<td>'+e.theme+'</td>'+
         '<td>'+fmtPrice(e.price)+'</td>'+
         '<td>'+brokerCell(e.revolut)+'<br><span class="updated">UK: '+e.ucits+'</span></td>'+
+        '<td onclick="event.stopPropagation()">'+researchLinks(e.tv, e.ticker)+'</td>'+
         '<td><input class="notes-input" data-tk="'+e.ticker+'" value="'+noteVal.replace(/"/g,'&quot;')+'"></td>'+
       '</tr>';
     }).join('');
