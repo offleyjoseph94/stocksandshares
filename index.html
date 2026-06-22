@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>LeanTrade — Future Stocks Watchlist</title>
+<style>
+  :root{
+    --bg:#0b0e14; --panel:#141a24; --panel2:#1b2330; --line:#26303f;
+    --text:#e6edf3; --dim:#9aa7b8; --accent:#4da3ff; --good:#3fb950;
+    --warn:#d29922; --bad:#f85149; --moon:#bc6bff;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--text);
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    line-height:1.5;}
+  a{color:var(--accent);text-decoration:none}
+  header{padding:22px 28px;border-bottom:1px solid var(--line);
+    background:linear-gradient(180deg,#101622,#0b0e14);}
+  header h1{margin:0;font-size:22px;letter-spacing:.3px}
+  header p{margin:6px 0 0;color:var(--dim);font-size:13px;max-width:900px}
+  .wrap{max-width:1280px;margin:0 auto;padding:24px 20px 80px}
+  section{margin-top:34px}
+  h2{font-size:18px;border-left:3px solid var(--accent);padding-left:10px;margin:0 0 14px}
+  h3{font-size:15px;color:var(--text);margin:18px 0 6px}
+  .note{background:#1a1408;border:1px solid #4d3b10;color:#f0d58a;
+    padding:12px 14px;border-radius:8px;font-size:13px}
+  .grid{display:grid;gap:14px}
+  .themes{grid-template-columns:repeat(auto-fit,minmax(280px,1fr))}
+  .card{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:16px}
+  .card h3{margin-top:0}
+  .card p{margin:6px 0 0;color:var(--dim);font-size:13px}
+  .pill{display:inline-block;font-size:11px;padding:2px 8px;border-radius:20px;
+    border:1px solid var(--line);margin:2px 4px 2px 0;white-space:nowrap}
+  .r-steady{color:#7ee787;border-color:#2ea04366}
+  .r-balanced{color:#79c0ff;border-color:#388bfd66}
+  .r-aggressive{color:#ffa657;border-color:#d2992266}
+  .r-moonshot{color:#d2a8ff;border-color:#8957e566}
+  .h-short{background:#241a08}.h-medium{background:#0d1f26}.h-long{background:#0d2613}
+  .rev-yes{color:var(--good)} .rev-likely{color:#9fe0a8} .rev-unsure{color:var(--warn)} .rev-no{color:var(--bad)}
+  table{width:100%;border-collapse:collapse;font-size:13px}
+  th,td{text-align:left;padding:9px 10px;border-bottom:1px solid var(--line);vertical-align:top}
+  th{color:var(--dim);font-weight:600;cursor:pointer;user-select:none;position:sticky;top:0;background:var(--panel2)}
+  th:hover{color:var(--text)}
+  tr.stock:hover{background:#10202f;cursor:pointer}
+  td.tk{font-weight:700}
+  td.th-thesis{color:var(--dim);max-width:360px}
+  .toolbar{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:12px;align-items:center}
+  .toolbar button{background:var(--panel2);color:var(--text);border:1px solid var(--line);
+    padding:6px 12px;border-radius:20px;font-size:12px;cursor:pointer}
+  .toolbar button.active{background:var(--accent);color:#04101f;border-color:var(--accent);font-weight:600}
+  .legend{font-size:12px;color:var(--dim);margin-top:8px}
+  .chartbox{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:6px}
+  .ipo-grid{grid-template-columns:repeat(auto-fit,minmax(260px,1fr))}
+  footer{margin-top:50px;color:var(--dim);font-size:12px;border-top:1px solid var(--line);padding-top:16px}
+  .updated{font-size:12px;color:var(--dim)}
+  .disc{background:#1a0c0c;border:1px solid #4d1414;color:#ffb3ad;padding:12px 14px;border-radius:8px;font-size:12px}
+</style>
+</head>
+<body>
+<header>
+  <h1>LeanTrade — Future Stocks Watchlist</h1>
+  <p>A research & tracking dashboard built around where the world is heading: AI compute, the energy build-out, defence &amp; space, quantum, fintech and frontier biotech. Charts are live from TradingView; the research notes are refreshed weekly. <span class="updated">Research snapshot: <strong>22 June 2026</strong> · Next refresh: <strong>weekly</strong>.</span></p>
+</header>
+
+<!-- live ticker tape -->
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-ticker-tape.js" async>
+  {"symbols":[{"proName":"NASDAQ:NVDA","title":"Nvidia"},{"proName":"NASDAQ:AMD","title":"AMD"},{"proName":"NYSE:TSM","title":"TSMC"},{"proName":"NASDAQ:AVGO","title":"Broadcom"},{"proName":"NYSE:GEV","title":"GE Vernova"},{"proName":"NYSE:CCJ","title":"Cameco"},{"proName":"NYSE:OKLO","title":"Oklo"},{"proName":"NASDAQ:FSLR","title":"First Solar"},{"proName":"NYSE:IONQ","title":"IonQ"},{"proName":"NYSE:CRCL","title":"Circle"},{"proName":"NASDAQ:CRWV","title":"CoreWeave"},{"proName":"NYSE:QS","title":"QuantumScape"}],"showSymbolLogo":true,"colorTheme":"dark","isTransparent":true,"displayMode":"adaptive","locale":"en"}
+  </script>
+</div>
+
+<div class="wrap">
+
+  <div class="disc">
+    <strong>Read me first.</strong> This is independent research and a tracking tool — <strong>not personalised financial advice</strong>. Nobody can reliably predict which small stock becomes the next giant; the speculative names here can go to zero. Prices are a snapshot from ~22 Jun 2026 and must be re-checked live in your broker before any trade. You are responsible for your own decisions.
+  </div>
+
+  <!-- ============ WHERE THE WORLD IS GOING ============ -->
+  <section>
+    <h2>Where the world is going — the genres I'm betting on</h2>
+    <p class="updated">This is the "brain": the structural shifts that decide which sectors do well over the next 1–10 years. Every stock below sits inside one of these.</p>
+    <div class="grid themes">
+      <div class="card"><h3>1 · AI compute &amp; infrastructure</h3><p>The single biggest capital cycle of the decade. AI models need chips, networking, memory and data centres. The surest money is often the "picks &amp; shovels" — the suppliers everyone must buy from — rather than guessing which AI app wins.</p></div>
+      <div class="card"><h3>2 · Energy for AI &amp; electrification</h3><p>AI data centres and EVs are exploding electricity demand. The grid, gas turbines and especially <em>nuclear / SMRs</em> become essential. Power is the bottleneck for AI — so power is an AI trade.</p></div>
+      <div class="card"><h3>3 · Clean energy &amp; batteries</h3><p>Solar, storage and next-gen batteries keep scaling on cost, even through policy noise. More cyclical and policy-sensitive, so this is a buy-the-leaders-plus-a-few-moonshots genre.</p></div>
+      <div class="card"><h3>4 · Defence &amp; space</h3><p>Rising geopolitical tension = sustained rearmament budgets. Drones, missiles, satellites and "new space" are multi-year tailwinds, increasingly favouring domestic (US-made) suppliers.</p></div>
+      <div class="card"><h3>5 · Quantum &amp; frontier compute</h3><p>Pure moonshot. Tiny revenue, huge narrative. Could be transformational or could stall for a decade — size positions accordingly.</p></div>
+      <div class="card"><h3>6 · Robotics &amp; automation</h3><p>Labour costs + AI brains = the long arc toward physical automation (delivery, logistics, humanoids). Early innings, high risk.</p></div>
+      <div class="card"><h3>7 · Fintech &amp; digital money</h3><p>Stablecoins, real-time payments and neobanks are eating traditional finance. Regulation is the swing factor — clarity is bullish.</p></div>
+      <div class="card"><h3>8 · Frontier biotech</h3><p>Precision oncology, GLP-1s and gene therapy. Binary by nature — single trial readouts move stocks 50%+. Treat each as a lottery ticket with a thesis.</p></div>
+    </div>
+  </section>
+
+  <!-- ============ LIVE CHARTS BY GENRE ============ -->
+  <section>
+    <h2>Live charts by genre</h2>
+    <p class="updated">Hover any name for a mini-chart; click through to the full TradingView chart. Updates live during market hours.</p>
+    <div class="chartbox">
+      <div class="tradingview-widget-container">
+        <div class="tradingview-widget-container__widget"></div>
+        <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-market-overview.js" async>
+        {
+          "colorTheme":"dark","dateRange":"12M","showChart":true,"locale":"en",
+          "width":"100%","height":"680","isTransparent":true,"showSymbolLogo":true,
+          "showFloatingTooltip":true,
+          "tabs":[
+            {"title":"AI & Compute","symbols":[{"s":"NASDAQ:NVDA","d":"Nvidia"},{"s":"NASDAQ:AVGO","d":"Broadcom"},{"s":"NYSE:TSM","d":"TSMC"},{"s":"NASDAQ:AMD","d":"AMD"},{"s":"NYSE:VRT","d":"Vertiv"},{"s":"NASDAQ:ALAB","d":"Astera Labs"},{"s":"NASDAQ:NBIS","d":"Nebius"},{"s":"NASDAQ:CRWV","d":"CoreWeave"},{"s":"NASDAQ:CBRS","d":"Cerebras"}]},
+            {"title":"Energy & Nuclear","symbols":[{"s":"NYSE:GEV","d":"GE Vernova"},{"s":"NYSE:CCJ","d":"Cameco"},{"s":"NYSE:OKLO","d":"Oklo"},{"s":"NYSE:LEU","d":"Centrus"},{"s":"NASDAQ:FLNC","d":"Fluence"}]},
+            {"title":"Clean & Batteries","symbols":[{"s":"NASDAQ:FSLR","d":"First Solar"},{"s":"NASDAQ:ENPH","d":"Enphase"},{"s":"NASDAQ:NXT","d":"Nextracker"},{"s":"NYSE:QS","d":"QuantumScape"},{"s":"NYSE:AMPX","d":"Amprius"},{"s":"NASDAQ:EOSE","d":"Eos Energy"}]},
+            {"title":"Defence & Space","symbols":[{"s":"NYSE:VOYG","d":"Voyager"},{"s":"NYSE:KRMN","d":"Karman"},{"s":"NYSE:RDW","d":"Redwire"},{"s":"NASDAQ:ONDS","d":"Ondas"},{"s":"NYSE:BBAI","d":"BigBear.ai"},{"s":"AMEX:UMAC","d":"Unusual Machines"}]},
+            {"title":"Quantum","symbols":[{"s":"NYSE:IONQ","d":"IonQ"},{"s":"NASDAQ:RGTI","d":"Rigetti"},{"s":"NYSE:QBTS","d":"D-Wave"}]},
+            {"title":"Fintech & Other","symbols":[{"s":"NYSE:CRCL","d":"Circle"},{"s":"NYSE:KLAR","d":"Klarna"},{"s":"NASDAQ:SERV","d":"Serve Robotics"},{"s":"NASDAQ:ERAS","d":"Erasca"}]}
+          ]
+        }
+        </script>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ DEEP-DIVE CHART ============ -->
+  <section>
+    <h2>Deep-dive chart</h2>
+    <p class="updated">Click any row in the table below to load it here — or type any ticker into the chart's symbol box.</p>
+    <div class="chartbox"><div id="advchart"></div></div>
+  </section>
+
+  <!-- ============ THE WATCHLIST TABLE ============ -->
+  <section>
+    <h2>The watchlist</h2>
+    <div class="toolbar" id="filters">
+      <button data-f="all" class="active">All</button>
+      <button data-f="steady">Steady</button>
+      <button data-f="balanced">Balanced</button>
+      <button data-f="aggressive">Aggressive</button>
+      <button data-f="moonshot">Moonshot</button>
+    </div>
+    <div style="overflow-x:auto">
+      <table id="tbl">
+        <thead><tr>
+          <th data-k="ticker">Ticker</th>
+          <th data-k="name">Company</th>
+          <th data-k="genre">Genre</th>
+          <th data-k="price">Price (USD)</th>
+          <th data-k="risk">Risk</th>
+          <th data-k="horizon">Horizon</th>
+          <th data-k="revolut">Revolut UK</th>
+          <th data-k="thesis">Why it's here / catalyst / risk</th>
+        </tr></thead>
+        <tbody id="tbody"></tbody>
+      </table>
+    </div>
+    <div class="legend">
+      <span class="pill r-steady">Steady</span> lower-risk leaders ·
+      <span class="pill r-balanced">Balanced</span> quality growth ·
+      <span class="pill r-aggressive">Aggressive</span> volatile, real business ·
+      <span class="pill r-moonshot">Moonshot</span> could 5×+ or go to zero ·
+      Revolut: <span class="rev-yes">yes</span>/<span class="rev-likely">likely</span> = check in-app, <span class="rev-unsure">unsure</span> = may be watch-only, <span class="rev-no">no</span> = not tradeable there.
+    </div>
+  </section>
+
+  <!-- ============ IPO PIPELINE ============ -->
+  <section>
+    <h2>IPO &amp; pre-listing watch (not buyable yet)</h2>
+    <p class="updated">The big names that aren't public yet. You can't buy these on Revolut until they list — this is a "be ready" list. Valuations are media rumour, not confirmed.</p>
+    <div class="grid ipo-grid" id="ipo"></div>
+  </section>
+
+  <footer>
+    <p><strong>How this stays current:</strong> a weekly job re-runs the web research, updates prices &amp; catalysts, adds new ideas and removes broken ones, then this page is regenerated. See <code>WALKTHROUGH.md</code> in this folder for how to invest, position-sizing and what to watch.</p>
+    <p>Built as a research aid. Not financial advice. Do your own due diligence.</p>
+  </footer>
+</div>
+
+<!-- ===================== DATA ===================== -->
+<script id="stockData" type="application/json">
+[
+ {"ticker":"NVDA","ex":"NASDAQ","tv":"NASDAQ:NVDA","name":"Nvidia","genre":"AI & Compute","price":210.33,"risk":"balanced","horizon":"long","revolut":"yes","thesis":"Dominant AI accelerator + CUDA software moat, still compounding data-centre demand.","cat":"Q2 earnings 26 Aug 2026","risknote":"Custom-chip substitution by hyperscalers; China export limits."},
+ {"ticker":"AVGO","ex":"NASDAQ","tv":"NASDAQ:AVGO","name":"Broadcom","genre":"AI & Compute","price":382,"risk":"balanced","horizon":"long","revolut":"yes","thesis":"Custom AI ASIC leader for hyperscalers; AI revenue more than doubled.","cat":"Quarterly report ~early Sep 2026","risknote":"Customer concentration; software-segment softness."},
+ {"ticker":"TSM","ex":"NYSE","tv":"NYSE:TSM","name":"TSMC (ADR)","genre":"AI & Compute","price":462.12,"risk":"balanced","horizon":"long","revolut":"yes","thesis":"Sole-source leading-edge foundry for nearly every AI chip; 2nm ramp.","cat":"Q2 results ~mid-Jul 2026","risknote":"Taiwan/China geopolitical tail risk; capex cyclicality."},
+ {"ticker":"AMD","ex":"NASDAQ","tv":"NASDAQ:AMD","name":"Advanced Micro Devices","genre":"AI & Compute","price":421,"risk":"aggressive","horizon":"medium","revolut":"yes","thesis":"Credible #2 AI GPU; MI400/Helios racks + big OpenAI & Meta commitments.","cat":"MI400 launch Q3 2026; Q2 earnings ~early Aug","risknote":"Execution vs Nvidia software ecosystem; rich valuation."},
+ {"ticker":"VRT","ex":"NYSE","tv":"NYSE:VRT","name":"Vertiv Holdings","genre":"AI & Compute","price":333.05,"risk":"balanced","horizon":"medium","revolut":"yes","thesis":"Pure-play AI data-centre power + liquid cooling; large multi-quarter backlog.","cat":"Q2 earnings ~late Jul","risknote":"Cyclical, tied to hyperscaler capex; margin pressure."},
+ {"ticker":"ALAB","ex":"NASDAQ","tv":"NASDAQ:ALAB","name":"Astera Labs","genre":"AI & Compute","price":419.90,"risk":"aggressive","horizon":"medium","revolut":"likely","thesis":"Rack-scale AI connectivity (PCIe/CXL/NVLink); just joined Nasdaq-100.","cat":"Q2 earnings ~early Aug","risknote":"Trades far above analyst targets; customer concentration."},
+ {"ticker":"CRDO","ex":"NASDAQ","tv":"NASDAQ:CRDO","name":"Credo Technology","genre":"AI & Compute","price":271.83,"risk":"aggressive","horizon":"medium","revolut":"unsure","thesis":"Active electrical cables + optical/DSP connectivity; revenue +206% FY26.","cat":"Quarterly ~early Sep 2026","risknote":"Hyperscaler concentration; high multiple."},
+ {"ticker":"NBIS","ex":"NASDAQ","tv":"NASDAQ:NBIS","name":"Nebius Group","genre":"AI & Compute","price":287.75,"risk":"aggressive","horizon":"medium","revolut":"likely","thesis":"AI 'neocloud'; ~$46B+ order book incl. Meta & Microsoft; Nvidia-backed.","cat":"Nasdaq-100 inclusion flows; next update","risknote":"Capital-intensive, thin margins; mega-contract reliance. 52wk low $43."},
+ {"ticker":"CRWV","ex":"NASDAQ","tv":"NASDAQ:CRWV","name":"CoreWeave","genre":"AI & Compute","price":118,"risk":"aggressive","horizon":"medium","revolut":"likely","thesis":"GPU-cloud 'AI factory' renting Nvidia capacity; +195% from $40 IPO.","cat":"~$21B Meta capacity ramp; next earnings","risknote":"Extreme customer concentration; debt-funded capex; very volatile."},
+ {"ticker":"CBRS","ex":"NASDAQ","tv":"NASDAQ:CBRS","name":"Cerebras Systems","genre":"AI & Compute","price":235,"risk":"moonshot","horizon":"medium","revolut":"unsure","thesis":"Wafer-scale AI inference chips pitched as Nvidia alternative; biggest 2026 IPO.","cat":"First post-IPO earnings ~23 Jun 2026","risknote":"Newly public, loss-making, heavy customer concentration; lock-up ahead."},
+
+ {"ticker":"GEV","ex":"NYSE","tv":"NYSE:GEV","name":"GE Vernova","genre":"Energy & Nuclear","price":1113,"risk":"steady","horizon":"long","revolut":"likely","thesis":"Picks-and-shovels winner of the electricity supercycle: turbines, grid, nuclear.","cat":"Q2 earnings ~late Jul","risknote":"Rich valuation; cyclical capex exposure."},
+ {"ticker":"CCJ","ex":"NYSE","tv":"NYSE:CCJ","name":"Cameco","genre":"Energy & Nuclear","price":106,"risk":"balanced","horizon":"long","revolut":"likely","thesis":"Largest Western uranium miner + 49% Westinghouse stake; nuclear renaissance.","cat":"Q2 earnings; uranium price moves","risknote":"Uranium price cyclicality; sentiment-driven swings."},
+ {"ticker":"OKLO","ex":"NYSE","tv":"NYSE:OKLO","name":"Oklo","genre":"Energy & Nuclear","price":61,"risk":"moonshot","horizon":"long","revolut":"likely","thesis":"SMR/microreactor power for data centres; $2.5B cash; Aurora targeted ~end-2027.","cat":"NRC licensing milestones; deployment progress","risknote":"Pre-revenue until ~2027+; regulatory risk. Down from 52wk high ~$194."},
+ {"ticker":"LEU","ex":"NYSE","tv":"NYSE:LEU","name":"Centrus Energy","genre":"Energy & Nuclear","price":190,"risk":"aggressive","horizon":"long","revolut":"unsure","thesis":"Only US-owned HALEU enrichment — the fuel bottleneck for SMRs.","cat":"HALEU ramp; new fuel-supply deals","risknote":"Heavy government-funding dependence; lumpy revenue; volatile."},
+ {"ticker":"FLNC","ex":"NASDAQ","tv":"NASDAQ:FLNC","name":"Fluence Energy","genre":"Energy & Nuclear","price":24.7,"risk":"aggressive","horizon":"medium","revolut":"likely","thesis":"Grid-scale battery storage integrator; ~$5.6B+ orders; data-centre firming.","cat":"Q3 FY26 earnings; new storage contracts","risknote":"Thin margins; battery-cell supply chain; lumpy orders."},
+
+ {"ticker":"FSLR","ex":"NASDAQ","tv":"NASDAQ:FSLR","name":"First Solar","genre":"Clean & Batteries","price":258,"risk":"balanced","horizon":"medium","revolut":"likely","thesis":"Largest US solar maker; thin-film sidesteps Chinese polysilicon; strong backlog.","cat":"Q2 earnings; US trade/tariff policy","risknote":"US clean-energy policy reversal risk; panel oversupply."},
+ {"ticker":"ENPH","ex":"NASDAQ","tv":"NASDAQ:ENPH","name":"Enphase Energy","genre":"Clean & Batteries","price":52,"risk":"aggressive","horizon":"medium","revolut":"likely","thesis":"Leading resi solar microinverter+battery brand; deeply de-rated turnaround play.","cat":"Q2 earnings; US rate trajectory","risknote":"Soft resi solar demand; policy headwinds."},
+ {"ticker":"NXT","ex":"NASDAQ","tv":"NASDAQ:NXT","name":"Nextracker","genre":"Clean & Batteries","price":126,"risk":"balanced","horizon":"medium","revolut":"unsure","thesis":"Global #1 utility-scale solar trackers; profitable and growing.","cat":"Earnings; utility project pipeline","risknote":"Solar policy/tariff swings; recent rebrand — confirm ticker."},
+ {"ticker":"QS","ex":"NYSE","tv":"NYSE:QS","name":"QuantumScape","genre":"Clean & Batteries","price":8,"risk":"moonshot","horizon":"long","revolut":"likely","thesis":"Leading solid-state battery developer; added Honda alongside VW.","cat":"OEM commercialisation milestones","risknote":"Pre-commercial, cash-burning; solid-state has a history of delays."},
+ {"ticker":"AMPX","ex":"NYSE","tv":"NYSE:AMPX","name":"Amprius Technologies","genre":"Clean & Batteries","price":16,"risk":"moonshot","horizon":"long","revolut":"unsure","thesis":"Silicon-anode high-density batteries with real drone/aviation/defence traction.","cat":"Defence awards; capacity expansion","risknote":"Small niche revenue; dilution; high volatility."},
+ {"ticker":"EOSE","ex":"NASDAQ","tv":"NASDAQ:EOSE","name":"Eos Energy","genre":"Clean & Batteries","price":7.7,"risk":"moonshot","horizon":"long","revolut":"unsure","thesis":"US zinc-based long-duration storage; non-lithium grid-firming alternative.","cat":"Line-2 production ramp; utility orders","risknote":"Heavy cash burn, dilution, scale-up execution; 52wk $4-$20."},
+
+ {"ticker":"VOYG","ex":"NYSE","tv":"NYSE:VOYG","name":"Voyager Technologies","genre":"Defence & Space","price":37.5,"risk":"aggressive","horizon":"medium","revolut":"unsure","thesis":"Defence + space pure-play (Starlab station); rearmament + new-space tailwinds.","cat":"Defence awards; Starlab milestones","risknote":"Lumpy government revenue; programme execution; volatile."},
+ {"ticker":"KRMN","ex":"NYSE","tv":"NYSE:KRMN","name":"Karman Holdings","genre":"Defence & Space","price":50,"risk":"aggressive","horizon":"medium","revolut":"unsure","thesis":"Lesser-known defence supplier: missile/hypersonics/launch systems.","cat":"Missile-defence budget flows; order book","risknote":"Defence-budget dependence; smaller-cap liquidity."},
+ {"ticker":"RDW","ex":"NYSE","tv":"NYSE:RDW","name":"Redwire","genre":"Defence & Space","price":20.8,"risk":"aggressive","horizon":"long","revolut":"likely","thesis":"Space infrastructure + homeland-defence wins; leveraged to space capex wave.","cat":"Defence awards; LEO programmes","risknote":"Dilution concerns flagged; cash needs; execution risk."},
+ {"ticker":"ONDS","ex":"NASDAQ","tv":"NASDAQ:ONDS","name":"Ondas Holdings","genre":"Defence & Space","price":9.27,"risk":"aggressive","horizon":"medium","revolut":"likely","thesis":"Drone/autonomous systems; Q1 revenue up >10x; FY26 target raised.","cat":"Quarterly revenue; defence orders","risknote":"Rich vs revenue; long history of dilution. 52wk $1.36-$15."},
+ {"ticker":"BBAI","ex":"NYSE","tv":"NYSE:BBAI","name":"BigBear.ai","genre":"Defence & Space","price":3.91,"risk":"aggressive","horizon":"medium","revolut":"likely","thesis":"Defence/national-security AI analytics; backlog ~$282m and growing.","cat":"New DoD/border contract awards","risknote":"Persistent losses, dilution, low margin; trades violently."},
+ {"ticker":"UMAC","ex":"AMEX","tv":"AMEX:UMAC","name":"Unusual Machines","genre":"Defence & Space","price":24.8,"risk":"moonshot","horizon":"medium","revolut":"unsure","thesis":"NDAA-compliant drone components; named in Pentagon domestic-supply interest.","cat":"Pentagon interest -> named contracts","risknote":"Priced for perfection on tiny revenue; dilution overhang; likely watch-only."},
+
+ {"ticker":"IONQ","ex":"NYSE","tv":"NYSE:IONQ","name":"IonQ","genre":"Quantum","price":57.85,"risk":"moonshot","horizon":"long","revolut":"likely","thesis":"Pure-play trapped-ion quantum; revenue ramp targeted toward ~$389m by 2028.","cat":"Quarterly report; hardware roadmap","risknote":"Tiny revenue, quantum advantage unproven; extreme volatility."},
+ {"ticker":"RGTI","ex":"NASDAQ","tv":"NASDAQ:RGTI","name":"Rigetti Computing","genre":"Quantum","price":21,"risk":"moonshot","horizon":"long","revolut":"likely","thesis":"Gate-based superconducting quantum; in HPE supercomputing consortium.","cat":"US Commerce LOI funding; qubit milestones","risknote":"Negligible revenue, perpetual dilution; pure narrative — can halve fast."},
+ {"ticker":"QBTS","ex":"NYSE","tv":"NYSE:QBTS","name":"D-Wave Quantum","genre":"Quantum","price":24.7,"risk":"moonshot","horizon":"long","revolut":"likely","thesis":"Quantum annealing with real commercial optimization customers.","cat":"Commercial bookings updates","risknote":"Niche vs gate computing; sky-high valuation; dilution-funded."},
+
+ {"ticker":"CRCL","ex":"NYSE","tv":"NYSE:CRCL","name":"Circle Internet Group","genre":"Fintech & Other","price":80,"risk":"aggressive","horizon":"medium","revolut":"likely","thesis":"Issuer of USDC stablecoin; regulated play on stablecoin adoption.","cat":"US stablecoin regulation; USDC growth","risknote":"Revenue highly rate-sensitive; off post-IPO highs."},
+ {"ticker":"KLAR","ex":"NYSE","tv":"NYSE:KLAR","name":"Klarna Group","genre":"Fintech & Other","price":19,"risk":"aggressive","horizon":"medium","revolut":"likely","thesis":"BNPL leader becoming a broader neobank; down ~50% from IPO = turnaround angle.","cat":"Credit-loss trends; US growth","risknote":"Consumer-credit losses in weak macro; below IPO price."},
+ {"ticker":"SERV","ex":"NASDAQ","tv":"NASDAQ:SERV","name":"Serve Robotics","genre":"Fintech & Other","price":8.4,"risk":"moonshot","horizon":"long","revolut":"likely","thesis":"Autonomous sidewalk delivery robots; Uber Eats + Nvidia-backed.","cat":"Fleet scaling; revenue ramp to ~$26m","risknote":"Tiny revenue, cash-burning; robot-delivery economics unproven."},
+ {"ticker":"ERAS","ex":"NASDAQ","tv":"NASDAQ:ERAS","name":"Erasca","genre":"Fintech & Other","price":null,"risk":"moonshot","horizon":"medium","revolut":"unsure","thesis":"Precision oncology targeting RAS/MAPK; well-funded into 2H 2028.","cat":"Two Phase 1 readouts in 2026 (binary)","risknote":"Classic binary biotech — bad readout can halve it. PRICE UNVERIFIED."}
+]
+</script>
+
+<script id="ipoData" type="application/json">
+[
+ {"name":"SpaceX","tag":"Nasdaq, ticker TBA","timing":"Headline 2026 candidate (Starlink spin-off possible)","val":"Rumoured $1–1.75tn","thesis":"Dominant launch + Starlink broadband; potentially the largest IPO ever.","risk":"Timing/structure uncertain; access only once listed."},
+ {"name":"OpenAI","tag":"ticker TBA","timing":"Reported groundwork for ~Q4 2026","val":"~$1tn (unconfirmed)","thesis":"Frontier consumer + enterprise AI leader (ChatGPT).","risk":"Capped-profit structure, huge cash burn; post-listing only."},
+ {"name":"Anthropic","tag":"ticker TBA","timing":"Confidential filing reported Jun 2026","val":"~$380bn","thesis":"Enterprise-focused AI lab (Claude); the OpenAI alternative.","risk":"Capital-intensive, intense competition; post-listing only."},
+ {"name":"Databricks","tag":"ticker TBA","timing":"2026 candidate","val":"~$134bn","thesis":"Data + AI 'lakehouse' platform; very high-quality software.","risk":"May stay private longer; post-listing only."},
+ {"name":"Plaid","tag":"ticker TBA","timing":"'Coming years' per CEO","val":"~$8bn","thesis":"Open-banking infrastructure — the plumbing of US fintech.","risk":"Timing slippage; pre-IPO access illiquid."},
+ {"name":"Genesys","tag":"ticker TBA (under-the-radar)","timing":"Confidentially filed; no date","val":"~$21bn (2021)","thesis":"AI cloud contact-centre/CX software — quiet enterprise-AI play.","risk":"Stale valuation; no firm timeline."}
+]
+</script>
+
+<script>
+  var DATA = JSON.parse(document.getElementById('stockData').textContent);
+  var IPO  = JSON.parse(document.getElementById('ipoData').textContent);
+  var tbody = document.getElementById('tbody');
+  var sortKey = 'genre', sortAsc = true, filter = 'all';
+
+  function fmtPrice(p){ return p==null ? '<span class="rev-unsure">verify</span>' : '$'+Number(p).toLocaleString(); }
+  function cap(s){ return s.charAt(0).toUpperCase()+s.slice(1); }
+
+  function render(){
+    var rows = DATA.filter(function(d){ return filter==='all' || d.risk===filter; });
+    rows.sort(function(a,b){
+      var x=a[sortKey], y=b[sortKey];
+      if(x==null) x=-Infinity; if(y==null) y=-Infinity;
+      if(typeof x==='string'){x=x.toLowerCase();y=(''+y).toLowerCase();}
+      if(x<y) return sortAsc?-1:1; if(x>y) return sortAsc?1:-1; return 0;
+    });
+    tbody.innerHTML = rows.map(function(d){
+      return '<tr class="stock" data-tv="'+d.tv+'">'+
+        '<td class="tk">'+d.ticker+'</td>'+
+        '<td>'+d.name+'<br><span class="updated">'+d.ex+'</span></td>'+
+        '<td>'+d.genre+'</td>'+
+        '<td>'+fmtPrice(d.price)+'</td>'+
+        '<td><span class="pill r-'+d.risk+'">'+cap(d.risk)+'</span></td>'+
+        '<td><span class="pill h-'+d.horizon+'">'+cap(d.horizon)+'</span></td>'+
+        '<td class="rev-'+d.revolut+'">'+cap(d.revolut)+'</td>'+
+        '<td class="th-thesis">'+d.thesis+' <br><strong>Catalyst:</strong> '+d.cat+' · <strong>Risk:</strong> '+d.risknote+'</td>'+
+      '</tr>';
+    }).join('');
+    document.querySelectorAll('tr.stock').forEach(function(tr){
+      tr.addEventListener('click',function(){ loadChart(tr.getAttribute('data-tv')); });
+    });
+  }
+
+  document.querySelectorAll('#tbl th').forEach(function(th){
+    th.addEventListener('click',function(){
+      var k=th.getAttribute('data-k');
+      if(sortKey===k) sortAsc=!sortAsc; else {sortKey=k;sortAsc=true;}
+      render();
+    });
+  });
+  document.querySelectorAll('#filters button').forEach(function(b){
+    b.addEventListener('click',function(){
+      document.querySelectorAll('#filters button').forEach(function(x){x.classList.remove('active');});
+      b.classList.add('active'); filter=b.getAttribute('data-f'); render();
+    });
+  });
+
+  function loadChart(sym){
+    var box=document.getElementById('advchart');
+    box.innerHTML='<div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div></div>';
+    var s=document.createElement('script');
+    s.type='text/javascript';
+    s.src='https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js';
+    s.async=true;
+    s.innerHTML=JSON.stringify({width:"100%",height:560,symbol:sym,interval:"D",
+      timezone:"Europe/London",theme:"dark",style:"1",locale:"en",
+      allow_symbol_change:true,calendar:false,
+      support_host:"https://www.tradingview.com"});
+    box.querySelector('.tradingview-widget-container').appendChild(s);
+  }
+
+  document.getElementById('ipo').innerHTML = IPO.map(function(i){
+    return '<div class="card"><h3>'+i.name+'</h3>'+
+      '<span class="pill">'+i.tag+'</span>'+
+      '<p><strong>Timing:</strong> '+i.timing+'<br><strong>Valuation:</strong> '+i.val+'</p>'+
+      '<p>'+i.thesis+'</p>'+
+      '<p><strong>Watch:</strong> '+i.risk+'</p></div>';
+  }).join('');
+
+  render();
+  loadChart('NASDAQ:NVDA');
+</script>
+</body>
+</html>
