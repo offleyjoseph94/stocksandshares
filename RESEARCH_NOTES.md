@@ -1,3 +1,246 @@
+# 2026-07-09 — Cycle 1 deep dive (stocks 13–24)
+
+This week's deep dive covers the next 12 stocks across all six watchlist genres: **AI & Compute** (AVGO, AMD), **Energy & Nuclear** (OKLO, LEU, FLNC), **Clean & Batteries** (NXT, QS), **Defence & Space** (VOYG, ONDS), **Quantum** (RGTI), and **Fintech & Other** (SERV, ERAS).
+
+## AVGO — Broadcom
+
+**What it does:** Broadcom designs and supplies two main product families: (1) a broad range of semiconductor components spanning networking ASICs, Ethernet switching chips, fibre channel HBAs, Wi-Fi/Bluetooth SoCs, and custom AI accelerators (XPUs); and (2) mission-critical enterprise infrastructure software acquired via CA Technologies, Symantec, and most recently VMware (closed Nov 2023). The AI story revolves around its custom ASIC ("XPU") co-design work with hyperscalers — building made-to-order AI accelerator chips for customers who want an alternative to Nvidia GPUs, plus AI networking chips (Tomahawk/Jericho switches, Trident) that are embedded in virtually every large-scale AI cluster regardless of whose GPUs are used.
+
+**Latest results & financial health:** Q2 FY2026 (quarter ending ~April 27, 2026, reported June 3, 2026): total revenue $22.2bn (+48% YoY). AI semiconductor revenue $10.8bn (+143% YoY), representing ~49% of all revenue — the most concrete illustration of how fast the custom-ASIC business is scaling. Non-GAAP EPS $2.44 (vs $2.40 estimated). Q3 FY2026 guidance: total revenue $29.4bn (+84% YoY) and AI semiconductor revenue expected to exceed $16bn (+~200% YoY). AI bookings have now exceeded $30bn. Management guided AI semiconductor revenue in excess of $100bn for FY2027 — a figure that would make Broadcom's AI chips alone comparable in scale to its entire current company. Six custom chip customers named/implied include Anthropic, Google, Meta, and OpenAI. Market cap ~$1.81tn (early July 2026); trailing P/E ~55-60x; forward P/E ~23-30x depending on estimate vintage.
+
+**Bull thesis:** Dual moat: the XPU custom-chip relationships give Broadcom a structural role in the hyperscaler AI arms race regardless of which GPU OEM wins; the VMware/CA/Symantec software stack delivers high-margin, sticky recurring revenue providing earnings stability. AI networking chips (used in nearly every AI cluster) are a "toll road" growing with the entire AI infrastructure buildout, not just a single customer's fortunes.
+
+**Key catalysts ahead:** Q3 FY2026 earnings (~early September 2026) validating the $29.4bn revenue guide; ramp of OpenAI and Anthropic XPU programmes into volume in H2 FY2026–FY2027; continued VMware subscription migrations from perpetual licences.
+
+**Main risks:** Customer concentration — a handful of hyperscalers account for most custom chip revenue, and any programme delay or redesign would hit estimates hard. VMware integration carries some customer pushback on pricing. Marvell Technology competes for custom AI silicon. The ~$40bn+ VMware debt load is substantial, even with strong operating cash generation.
+
+**Competitive position:** In custom AI ASICs, Marvell is the primary rival; in AI networking, Broadcom's merchant silicon underlies many Cisco/Arista switches. In software, VMware is deeply entrenched in enterprise data centres globally.
+
+**Rough valuation sense-check:** At dashboard price $382 (or ~$480+ per recent quote), forward P/E ~23-30x. If the FY2027 $100bn AI semiconductor figure is achievable the valuation could prove reasonable; if it disappoints, downside is material given the premium multiple.
+
+---
+
+## AMD — Advanced Micro Devices
+
+**What it does:** AMD designs CPUs (EPYC server, Ryzen consumer) and GPUs/AI accelerators (Instinct MI-series for AI/HPC, Radeon for gaming/workstation) using a fabless model (manufactured at TSMC). Revenue breaks into four segments: Data Center (server CPUs + AI GPUs, now the largest by far), Client (Ryzen), Gaming (discrete GPUs + console semi-custom), and Embedded (FPGAs/SoCs from the Xilinx acquisition).
+
+**Latest results & financial health:** Q1 2026 (reported May 5, 2026): Data Center revenue $5.8bn (+57% YoY), driven by EPYC CPU strength and continued ramp of MI-series AI GPU shipments. Client $3.6bn (+23% YoY). Embedded $873m (+6% YoY). Gaming declined. Total Q1 revenue ~$10.4bn. Full-year 2025 revenue was a record $34.6bn; Q4 2025 Data Center alone was $5.4bn. Q2 2026 earnings expected early August 2026. Balance sheet solid: >$4bn cash, no near-term debt maturities, funded by strong EPYC server CPU profitability.
+
+**Bull thesis:** EPYC server CPUs are taking data-centre socket share from Intel at an accelerating rate, with hyperscalers continuing to ramp AMD deployments. The MI400/Helios rack-scale AI system has secured commitments from OpenAI, Microsoft, and Meta — validating AMD as a credible #2 AI GPU platform. Analysts project the MI400 series could generate $7.2bn+ in revenue in its launch year (~258k units at ~$31k ASP), which would be AMD's most successful product launch. AMD's chiplet/MCM architecture allows faster node-to-node iteration than monolithic designs, a potential structural advantage.
+
+**Key catalysts ahead:** MI400/Helios volume ramp (Q3 2026); Q2 2026 earnings (early August); new hyperscaler MI-series order announcements; ROCm software ecosystem maturity updates (the CUDA gap is the key battleground).
+
+**Main risks:** Nvidia's dominance (80-90% AI accelerator share; ~$75.2bn quarterly Data Center revenue vs AMD's $5.8bn) means AMD remains a distant #2. The software ecosystem gap (ROCm vs CUDA) is AMD's structural barrier — many AI researchers default to Nvidia for developer experience. Custom ASICs from Broadcom/Marvell and internal hyperscaler chips (Google TPU, Amazon Trainium) could limit AMD upside even if Nvidia share shrinks. Gaming segment is in structural decline.
+
+**Competitive position:** Clear CPU #2 challenger to Intel (gaining); clear GPU #2 challenger to Nvidia (improving). In AI accelerators specifically, MI-series is the only merchant GPU treated as a serious procurement alternative by hyperscalers.
+
+**Rough valuation sense-check:** At dashboard $421, trailing P/E roughly mid-to-high 20s on FY2025 earnings. Forward P/E (FY2026 consensus) roughly 25-30x — not cheap, but lower than Nvidia's historical average and arguably justified by the EPYC server growth trajectory.
+
+---
+
+## OKLO — Oklo
+
+**What it does:** Oklo is a pre-revenue nuclear energy start-up developing the Aurora "compact fast reactor" (sodium-cooled microreactor, ~15 MWe per unit), with longer-term plans for larger Aurora Powerhouse variants. Its primary market is selling power-purchase agreements (PPAs) to data-centre operators, utilities, and defence sites needing firm, zero-carbon baseload — rather than selling the reactor as a capital product. Oklo raised ~$2.5bn in a 2024 SPAC/PIPE transaction, providing a substantial cash buffer for pre-revenue operations.
+
+**Latest results & financial health:** Entirely pre-revenue. Cash ~$2.5bn funds operations for several years. No meaningful debt. Commercial power delivery is realistically 3-5+ years away; earliest Aurora unit at Idaho National Laboratory (INL) is targeted ~2027-2028. The stock has declined roughly 70%+ from its 2025 peak near $194/share to the current ~$61 (dashboard), reflecting investor frustration with the licensing timeline.
+
+**Regulatory progress (the key metric for this company):** Oklo completed the NRC's Phase 1 pre-application readiness assessment for its Combined Licence Application (COLA) at INL — a meaningful signal that the application has enough information for formal review. DOE approved Nuclear Safety Design Agreements (NSDAs) and a materials licence. The DOE's Reactor Pilot Programme targeted at least 3 advanced reactors reaching first criticality by July 4, 2026 — a symbolically important deadline that has just passed (9 July 2026); progress against this milestone is worth monitoring in next quarterly update.
+
+**Bull thesis:** AI data-centre power demand is exploding and expected to exceed 100 GW of new electricity need in the US by 2030 — Oklo's PPA pitch is a decades-long, fixed-price, firm power supply that hyperscalers can lock in now. A first successful Aurora deployment would be an industry proof-of-concept unlocking a pipeline of follow-on orders. Oklo has disclosed gigawatts of letters-of-intent from data-centre operators, though none are yet binding contracts.
+
+**Key catalysts ahead:** NRC COLA formal acceptance (most critical near-term step); NRC Phase 2 completeness determination; any conversion of LOIs into binding PPAs; further DOE Reactor Pilot Programme criticality milestones; Q2/Q3 2026 updates on Aurora-Ohio COLA submission timeline.
+
+**Main risks:** Nuclear licensing is uniquely slow and expensive — Oklo's first COLA was rejected by the NRC in 2022 for insufficient technical data; this is the second attempt. Commercial power delivery is 3-5+ years away. Any additional NRC challenge, technical delay, or cost overrun could further erode the cash cushion. US competitors (TerraPower, X-energy, NuScale, Kairos) are ahead on various licensing milestones.
+
+**Competitive position:** Differentiates via small unit size (~15 MWe vs multi-hundred MWe SMRs), PPA-as-a-service model, and data-centre focus. Competes with TerraPower (Natrium, Gates-backed), X-energy (TRISO gas-cooled), NuScale (LWR, already licensed), Kairos, and international designs from Rolls-Royce, Holtec, and others.
+
+**Rough valuation sense-check:** At ~$61/share, market cap ~$8-9bn against zero revenue — the entire value is a bet on regulatory and deployment success. Appropriately a moonshot.
+
+---
+
+## LEU — Centrus Energy
+
+**What it does:** Centrus operates two segments: LEU (the majority of revenue — procures enriched uranium from Russian supplier Tenex/TVEL under pre-existing commercial contracts and resells to US nuclear utilities under long-term supply agreements); and Technical Solutions (consulting, programme management, and centrifuge technology services, primarily to the DOE). The strategic differentiator: Centrus is the only US-owned, US-licensed facility capable of enriching uranium using American Centrifuge technology. Its demonstration-scale HALEU (High-Assay Low Enriched Uranium) production line at Piketon, Ohio is the only US-based source of HALEU fuel — the fuel required by next-generation SMRs and advanced reactors.
+
+**Latest results & financial health:** Q1 2026 revenue $76.7m (LEU segment ~$44.6m SWU + uranium; Technical Solutions ~$32.1m). Net income $10.0m. Full-year 2025: revenue $448.7m, net income $77.8m — a modestly profitable, strategically critical business. FY2026 guidance: $425-475m total revenue (slight moderation from 2025 due to contract timing lumpiness).
+
+**Key strategic development:** On January 5, 2026, the DOE announced Centrus's subsidiary ACO was selected for a $900m task order (subject to final negotiations) to expand Piketon to commercial-scale HALEU production. This is potentially transformational — from demonstration-scale to commercial-scale HALEU would make Centrus the lynchpin of US advanced-reactor fuel supply. In addition, Centrus has secured $2.3bn in total contracts and commitments across US and international customers for future US enrichment capacity.
+
+**Bull thesis:** The US has dangerous dependence on Russian uranium enrichment (~40-46% of global capacity). The 2024 Prohibiting Russian Uranium Imports Act and national-security imperatives have created urgent demand for domestic alternatives. Centrus is the only domestic HALEU option, and every SMR/advanced reactor on order in the US requires HALEU fuel. The $900m DOE task order could represent a decade-long revenue inflection.
+
+**Key catalysts ahead:** Finalisation of the $900m DOE task order; commercial-scale HALEU production milestones at Piketon; new commercial HALEU supply agreements (SMR developers); any update on the Russian LEU supply framework amid evolving sanctions policy.
+
+**Main risks:** Centrus's existing LEU business depends on continuing to procure enrichment from Russia — any sudden severing of that supply would be disruptive. Heavy government-funding dependence makes revenue lumpy and budget-cycle-sensitive. The $900m task order is still "subject to negotiations" — execution risk is real. The stock is historically extremely volatile on news flow.
+
+**Competitive position:** In HALEU enrichment, Centrus has no domestic US competitor. Internationally, ROSATOM/TVEL is the dominant HALEU producer. In LEU, Centrus competes with URENCO, Orano, and Kazatomprom, where it is a small player — the HALEU franchise is the strategic asset.
+
+**Rough valuation sense-check:** At ~$190/share (dashboard), market cap roughly $1.4-1.6bn against FY2025 net income of ~$77.8m implies trailing P/E roughly 18-20x — not expensive for a strategic national-infrastructure asset with a potential $900m government contract catalyst. The caveat is the lumpiness and government dependence.
+
+---
+
+## FLNC — Fluence Energy
+
+**What it does:** Fluence Energy designs, procures, and integrates utility-scale battery energy storage systems (BESS) — primarily multi-hour lithium-ion grid-scale systems deployed for electricity grids, renewables developers, and increasingly data-centre operators. Originally a joint venture of AES and Siemens, Fluence went public in late 2021. It sells Gridstack and Ultrastack storage products, and increasingly its Mosaic AI-powered bidding/trading platform as a software add-on. Revenue is project-delivery-based, making quarters lumpy; contracted backlog and order intake are the forward-looking metrics.
+
+**Latest results & financial health:** Q2 FY2026 (quarter ended March 31, 2026): revenue $464.9m (+8% YoY), slightly light vs consensus but management reaffirmed guidance. Net loss -$29.2m (narrowing from -$41.9m a year ago). Adjusted gross margin 11.1% — positive progress but still thin. Record contracted backlog $5.6bn; year-to-date order intake ~$2.0bn. Signed master supply agreements with two major hyperscalers — first order conversion expected in Q3 FY2026. FY2026 guidance (fiscal year ends September 2026): revenue $3.2-3.6bn; adjusted EBITDA $40-60m (projected first year of positive EBITDA). ~50-55% of the backlog expected to convert within 12 months.
+
+**Bull thesis:** Storage demand is driven by three structural forces: grid-stabilisation needs as solar/wind penetration rises; AI data-centre operators seeking reliable, low-carbon firm power; and utility battery mandates across key states. The hyperscaler master supply agreements are a new and significant demand signal — data-centre storage is moving from project-by-project to framework-volume. The path to positive EBITDA in FY2026 would mark an important profitability inflection after several years of building out capacity.
+
+**Key catalysts ahead:** Q3 FY2026 earnings (~August 2026) — first major data point on hyperscaler order conversions; further utility-scale contract wins; Mosaic software platform attach-rate data; additional hyperscaler framework agreements; FY2026 full-year EBITDA result.
+
+**Main risks:** Gross margins remain thin and sensitive to battery-cell costs — Fluence procures cells (mostly Korean/Chinese suppliers) rather than manufacturing them, creating supply-chain and cost risk. Revenue is project-lumpy: one large project delay can miss a quarter badly. The positive-EBITDA target has been pushed back before. Customer concentration among a handful of large utilities and hyperscalers is real.
+
+**Competitive position:** Competes with Tesla Energy (Megapack — the most comparable product), BYD, CATL/Sungrow in system integration, and independent integrators. Differentiates via scale, grid-integration engineering depth, and the Mosaic software/AI optimisation layer.
+
+**Rough valuation sense-check:** At ~$24.70/share (dashboard), market cap ~$2.5-3bn. Against FY2026 guided revenue $3.2-3.6bn, P/S is roughly 0.7-0.9x — cheap on sales for a storage company at this scale, but the absence of profitability means the multiple hinges entirely on margin execution.
+
+---
+
+## NXT — Nextpower (formerly Nextracker)
+
+**What it does:** Nextracker rebranded to Nextpower in November 2025 — retaining its Nasdaq ticker NXT — to reflect strategic expansion from solar tracking hardware into a fully integrated power-technology platform. Its original and still dominant product is the utility-scale solar tracker: the mechanical-plus-software systems that keep solar panels aligned with the sun, improving energy yield by ~20-25% versus fixed-tilt. Nextpower/NXT holds the #1 global share in utility-scale solar trackers. The rebrand came alongside expansion into power-conversion systems (inverters/transformers; first shipments expected 2026), AI-driven operations/maintenance software, and structural balance-of-system components — expanding addressable revenue per solar plant significantly.
+
+**Latest results & financial health:** Full-year FY2026 (fiscal year ended ~March 2026): record revenue $3.56bn (+20% YoY). All four quarters of FY2026 beat analyst consensus on both revenue and EPS. Record contracted backlog exceeding $5bn. FY2027 revenue guidance raised to $3.8-4.1bn (another +7-15% growth year). The company has run a positive free-cash-flow profile — unusual among solar-hardware names — funding buybacks and acquisitions from operations rather than equity issuance.
+
+**Bull thesis:** Utility-scale solar is still in the early innings of a multi-decade global buildout, with US installations accelerating even amid policy uncertainty because economics are compelling. Nextpower's #1 tracker share, proprietary TrueCapture AI-powered tracker-control software, and global manufacturing/service network create a durable competitive moat. The expansion into power conversion and electrical BOS broadens revenue per project and extends growth visibility into the next decade.
+
+**Key catalysts ahead:** First power-conversion product shipments in 2026; next quarterly earnings (~August 2026); global solar utility market expansion in India, Middle East, and Latin America where tracker penetration is rising fast; AI/data-centre-adjacent solar PPA market opportunities.
+
+**Main risks:** US solar policy remains volatile — any rollback of IRA clean-energy provisions or domestic-content incentives, or tariff policy shifts on solar modules, directly affects Nextpower's end-market. The rebrand/expansion into power conversion increases execution complexity and management bandwidth. Tracker competition from Array Technologies, Soltec, and regional players is real, especially internationally. FY2027 guidance implies continued double-digit growth, requiring a healthy utility-capex environment.
+
+**Competitive position:** #1 globally in utility-scale trackers (ahead of Array Technologies in the US, Soltec internationally). Differentiated by TrueCapture IP and early-mover patent portfolio. In power conversion, it enters a market dominated by SMA, Sungrow, and Huawei — with those incumbents having scale and cost advantages.
+
+**Rough valuation sense-check:** At ~$126/share (dashboard), against FY2026 revenue $3.56bn, P/S is roughly 1.5-2x — reasonable for a capital-light, #1-market-share industrial growing at 20% with positive FCF.
+
+---
+
+## QS — QuantumScape
+
+**What it does:** QuantumScape is a pre-commercial solid-state battery developer, spun out of Stanford University and backed by Volkswagen Group. Its core technology is a lithium-metal anode solid-state battery using a proprietary ceramic separator — removing the liquid electrolyte and graphite anode of conventional lithium-ion, enabling higher energy density, faster charging, and improved safety. Target markets are electric vehicles, motorcycles, and power equipment. QuantumScape is transitioning from prototype/pilot cell production (its "Cobra" facility) toward eventual OEM licensing or joint-manufacturing agreements — it does not plan to be a mass-market manufacturer itself.
+
+**Latest results & financial health:** Q1 2026 (reported April 2026): cash and securities $904.7m. Net loss narrowed to -$100.8m (-12% YoY as R&D/G&A spending fell ~12%). FY2026 guidance: adjusted EBITDA loss $250-275m; capex $40-60m. Subtracting ~$290m expected cash consumption from the $904.7m base implies a cash runway extending beyond 2028 without requiring a raise at current burn rates.
+
+**Key 2026 developments:** June 18, 2026: QuantumScape announced a multi-year joint research agreement with Honda R&D Co., making Honda the second major OEM partner after Volkswagen. Honda's engagement followed completion of a rigorous hands-on technical evaluation including competitive benchmarking. On the VW side, QSE-5 cells (current Cobra-stage production cells) were shipped for integration — powering the Ducati V21L race motorcycle unveiled at IAA Mobility in September 2025. Shares rose ~13.4% on the Honda announcement.
+
+**Bull thesis:** Solid-state batteries could enable second-generation EVs with materially better range, charge time, and safety — if the technology scales. Two credible OEM partnerships (VW and Honda) with rigorous technical evaluation suggest the technology is progressing beyond lab demos. QuantumScape's lithium-metal solid-state approach has shown genuine progress: multi-layer cells, extreme-temperature performance data, and fast-charging capability published or disclosed publicly.
+
+**Key catalysts ahead:** QSE-5 cell qualification results with VW Group; Honda joint-research milestones; any additional OEM partnership announcements; production yield and cost-per-cell progress at the Cobra facility; path to licensing agreements needed for commercialisation.
+
+**Main risks:** Solid-state batteries have repeatedly disappointed on commercialisation timelines — QuantumScape's own 2020-era roadmap was significantly delayed. Manufacturing at scale at cost-competitive prices vs. mature Li-ion supply chains is an unsolved problem for the industry. Cash burn of ~$290m/year limits runway to ~3 years — a raise or licensing deal will be needed before/during commercialisation. OEM commitments remain research agreements, not purchase orders for production cells.
+
+**Competitive position:** Competing with Toyota (in-house solid-state, most advanced), Samsung SDI, Solid Power (BMW/Ford backed), ProLogium (SAIC), and conventional Li-ion incumbents (CATL, Panasonic, LG ES) extending incumbent technology.
+
+**Rough valuation sense-check:** At ~$8/share (dashboard), market cap roughly $3-4bn against zero revenue. Entirely speculative but the $904.7m cash provides meaningful downside support.
+
+---
+
+## VOYG — Voyager Technologies
+
+**What it does:** Voyager Technologies is a defence and space company operating across three segments: Defence & National Security (missile/propulsion systems, military electronics, Golden Dome missile-defence adjacencies); Space Solutions (spacecraft systems, life-support hardware, and research payloads for NASA, DoD, and commercial space); and Starlab (commercial space station in development with Airbus, Mitsubishi Heavy Industries, and MDA Space, targeting post-ISS low Earth orbit operations). The company went public via SPAC merger in 2023 and bridges the conventional defence prime and new-space ecosystems.
+
+**Latest results & financial health:** Q1 2026 (reported May 5, 2026): revenue $35.2m (-22.8% YoY and slightly below the $36.1m consensus). The YoY decline reflects lumpy contract delivery timing, not lost demand. Operating loss -$44.6m (widening, driven by heavy investment ahead of backlog conversion). Net loss -$44.0m. However, Q1 bookings were $45.2m and end-of-quarter backlog reached a record $275.3m (+54% YoY), book-to-bill 1.3x. As a result, management raised FY2026 revenue guidance to $230-255m (implying 39-53% growth from 2025), backed by the record backlog. Liquidity is robust, with cash and investments well above near-term obligations. Major Q1 contract wins include Golden Dome programme, Standard Missile supply chain, and Anduril teaming deals.
+
+**Starlab highlight:** Commercial payload capacity on Starlab is reportedly 130% subscribed — demand already exceeds current design capacity. 1789 Capital made a strategic investment into Starlab in 2026. The station is being developed with Airbus (structures), Mitsubishi (power systems), and MDA Space (robotic arm), targeting launch ~2028-2030.
+
+**Bull thesis:** Both macro tailwinds are structural and multi-year: defence spending rising across NATO with renewed focus on missile defence, space control, and autonomous systems (Golden Dome is a potential multi-billion-dollar programme); commercial space infrastructure entering a buildout cycle as post-ISS station capacity is needed. Starlab, if it reaches orbit, could be among the defining commercial space infrastructure assets of the 2030s.
+
+**Key catalysts ahead:** Starlab funding and design-review milestones; Golden Dome programme contract awards; further Anduril and prime-contractor teaming agreements; Q2 2026 earnings validating the revenue ramp embedded in raised guidance.
+
+**Main risks:** Revenue is highly lumpy and government-contract-dependent — Q1 2026 illustrated that one quarter's timing slippage turns a growth story into a YoY revenue decline. Starlab remains capital-intensive and years from generating revenue; any ISS-lifespan extension would delay the business case. Loss-making at current scale with widening losses; equity raise risk over time. Small-cap with limited analyst coverage.
+
+**Competitive position:** In space infrastructure, competes/partners with Sierra Space, Axiom Space, Blue Origin's Orbital Reef, and Northrop/Lockheed on specific NASA programmes. In defence, competes with traditional primes plus newer entrants (Anduril, Palantir) in the technology-forward segment.
+
+**Rough valuation sense-check:** At ~$37.50/share (dashboard), market cap roughly $1.5-2bn against FY2026 guided revenue $230-255m — P/S ~7x, elevated for a loss-making government contractor, but reflecting Starlab optionality.
+
+---
+
+## ONDS — Ondas Holdings
+
+**What it does:** Ondas Holdings has rapidly expanded through acquisitions into a multi-faceted drone and autonomous-systems business. Its two main operating divisions are: Ondas Networks (proprietary eLTE private wireless broadband for North American Class 1 railroads and critical infrastructure) and its drone/autonomy division spanning American Robotics (small autonomous inspection drones for agriculture, infrastructure, and energy), 4M Defense (drone-based C-UAS and security systems), and, most recently, DZYNE Technologies (UGVs, loitering munitions, ISR platforms). ONDS primarily targets US defence, security, and critical-infrastructure markets with an NDAA-compliant, US-manufactured value proposition.
+
+**Latest results & financial health:** Q1 2026 (reported May 2026): record revenue $50.1m — a ten-fold increase YoY — reflecting acquisition consolidation plus strong organic defence demand. FY2026 guidance initially raised to ≥$390m; subsequently raised again to ≥$525m following the DZYNE Technologies acquisition close. Pro forma backlog reached $457m at Q1 end (+570% from $68.3m at Q4 2025). Q2 2026 order intake >$150m across C-UAS, loitering munitions, ISR systems, UGVs, and robotic defence platforms.
+
+**Key contract wins:** C-UAS multi-million-dollar contracts in Europe for airport deployments. Middle East government orders amid escalating drone-threat environments. Autonomous-security deployments at the World Economic Forum (Davos) and the 2026 FIFA World Cup. Border-security programme wins with cumulative expected value >$80m. A Lockheed Martin teaming arrangement (specific details not yet public). Ondas Networks securing new railroad and energy-infrastructure wireless contracts.
+
+**Bull thesis:** Drone warfare and counter-drone (C-UAS) systems are the fastest-growing segment of global defence spending after Ukraine validated small-drone utility at industrial scale. NDAA compliance (US-manufactured, no Chinese components) differentiates Ondas from DJI and Chinese-origin alternatives being legislatively excluded from US government procurement. Revenue ramp from ~$5m (FY2024) → $50m (Q1 2026 alone) → $525m+ (FY2026 target) is extraordinary if execution holds.
+
+**Key catalysts ahead:** Q2 2026 revenue validating the $525m+ trajectory; Lockheed partnership details; additional C-UAS government framework awards in the US and Europe; FY2026 full-year results; DZYNE integration progress.
+
+**Main risks:** Ondas has a long history of shareholder dilution; shares traded between $1.36-$15 in the 52-week range (dashboard shows $9.27, well below recent peaks). Revenue multiples remain elevated even against the new $525m guidance, requiring near-perfect execution. Integration risk across multiple recently acquired businesses (DZYNE, American Robotics, Airobotics) is substantial. Profitability is still elusive and likely distant. Contract lumpiness could produce headline-miss quarters even if the annual trajectory holds.
+
+**Competitive position:** Competes with Shield AI, Dedrone, Skydio, AeroVironment (ISR drones), and international C-UAS specialists. NDAA compliance and US origin are meaningful moats in the US government market where Chinese-made drones face legislative and regulatory exclusion.
+
+**Rough valuation sense-check:** At ~$9.27/share (dashboard), market cap roughly $250-400m (diluted share count needs verification) — potentially <1x forward P/S on $525m guidance — nominally very cheap — but profitability is undefined and dilution history warrants ongoing monitoring.
+
+---
+
+## RGTI — Rigetti Computing
+
+**What it does:** Rigetti Computing builds superconducting gate-model quantum computers, selling compute access through its own Quantum Cloud Services (QCS) platform and via third-party cloud marketplaces (Amazon Braket, Microsoft Azure Quantum, Google Cloud, qBraid). Superconducting qubits run on microwave-frequency chips cooled near absolute zero, enabling fast gate speeds but historically lower fidelity than trapped-ion approaches. Rigetti's business model combines cloud-access subscriptions, development contracts, and hardware sales to national labs and government customers.
+
+**Latest results & financial health:** Q1 2026 (reported ~May 2026): revenue $4.4m — modest but growing. Operating loss -$26.0m. Cash and investments $569m with no debt — providing a multi-year runway at current burn. GAAP net income was +$33.1m (distorted by non-cash fair-value gains); non-GAAP net loss -$14.7m reflects the underlying operational picture. Full-year revenue TTM is ~$15-17m.
+
+**Technical progress:** The 108-qubit Cepheus-1 system (modular chiplet design: 12 × 9-qubit chiplets) is now generally available across Rigetti QCS, Amazon Braket, Azure Quantum, and qBraid. Performance: 99.1% median two-qubit gate fidelity, ~60 ns gate speed, 99.9% single-qubit fidelity. A roadmap toward 1,000+ qubit systems in the UK (in partnership with UK government and universities) is targeted for the next 3-4 years.
+
+**Government support & commercial wins:** Letter of intent from the US Department of Commerce for up to $100m in funding over three years (DOC receives equity in return) — a meaningful non-cash capital contribution if finalised. $8.4m purchase order to supply a 108-qubit system to India's C-DAC (Centre for Development of Advanced Computing) shows early international government market traction. Previously noted: inclusion in an HPE supercomputing consortium.
+
+**Bull thesis:** The largest publicly available cash cushion of any pure-play superconducting quantum firm ($569m, no debt) buys substantial runway. Rigetti's modular chiplet approach could allow faster path to higher qubit counts than monolithic designs. Government funding momentum (US DOC, UK, India) validates both technology credibility and Rigetti's strategic positioning. Multi-platform distribution (AWS, Azure, Google Cloud) maximises developer reach.
+
+**Key catalysts ahead:** DOC $100m LOI conversion to final contract; UK 1,000+ qubit system deployment; next qubit-count/fidelity milestone; Q2 2026 earnings; any enterprise or government revenue contracts showing commercial (non-grant) traction.
+
+**Main risks:** Negligible revenue ($4.4m quarterly) relative to market cap (~$3-5bn) — this is a pure narrative/moonshot. Quantum advantage over classical computers for commercially relevant problems remains unproven. IBM (hundreds of qubits, logical-qubit error-correction roadmap) and Google (Willow) operate far better-funded superconducting programmes. Perpetual dilution funds operations. Shares can halve rapidly on narrative shifts.
+
+**Competitive position:** Among superconducting players, IBM and Google are the giants. Among public pure-plays, Rigetti competes mainly with IonQ (trapped-ion, ahead on revenue) and D-Wave (annealing, different use cases). Rigetti's chiplet architecture is distinct from IBM's surface-code error-correction vision.
+
+**Rough valuation sense-check:** Revenue TTM ~$15-17m; market cap at ~$21/share (dashboard) roughly $3-4bn, implying P/S ~200-250x. Entirely speculative, valued on the narrative of future quantum utility rather than current fundamentals.
+
+---
+
+## SERV — Serve Robotics
+
+**What it does:** Serve Robotics operates Level 4 fully autonomous sidewalk delivery robots, deploying them under multi-year fleet-operating agreements with restaurant and food-delivery platforms. Primary partners are Uber Eats and DoorDash (together >80% of US food delivery market) plus White Castle as a restaurant partner. Serve does not sell robots — it operates the fleet and charges per delivery, with economics improving as hardware costs amortise over more cumulative deliveries. Nvidia is a long-term technical partner providing AI compute for the autonomy stack. The company completed four acquisitions in 2025 to fill technology gaps and expand capabilities.
+
+**Latest results & financial health:** FY2025 full-year revenue $2.7m; Q4 2025 alone was $0.9m (+400% YoY — from a very small base). Fleet at end-2025/early-2026: 2,000 robots deployed across 20 cities and 6 metro areas. FY2026 revenue guidance: ~$26m (roughly 10x growth from 2025), based on fleet scaling, multi-platform delivery integration, and new city launches. Cash and marketable securities $260m as of December 31, 2025, funded by IPO proceeds and subsequent equity raises — provides runway for several years at current burn.
+
+**Bull thesis:** If robots can operate with sufficient uptime at low cost-per-delivery, they undercut human couriers by 80%+. Unit economics at scale could be compelling: no tips, no traffic accidents, 24/7 capability. The Uber Eats and DoorDash partnerships give Serve access to huge existing order volumes without needing to build its own demand side — a critical advantage over trying to create a standalone delivery brand. Nvidia's AI partnership means the autonomy stack benefits directly from AI advancement without Serve paying full R&D cost.
+
+**Key catalysts ahead:** H1 2026 revenue print vs the $26m annual guidance; fleet utilisation rates; any expansion of White Castle or addition of major restaurant-chain partners; further city launches; any update on path to break-even delivery economics.
+
+**Main risks:** $2.7m FY2025 revenue — even with $26m FY2026 guidance — is tiny vs any plausible market cap. Robot delivery economics have been slower to prove than optimistic projections: hardware costs, maintenance, fleet-management overhead, and pavement/weather limitations all add cost. Sidewalk robot regulation varies by city and state, limiting expansion speed. Four acquisitions in 2025 add integration complexity to an already-pre-revenue core business. Cash burn on a $260m base with ongoing fleet investment could tighten runway faster than expected.
+
+**Competitive position:** Competes primarily with Starship Technologies (the pioneer, larger global fleet), Kiwibot, and Amazon Scouts (though Amazon has scaled back). Differentiates via the Nvidia AI partnership and the Uber Eats volume relationship.
+
+**Rough valuation sense-check:** At $8.40/share (dashboard), market cap ~$500-600m against $2.7m FY2025 revenue (P/S >200x) or $26m FY2026 guidance (P/S ~20x). The 2026 multiple is more palatable but requires delivery against a guidance that implies a 10x revenue jump in one year — ambitious.
+
+---
+
+## ERAS — Erasca
+
+**What it does:** Erasca is a clinical-stage precision oncology company with a singular focus: cancers driven by mutations in the RAS/MAPK signalling pathway. RAS mutations (particularly KRAS) are among the most common oncogenic drivers, found in roughly 25-30% of all human cancers (NSCLC, colorectal, and pancreatic cancer in particular) and historically considered "undruggable" until the first KRAS inhibitors (sotorasib, adagrasib) gained FDA approval in 2021-2022. Erasca's strategy is pathway-wide, multi-target inhibition — betting that single-node blockade invariably leads to resistance via upstream/downstream pathway reactivation, and that simultaneous suppression of multiple pathway nodes is needed for durable responses.
+
+**Pipeline:**
+- **ERAS-0015** (pan-RAS molecular glue, AURORAS-1 Phase 1): A mechanistically novel "molecular glue" that directly binds and inhibits RAS proteins at a site common to all RAS isoforms regardless of specific mutation — distinguishing it from mutation-specific inhibitors (sotorasib targets G12C only; adagrasib targets G12C). Positive preliminary Phase 1 monotherapy dose-escalation data announced in H1 2026: confirmed partial responses in multiple KRAS-mutant tumour types across dose levels, with a manageable safety and PK profile. Monotherapy expansion cohorts initiated Q2 2026 (US); combination dose-escalation cohorts (with a MEK inhibitor) initiated Q1 2026 (US), both ahead of prior guidance. Full Phase 1 monotherapy data expected H2 2026.
+- **ERAS-4001** (pan-KRAS inhibitor, BOREALIS-1 Phase 1): IND cleared May 2025; Phase 1 trial underway; Phase 1 data expected H2 2026.
+- **Naporafenib**: Pan-RAF inhibitor (licensed from Novartis); ongoing clinical evaluation within combination RAS/MAPK strategies.
+
+**Financial health:** Pre-revenue, clinical-stage. Projected cash runway >3 years from most recent capital raise (funded through at minimum H2 2028). No meaningful debt. The dashboard notes "PRICE UNVERIFIED" — the stock price is uncertain and liquidity may be limited; verify before trading.
+
+**Bull thesis:** KRAS-targeted therapy is one of the hottest sub-sectors in oncology investing: the first inhibitors proved the concept, but resistance develops rapidly (typically within 6-12 months on monotherapy). Pan-RAS or combination pathway approaches that deliver durable responses represent the next frontier. Erasca's molecular-glue mechanism (ERAS-0015) is fundamentally different from competitive-site KRAS inhibitors — it could have different efficacy and toxicity profiles. Early Phase 1 confirmed partial responses across multiple tumour types are encouraging, meaningful clinical signal in a pre-Phase-2 context.
+
+**Key catalysts ahead:** ERAS-0015 full Phase 1 monotherapy data (H2 2026) — the single most important binary event for the company in the next 12 months. ERAS-4001 Phase 1 data (also H2 2026). Combination cohort results showing synergistic pathway suppression. Any business development (licensing/partnership) deal with large pharma interested in RAS pathway combinations.
+
+**Main risks:** Classic binary biotech: both lead programmes are Phase 1. Even a positive Phase 1 result guarantees nothing about Phase 2/3 success. Competitive landscape is intensely contested — Mirati/BMS, Amgen, and most critically Revolution Medicines (RVMD, which has positive Phase 2 data for its RAS(ON) inhibitor, more advanced than Erasca's pipeline). Large pharma companies (Roche, AstraZeneca, J&J) have internal RAS pathway programmes with deep pockets. If Phase 1 data disappoint or show dose-limiting toxicity, the stock could fall 50%+. Investors should treat this as a binary lottery ticket and size accordingly.
+
+**Competitive position:** Most directly comparable to Revolution Medicines (RVMD) — the most advanced public company in pan-RAS inhibition, with Phase 2 data already showing strong signals in combination with SOS1 inhibition. Erasca's molecular-glue mechanism is mechanistically distinct from RVMD's competitive-binding approach and could have different clinical characteristics.
+
+**Rough valuation sense-check:** Price unverified per dashboard. Typical clinical-stage oncology companies with this pipeline maturity and 3+ year runway trade at $200-700m market cap, but the number should be confirmed from a primary source before drawing conclusions.
+
+---
+
+*This briefing is research and educational content only — not financial advice, and not a recommendation to buy, sell, or hold any security. Figures are approximate, sourced from web research, company press releases, and financial media as of around 9 July 2026; always verify against primary company filings before relying on them.*
+
+---
+
 # 2026-06-25 — Cycle 1 deep dive (12 stocks)
 
 This week's deep dive covers 12 stocks spread across all six watchlist genres: **AI & Compute** (NVDA, TSM), **Energy & Nuclear** (GEV, CCJ), **Clean & Batteries** (FSLR, ENPH), **Defence & Space** (KRMN, RDW), **Quantum** (IONQ, QBTS), and **Fintech & Other** (CRCL, KLAR).

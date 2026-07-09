@@ -4,7 +4,7 @@ Tracks which watchlist tickers have received a weekly deep-dive in the **current
 
 ## Current cycle: 1
 
-## Covered this cycle (12/34)
+## Covered this cycle (24/34)
 - NVDA
 - TSM
 - GEV
@@ -17,6 +17,18 @@ Tracks which watchlist tickers have received a weekly deep-dive in the **current
 - QBTS
 - CRCL
 - KLAR
+- AVGO
+- AMD
+- OKLO
+- LEU
+- FLNC
+- NXT
+- QS
+- VOYG
+- ONDS
+- RGTI
+- SERV
+- ERAS
 
-## Not yet covered this cycle (22)
-AVGO, AMD, VRT, ALAB, CRDO, NBIS, CRWV, CBRS, OKLO, LEU, FLNC, NXT, QS, AMPX, EOSE, VOYG, ONDS, BBAI, UMAC, RGTI, SERV, ERAS
+## Not yet covered this cycle (10)
+VRT, ALAB, CRDO, NBIS, CRWV, CBRS, AMPX, EOSE, BBAI, UMAC
