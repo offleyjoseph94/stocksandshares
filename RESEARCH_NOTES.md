@@ -1,3 +1,241 @@
+# 2026-07-16 — Cycle 1 complete (stocks 25–34) + Cycle 2 begins (COIN, CEG)
+
+This week's briefing closes out Cycle 1 by covering the final 10 uncovered stocks — **AI & Compute** (VRT, ALAB, CRDO, NBIS, CRWV, CBRS) and **Clean & Batteries** (AMPX, EOSE) and **Defence & Space** (BBAI, UMAC) — then opens Cycle 2 with two picks from under-covered genres: **Fintech** (COIN) and **Energy & Nuclear** (CEG). Research date: 16 July 2026. Figures are approximate and sourced from company press releases, SEC filings, and financial media; always verify against primary sources before relying on them.
+
+---
+
+## VRT — Vertiv Holdings
+
+**What it does:** Vertiv is the purest large-cap proxy for AI data-centre power and thermal infrastructure. Three segments: Critical Power (UPS systems, PDUs, switchgear — keeps the lights on during grid outages), Thermal Management (precision air cooling + fast-growing liquid cooling for GPU-dense racks), and Infrastructure & Data Centre Management (DCIM software, monitoring). Roughly 60% Americas/40% rest of world. Fabless-adjacent — sells hardware but increasingly bundles power, cooling and software into turnkey "stack" solutions per CEO Giordano Albertazzi's bundling strategy.
+
+**Latest results & financial health:** Q1 2026 (reported April 22): net sales $2,650M (+30% YoY; organic +23%), with Americas organic +44%. Adjusted operating profit $551M (+64%), adjusted OP margin 20.8% (+430bps). Order backlog $15.0B+; trailing-12-month organic order growth ~81%; Q4 book-to-bill was ~2.9x. Q2 2026 guided to $3.25-3.45B. FY2026 guidance raised: $13.5-14.0B revenue, EPS $6.30-6.40. Balance sheet healthy — investment-grade, expansion funded by operations.
+
+**Bull thesis:** AI GPU racks generate far more heat per rack unit than conventional servers, making liquid cooling (direct-to-chip coolant loops) unavoidable at scale. Vertiv's liquid cooling portfolio — including the ThermoKey acquisition — positions it at the transition point. The $15B+ backlog with ~81% TTM organic order growth gives unprecedented multi-year revenue visibility for what was historically a short-cycle industrial company. Bundled "stack" selling improves pricing power and stickiness.
+
+**Key catalysts:** Q2 2026 earnings July 29; backlog conversion execution (on-time delivery of liquid cooling systems at major hyperscaler campuses is the operational bottleneck); any new hyperscaler campus announcements disclosing Vertiv kit.
+
+**Main risks:** Market cap ~$128B at ~$333/share; forward PE ~48-52x — near a 5-year valuation high, well above industrial peer multiples (~40x). Backlog conversion at $15B scale is unprecedented; logistics or manufacturing constraints could delay revenue recognition. Hyperscaler capex cyclicality is the demand driver — any pullback would hit Vertiv first. Schneider Electric, Eaton (in the same watchlist), and specialised liquid-cooling start-ups all compete.
+
+**Competitive position:** Shares the critical-power/precision-cooling duopoly with Schneider Electric; dominant in the US data-centre market. In liquid cooling specifically, competition from CoolIT, Vertiv's own acquisitions and Schneider's Uniflair is real but Vertiv's scale and hyperscaler relationships are an advantage.
+
+**Rough valuation sense-check:** FY2026 EPS guide midpoint $6.35 at ~$333/share = ~52x forward PE. Requires sustained 20%+ annual EPS growth to justify. Appropriate for a "balanced" position rather than a leveraged bet.
+
+---
+
+## ALAB — Astera Labs
+
+**What it does:** Astera Labs designs high-speed semiconductor connectivity ICs — the silicon that links CPUs, GPUs, accelerators, and memory across PCIe, CXL, and Ethernet lanes inside AI server racks. Three product families: Aries (PCIe/CXL smart cable modules and retimers), Taurus (Ethernet retimers/redrivers for rack-level port connectivity), and Scorpio (full CXL/PCIe rack-scale switches — the highest-value and fastest-growing product). Fabless, manufactured at TSMC; joined the Nasdaq-100.
+
+**Latest results & financial health:** Q1 2026 (reported May 5): record revenue $308.4M (+93% YoY, +14% QoQ). GAAP gross margin 76.3% — exceptional. Non-GAAP operating margin 36.2%. Net income $80.3M; GAAP diluted EPS $0.44; non-GAAP EPS $0.61. Q2 2026 guidance: $355-365M revenue (+15-18% QoQ), non-GAAP EPS $0.68-0.70. No meaningful debt; cash-generative.
+
+**Bull thesis:** As AI rack density increases, bandwidth requirements for chip-to-chip and GPU-to-GPU connectivity grow exponentially — Astera's core market. Scorpio CXL switches enable memory pooling and accelerator interconnects across racks, increasingly critical as model sizes grow beyond single-node memory. PCIe 6.0 adoption in next-gen Nvidia/AMD server platforms is Astera's tailwind. The 76%+ gross margin signals genuine IP moat, not commodity connectivity.
+
+**Key catalysts:** Q2 2026 earnings August 4; 320-lane Scorpio X-Series volume ramp (H2 2026); PCIe 6.0 proliferation in Blackwell/Vera Rubin server builds; any new hyperscaler design-win disclosures.
+
+**Main risks:** Extreme customer concentration — a handful of hyperscalers drive nearly all revenue; single-customer order timing can swing quarterly results materially. Stock down from $420 to ~$346. At ~$360M quarterly revenue run rate, forward P/S remains very elevated. Marvell, Amphenol, and Broadcom (internal designs) compete.
+
+**Competitive position:** Aries PCIe/CXL modules have become an embedded part of major AI server rack designs; Scorpio is the fastest-growing product. No single obvious direct competitor in the Scorpio switch category at production scale.
+
+**Rough valuation sense-check:** Market cap ~$64B at $346; annualised Q1 revenue ~$1.23B → P/S ~52x. Rich, justified only by the margin profile (76% gross, 36% op non-GAAP) and sustained 90%+ growth rate. Demanding; size accordingly.
+
+---
+
+## CRDO — Credo Technology
+
+**What it does:** Credo Technology designs active electrical cables (AECs) and optical/DSP connectivity solutions for hyperscaler AI cluster switch fabrics. AECs are the key product — active signal-conditioning chips embedded in copper cables that extend reach and reliability inside racks, replacing passive copper (limited range) or optical (more expensive at short distances). Credo is expanding into longer-reach optical components (DSPs, optical modules) targeting inter-rack and inter-building connectivity. Also sells standalone serialiser-deserialiser (SerDes) ICs. Fabless, TSMC-manufactured. High-quality: gross margins in the high 60s%, non-GAAP net income $662M in FY2026.
+
+**Latest results & financial health:** FY2026 (fiscal year ended May 2, 2026): annual revenue $1.3B — tripled year-over-year. Non-GAAP net income $662M (up ~5x). Q4 FY2026 revenue $437M (+157% YoY), GAAP gross margin 68.2%. FY2027 guidance: >80% YoY revenue growth; optical portfolio alone targeted >$600M. Q1 FY2027 guidance: $465-475M (beat $460M consensus). 18 analyst Buy ratings, 0 Sells.
+
+**Bull thesis:** Credo has near-monopoly position in AECs at several major hyperscalers and is deeply embedded in AI cluster ethernet fabric designs. AEC adoption continues to grow as AI switch-to-server and GPU-to-GPU topologies densify. The optical expansion ($600M+ target) addresses an adjacency that could significantly expand Credo's addressable revenue per AI cluster. Non-GAAP profitability is established, unusual among AI chip peers of this maturity.
+
+**Key catalysts:** Q1 FY2027 earnings (~August-September 2026); optical product volume ramp milestones; any new hyperscaler AEC design-win disclosures; potential CXL product expansion.
+
+**Main risks:** Revenue highly concentrated — top 10 customers ~90% of FY2026 revenue; 3 hyperscalers each >10% individually. Any design change at one customer could materially hit estimates. Down from $308 to ~$259 (dashboard). Broadcom, Marvell, and Nvidia InfiniBand compete in connectivity; hyperscaler insourcing of connectivity silicon is a tail risk.
+
+**Competitive position:** AEC market leader at the hyperscaler tier; optical expansion puts it in competition with Coherent, Lumentum, II-VI/Coherent, and Broadcom in transceiver-adjacent products — those are larger, more established players.
+
+**Rough valuation sense-check:** Market cap ~$22B at $259; FY2026 revenue $1.3B → P/S ~17x; non-GAAP net income $662M → P/E ~33x. Most attractively valued on a P/E basis among the AI connectivity group; requires >80% FY2027 growth to be maintained.
+
+---
+
+## NBIS — Nebius Group
+
+**What it does:** Nebius Group is a European-origin "neocloud" — a GPU-cloud-as-a-service provider built from the remnants of Russian internet giant Yandex, redomiciled in Amsterdam after divesting all Russian assets in 2022-23. It rents GPU compute capacity (Nvidia A100/H100/H200/Vera Rubin) to AI companies, researchers, and enterprises, primarily in Europe and expanding to the US. Nvidia holds a significant equity stake and has provided priority allocation of its latest GPU generations — a structural competitive advantage. Revenue is ~98% AI cloud (GPU rental + software); the rest is smaller SaaS businesses (Toloka, TripleTen, Avride self-driving) being spun down or sold.
+
+**Latest results & financial health:** Q1 2026: revenue $399M; 98% ($389.7M) AI cloud, +841% YoY. Adjusted EBITDA $129.5M — a swing from -$53.7M in Q1 2025, implying ~33% EBITDA margin. FY2026 guidance: $3.0-3.4B revenue, ~40% EBITDA margin. CapEx raised dramatically to $20-25B for 2026.
+
+**Meta contract (transformational):** Two separate agreements totalling up to $27B: (1) a $12B dedicated capacity deal — one of the first large-scale deployments of Nvidia's Vera Rubin platform; (2) up to $15B in additional compute capacity across upcoming Nebius clusters over five years. Also secured 1.2 GW of power and land in Pennsylvania for a new owned AI factory.
+
+**The July 1 shock:** Bloomberg reported Meta was planning to launch a public cloud service, selling its own excess AI compute externally. Nebius fell 17% intraday (~$12B market cap lost in a single session), ultimately down ~29-30% from its June 18 peak. The $27B commitment technically stands and FY2026 guidance is unchanged, but the overhang remains: if Meta enters cloud, Nebius's anchor buyer becomes a competitor. Shares remain +155% YTD as of early July despite the correction.
+
+**Bull thesis:** The $27B Meta contract transforms Nebius's revenue profile — FY2026 $3.0-3.4B guidance is underpinned by capacity already under contract. Nvidia's stake signals strategic alignment and priority GPU access. European AI data sovereignty is a structural tailwind for a European-domiciled provider. At 40% EBITDA margins, the unit economics are superior to most infrastructure peers. The Vera Rubin first-mover position (Meta $12B is the first large-scale deployment) is a reference-customer moat.
+
+**Key catalysts:** Q2 2026 revenue print; Pennsylvania AI factory groundbreaking/capacity timeline; Vera Rubin cluster deployment milestones tied to the Meta $12B; any additional hyperscaler or enterprise customer announcements beyond Meta.
+
+**Main risks:** Single-customer concentration — Meta dominates the pipeline. If Meta builds its own cloud (the Bloomberg scenario), the $15B additional capacity tranche is the most vulnerable. CapEx $20-25B is funded by a mix of debt and equity — significant balance-sheet leverage risk at that scale. Stock down from $300 to ~$229 with lock-up expiry risk from early investors.
+
+**Competitive position:** Differentiates from AWS/Azure/GCP via GPU-cluster specialisation (not a general cloud), European origin (regulatory preference), and Nvidia partnership. Competes with CoreWeave, Lambda Labs, and similar neoclouds.
+
+**Rough valuation sense-check:** Market cap ~$15-18B at $229; FY2026 guided revenue $3.0-3.4B → P/S ~5x; 40% EBITDA guidance → EBITDA ~$1.2-1.4B → EV/EBITDA ~10-12x. The cheapest neocloud in the group on these metrics — the Meta-risk discount is already partially reflected.
+
+---
+
+## CRWV — CoreWeave
+
+**What it does:** CoreWeave is the largest pure-play GPU cloud company — the "Amazon AWS for AI". It borrows capital, deploys it to buy Nvidia GPUs at scale, racks them in purpose-built AI data centres, and rents the capacity under multi-year contracts primarily to AI model companies, enterprises, and government. IPO'd in March 2026 at $40/share (largest US tech IPO since Arm); joined the Nasdaq-100. CEO Mike Intrator has positioned CoreWeave as an "AI factory" alternative to general-purpose hyperscaler cloud.
+
+**Latest results & financial health:** Q1 2026 (reported May 12): revenue $2.08B (+112% YoY), beating guided $1.9-2.0B. Net loss -$740M (-$1.40/share, wider than -$1.20 consensus). FY2026 guidance: $12-13B revenue. Revenue backlog: $99.4B — approaching $100B. Active power capacity: 1 GW; target 8+ GW by 2030. Debt: $21B+ at ~11% average interest rate, consuming ~25% of revenue in interest expense. CapEx: $2.60 per $1 of new revenue. Additional financing: $8.5B delayed-draw term loan (March 2026); $3.1B HPC infrastructure loan (May 2026).
+
+**Bull thesis:** A $99B backlog against $12-13B FY2026 guided revenue implies ~8 years of revenue coverage — extraordinary visibility. The GPU cloud market is structurally real: foundation model training and inference require scalable, specialised compute that hyperscaler queues often can't accommodate with the speed or GPU-model specificity that AI companies need. Purpose-built AI cluster architecture delivers performance advantages for heavy GPU workloads vs general cloud.
+
+**Key catalysts:** Q2 2026 earnings; Nvidia Blackwell/Vera Rubin cluster commissioning milestones; new enterprise customer announcements; any debt refinancing at lower rates (each 100bps improvement saves ~$210M/year in interest); Meta contract durability confirmation.
+
+**Main risks:** The debt pile is the existential risk — $21B+ at 11% average rates against GPUs that depreciate rapidly (2-3 year effective life). OpenAI alone represents >$20B of the backlog, but OpenAI itself is pre-profitability and burning $115B before its own break-even. Meta self-build risk triggered a 14% single-day drop July 2. Stock down -48% from $166 peak to ~$86. No path to GAAP profitability for multiple years; refinancing risk is real if the capital markets turn.
+
+**Competitive position:** Competes with AWS, Azure, GCP (general cloud — CoreWeave argues it wins on GPU specialisation and speed), and other neoclouds (Nebius, Lambda Labs, Coreweave). Has a scale advantage vs other pure-play GPU clouds.
+
+**Rough valuation sense-check:** Market cap ~$18B at $86. FY2026 guided midpoint $12.5B → P/S ~1.4x. Superficially cheap, but adding $21B+ net debt gives enterprise value ~$39B vs $12.5B revenue = EV/S ~3.1x — more realistic. On FCF basis, deeply negative for years. A levered bet on AI infrastructure demand remaining insatiable.
+
+---
+
+## CBRS — Cerebras Systems
+
+**What it does:** Cerebras builds the world's largest silicon chips — "Wafer Scale Engines" (WSE) where the entire wafer functions as a single processor rather than being diced into separate chips. The CS-3 (current generation, TSMC N5P): 4 trillion transistors, 900,000 AI cores, 44 GB of on-chip SRAM. The key claim: for AI inference on models up to ~70B parameters, all weights fit on-chip — eliminating the HBM memory bandwidth bottleneck that makes multi-GPU systems slower and more energy-intensive for certain workloads. Revenue comes from CS-3 hardware sales (~$2-4M per system) and cloud inference via Cerebras Cloud. IPO'd late 2024 after a prior attempt was blocked on national-security grounds (UAE investor G42).
+
+**Latest results & financial health:** Q1 2026 (reported June 23): GAAP revenue $193.4M (+92% YoY from $99.5M). Net loss narrowed to $14M from $23.9M. FY2026 core revenue guidance: $855-865M (up 69% YoY at midpoint). Post-quarter: raised $6.4B in a follow-on financing round (described as the largest semiconductor capital raise). Manufacturing: CS-3 production scaled 7x via Flex Electronics partnership.
+
+**Transformational contracts in 2026:** (1) OpenAI 750 MW capacity deal valued at >$20B — validation at the highest level; (2) Amazon AWS partnership to bring Cerebras inference to AWS marketplace — broadens distribution dramatically.
+
+**Bull thesis:** AI inference is distinct from training: it runs continuously, prioritises low latency, and for many production models (sub-70B parameters) doesn't need Nvidia's full H100/H200 power. Cerebras's WSE delivers substantially faster inference on these workloads — the OpenAI deal is a strong commercial signal that this advantage is real. The Amazon partnership gives distribution reach that Cerebras couldn't build alone. Manufacturing scaling via Flex Electronics de-risks the production capacity concern.
+
+**Key catalysts:** CS-3 Flex volume ramp milestones; OpenAI inference deployment progress; AWS marketplace launch and customer adoption data; Q2 2026 earnings; any CS-4 roadmap announcement.
+
+**Main risks:** Stock fell 44% from $386 peak to ~$215 on earnings disappointment (costs too high, EPS missed). Customer concentration: G42 dominated early revenue; now OpenAI is the critical dependency. CUDA ecosystem lock-in: Nvidia's software moat means most AI developers default to GPU infrastructure. WSE is harder to programme than standard GPU stacks. The $6.4B raise is dilutive. Valuation remains elevated if OpenAI contract ramp is slower than projected.
+
+**Competitive position:** No direct competitor makes wafer-scale AI chips. AMD MI-series and Nvidia's own inference products compete for the same workload category. Google TPU v5 also targets large-scale inference. Cerebras's differentiation is strongest for low-latency, interactive inference at mid-sized model scales.
+
+**Rough valuation sense-check:** Market cap ~$16-17B at $215; FY2026 guidance midpoint ~$860M → P/S ~19-20x. More attractively valued than ALAB (~52x P/S) but requires sustained 60-70%+ revenue growth.
+
+---
+
+## AMPX — Amprius Technologies
+
+**What it does:** Amprius develops and manufactures silicon-anode lithium-ion batteries — replacing conventional graphite anodes with 100% nanostructured silicon, enabling energy density of 500+ Wh/kg (vs ~250-300 Wh/kg for standard Li-ion). The target is not EVs (too expensive at current scale) but high-performance aerospace, defence, and advanced aviation applications where energy density is mission-critical: military drones, ISR platforms, satellite payloads, high-altitude pseudo-satellites, and autonomous aerial vehicles. Manufactured in Brighton, Colorado (fully NDAA-compliant, US-made). Expanding production capacity internationally.
+
+**Latest results & financial health:** Q1 2026 (reported May 6): revenue $28.5M — 2.5x YoY increase from $11.3M. Net loss $5.0M (vs -$9.4M prior year — significant improvement). FY2026 guidance raised: ≥$130M revenue, net loss <$8.0M, non-GAAP EBITDA ≥$4.0M positive. If delivered, FY2026 would be Amprius's first year of positive EBITDA — a meaningful inflection. Q2 earnings August 6, 2026.
+
+**Bull thesis:** Silicon-anode batteries are the enabling technology for next-generation defence drones and space applications — weight and energy are critical constraints. The US Pentagon's $13.4B FY2026 autonomous-systems budget creates structural demand for exactly the battery performance Amprius provides. Path to positive EBITDA in FY2026 validates the business model. Clear Street initiated at Buy/$33 PT; Northland at $24 PT (dashboard price $11.68 = material analyst upside embedded).
+
+**Key catalysts:** Q2 2026 earnings (August 6); Pentagon/DoD awards specifically for high-density battery systems; expansion of US production capacity; commercial drone or eVTOL partnerships.
+
+**Main risks:** Down from $24 to $11.68 — stock punished on pacing concerns. Revenue still small ($130M annualised) and multiple elevated relative to the early commercial stage. Silicon-anode manufacturing scaling is technically challenging — yield issues at volume are common. Defence contracts are lumpy by nature; individual programme wins/losses can swing quarterly revenue. Competition at scale from CATL, Samsung SDI, and Panasonic (all exploring silicon-anode) could compress the premium once manufacturing scales.
+
+**Competitive position:** At silicon-anode specifically for aerospace/defence, Amprius has few direct US-based competitors at commercial scale. Sila Nanotechnologies (backed by Panasonic) and Group14 Technologies compete in silicon-anode materials but are less focused on defence-tier batteries.
+
+**Rough valuation sense-check:** Market cap ~$425M at $11.68; FY2026 guidance ≥$130M → P/S ~3.3x. Relatively modest for a high-growth, positive-EBITDA-path defence tech company — suggests the market is sceptical of delivery. The $33 Clear Street PT implies a ~3x return if realised.
+
+---
+
+## EOSE — Eos Energy Enterprises
+
+**What it does:** Eos Energy manufactures zinc-based long-duration energy storage (LDES) systems — containerised "cubes" using aqueous zinc chemistry rather than lithium-ion. The key differentiation: zinc chemistry has no thermal runaway risk, uses abundant and geopolitically accessible materials (no cobalt, limited lithium dependency), and is structurally cheaper than lithium-ion for discharge durations of 4-12 hours. The Z3 battery module is assembled into cubes at Eos's Pennsylvania facility (US-made). Target customers are electric utilities, grid operators, and large industrial sites needing firm, dispatchable power beyond what solar alone can provide.
+
+**Latest results & financial health:** Q1 2026 (reported May 13): revenue $57M (+445% YoY), driven by full battery module automation and 5.7x higher cube deliveries vs Q1 2025. Gross loss -$44.4M — still negative, but 157 percentage points better than prior year (the improvement trajectory is the story). Q2 2026 preliminary (released July 14): $68-69M revenue — a new quarterly record, driven by 3x increase in shipments. Backlog ~$807M (+25% QoQ). H1 2026 revenue alone exceeded all of FY2025. FY2026 guidance reaffirmed: $300-400M. Also announced Frontier Power USA venture to bring zinc LDES to the US wholesale electricity market.
+
+**Bull thesis:** If Eos can scale cube production while improving gross margins toward breakeven, zinc LDES becomes the lowest system-level cost storage for 4-12 hour durations — a market that grows as solar and wind penetration increases grid-firming demand. The $807M backlog (vs ~$125M H1 2026 revenue) provides multi-year visibility. AI data-centre power demand is driving utilities to procure more grid-firming storage, directly benefiting Eos's order pipeline.
+
+**Key catalysts:** Q2 full earnings release (August); gross-margin trajectory — achieving positive gross margin is the single most critical milestone (each percentage point of improvement is financially transformational at this revenue scale); any large utility award conversions from the backlog; H2 2026 production ramp milestones.
+
+**Main risks:** Gross margin remains deeply negative — each unit sold increases the gross loss, and until manufacturing automation brings costs down sufficiently, growing revenue paradoxically worsens the near-term cash position. The $75M Hudson Bay Capital raise was highly dilutive. Stock range of $4-$20 in the past year reflects binary-outcome investor sentiment. FY2026 guidance requires very strong H2 acceleration (H1 ~$125M → FY $300-400M implies H2 >$175-275M). Cash burn could tighten runway if ramp misses.
+
+**Competitive position:** Competes primarily with Tesla Megapack (lithium), BYD, CATL/Sungrow, and Fluence (FLNC, also in the watchlist) in the grid-scale storage market. Zinc LDES is differentiated by chemistry but faces execution risk at scale; Flow batteries (Invinity, ESS, Vanadium) occupy similar duration targets.
+
+**Rough valuation sense-check:** Market cap ~$500-700M at $4.51; FY2026 guided midpoint $350M → P/S ~1.5-2x. Very cheap on a sales multiple — but appropriately discounted for persistent gross losses. The moonshot scenario: gross margin turns positive at scale, at which point a 1-2x P/S re-rates dramatically.
+
+---
+
+## BBAI — BigBear.ai
+
+**What it does:** BigBear.ai provides AI and machine learning analytics platforms exclusively for defence, intelligence, and national-security customers. Core capability: ingesting and fusing multi-source data (signals intelligence, imagery, sensor feeds, logistics databases) and applying ML models to produce operationally actionable insights — threat detection, supply-chain optimisation, trade-and-travel risk scoring. Named public customers: US Army (Project Convergence), DHS/CBP (trade and travel analytics), and a $53M classified intelligence community contract. New CEO Kevin McAleenan (former DHS Secretary under Trump 1.0) brings a government network that accelerates BD cycles. Went public via SPAC in late 2021; has restructured leadership multiple times.
+
+**Latest results & financial health:** Q1 2026 (reported May 5): revenue $34.4M (beat $33.6M consensus). EPS loss -$0.12 (vs -$0.25 a year ago — 52% improvement). ~$75M in new contract wins in Q1, including $60M+ in national-security contracts. Total backlog $281.9M (+14% QoQ). FY2026 revenue guidance $135-165M affirmed. Q2 2026 earnings August 11.
+
+**Bull thesis:** Defence AI analytics is a genuine, growing procurement category: the US military and intelligence community are deploying AI to accelerate decision cycles, and classified contract relationships are deeply sticky (integration into classified workflows creates enormous switching costs). McAleenan's network at DHS/DOD is a direct channel to future programmes. Backlog +14% QoQ suggests the pipeline is strengthening, not stalling. FY2026 midpoint guidance of $150M implies ~17% revenue growth from 2025.
+
+**Key catalysts:** Q2 earnings August 11; classified contract award disclosures (limited by nature but confirming pipeline); border-security and trade-analytics contract expansions; any new DoD platform wins; potential Golden Dome or autonomous systems-adjacent programme wins.
+
+**Main risks:** Persistent losses — $0.12/share is improving but still meaningful at this revenue scale. Revenue guidance requires H2 acceleration that relies on contract delivery timing. Company history includes management turnover and execution on original SPAC narrative has been uneven. Stock at $3.27 is near multi-year lows — market confidence is low. Dilution risk from equity raises. Competition from Palantir (far larger, broader platform with deep DoD entrenchment), Booz Allen Hamilton, SAIC, and newer AI defence entrants (Scale AI, Anduril).
+
+**Competitive position:** Competes primarily in the DoD/IC data-fusion and analytics tier. Palantir is the dominant player; BigBear.ai's niche is mid-size programme awards and classified IC work where Palantir's scale may be excessive for the mission.
+
+**Rough valuation sense-check:** Market cap ~$450-600M at $3.27; FY2026 guided midpoint $150M → P/S ~3-4x. Not expensive if guidance is met — but the company needs to demonstrate consistent revenue growth and a credible profitability timeline to re-rate.
+
+---
+
+## UMAC — Unusual Machines
+
+**What it does:** Unusual Machines supplies fully NDAA-compliant drone components — motors, electronic speed controllers (ESCs), flight controllers, and FPV cameras — designed to meet US law requirements banning Chinese-origin drone parts from federal procurement. This compliance credential is the core moat: the 2024 NDAA and 2023 American Security Drone Act exclude drones and components from DJI, Autel Robotics, and other Chinese-linked vendors from US government procurement. With Chinese drones locked out, US-made component suppliers capture a protected market. Eric Trump serves on the board.
+
+**Latest results & financial health:** Q1 2026: revenue +296% YoY to $8.1M (from a small base). Reported "net income" of $10.3M — but the GAAP operating loss was -$7.3M; the apparent profit was almost entirely from non-cash investment gains. Gross margin ~33-45% (reported sources differ slightly). Cash: $220M+, $60M short-term investments, no debt — extremely well-capitalised relative to operations, providing a long runway for scaling. FY2026 annualised run rate ~$32M.
+
+**PBAS & Pentagon:** Unusual Machines is a component supplier to all three initial winners of the Phantom Bunker Autonomous System (PBAS) contract — first tranche ~$35M. The Pentagon's FY2026 autonomous-systems budget is $9.4B. News of Pentagon consideration of a direct equity/debt investment in Unusual Machines (analogous to CHIPS Act direct support) sent the stock up 57% on June 30.
+
+**Bull thesis:** NDAA compliance is an effective legislative moat for US government drone procurement — no waiver, no substitution. As US military drone budgets grow (from $9.4B currently toward a projected $13.4B+), every NDAA-compliant drone OEM needs NDAA-compliant components, and Unusual Machines is an early mover. Political tailwinds (Trump administration's pro-domestic-drone policy, Eric Trump board seat) may accelerate Pentagon procurement programmes.
+
+**Key catalysts:** Pentagon direct investment/funding decision (most impactful potential catalyst); Q2 2026 earnings; named PBAS tranche awards and other OEM contract disclosures; fleet ramp by PBAS-winning drone manufacturers.
+
+**Main risks:** Revenue is still small ($8.1M quarterly) at a market cap that already prices in significant growth. The $10.3M "net income" headline is misleading — GAAP operating loss of -$7.3M is the operational reality. Pentagon funding decisions are slow and may not materialise. Stock jumped 57% on June 30 news and has pulled back; illiquid with a wide bid-ask spread. Competition from Shield AI, Skydio, and established defence contractors entering NDAA components.
+
+**Competitive position:** No single direct NDAA-compliant drone-component competitor of comparable scale — Skydio focuses on full-system drones; Unusual Machines is the component tier. This is an early market with fragmented competition.
+
+**Rough valuation sense-check:** Market cap ~$650M at $22.30; $32M annualised revenue → P/S ~20x. Priced on optionality — justified only if the PBAS programme or Pentagon funding deal scales revenue 5x+ from current. A moonshot / short-horizon speculative position.
+
+---
+
+## COIN — Coinbase Global
+
+**What it does:** Coinbase is the largest regulated US cryptocurrency exchange. Revenue streams: transaction fees from retail trading (Coinbase app), institutional trading (Coinbase Advanced and Prime), staking and validator services, custody (including for Bitcoin/Ethereum ETFs), USDC interest-sharing with Circle (its stablecoin co-issuer), Coinbase One subscriptions, and blockchain rewards. It is the primary custodian for a majority of US-listed spot Bitcoin and Ethereum ETFs — a role that grows regardless of Coinbase's own trading volumes.
+
+**Latest results & financial health:** Q1 2026 (reported May 7): revenue $1.41B (-31% YoY from $2.03B), missing the $1.52B consensus — crypto market volumes fell ~37% spot and ~28% overall QoQ. Net loss -$394M; GAAP EPS -$1.49 (vs consensus +$0.27 — a significant negative surprise). Adjusted EBITDA +$303M (profitable on an operating basis). Cash and available resources >$12B — very strong liquidity. Q2 2026 guidance: $1.6B revenue recovery; subscription and services guided $565-645M.
+
+**GENIUS Act & regulatory clarity:** The GENIUS Act (stablecoin legislation) has taken effect, providing the first federal framework for payment stablecoins. Coinbase is proposing that non-issuers (including itself) be permitted to offer yield/interest on USDC balances — a potentially high-margin new revenue stream. Spot Bitcoin and Ethereum ETFs have accumulated $31B+ in net inflows, establishing Coinbase's institutional custody role as a durable, growing income line regardless of retail trading activity.
+
+**Bull thesis:** Regulatory clarity is Coinbase's largest structural tailwind — with the GENIUS Act and market structure legislation, Coinbase's compliance-first posture transitions from expensive burden to competitive moat. Institutional custody mandates (ETFs, corporate treasuries, sovereign wealth funds beginning to enter crypto) are a multi-year, fee-generating revenue driver that is less volatile than trading. USDC yield-sharing is an emerging high-margin line. Q2 2026 guidance of $1.6B implies a meaningful recovery from the Q1 trough.
+
+**Key catalysts:** Q2 2026 earnings July 30; GENIUS Act implementation rules on stablecoin yield (could directly unlock USDC yield revenue for Coinbase); any acceleration in Bitcoin ETF inflows; crypto market volume recovery; potential Bitcoin spot ETF options market development.
+
+**Main risks:** Revenue is highly correlated with crypto market sentiment — Q1 2026 illustrated that a quiet market produces a large revenue miss and a GAAP loss. Fee compression from Robinhood Crypto, Kraken, and international exchanges is ongoing. The Q1 -$394M GAAP loss includes significant mark-to-market on Coinbase's own crypto holdings — which swings GAAP results independently of the operating business. A prolonged crypto bear market would be painful despite the institutional revenue layer.
+
+**Competitive position:** Dominant in US regulated crypto exchange by brand and regulatory standing. Internationally, Binance still has more volume. Robinhood and Fidelity are growing competitors in retail crypto trading. In ETF custody, Coinbase has near-monopoly for Bitcoin ETF custodianship.
+
+**Rough valuation sense-check:** Market cap ~$38-40B at $159.80; FY2025 (peak) revenue ~$6-7B → P/S ~6-7x on peak revenue. Revenue is highly cyclical — 50%+ swings between bull and bear quarters are normal. The institutional custody/subscription layer provides a more stable earnings floor than the headline revenue suggests.
+
+---
+
+## CEG — Constellation Energy
+
+**What it does:** Constellation Energy is the US's largest nuclear power generator, owning, operating, and licensing ~22 GW of nuclear capacity across 21 operating reactors at 13 sites. On January 7, 2026, it completed the acquisition of Calpine Corporation (largest US natural gas power producer, ~23 GW across 72 assets) from Energy Capital Partners, creating the nation's largest overall electricity generator with ~55 GW total capacity and ~10% of US clean energy supply. Merger terms: 50M new CEG shares + $4.5B cash + assumption of ~$12.7B Calpine debt.
+
+**Latest results & financial health:** Q1 2026 (first consolidated quarter including Calpine): revenue $11.12B — significantly beating the $8.71B consensus (Calpine consolidation accounts for much of the beat). GAAP EPS $4.49; adjusted operating EPS $2.74 (the better operational metric). Nuclear fleet: 40M MWh produced, 92.3% capacity factor — outstanding operational performance. FY2026 adjusted operating EPS guidance $11-12/share (reaffirmed), with a 20% annual EPS growth target through 2029. Share buyback raised to $5B. Q2 earnings July 22, 2026.
+
+**Hyperscaler power thesis:** Constellation has long-term PPAs with Microsoft (20-year deal for the Three Mile Island restart — now Crane Clean Energy Center), Amazon, and Meta for 24/7 carbon-free nuclear baseload to power AI data centres. The four major hyperscalers are projected to spend $710B on data-centre infrastructure in 2026, and their stated commitment to carbon-free power makes Constellation's always-on nuclear base uniquely valuable — solar and wind can't provide firm, 24/7 power; nuclear can.
+
+**Bull thesis:** Nuclear power is experiencing a structural renaissance: bipartisan support, zero-carbon credentials, fuel security (domestic US uranium vs imported gas), and AI-driven electricity demand. Constellation's fleet of 21 reactors is operational today — no new plant permitting required, just licence extensions. The hyperscaler PPA revenue stream is long-term (20 years), fixed-price, and growing. 20% annual EPS growth guidance through 2029 is one of the most ambitious in the utility sector.
+
+**Key catalysts:** Q2 earnings July 22; TMI/Crane Clean Energy Center restart operational milestones; additional hyperscaler PPA announcements; Calpine integration synergy disclosures; nuclear production tax credit (IRA PTC) continuity under evolving US energy policy.
+
+**Main risks:** Calpine acquisition added ~$12.7B of assumed debt plus $4.5B cash outlay — significant leverage at a 30% higher cost-per-kW than rival Vistra's comparable gas portfolio. Revenue and earnings now include substantial natural gas exposure (Calpine was entirely gas), diluting the pure nuclear/clean narrative. Stock is down ~35% from H1 2026 highs to ~$251. If hyperscalers build or buy their own power assets, PPA demand could soften. Nuclear PTC (IRA provision) is subject to legislative risk. Any extended unplanned outage at a major reactor could significantly impact earnings given fleet concentration.
+
+**Competitive position:** No direct peer for the combination of scale (21 nuclear reactors), hyperscaler relationships, and a now-complementary gas fleet (Calpine). Vistra (VST, also in the watchlist) is the nearest comparable — profitable nuclear-plus-gas power producer, but without the hyperscaler PPA depth or TMI/Crane narrative.
+
+**Rough valuation sense-check:** Market cap ~$76B at $251; FY2026 adjusted operating EPS guidance midpoint $11.50 → forward PE ~22x. For a utility with 20% annual EPS growth guidance, this is a premium multiple by sector standards — but arguably justified by the unique nuclear-plus-hyperscaler PPA growth story. Down from highs suggests some of the premium has already unwound; the risk is in EPS delivery and policy continuity.
+
+---
+
+*This briefing is research and educational content only — not financial advice, and not a recommendation to buy, sell, or hold any security. Figures are approximate, sourced from company press releases, SEC filings, and financial media as of 16 July 2026. Always verify against primary company filings before relying on them.*
+
+---
+
 # 2026-07-09 — Cycle 1 deep dive (stocks 13–24)
 
 This week's deep dive covers the next 12 stocks across all six watchlist genres: **AI & Compute** (AVGO, AMD), **Energy & Nuclear** (OKLO, LEU, FLNC), **Clean & Batteries** (NXT, QS), **Defence & Space** (VOYG, ONDS), **Quantum** (RGTI), and **Fintech & Other** (SERV, ERAS).
