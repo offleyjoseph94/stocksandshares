@@ -1,5 +1,51 @@
 # Changelog
 
+## 2026-07-20 — Weekly Research Refresh
+
+### Summary
+Universe grew from 61 to 65 stocks (removed BBAI; added MRVL, BWXT, KTOS, RCAT, INFQ). All 65 prices refreshed to ~20 Jul 2026 levels. IPO pipeline expanded with Stripe and Discord. Key risknotes updated for FLNC (insider selling), BE (Hunterbrook short attack), VOYG (MS Underweight), PLTR (new ATH).
+
+### Added (5 new stocks)
+**AI & Compute:** MRVL (Marvell Technology — custom AI ASIC designer for Google/Amazon/Microsoft hyperscalers; electro-optics leader; direct AVGO competitor in co-packaged optics)
+
+**Energy & Nuclear:** BWXT (BWX Technologies — sole US supplier of naval nuclear reactor components; SMR parts for BWRX-300; medical radioisotopes; steady defence-industrial compounder)
+
+**Defence & Space:** KTOS (Kratos Defense — XQ-58A Valkyrie loyal-wingman drone, hypersonic target vehicles, multi-domain C2 systems; pure-play autonomous combat platforms), RCAT (Red Cat Holdings — NDAA-compliant Teal 2/Black Widow combat drones for US Army/SOCOM; primary beneficiary of DJI military ban)
+
+**Quantum:** INFQ (Infleqtion — neutral-atom quantum sensing and computing; Topspin gravimeter + Hilbert cloud processor; DARPA/DoE/AFRL contracts; freshly listed)
+
+### Removed
+- BBAI (BigBear.ai) — thesis deteriorating: drifted to $3.27, persistent losses, backlog growth decelerating; replaced by higher-quality defence AI names (PLTR, KTOS)
+
+### IPO Pipeline Updates
+- **Anthropic**: ARR updated to ~$47B (up from ~$30B prior estimate); S-1 timing unchanged, Oct 2026 Nasdaq target remains
+- **OpenAI**: Confidential S-1 filed 8 Jun 2026 but listing delayed to 2027 per CFO Sarah Friar; still at ~$852B valuation / ~$25B ARR
+- **Databricks**: ARR updated to $6.9B (up from $5.4B); CEO confirmed 2027 earliest; raising at higher private valuation
+- **Stripe** (NEW): ~$70B secondary market valuation; profitable, no urgency to list; 2027 candidate; $1T+ annual payment volume
+- **Discord** (NEW): ~$15B; confidential S-1 filed Jan 2026; 150M+ monthly users; 2026/2027 target
+
+### Key Price and Risknote Updates
+- VST: $143 → $158 (+10% Jul 2026 recovery on strong Texas power price data)
+- PLTR: $127 → $132 (new all-time high; risknote updated)
+- ERAS: $12 → $17.90 (Phase 1 RAS/MAPK data catalysts; still verify live)
+- RXRX: $8 → $2.94 (negative trial data pressure and sector rotation; still verify live)
+- BE: risknote updated — Hunterbrook Research short-seller report (Jul 2026) flagged aggressive revenue recognition, caused sharp intraday drop
+- FLNC: risknote updated — $479M in insider share sales flagged as major overhang
+- VOYG: risknote updated — Morgan Stanley initiated Underweight Jul 2026, citing limited post-Astrobotic revenue visibility
+- ANET: thesis updated with analyst upgrades in early Jul 2026
+
+### Dashboard Changes
+- Header date updated to "20 July 2026"
+- Chart genre tabs: added MRVL (AI & Compute), BWXT (Energy & Nuclear), KTOS (Defence & Space), INFQ (Quantum)
+- Ticker tape unchanged (existing 6 names represent all genres)
+
+### REVOLUT_WATCHLIST.md
+- Tier 2 (likely): added MRVL, BWXT, KTOS, RCAT; removed BBAI
+- Tier 3 (Trading 212): added INFQ
+- Pipeline: added Stripe, Discord
+
+---
+
 ## 2026-07-13 — Weekly Research Refresh
 
 ### Summary

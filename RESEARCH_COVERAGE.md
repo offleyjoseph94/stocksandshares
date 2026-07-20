@@ -2,22 +2,22 @@
 
 Tracks which watchlist tickers have received a weekly deep-dive in the **current** cycle. When all tickers in the universe have been covered, the cycle increments and the list resets.
 
-**Note:** The watchlist expanded from 34 to 61 stocks between the start of Cycle 1 and the start of Cycle 2. Cycle 2 covers the full 61-stock universe.
+**Note:** The watchlist expanded from 34 to 61 stocks at start of Cycle 2, then to 65 stocks (20 Jul 2026: +MRVL, +BWXT, +KTOS, +RCAT, +INFQ, -BBAI). Cycle 2 covers the full 65-stock universe.
 
 ---
 
 ## Current cycle: 2
 
-## Covered this cycle (2/61)
+## Covered this cycle (2/65)
 - COIN
 - CEG
 
-## Not yet covered this cycle (59)
-NVDA, AVGO, TSM, AMD, VRT, ALAB, CRDO, NBIS, CRWV, CBRS, ANET, ETN,
-GEV, CCJ, OKLO, LEU, FLNC, VST, TLN, UUUU, UEC, DNN,
+## Not yet covered this cycle (63)
+NVDA, AVGO, TSM, AMD, VRT, MRVL, ALAB, CRDO, NBIS, CRWV, CBRS, ANET, ETN,
+GEV, CCJ, OKLO, LEU, FLNC, VST, TLN, UUUU, UEC, DNN, BWXT,
 FSLR, ENPH, NXT, QS, AMPX, EOSE, ALB, SQM, SEDG, BE, SLDP, ARRY,
-SPCX, VOYG, KRMN, RDW, ONDS, BBAI, UMAC, AVAV, PLTR, RKLB, ASTS,
-IONQ, RGTI, QBTS, QNT, QUBT, ARQQ,
+SPCX, VOYG, KRMN, RDW, ONDS, UMAC, AVAV, PLTR, RKLB, ASTS, KTOS, RCAT,
+IONQ, RGTI, QBTS, QNT, QUBT, ARQQ, INFQ,
 KLAR, SERV, ERAS, AFRM, NU, SOFI, RXRX
 
 ---

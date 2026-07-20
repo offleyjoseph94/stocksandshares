@@ -7,19 +7,20 @@ NVDA · AVGO · TSM · AMD · VRT · GEV · CCJ · FSLR · ENPH · IONQ · CRCL 
 ANET · ETN · CEG · VST · ALB · PLTR · COIN · AFRM · NU · SOFI
 
 ## Tier 2 — likely available (verify in-app)
-ALAB · NBIS · CRWV · OKLO · FLNC · QS · RDW · ONDS · BBAI · RGTI · QBTS · SERV
+ALAB · NBIS · CRWV · OKLO · FLNC · QS · RDW · ONDS · RGTI · QBTS · SERV
 SQM · SEDG · BE · AVAV · RKLB · ASTS · RXRX
+MRVL · BWXT · KTOS · RCAT
 
 ## Tier 3 — not confirmed on Revolut → Buy via Trading 212
 CRDO · CBRS · LEU · NXT · AMPX · EOSE · VOYG · KRMN · UMAC · ERAS
-TLN · UUUU · UEC · SPCX · ARRY · QNT · QUBT
+TLN · UUUU · UEC · SPCX · ARRY · QNT · QUBT · INFQ
 
 ## Trading 212 only (too small / OTC / not on Revolut)
 DNN · SLDP · ARQQ
 
 ## Pipeline — not listed yet (cannot add until IPO)
-OpenAI · Anthropic · Databricks · Plaid · Canva
+OpenAI · Anthropic · Databricks · Stripe · Discord · Plaid · Canva
 
 ---
 *Tickers are US-listed unless noted. Prices in USD. Re-verify everything live before buying — this list is a research starting point, not advice.*
-*Last updated: 2026-07-13*
+*Last updated: 2026-07-20*
