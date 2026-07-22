@@ -332,7 +332,7 @@ var ETF = [
   // Broker logic: primary = Revolut. If a name isn't available on Revolut
   // (anything other than yes/likely), show the Trading 212 fallback.
   // Deterministic research links built from the ticker + TradingView symbol.
-  // These feed the monthly research scrape and quick manual due-diligence.
+  // These feed the weekly deep-dive research agent and quick manual due-diligence.
   function researchLinks(tv, ticker){
     var tvSym = (tv||'').replace(':','-');
     var t = encodeURIComponent(ticker);
