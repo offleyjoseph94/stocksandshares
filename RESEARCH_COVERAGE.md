@@ -8,17 +8,29 @@ Tracks which watchlist tickers have received a weekly deep-dive in the **current
 
 ## Current cycle: 2
 
-## Covered this cycle (2/65)
-- COIN
-- CEG
+## Covered this cycle (14/65)
+- COIN (2026-07-16)
+- CEG (2026-07-16)
+- NVDA (2026-07-23)
+- ANET (2026-07-23)
+- GEV (2026-07-23)
+- BWXT (2026-07-23)
+- ALB (2026-07-23)
+- BE (2026-07-23)
+- PLTR (2026-07-23)
+- RKLB (2026-07-23)
+- IONQ (2026-07-23)
+- QNT (2026-07-23)
+- AFRM (2026-07-23)
+- NU (2026-07-23)
 
-## Not yet covered this cycle (63)
-NVDA, AVGO, TSM, AMD, VRT, MRVL, ALAB, CRDO, NBIS, CRWV, CBRS, ANET, ETN,
-GEV, CCJ, OKLO, LEU, FLNC, VST, TLN, UUUU, UEC, DNN, BWXT,
-FSLR, ENPH, NXT, QS, AMPX, EOSE, ALB, SQM, SEDG, BE, SLDP, ARRY,
-SPCX, VOYG, KRMN, RDW, ONDS, UMAC, AVAV, PLTR, RKLB, ASTS, KTOS, RCAT,
-IONQ, RGTI, QBTS, QNT, QUBT, ARQQ, INFQ,
-KLAR, SERV, ERAS, AFRM, NU, SOFI, RXRX
+## Not yet covered this cycle (51)
+AVGO, TSM, AMD, VRT, MRVL, ALAB, CRDO, NBIS, CRWV, CBRS, ETN,
+CCJ, OKLO, LEU, FLNC, VST, TLN, UUUU, UEC, DNN,
+FSLR, ENPH, NXT, QS, AMPX, EOSE, SQM, SEDG, SLDP, ARRY,
+SPCX, VOYG, KRMN, RDW, ONDS, UMAC, AVAV, ASTS, KTOS, RCAT,
+RGTI, QBTS, QUBT, ARQQ, INFQ,
+KLAR, SERV, ERAS, SOFI, RXRX, CRCL
 
 ---
 
