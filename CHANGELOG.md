@@ -1,5 +1,58 @@
 # Changelog
 
+## 2026-07-27 — Weekly Research Refresh
+
+### Summary
+Universe grew from 65 to 69 stocks (added XNDU, IQMX, HOOD, PYPL). All prices refreshed to ~27 Jul 2026. GEV Q2 EPS miss updated. Quantum sector-wide pullback noted. IPO pipeline: Stripe valuation doubled to $159B (internal tender), Kraken added (IPO paused). ETF prices refreshed.
+
+### Added (4 new stocks)
+**Quantum (7 → 9):**
+- **XNDU** (Xanadu Quantum Technologies — photonic QC pioneer; listed Nasdaq via SPAC Mar 2026; PennyLane framework is industry standard; IBM/Microsoft/Amazon partnerships; targeting fault-tolerant photonic QC 2030; ~$10.24)
+- **IQMX** (IQM Quantum Computers — Finnish superconducting QPU maker; listed Nasdaq 2 Jul 2026 via RAAQ SPAC merger; net proceeds ~$233.5M; national lab customers incl CSC Finland; co-design QPU approach; ~$10.75)
+
+**Fintech & Other (9 → 11):**
+- **HOOD** (Robinhood Markets — US retail brokerage becoming full fintech: crypto +100% YoY, IRA+match, Gold Card; GENIUS Act stablecoin tailwind; avg analyst PT $152.10; ~$121.70)
+- **PYPL** (PayPal Holdings — PYUSD stablecoin under GENIUS Act; Fastlane 1-click checkout rollout; 430M+ accounts; profitable with buyback; most analysts Buy/Hold despite Mizuho Sell; ~$59.81)
+
+### Key Price and Thesis Updates
+- **GEV**: $1182 → $1015 — Q2 2026 reported 22 Jul: revenue $11.1B beat but EPS $2.47 missed $3.17 consensus (-22%); risknote updated; wind segment still loss-making
+- **NVDA**: $210 → $207; AMD: $558 → $522; VRT: $324 → $291; ALAB: $346 → $292; CRDO: $259 → $213
+- **MRVL**: null → $193 (price now available)
+- **BWXT**: null → $175 (price now available); KTOS: null → $47; RCAT: null → $7.64
+- **SPCX**: $145.30 → $115 (-49% from $225 peak; -21% from prior dashboard)
+- **CRWV**: $86 → $73 (-56% from $166 IPO peak; Meta self-build threat)
+- **QNT**: $73 → $52.51 (off $86.79 ATH Jul 6; confirmed Nasdaq-listed Jun 4 2026)
+- **IONQ**: $43.05 → $33 (-23%); RGTI: $21.17 → $14.10 (-33%); QBTS: $20.09 → $16.92
+- **BE**: $240 → $186 (Hunterbrook short-seller report Jul 2026)
+- **ENPH**: $44.94 → $36; SEDG: $55.50 → $45; QS: $7 → $4.89
+- **UUUU**: $22 → $11.30 (-49%); UEC: $15 → $9.83; DNN: $3.22 → $2.91
+- **ASTS**: $87 → $64; RKLB: $74 → $69; PLTR: $132 → $122
+- **CRCL**: $67 → $61; KLAR: $19.62 → $17.37; SERV: $5.96 → $4.81
+- **AFRM**: ~$83 (flat from $83.70; Goldman PT $106, Baird PT $82, Truist PT $83; earnings 26 Aug)
+- **RXRX**: $2.94 → $3.01 (slight recovery); NU: $13.80 → $14.08; SOFI: $18.24 → $16.65
+- **INFQ**: null → $9 (price now available)
+
+### IPO Pipeline Updates
+- **Stripe**: valuation revised from ~$70B (secondary market) to ~$159B (Jul 2026 internal tender offer) — more than doubled
+- **Kraken** (NEW): added to pipeline; IPO process paused Mar 2026 citing volatile conditions; ~$10B valuation; 2027 at earliest
+- **Anthropic**: timing and valuation unchanged (~$965B, Oct 2026 Nasdaq target)
+- **OpenAI**: remains 2027 per CFO Sarah Friar
+- **Databricks**: 2027 at earliest; raising at higher private round ($165-175B)
+
+### Dashboard Changes
+- Header date updated to "27 July 2026"
+- Live chart Quantum tab: added XNDU, IQMX
+- Live chart Fintech tab: added HOOD, PYPL (replaced SERV, ERAS which remain in table)
+- ETF prices and notes refreshed for all 12 ETFs
+
+### REVOLUT_WATCHLIST.md
+- Tier 1 (yes): added HOOD, PYPL
+- Tier 3 (unsure/Trading 212): added XNDU
+- Trading 212 only: added IQMX
+- Last-updated date: 2026-07-27
+
+---
+
 ## 2026-07-20 — Weekly Research Refresh
 
 ### Summary
