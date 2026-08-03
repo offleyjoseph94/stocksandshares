@@ -1,5 +1,54 @@
 # Changelog
 
+## 2026-08-03 — Weekly Research Refresh
+
+### Summary
+All 69 stock prices refreshed to ~3 Aug 2026. Heavy earnings week: FSLR, ENPH, BE, PYPL, SOFI, HOOD, VRT, AVAV all reported; winners and losers noted. Quantum earnings season begins (IONQ 5 Aug, RGTI/QBTS 6 Aug, QNT 11 Aug). IPO pipeline: DeepSeek added (~$71B valuation, $1.5B raise, 2026-2027 target). AMPX price now live ($10.13, was null). LEU set to null (too volatile — verify live; Q2 earnings 11 Aug). ETF notes updated. Header dates updated.
+
+### Key earnings this week (Jul 28 – Aug 3, 2026)
+- **FSLR** Q2 BEAT: EPS $3.92 vs $3.01 est (+30%), GM 57%, backlog $13.6B; Barclays PT raised to $279 — recovered to $209.97 from $206
+- **ENPH** Q2 slight beat despite -20% YoY revenue; safe harbor $84.3M + $45M tariff refund; GM 46.8% — recovered to $37.54 from $36
+- **BE** Q2 BEAT: revenue $1.07B +166% YoY vs $826M est, EPS $0.78 vs $0.41; raised FY guidance to $3.9-4.2B — recovered to $201.50 from $186
+- **PYPL** Q2 EPS $1.38 beat 8%; raised FY guidance to $5.38; margins contracted 248bps — recovered to $67 from $59.81
+- **SOFI** Q2 record revenue $1.21B +43% YoY but flat EBITDA guidance disappointed — fell ~10% to $15 from $16.65
+- **HOOD** Q2 EPS $0.62 vs $0.41 beat; $573M net income; 56.65% EBITDA margin; BUT crypto revenue -38% QoQ — fell to $88.67 from $121.70
+- **VRT** Q2 EPS $1.52 beat (+60% YoY) but revenue $3.27B missed $3.38B estimate; raised FY guidance; market punished on miss — fell ~17% to $240.75 from $291
+- **AVAV** Q4 FY2026 revenue $641.6M +100% YoY vs $557M estimate — surged to ~$175 from $149.51; KTOS +8% sympathy
+
+### Key upcoming catalysts (week of 3 Aug)
+- **AMD** Q2 earnings 4 Aug — fell to $476 from $522 ahead of results
+- **ALAB** Q2 earnings 4 Aug after close (guidance $355-365M, GM ~73%)
+- **PLTR** Q2 earnings 3 Aug after close (8 consecutive beats; options pricing 12% swing)
+- **IONQ** Q2 earnings 5 Aug
+- **CRCL** Q2 earnings 5 Aug
+- **RXRX** Q2 earnings 5 Aug
+- **RGTI** Q2 earnings 6 Aug
+- **QBTS** Q2 earnings 6 Aug
+- **AMPX** Q2 earnings 6 Aug
+- **SERV** Q2 earnings 6 Aug
+- **ASTS** BlueBird 11-13 satellite launch 5 Aug from Cape Canaveral
+- **VST** Q2 earnings 7 Aug (consensus PT $230)
+
+### Notable movers
+- **CCJ** +$12.93 to $100.93 — nuclear sentiment improving, FY revenue guidance strong
+- **BWXT** +$30.65 to $205.65 — Navy contracts firm, medical isotopes growing (+13.1% YTD)
+- **CEG** recovered to ~$295 from $237
+- **OKLO** fell to $41.09 from $44 (down 73% from 52-wk high) but bounced +11.5% on 2 Aug
+- **SPCX** fell to $108.37 — near 52-week low $107.01; 6 members of Congress bought shares
+- **XNDU** collapsed to ~$3.50 from $10.24 (-65.3% since SPAC listing)
+- **HOOD** fell to $88.67 from $121.70 (-27%) on crypto revenue decline
+- **TLN** fell to $332.54 from $386; **CRWV** fell to $71.11 — near 52-week low $60.55
+- **NBIS** spiked +19% on 21 Jul on Nvidia stake report, settled at $186.70
+- **INFQ** +13% to $9.98 (one of few quantum positives this week)
+- **KRMN** S&P SmallCap 600 inclusion in July
+
+### IPO pipeline changes
+- **Added: DeepSeek** (~$71B valuation, $1.5B pre-IPO raise, target 2026-2027; China-domiciled — UK investor access likely blocked; monitor only)
+
+### Data corrections
+- **AMPX** price now $10.13 (was null — now verifiable)
+- **LEU** set to null (52-week range $144-$464 — too volatile for a static snapshot; verify live; Q2 earnings 11 Aug)
+
 ## 2026-07-27 — Weekly Research Refresh
 
 ### Summary
