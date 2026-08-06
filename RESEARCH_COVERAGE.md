@@ -8,7 +8,7 @@ Tracks which watchlist tickers have received a weekly deep-dive in the **current
 
 ## Current cycle: 2
 
-## Covered this cycle (26/65)
+## Covered this cycle (38/65+)
 - COIN (2026-07-16)
 - CEG (2026-07-16)
 - NVDA (2026-07-23)
@@ -35,14 +35,26 @@ Tracks which watchlist tickers have received a weekly deep-dive in the **current
 - QBTS (2026-07-30)
 - CRCL (2026-07-30)
 - SOFI (2026-07-30)
+- TSM (2026-08-06)
+- CRDO (2026-08-06)
+- LEU (2026-08-06)
+- VST (2026-08-06)
+- ENPH (2026-08-06)
+- QS (2026-08-06)
+- ASTS (2026-08-06)
+- KTOS (2026-08-06)
+- QUBT (2026-08-06)
+- INFQ (2026-08-06)
+- KLAR (2026-08-06)
+- RXRX (2026-08-06)
 
-## Not yet covered this cycle (39)
-TSM, VRT, MRVL, ALAB, CRDO, NBIS, CRWV, CBRS, ETN,
-LEU, FLNC, VST, TLN, UUUU, UEC, DNN,
-ENPH, QS, AMPX, EOSE, SQM, SEDG, SLDP, ARRY,
-VOYG, KRMN, RDW, ONDS, UMAC, ASTS, KTOS, RCAT,
-QUBT, ARQQ, INFQ,
-KLAR, SERV, ERAS, RXRX
+## Not yet covered this cycle (27)
+VRT, MRVL, ALAB, NBIS, CRWV, CBRS, ETN,
+FLNC, TLN, UUUU, UEC, DNN,
+AMPX, EOSE, SQM, SEDG, SLDP, ARRY,
+VOYG, KRMN, RDW, ONDS, UMAC, RCAT,
+ARQQ, SERV, ERAS,
+HOOD, PYPL, XNDU, IQMX
 
 ---
 
