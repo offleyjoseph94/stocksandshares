@@ -1,5 +1,42 @@
 # Changelog
 
+## 2026-08-10 — Weekly Research Refresh
+
+### Summary
+All 70 stock prices refreshed to ~10 Aug 2026. Heavy earnings week with most 3–7 Aug catalysts now past. **SERV removed** (Uber Eats agreement not renewed, FY2026 guidance cut -65% to $9-10M, thesis broken). **ARM added** to AI & Compute (AGI CPU $2B+ order book, +18% post-Q1 FY2027 earnings, +80% YTD). **CHYM added** to Fintech (Chime Financial IPO'd Jun 2025, Q2 +27% YoY, FY guidance raised, GAAP profitable, +28.5% on results). **IPO pipeline**: Anduril Industries (~$38-40B, 2027) and Shield AI (~$12.7B, 2027) added; Anthropic updated to roadshow-underway / targeted 23 Oct 2026 listing, ARR >$50B. **Solar catalyst**: Trump signed 15% polysilicon tariff (effective Dec 4, 2026) — FSLR +9% to $266, ENPH +6% to $40, SEDG +7.6% to $44, ARRY +5% to $7.10 (from null). ARRY now has a verifiable price. LEU now $195 post Q2 results (revenue $176.1M, $3B backlog, $900M DOE task order confirmed). Chart tabs updated: ARM added to AI & Compute; CHYM added to Fintech.
+
+### Key outcomes from last week's catalysts (3–10 Aug)
+- **PLTR** Q2 3 Aug — 9th consecutive beat; surged to $172 from $127 (+35%)
+- **AMD** Q2 4 Aug — beat on revenue; settled at $421 from $476 pre-earnings (miss on AI GPU guidance vs Nvidia)
+- **ALAB** Q2 4 Aug — strong beat; surged to $334 from $292 (+14%)
+- **IONQ** Q2 5 Aug — beat; up to $40 from $33 (+21%)
+- **CRCL** Q2 5 Aug — beat; up to $67 from $61.59
+- **RXRX** Q2 5 Aug — steady; $3.05 from $3.00
+- **ASTS** BlueBird 11-13 launched successfully 5 Aug — constellation now 16 satellites; up to $72 from $56.94
+- **RGTI** Q2 6 Aug — beat; up to $17 from $14.10
+- **QBTS** Q2 6 Aug — beat; up to $22 from $16.92
+- **AMPX** Q2 6 Aug — beat, FY guidance raised; up to $12.22 from $10.13
+- **VST** Q2 7 Aug — reported; up to $172 from $163
+- **LEU** Q2 11 Aug — revenue $176.1M, $3B backlog, $900M DOE task order on track; set at $195
+
+### Removal
+- **SERV** (Serve Robotics): thesis broken — Uber Eats volume declined for first time in 17 quarters; CEO confirmed Uber agreement will NOT be renewed (expires early 2027); FY2026 guidance cut from $26M to $9-10M (-65%); stock near all-time lows. Removed from watchlist.
+
+### New additions
+- **ARM** (Arm Holdings, NASDAQ): AGI CPU launched with Meta as lead customer; OpenAI and Cloudflare committed; $2B+ order book; Q1 FY2027 EPS +108% YoY; revenue $1.29B +22%; +80% YTD. Added to AI & Compute, balanced risk, long horizon. Revolut: likely.
+- **CHYM** (Chime Financial, NASDAQ): Listed Jun 2025; Q2 2026 revenue +27% YoY; FY guidance raised to $2.725-2.745B; GAAP profitable; 10.4M members +20%; surged 28.5% to $33.30 on results. Added to Fintech & Other, aggressive risk, medium horizon. Revolut: likely.
+
+### Key upcoming catalysts (week of 10 Aug+)
+- **CBRS** Q2 earnings 12 Aug
+- **RDW** Q2 earnings ~12 Aug
+- **QNT** Q2 earnings 11 Aug
+- **NVDA** Q2 FY2027 earnings 26 Aug — major sector catalyst
+- **AFRM** Q4 FY2026 earnings 26 Aug
+- **KLAR** H1 2026 earnings 2 Sep
+- **AVGO** Fiscal Q3 earnings ~early Sep
+
+---
+
 ## 2026-08-03 — Weekly Research Refresh
 
 ### Summary

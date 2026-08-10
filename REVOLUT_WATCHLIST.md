@@ -7,7 +7,7 @@ NVDA · AVGO · TSM · AMD · VRT · GEV · CCJ · FSLR · ENPH · IONQ · CRCL 
 ANET · ETN · CEG · VST · ALB · PLTR · COIN · AFRM · NU · SOFI · HOOD · PYPL
 
 ## Tier 2 — likely available (verify in-app)
-ALAB · NBIS · CRWV · OKLO · FLNC · QS · RDW · ONDS · RGTI · QBTS · SERV
+ALAB · NBIS · CRWV · OKLO · FLNC · QS · RDW · ONDS · RGTI · QBTS · ARM · CHYM
 SQM · SEDG · BE · AVAV · RKLB · ASTS · RXRX
 MRVL · BWXT · KTOS · RCAT
 
@@ -23,4 +23,4 @@ OpenAI · Anthropic · Databricks · Stripe · Discord · Plaid · Canva
 
 ---
 *Tickers are US-listed unless noted. Prices in USD. Re-verify everything live before buying — this list is a research starting point, not advice.*
-*Last updated: 2026-07-27*
+*Last updated: 2026-08-10*
