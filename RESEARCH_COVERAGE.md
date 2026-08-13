@@ -2,13 +2,13 @@
 
 Tracks which watchlist tickers have received a weekly deep-dive in the **current** cycle. When all tickers in the universe have been covered, the cycle increments and the list resets.
 
-**Note:** The watchlist expanded from 34 to 61 stocks at start of Cycle 2, then to 65 stocks (20 Jul 2026: +MRVL, +BWXT, +KTOS, +RCAT, +INFQ, -BBAI). Cycle 2 covers the full 65-stock universe.
+**Note:** The watchlist expanded from 34 to 61 stocks at start of Cycle 2, then to 65 stocks (20 Jul 2026: +MRVL, +BWXT, +KTOS, +RCAT, +INFQ, -BBAI), then to 70 stocks (13 Aug 2026: +ARM, +CHYM, +ARQQ, +XNDU, +IQMX, -SERV). Cycle 2 covers the full 70-stock universe.
 
 ---
 
 ## Current cycle: 2
 
-## Covered this cycle (38/65+)
+## Covered this cycle (50/70)
 - COIN (2026-07-16)
 - CEG (2026-07-16)
 - NVDA (2026-07-23)
@@ -47,14 +47,26 @@ Tracks which watchlist tickers have received a weekly deep-dive in the **current
 - INFQ (2026-08-06)
 - KLAR (2026-08-06)
 - RXRX (2026-08-06)
+- VRT (2026-08-13)
+- ARM (2026-08-13)
+- FLNC (2026-08-13)
+- TLN (2026-08-13)
+- AMPX (2026-08-13)
+- SEDG (2026-08-13)
+- VOYG (2026-08-13)
+- KRMN (2026-08-13)
+- ARQQ (2026-08-13)
+- IQMX (2026-08-13)
+- HOOD (2026-08-13)
+- PYPL (2026-08-13)
 
-## Not yet covered this cycle (27)
-VRT, MRVL, ALAB, NBIS, CRWV, CBRS, ETN,
-FLNC, TLN, UUUU, UEC, DNN,
-AMPX, EOSE, SQM, SEDG, SLDP, ARRY,
-VOYG, KRMN, RDW, ONDS, UMAC, RCAT,
-ARQQ, SERV, ERAS,
-HOOD, PYPL, XNDU, IQMX
+## Not yet covered this cycle (20)
+MRVL, ALAB, NBIS, CRWV, CBRS, ETN,
+UUUU, UEC, DNN,
+EOSE, SQM, SLDP, ARRY,
+RDW, ONDS, UMAC, RCAT,
+XNDU,
+CHYM, ERAS
 
 ---
 
