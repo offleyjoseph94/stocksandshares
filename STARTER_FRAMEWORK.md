@@ -89,6 +89,17 @@ Platform chosen: **Revolut** (paid plan — the included commission-free trades 
 
 **Earlier holdings were in a GIA, not an ISA.** Moving them requires a **Bed & ISA** — sell in the GIA, rebuy inside the ISA. There is no direct transfer. The rebuy *consumes ISA allowance*, and you're briefly out of the market plus the spread/FX. Doing it now while positions are small and gains minimal is the cheap moment.
 
+**Decision (14 Aug 2026): Bed & ISA the lot** — consolidating everything into the ISA for cleanliness rather than running split GIA/ISA holdings. Combined balance at the time was ~£150, so the crystallised gain is negligible and well inside the CGT exemption.
+
+Sequence once the ISA is approved:
+1. Wait for ISA approval before selling anything.
+2. Sell Vanguard + RGTI in the Invest (GIA) account.
+3. Allow for settlement — proceeds take a couple of days to clear to available cash.
+4. Move cash into the ISA (check whether Revolut transfers directly or routes via the main balance).
+5. Rebuy both, and set up the **£25/week VHYG** recurring buy.
+
+Note the rebuy price will differ slightly from the sell price (market moves in between) — immaterial at this size.
+
 ### ISA allowance headroom — crypto sitting outside helps
 
 Because the XRP sleeve is in Kraken (outside the wrapper), only three-quarters of contributions use the allowance:
