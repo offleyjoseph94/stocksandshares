@@ -182,6 +182,26 @@
     </div>
   </section>
 
+  <!-- ============ INCOME / HIGH-DIVIDEND ============ -->
+  <section>
+    <h2>Income &amp; high-dividend watchlist</h2>
+    <p class="updated">Names held for <strong>cash income</strong> rather than growth — the "pay me while I wait" sleeve, aimed at the long-term cashflow goal. Yields move inversely to price, so a very high yield is often a warning, not a bargain: check the <strong>Cover</strong> column (payout ratio / dividend cover) to see whether the payout is actually affordable. <strong>UK tax note:</strong> for US shares submit a <strong>W-8BEN</strong> (your broker prompts you) to cut US withholding tax on dividends from 30% to 15%; inside an ISA that 15% is <em>not</em> reclaimable. UK-listed (LSE) payers have no withholding, so they're often the cleaner income route for a UK investor. Click a row to chart it; Notes are editable and saved in your browser.</p>
+    <div style="overflow-x:auto">
+      <table id="divtbl">
+        <thead><tr>
+          <th>Company</th><th>Ticker</th><th>Sector</th><th>Yield</th><th>Cover / payout</th><th>Broker (UK route)</th><th>Research</th><th>Notes (editable)</th>
+        </tr></thead>
+        <tbody id="divbody"></tbody>
+      </table>
+    </div>
+    <div class="legend">
+      <span class="pill r-steady">Safe-ish</span> long record, comfortable cover ·
+      <span class="pill r-balanced">Solid</span> decent cover, some cyclicality ·
+      <span class="pill r-aggressive">Stretched</span> high yield, thin cover or structural decline —
+      dividends are <em>not</em> guaranteed and can be cut at any time.
+    </div>
+  </section>
+
   <!-- ============ IPO PIPELINE ============ -->
   <section>
     <h2>IPO &amp; pre-listing watch (not buyable yet)</h2>
@@ -306,6 +326,49 @@
 <!-- IMPORTANT: all US ETFs below are NOT buyable by UK retail on Revolut -->
 <!-- or Trading 212 (no UCITS KID) — buy the UCITS equivalent instead.    -->
 <!-- =================================================================== -->
+<!-- =================================================================== -->
+<!-- INCOME / HIGH-DIVIDEND WATCHLIST                                    -->
+<!-- Held for cash income, not growth. `yield` and `cover` are point-in- -->
+<!-- time figures researched ~14 Aug 2026 — ALWAYS re-verify live, they  -->
+<!-- move with price. `safety`: safe-ish | solid | stretched.            -->
+<!-- `wht`: US names suffer 15% US withholding with a W-8BEN on file     -->
+<!-- (30% without); UK/LSE-listed names have no withholding for UK       -->
+<!-- residents, so they are the cleaner income route inside an ISA.      -->
+<!-- =================================================================== -->
+<script>
+var DIV = [
+  // ---- US: REITs & real assets ----
+  {name:"Realty Income", ticker:"O", tv:"NYSE:O", sector:"REIT — net lease retail", yield:"~5.3%", cover:"Payout ~75% of AFFO", safety:"safe-ish", revolut:"yes", wht:"US — 15% WHT with W-8BEN",
+   note:"Monthly payer, 30+ yrs of increases. Rate-sensitive: price falls when long yields rise."},
+  // ---- US: telecoms ----
+  {name:"Verizon Communications", ticker:"VZ", tv:"NYSE:VZ", sector:"Telecoms", yield:"~6%", cover:"Payout ~55% of net income", safety:"solid", revolut:"yes", wht:"US — 15% WHT with W-8BEN",
+   note:"Big cash generation, well-covered. Heavy debt load and brutal price competition cap growth."},
+  // ---- US: tobacco ----
+  {name:"Altria Group", ticker:"MO", tv:"NYSE:MO", sector:"Tobacco", yield:"~6.7%", cover:"Targets ~80% of adj. EPS", safety:"stretched", revolut:"yes", wht:"US — 15% WHT with W-8BEN",
+   note:"Very high yield, but payout ratio is deliberately high and US cigarette volumes decline yearly. Income now vs shrinking core."},
+  // ---- US: energy ----
+  {name:"Exxon Mobil", ticker:"XOM", tv:"NYSE:XOM", sector:"Oil & gas majors", yield:"verify", cover:"Comfortable at mid-cycle oil", safety:"solid", revolut:"yes", wht:"US — 15% WHT with W-8BEN",
+   note:"40+ yrs of increases. Dividend is safe at healthy oil prices; a sustained crude slump is the risk."},
+  // ---- US: consumer staples (lower yield, high safety) ----
+  {name:"Coca-Cola", ticker:"KO", tv:"NYSE:KO", sector:"Consumer staples", yield:"~3%", cover:"Well covered", safety:"safe-ish", revolut:"yes", wht:"US — 15% WHT with W-8BEN",
+   note:"62+ consecutive years of increases. Lower yield, but about as reliable as dividends get."},
+  {name:"Johnson & Johnson", ticker:"JNJ", tv:"NYSE:JNJ", sector:"Healthcare", yield:"~3%", cover:"Well covered", safety:"safe-ish", revolut:"yes", wht:"US — 15% WHT with W-8BEN",
+   note:"62+ yrs of increases, AAA-grade balance sheet. Litigation overhang is the main wobble."},
+  // ---- UK / LSE: no withholding tax for UK residents ----
+  {name:"Legal & General", ticker:"LGEN", tv:"LSE:LGEN", sector:"Life insurance", yield:"~7.6%", cover:"16 yrs of consecutive growth", safety:"solid", revolut:"unsure", wht:"UK-listed — no withholding for UK residents",
+   note:"Highest yield in the FTSE 100 by a clear margin. Yield compressed from ~8.15% (May) to ~7.59% (Jul 2026). Insurance earnings are lumpy."},
+  {name:"British American Tobacco", ticker:"BATS", tv:"LSE:BATS", sector:"Tobacco", yield:"high 5s%", cover:"~£2.40/sh forward rate", safety:"solid", revolut:"unsure", wht:"UK-listed — no withholding for UK residents",
+   note:"25+ unbroken years of dividends. Same structural decline problem as MO, but cheaper and no US withholding."},
+  {name:"HSBC Holdings", ticker:"HSBA", tv:"LSE:HSBA", sector:"Banking", yield:"verify", cover:"Verify at latest results", safety:"solid", revolut:"unsure", wht:"UK-listed — no withholding for UK residents",
+   note:"Regular FTSE 100 income name, reports in February. Bank dividends are cyclical — cut hard in 2020."},
+  // ---- Income ETF route (diversified, one holding) ----
+  {name:"Vanguard FTSE All-World High Dividend Yield UCITS", ticker:"VHYG / VHYL", tv:"LSE:VHYL", sector:"Global dividend ETF", yield:"~3%", cover:"n/a — diversified basket", safety:"safe-ish", revolut:"no", wht:"UCITS, LSE-listed — UK-tradeable",
+   note:"Hundreds of dividend payers in one buy — removes single-company cut risk. VHYL distributes (pays you), VHYG accumulates. The low-effort income core."},
+  {name:"iShares UK Dividend UCITS ETF", ticker:"IUKD", tv:"LSE:IUKD", sector:"UK dividend ETF", yield:"verify", cover:"n/a — diversified basket", safety:"solid", revolut:"no", wht:"UCITS, LSE-listed — UK-tradeable",
+   note:"50 highest-yielding UK stocks. Concentrated in financials/energy, so more cyclical than the global version."}
+];
+</script>
+
 <script>
 var ETF = [
   // ---- AI & Compute: semiconductors + AI/robotics ----
@@ -454,8 +517,42 @@ var ETF = [
     });
   }
 
+  // ---- Income / high-dividend table (reuses brokerCell / researchLinks / loadChart) ----
+  // Safety pill maps onto the existing risk-pill colours:
+  // safe-ish -> steady, solid -> balanced, stretched -> aggressive.
+  function renderDivs(){
+    var pillFor = {'safe-ish':'steady','solid':'balanced','stretched':'aggressive'};
+    var box=document.getElementById('divbody');
+    box.innerHTML = DIV.map(function(d){
+      var saved = localStorage.getItem('divnote_'+d.ticker);
+      var noteVal = (saved!=null ? saved : d.note);
+      return '<tr class="stock" data-tv="'+d.tv+'">'+
+        '<td>'+d.name+'</td>'+
+        '<td class="tk">'+d.ticker+'</td>'+
+        '<td>'+d.sector+'</td>'+
+        '<td><strong>'+d.yield+'</strong></td>'+
+        '<td>'+d.cover+'<br><span class="pill r-'+pillFor[d.safety]+'">'+cap(d.safety)+'</span></td>'+
+        '<td>'+brokerCell(d.revolut)+'<br><span class="updated">'+d.wht+'</span></td>'+
+        '<td onclick="event.stopPropagation()">'+researchLinks(d.tv, d.ticker)+'</td>'+
+        '<td><input class="notes-input" data-tk="'+d.ticker+'" value="'+noteVal.replace(/"/g,'&quot;')+'"></td>'+
+      '</tr>';
+    }).join('');
+    box.querySelectorAll('tr.stock').forEach(function(tr){
+      tr.addEventListener('click',function(ev){
+        if(ev.target.tagName==='INPUT') return;
+        loadChart(tr.getAttribute('data-tv'));
+      });
+    });
+    box.querySelectorAll('input.notes-input').forEach(function(inp){
+      inp.addEventListener('change',function(){
+        localStorage.setItem('divnote_'+inp.getAttribute('data-tk'), inp.value);
+      });
+    });
+  }
+
   render();
   renderETFs();
+  renderDivs();
   loadChart('NASDAQ:NVDA');
 </script>
 </body>
