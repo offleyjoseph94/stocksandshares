@@ -8,6 +8,59 @@ Both Revolut and Trading 212 support **fractional shares** and commission-free b
 
 ---
 
+## Live contribution plan (set 14 Aug 2026)
+
+Portfolio is now running. Weekly contributions, **stepping up every 6 months until they cap at £400/week**:
+
+| From | Weekly | Per year |
+|---|---|---|
+| Now (Aug 2026) | £100 | £5,200 |
+| +6 months | £200 | £10,400 |
+| +12 months | **£400** (ceiling) | £20,800 |
+
+**Current £100/week split four ways (£25 each ≈ £108/month per sleeve):**
+Vanguard (broad anchor) · Rigetti RGTI (quantum moonshot) · XRP (crypto) · 4th sleeve — leaning URA (uranium)
+
+### Projected outcome at the £400/week ceiling
+
+Assumes 7% average annual return, dividends reinvested (accumulating units), held in a tax wrapper. **Illustration, not a forecast — real markets go sideways for years then fall hard.**
+
+| Years | Pot | Contributed | Income @4.5% | In today's money (3% infl.) |
+|---|---|---|---|---|
+| 5 | £106,000 | £91,000 | £398/mo | — |
+| **10** | **£275,000** | £195,000 | **£1,030/mo** | ~£767/mo |
+| 15 | £514,000 | £299,000 | £1,926/mo | ~£1,236/mo |
+| 20 | £852,000 | £403,000 | £3,196/mo | ~£1,769/mo |
+| 25 | £1,332,000 | £507,000 | £4,996/mo | ~£2,386/mo |
+
+**The 10-year cashflow goal lands at roughly £1,030/month.** Crosses £1M around year 22.
+
+### The key lesson in those numbers
+At year 10, £195k of the £275k pot is **money contributed** — roughly 70%. Contributions do most of the work, returns do the rest. **Raising £100/week → £400/week matters far more than any individual stock pick.** Worth remembering whenever a moonshot looks tempting.
+
+### Strategy: accumulate, then switch
+Reinvest everything during the build phase (**accumulating "Acc" fund units** do this automatically — no cash drag, no admin), then switch to **distributing units** or draw down when the pot is large enough to matter. Note the tension: high-yield funds tilt toward slower-growth sectors, so a broad total-return holding often accumulates faster, with the switch to income made nearer the end.
+
+### Practical watch-outs
+- **ISA allowance is £20,000/yr; £400/week is £20,800** — about £800 over. Either throttle slightly to stay inside the wrapper, or run a GIA alongside for the overflow (dividends there are taxable above the £500 allowance).
+- **W-8BEN** for US holdings: cuts US dividend withholding 30% → 15%. Inside an ISA that 15% is **not** reclaimable — LSE-listed payers avoid it entirely.
+- Rebalance by **directing new money**, not by selling — avoids fees and taxable events.
+
+---
+
+## Target allocation as contributions grow
+
+Current shape is roughly 25% core / 0% income / 25% thematic / 50% speculative — heavily weighted to the risk end. Target as the pot builds:
+
+| Bucket | Target | What's in it |
+|---|---|---|
+| **Core** | 50–60% | Broad global equity. Does the compounding. |
+| **Income** | 15–25% | Dividend payers — see the dashboard's Income section. The future cashflow engine. |
+| **Thematic** | 15–25% | Uranium, AI, defence, quantum — spread across 4–6 themes, not concentrated. |
+| **Speculative** | 5–10% | Crypto, moonshots (RGTI). **Capped deliberately** — the cap is what stops one bad call hurting. |
+
+---
+
 ## The four buckets
 
 | Bucket | Role | Hold horizon | Mindset |
