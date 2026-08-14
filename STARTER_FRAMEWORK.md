@@ -91,7 +91,9 @@ Platform chosen: **Revolut** (paid plan — the included commission-free trades 
 
 **Decision (14 Aug 2026): Bed & ISA the lot** — consolidating everything into the ISA for cleanliness rather than running split GIA/ISA holdings. Combined balance at the time was ~£150, so the crystallised gain is negligible and well inside the CGT exemption.
 
-Sequence once the ISA is approved:
+**STATUS: DONE (14 Aug 2026)** — ISA approved, holdings sold out of the GIA and rebought inside the ISA, and the £25/week VHYG buy is set up. Combined balance at changeover was ~£150, so the crystallised gain was negligible.
+
+Sequence followed:
 1. Wait for ISA approval before selling anything.
 2. Sell Vanguard + RGTI in the Invest (GIA) account.
 3. Allow for settlement — proceeds take a couple of days to clear to available cash.
