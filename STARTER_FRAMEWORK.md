@@ -48,6 +48,41 @@ Reinvest everything during the build phase (**accumulating "Acc" fund units** do
 
 ---
 
+## ISA & platform notes (researched 14 Aug 2026)
+
+Allowance **£20,000/tax year**. Verify current multi-ISA rules on gov.uk — that area changed in April 2024.
+
+| | Trading 212 | InvestEngine | Vanguard | Revolut |
+|---|---|---|---|---|
+| Platform fee | 0% | 0% | £4/mo under £32k, then 0.15% (cap £375) | £0 custody |
+| Dealing | Free | Free | Free (own funds) | 0.25% after monthly allowance |
+| FX | 0.15% | — | — | 0%–1.5% by plan |
+| Individual stocks | Yes | **No — ETF only** | **No — Vanguard funds only** | Yes |
+| Weekly recurring | Yes (AutoInvest pies) | Yes | Monthly | Limited |
+| Fractional | Yes | Yes | Yes | Yes |
+| Flexible ISA | Yes | — | — | — |
+| FSCS £85k | Yes | Yes | Yes | Yes |
+
+**Flat fees hurt at small size:** Vanguard's £4/mo = £48/yr, which on £1,300/yr of contributions is a **3.7% drag** — over 10× VHYG's own 0.29% OCF. Percentage fees scale; flat fees punish small pots.
+
+**Requirement fit:** needing VHYG *and* individual stocks (RGTI) *and* weekly recurring *and* fractional in one place rules out InvestEngine (ETF-only) and Vanguard (own funds only).
+
+### Things that can't go in a S&S ISA
+- **Direct crypto (XRP)** — not ISA-eligible at all. Sits outside the wrapper, subject to CGT.
+- **Crypto ETNs** — since Apr 2026 these need an Innovative Finance ISA, not a standard S&S ISA.
+
+### Admin before first buy
+- **W-8BEN** — cuts US dividend withholding 30% → 15%. Not reclaimable inside an ISA, so LSE-listed holdings avoid the drag entirely. Valid 3 years.
+- National Insurance number needed to open.
+- ISA transfers between providers are free and don't consume allowance — picking one now is not a lock-in.
+
+### Holding chosen for the income sleeve
+**VHYG** — Vanguard FTSE All-World High Dividend Yield UCITS ETF (Accumulating), LSE, ISIN `IE00BK5BR626`, **OCF 0.29%**, launched Sep 2019, ~$8.7bn. Tracks large/mid-cap high-yield across developed + emerging markets, excludes REITs. Accumulating = dividends reinvest inside the fund automatically, matching the accumulate-then-switch strategy above. USD-denominated despite the LSE listing — check whether your platform applies FX per purchase.
+
+Plan: **£25/week recurring.**
+
+---
+
 ## Target allocation as contributions grow
 
 Current shape is roughly 25% core / 0% income / 25% thematic / 50% speculative — heavily weighted to the risk end. Target as the pot builds:
