@@ -76,6 +76,31 @@ Allowance **£20,000/tax year**. Verify current multi-ISA rules on gov.uk — th
 - National Insurance number needed to open.
 - ISA transfers between providers are free and don't consume allowance — picking one now is not a lock-in.
 
+### Confirmed setup (14 Aug 2026)
+
+Platform chosen: **Revolut** (paid plan — the included commission-free trades matter at ~16–20 trades/month across four weekly buys; banking + investing in one app). Revolut now lists 100+ UK-listed UCITS ETFs (Vanguard, iShares, Amundi, Invesco) in its ISA. **W-8BEN filed.**
+
+| Holding | Platform | Wrapper |
+|---|---|---|
+| Vanguard fund | Revolut | ISA (applied for — moving from GIA) |
+| Rigetti (RGTI) | Revolut | ISA (applied for — moving from GIA) |
+| VHYG | Revolut | ISA |
+| XRP | Kraken | Outside ISA — crypto not eligible, CGT applies |
+
+**Earlier holdings were in a GIA, not an ISA.** Moving them requires a **Bed & ISA** — sell in the GIA, rebuy inside the ISA. There is no direct transfer. The rebuy *consumes ISA allowance*, and you're briefly out of the market plus the spread/FX. Doing it now while positions are small and gains minimal is the cheap moment.
+
+### ISA allowance headroom — crypto sitting outside helps
+
+Because the XRP sleeve is in Kraken (outside the wrapper), only three-quarters of contributions use the allowance:
+
+| Stage | Total/yr | XRP outside | ISA portion | Headroom vs £20k |
+|---|---|---|---|---|
+| £100/wk | £5,200 | £1,300 | £3,900 | £16,100 |
+| £200/wk | £10,400 | £2,600 | £7,800 | £12,200 |
+| £400/wk | £20,800 | £5,200 | £15,600 | **£4,400** |
+
+**This supersedes the earlier warning about exceeding the allowance at £400/wk** — that assumed everything sat in the ISA. Even at the ceiling there's ~£4,400/yr (~£85/wk) of spare allowance, which can absorb extra contributions into the core and income sleeves and pull the allocation back toward target.
+
 ### Holding chosen for the income sleeve
 **VHYG** — Vanguard FTSE All-World High Dividend Yield UCITS ETF (Accumulating), LSE, ISIN `IE00BK5BR626`, **OCF 0.29%**, launched Sep 2019, ~$8.7bn. Tracks large/mid-cap high-yield across developed + emerging markets, excludes REITs. Accumulating = dividends reinvest inside the fund automatically, matching the accumulate-then-switch strategy above. USD-denominated despite the LSE listing — check whether your platform applies FX per purchase.
 
