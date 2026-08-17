@@ -1,5 +1,29 @@
 # Changelog
 
+## 2026-08-17 — Weekly Research Refresh
+
+### Summary
+All stock prices refreshed to ~17 Aug 2026. **CBRS** Q2 12 Aug — mixed: EPS beat but GAAP revenue miss drove ~15% drop; cloud revenue +281% YoY and $25.4B RPO remain the long-term bull signal. **QNT** Q2 11 Aug — strong beat, revenue +279% YoY; leaped to $68 from $52. **RKLB** awarded $397M Space Force Flatellite contract (SB-AMTI) on 4 Aug — total $663M in Space Force awards. **BE** surged to $232 on analyst Buy initiation + confirmed Q2 momentum (+166% YoY revenue). **SEDG** returned to non-GAAP profitability for first time in ~3 years in Q2; +99% YTD. **CRCL** surged to $104 (+55%) on OCC national trust bank final approval + GENIUS Act tailwind. **SPCX** recovered to $137 (+19% from $115). **DIV section**: three new income names added — AT&T (T, ~5.6% yield), Aviva (AV., ~7.5%), National Grid (NG., ~5.5%) — growing towards a 14-name diversified income portfolio. Yield refreshes: O ~4.9%, VZ ~5.9%, MO ~6.5%, XOM ~2.6%, LGEN ~7.2%, BATS ~6.2%. ETF notes updated to ~17 Aug 2026. All section date comments refreshed.
+
+### Key outcomes from this week's catalysts (11–17 Aug)
+- **CBRS** Q2 12 Aug — EPS beat; GAAP revenue miss; cloud +281% YoY; $25.4B RPO; dropped to $190 from $218
+- **QNT** Q2 11 Aug — revenue +279% YoY beat; leaped to $68 from $52 (+31%)
+- **RKLB** — $397M Space Force Flatellite (SB-AMTI) contract awarded 4 Aug; total $663M Space Force awards; steady at $83
+- **BE** — analyst Buy initiated; surged to $232 from $195 (Aug 17 range $227-$248)
+- **SEDG** — returned to non-GAAP profitability Q2 (first time ~3 years); revenue +20% YoY; up to $52 from $44; +99% YTD
+- **CRCL** — OCC national trust bank FINAL approval confirmed; surged to $104 from $67 (+55%)
+- **SPCX** — recovered to $137 from $115 (+19%)
+- **ALAB** — continued Q2 beat momentum; up to $379 from $334
+
+### Other price moves (week of 17 Aug)
+- NVDA $225 from $217.94 — building ahead of 26 Aug earnings
+- MRVL $233 from $219 — AI ASIC tailwinds
+- GEV $1,063 from $990 — Q2 miss fully digested
+- AVAV $193 from $187; KTOS $62 from $55 (sector sympathy)
+- PLTR $174 from $172; ASTS $68 from $72; HOOD $96 from $93
+- VST $147, CEG $279, CCJ $99 — power/nuclear sector softer
+- CHYM pulled back to $24 from $33.30; AFRM $75 from $85 ahead of 26 Aug earnings
+
 ## 2026-08-10 — Weekly Research Refresh
 
 ### Summary
