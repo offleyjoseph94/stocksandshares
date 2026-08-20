@@ -97,6 +97,7 @@ The weekly deep-dive agent updates this table. **The question it answers: is ado
 | Date | Price | Mkt cap | On-chain tx trend | ODL / payments volume | ETF flows | Escrow re-locked | Notes |
 |---|---|---|---|---|---|---|---|
 | 2026-08-14 | ~$1.00–1.10 | ~$62.7bn | Falling | $95bn cumulative (Jan 26) | $1.4bn+ inflows, price fell anyway | 600–800m of 1bn/mo | Baseline |
+| 2026-08-20 | ~$1.00 | ~$62.9bn | Falling (exchange supply at 7-yr low, but user growth weak) | $95bn+ cumulative; 70+ corridors; 30–50% 2026 growth projected but no confirmed data | Weekly inflows collapsed 93% (w/e Aug 8): $14.86M → $1.01M; 7 ETFs hold 992.5M XRP; cumulative net inflows $1.51bn | ~700–800M of 1bn released re-locked; net ~200–300M into circulation | **Bearish reading.** ETF inflow collapse 93% WoW is the most important signal this week — exactly the opposite of "sustained net ETF inflows coinciding with price strength" that would change the picture. Price flat/down from baseline at ~$1.00. No named institutions disclosing XRP inventory holdings. ODL projected growth is still a projection, not reported data. Escrow re-lock rate broadly unchanged. Still a sentiment bet with weakening institutional momentum. No "what would change the picture" signals have triggered. |
 
 **What would genuinely change the picture (watch for these):**
 - On-chain XRP transaction counts *rising* sustainably rather than falling

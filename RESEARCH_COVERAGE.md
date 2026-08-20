@@ -2,13 +2,13 @@
 
 Tracks which watchlist tickers have received a weekly deep-dive in the **current** cycle. When all tickers in the universe have been covered, the cycle increments and the list resets.
 
-**Note:** The watchlist expanded from 34 to 61 stocks at start of Cycle 2, then to 65 stocks (20 Jul 2026: +MRVL, +BWXT, +KTOS, +RCAT, +INFQ, -BBAI), then to 70 stocks (13 Aug 2026: +ARM, +CHYM, +ARQQ, +XNDU, +IQMX, -SERV). Cycle 2 covers the full 70-stock universe.
+**Note:** The watchlist expanded from 34 to 61 stocks at start of Cycle 2, then to 65 stocks (20 Jul 2026: +MRVL, +BWXT, +KTOS, +RCAT, +INFQ, -BBAI), then to 70 stocks (13 Aug 2026: +ARM, +CHYM, +ARQQ, +XNDU, +IQMX, -SERV). As of 20 Aug 2026, the rotation universe is **expanded to include all 14 DIV (income/dividend) names and all 5 CRYPTO names** — giving a total universe of **89 tickers** (70 stockData + 14 DIV + 5 CRYPTO).
 
 ---
 
 ## Current cycle: 2
 
-## Covered this cycle (50/70)
+## Covered this cycle (62/89)
 - COIN (2026-07-16)
 - CEG (2026-07-16)
 - NVDA (2026-07-23)
@@ -59,14 +59,30 @@ Tracks which watchlist tickers have received a weekly deep-dive in the **current
 - IQMX (2026-08-13)
 - HOOD (2026-08-13)
 - PYPL (2026-08-13)
+- VHYG [DIV] (2026-08-20)
+- LGEN [DIV] (2026-08-20)
+- O [DIV] (2026-08-20)
+- VZ [DIV] (2026-08-20)
+- MO [DIV] (2026-08-20)
+- BATS [DIV] (2026-08-20)
+- IUKD [DIV] (2026-08-20)
+- T [DIV] (2026-08-20)
+- XOM [DIV] (2026-08-20)
+- KO [DIV] (2026-08-20)
+- JNJ [DIV] (2026-08-20)
+- AV. [DIV] (2026-08-20)
 
-## Not yet covered this cycle (20)
-MRVL, ALAB, NBIS, CRWV, CBRS, ETN,
+## Not yet covered this cycle (27)
+**stockData (20):** MRVL, ALAB, NBIS, CRWV, CBRS, ETN,
 UUUU, UEC, DNN,
 EOSE, SQM, SLDP, ARRY,
 RDW, ONDS, UMAC, RCAT,
 XNDU,
 CHYM, ERAS
+
+**DIV (2):** NG., HSBA
+
+**CRYPTO (5):** BTC, ETH, SOL, XRP, cETN
 
 ---
 
