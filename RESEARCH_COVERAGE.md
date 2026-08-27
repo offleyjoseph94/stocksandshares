@@ -8,7 +8,7 @@ Tracks which watchlist tickers have received a weekly deep-dive in the **current
 
 ## Current cycle: 2
 
-## Covered this cycle (62/89)
+## Covered this cycle (74/89)
 - COIN (2026-07-16)
 - CEG (2026-07-16)
 - NVDA (2026-07-23)
@@ -71,18 +71,29 @@ Tracks which watchlist tickers have received a weekly deep-dive in the **current
 - KO [DIV] (2026-08-20)
 - JNJ [DIV] (2026-08-20)
 - AV. [DIV] (2026-08-20)
+- NG. [DIV] (2026-08-27)
+- HSBA [DIV] (2026-08-27)
+- BTC [CRYPTO] (2026-08-27)
+- ETH [CRYPTO] (2026-08-27)
+- SOL [CRYPTO] (2026-08-27)
+- XRP [CRYPTO] (2026-08-27)
+- cETN [CRYPTO] (2026-08-27)
+- MRVL (2026-08-27)
+- ALAB (2026-08-27)
+- ETN (2026-08-27)
+- NBIS (2026-08-27)
+- CHYM (2026-08-27)
 
-## Not yet covered this cycle (27)
-**stockData (20):** MRVL, ALAB, NBIS, CRWV, CBRS, ETN,
+## Not yet covered this cycle (15)
+**stockData (15):** CRWV, CBRS,
 UUUU, UEC, DNN,
 EOSE, SQM, SLDP, ARRY,
 RDW, ONDS, UMAC, RCAT,
-XNDU,
-CHYM, ERAS
+XNDU, ERAS
 
-**DIV (2):** NG., HSBA
+**DIV:** all 14 covered ✓
 
-**CRYPTO (5):** BTC, ETH, SOL, XRP, cETN
+**CRYPTO:** all 5 covered ✓
 
 ---
 
