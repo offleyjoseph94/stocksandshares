@@ -1,5 +1,82 @@
 # Changelog
 
+## 2026-08-31 — Weekly Research Refresh
+
+### Summary
+All stock prices, ETF prices, and dividend yields refreshed to ~31 Aug 2026. **NVDA** massive Q2 FY27 beat (26 Aug): revenue $96.22B +106% YoY, EPS $2.22, Data Center $89B +117%, Q3 guidance $108B — triggered broad AI/semiconductor rally; NVDA $255 from $225. **AFRM** massive Q4 FY2026 beat (27 Aug): EPS $4.62 vs $0.85 consensus, GMV $14.1B +36%, FY2027 guidance >$64B GMV; AFRM $96 from $75. **PYPL** drama: Stripe/Advent $53B takeover bid announced mid-July, rejected as too low, deal collapsed 28 Aug — PYPL -12.7% to $54. **OKLO** milestone: Groves Isotope Test Reactor first criticality 5 Aug 2026 — first private-land reactor under DOE Reactor Pilot Program; OKLO $48. **Nuclear/uranium sector** up +16% in August: UUUU $15 (+39%), UEC $13 (+38%), DNN $3.80 (+33%), CCJ $108, uranium spot $88-89/lb +34% YoY. **KLAR** H1 results (18 Aug): Q2 revenue $1.042B +27% YoY, adj. operating income $91M +214%, net income positive; KLAR $20 from $18. **NTRA** added to watchlist (Fintech & Other genre): precision oncology ctDNA testing, Q2 record volumes, revenue +38% YoY, Signatera Japan PMDA approval, $315, Barclays PT $340. **Quantum** sector consolidating after Q2 surge: QNT $50, RGTI $16, QBTS $18 (all with profit-taking despite strong fundamentals). **Solar**: Trump emergency order banning foreign inverter imports — SEDG $33 (sharp pullback but UBS upgraded Buy, $42 PT), ENPH $37, ARRY $7.50 (beneficiary). **CEG** Calpine acquisition closed Jan 7, 2026 — now nation's largest electricity producer at 55 GW; $300. **VST** $170 on Meta 20-year nuclear PPA 2,609 MW. **PLTR** $186 (record Q2: US commercial +150% YoY, US govt +90%, FCF margin 63%). **DIV section**: LGEN yield ~7.5% (from ~7.2%), BATS ~5.8% (from ~6.2%), Aviva ~7% (from ~7.5%), HSBC ~5% (was "verify"). Header/disclaimer updated to 31 August 2026.
+
+### Key catalysts (18–31 Aug 2026)
+- **NVDA** Q2 FY27 (26 Aug) — $96.22B revenue +106% YoY, EPS $2.22, Q3 guidance $108B; AWS 2M GPU + Vera CPU deal announced; NVDA $255 (+13%)
+- **AFRM** Q4 FY2026 (27 Aug) — EPS $4.62 vs $0.85 consensus (+444% beat); GMV $14.1B +36%; AFRM $96 (+28%)
+- **PYPL** takeover saga — Stripe/Advent $60.50/sh bid collapsed 28 Aug; PYPL -12.7% to $54; standalone thesis must prove out
+- **OKLO** Groves Isotope Test Reactor first criticality (5 Aug) — first private-land reactor under DOE Reactor Pilot Program; acquired Atomic Alchemy; $48
+- **KLAR** H1 (18 Aug) — Q2 revenue $1.042B +27% YoY, adj. OI $91M +214%, net income $9M; H1 adj. OI $159M = 4x all 2025; $20
+- **CEG** Calpine acquisition closed Jan 7 — nation's largest electricity producer 55 GW; analyst Buy PT $520; $300
+- **VST** Meta 20-year nuclear PPA 2,609 MW (Perry/Davis-Besse/Beaver Valley); $170
+- **Uranium sector** — nuclear +16% August (best month 2026); uranium spot $88-89/lb +34% YoY; UUUU +39%, UEC +38%, DNN +33%
+
+### New addition
+- **NTRA** (Natera, NASDAQ): Precision oncology ctDNA testing (Signatera MRD assay). Q2 beat (7 Aug): record test volumes, revenue +38% YoY. Signatera Japan PMDA approval for colorectal cancer MRD detection. Barclays PT $340. Genre: Fintech & Other (Biotech/Precision Medicine). Risk: aggressive. Horizon: medium. Revolut: likely. Price: $315.
+
+### Price moves (key changes from Aug 17)
+| Ticker | Before | After | Driver |
+|--------|--------|-------|--------|
+| NVDA | $225 | $255 | Q2 FY27 mega-beat, Q3 guidance $108B |
+| AMD | $421 | $450 | Semiconductor rally post-NVDA |
+| MRVL | $233 | $240 | CEO raised multi-year outlook; +150% YTD |
+| ARM | $274 | $285 | Led Aug 26 AI chip rally |
+| CCJ | $99 | $108 | Uranium spot +34% YoY; nuclear sector +16% |
+| OKLO | $45 | $48 | First criticality milestone |
+| LEU | $195 | $200 | Uranium rally |
+| CEG | $279 | $300 | Calpine closed; analyst PT $520 |
+| VST | $147 | $170 | Meta 20-yr 2,609 MW nuclear PPA |
+| UUUU | $11 | $15 | +39% uranium August rally |
+| UEC | $9.55 | $13 | +38% uranium August rally |
+| DNN | $2.85 | $3.80 | +33% uranium August rally |
+| SEDG | $52 | $33 | Profit-taking + pullback; BUT Trump inverter ban = UBS Buy, $42 PT |
+| ENPH | $40 | $37 | Slight pullback; limited incremental from inverter ban |
+| ARRY | $7.10 | $7.50 | Inverter ban beneficiary |
+| PLTR | $174 | $186 | Record Q2: US commercial +150% YoY, FCF margin 63% |
+| RKLB | $83 | $64 | Sector pullback; record backlog $2.36B; Cantor PT $122 |
+| ASTS | $68 | $58 | Pullback; new BlueBird sats ~200 Mbps; revenue backlog $1.3B |
+| QNT | $68 | $50 | Profit-taking post-Q2 surge; avg analyst PT $98.75 |
+| RGTI | $17 | $16 | Quantum sector consolidating; analyst PT $28.81 |
+| QBTS | $22 | $18 | Profit-taking; H1 bookings $36M (12x YoY) |
+| CRCL | $104 | $92 | Valuation giveback; IBM blockchain patent deal |
+| KLAR | $18 | $20 | H1 results beat; adj. OI 4x all-2025 |
+| AFRM | $75 | $96 | Q4 FY2026 massive beat (EPS +444% vs consensus) |
+| COIN | $149 | $157 | Stablecoin rotation; USDC/Circle deal renewed |
+| SOFI | $18.30 | $19 | Piper Sandler Overweight $22 PT |
+| PYPL | $68 | $54 | Stripe/Advent bid collapsed 28 Aug; -12.7% |
+
+### ETF price moves
+| Ticker | Before | After |
+|--------|--------|-------|
+| SMH | $652 | $685 |
+| BOTZ | $39 | $41 |
+| URA | $42 | $49 |
+| NLR | $112 | $122 |
+| ICLN | $22 | $23 |
+| ITA | $272 | $275 |
+| UFO | $54 | $55 |
+| QTUM | $165 | $160 |
+| FINX | $29 | $30 |
+| XBI | $165 | $168 |
+| IBB | $199 | $201 |
+| LIT | $67 | $67 |
+
+### DIV yield refreshes
+| Name | Before | After |
+|------|--------|-------|
+| LGEN | ~7.2% | ~7.5% |
+| BATS | ~6.2% | ~5.8% |
+| Aviva | ~7.5% | ~7% |
+| HSBC | verify | ~5% |
+
+### IPO pipeline updates
+- **Anthropic**: Valuation narrative changed to ~$2T IPO target (would be largest IPO in history, surpassing SpaceX ~$1.77T). ARR >$65B (7x growth from end-2025). Public S-1 filing expected imminently (late Aug 2026); target Sep or early Oct 2026 listing.
+- **Kraken (Payward)**: IPO process restarted; targeting October 2026 listing (was "paused Mar 2026, 2027 at earliest").
+
 ## 2026-08-17 — Weekly Research Refresh
 
 ### Summary
