@@ -8,7 +8,7 @@ Tracks which watchlist tickers have received a weekly deep-dive in the **current
 
 ## Current cycle: 2
 
-## Covered this cycle (74/89)
+## Covered this cycle (86/89)
 - COIN (2026-07-16)
 - CEG (2026-07-16)
 - NVDA (2026-07-23)
@@ -83,17 +83,27 @@ Tracks which watchlist tickers have received a weekly deep-dive in the **current
 - ETN (2026-08-27)
 - NBIS (2026-08-27)
 - CHYM (2026-08-27)
+- CRWV (2026-09-03)
+- CBRS (2026-09-03)
+- UUUU (2026-09-03)
+- UEC (2026-09-03)
+- DNN (2026-09-03)
+- EOSE (2026-09-03)
+- SQM (2026-09-03)
+- SLDP (2026-09-03)
+- ARRY (2026-09-03)
+- RDW (2026-09-03)
+- ONDS (2026-09-03)
+- UMAC (2026-09-03)
 
-## Not yet covered this cycle (15)
-**stockData (15):** CRWV, CBRS,
-UUUU, UEC, DNN,
-EOSE, SQM, SLDP, ARRY,
-RDW, ONDS, UMAC, RCAT,
-XNDU, ERAS
+## Not yet covered this cycle (3)
+**stockData (3):** RCAT, XNDU, ERAS
 
 **DIV:** all 14 covered ✓
 
 **CRYPTO:** all 5 covered ✓
+
+**Next run:** 3 remaining tickers (RCAT, XNDU, ERAS) will close Cycle 2 and then a new Cycle 3 begins — top up from fresh cycle to reach 12.
 
 ---
 
