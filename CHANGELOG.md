@@ -1,5 +1,58 @@
 # Changelog
 
+## 2026-09-07 — Weekly Research Refresh
+
+### Summary
+All stock prices, ETF prices, and dividend data refreshed to ~7 Sep 2026. **AVGO** Q3 FY2026 beat (Sep 2): revenue $29.59B, AI revenue $16.7B +221% YoY, EPS $3.32, record FCF $13.7B; Q4 AI guide $21.7B +236% YoY; FY2027 AI semis $115B; mixed Q4 revenue guide ($34.8B vs $35.03B consensus) triggered partial sector pullback. **NVDA** digesting post-earnings at $230 (from $255); Hugging Face $12.93B acquisition announced; Q3 guidance $108B intact. **MRVL** ~$215 (~10% sector dip week Sep 2–6; 44 analysts Buy, avg PT $285). **CLARITY Act** signed Sep 3 — digital-asset market-structure legislation: **CRCL** +16.5% to $103; **COIN** +5% to $165; **HOOD** +further lift to $104. Sep 1 yield repricing hit rate-sensitive fintech: **AFRM** $96→$71, **SOFI** $19→$17. **IONQ** SkyWater Technology acquisition received final regulatory approval — now vertically integrated with in-house domestic chip fab. **RGTI** $16→$13 (down ~21% YTD) despite 100x speedup milestone Sep 2. **QBTS** $18→$17; **QNT** $50→$49 (bookings $81M YTD, Quanta Computer partnership). American Quantum Competitiveness Act advancing US House Sep 3. **Section 232 MIP** confirmed (signed Aug 6, effective Dec 4): **FSLR** $224→$305 (CdTe zero polysilicon = structural winner; Wells Fargo PT $320); **SEDG** $33→$57 (double catalyst: MIP + inverter import ban). **Uranium** spot softened to ~$81/lb (from $88-89/lb): **CCJ** $108→$100, **OKLO** $48→$40 (profit-taking post-milestones). **Nuclear utilities** easing: **GEV** $1,063→$942 (Rivian CFO appointed), **VST** $170→$153, **CEG** $300→$295, **BWXT** $206→$157. **Defence & Space**: **SPCX** $137→$148 (Starship Flight 14 targeting Sep 15); **RKLB** $64→$60 (Neutron 2027 slip risk per Sep 4 reporting; 94th Electron launch Sep 2); **ASTS** $58→$63 (Cantor PT $90; Q2 revenue $31.5M from $1.2M prior year); **KRMN** Walker Precision Engineering acquisition Sep 1; **PLTR** $186→$174. **Kraken** IPO: October 2026 target definitively off, pushed to Q2 2027 or later. **Anthropic** IPO: ARR ~$47B annualised, October Nasdaq listing still targeted, public S-1 expected imminently. **DIV section**: LGEN Sep 25 payment (GBX 6.24/sh) flagged; BATS new CFO Sep 1, ex-div Oct 1; Aviva ex-div Sep 3, payment Oct 15; HSBC yield compressed to ~3.7% (from ~5%) as stock has risen; VZ 6th consecutive earnings beat, +30% YTD; AT&T buyback focus noted; Realty Income 115th consecutive quarterly increase. **Three new DIV additions**: ENB (Enbridge, ~5.4% yield, 31-year streak, pipeline infrastructure), IMB (Imperial Brands, ~6% yield, Sep 30 payment imminent, LSE-listed no WHT), ABBV (AbbVie, ~3.3% yield, Dividend King 50+ consecutive increases, biopharma). DIV section now 17 names.
+
+### Key catalysts (1–7 Sep 2026)
+- **AVGO** Q3 FY2026 (Sep 2) — revenue $29.59B beat, AI revenue $16.7B +221% YoY beat, EPS $3.32, record FCF $13.7B; Q4 guide $34.8B (vs $35.03B consensus — slight miss); FY2027 AI semis $115B target; Citi PT $515
+- **CLARITY Act** signed Sep 3 — digital-asset market-structure legislation; CRCL +16.5%; COIN +5%; HOOD further lift
+- **Sep 1 yield repricing** — risk-off hit BNPL/rate-sensitive names: AFRM -26% to $71; SOFI -11% to $17
+- **IONQ** SkyWater Technology acquisition final regulatory approval granted — vertically integrated domestic chip fab
+- **RGTI** 100x quantum speedup milestone demonstrated Sep 2 (stock still -21% YTD)
+- **American Quantum Competitiveness Act** advancing in US House Sep 3
+- **Section 232 MIP** (signed Aug 6) taking effect Dec 4 — structural solar catalyst confirmed: FSLR $305, SEDG $57
+- **RKLB** Neutron launch window 2026 narrowing — 2027 slip possible per Sep 4 reporting; 94th Electron launch Sep 2
+- **ASTS** Cantor Fitzgerald raised PT to $90 (Sep 3); Q2 revenue $31.5M from $1.2M prior year
+- **KRMN** Walker Precision Engineering acquisition completed Sep 1 (European missile/guidance capabilities)
+- **Starship Flight 14** targeting Sep 15 — near-term SPCX binary catalyst
+- **Kraken** IPO October 2026 target definitively off — Q2 2027 or later now most likely
+
+### New additions
+- **ENB** (Enbridge, NYSE): Energy infrastructure pipelines, ~5.4% yield, 31-year consecutive annual dividend increase streak. Infrastructure toll-road model; Canadian domicile (WHT verification needed vs standard US W-8BEN). Risk: steady. Horizon: long.
+- **IMB** (Imperial Brands, LSE): Tobacco, ~6% yield, Sep 30 2026 payment imminent, LSE-listed (no UK withholding). Risk: steady. Horizon: long.
+- **ABBV** (AbbVie, NYSE): Healthcare biopharma, ~3.3% yield, Dividend King (50+ consecutive increases). Post-Humira diversification into Skyrizi/Rinvoq; FCF generative. Risk: safe-ish. Horizon: long.
+
+### Price moves (key changes from Aug 31)
+| Ticker | Before | After | Driver |
+|--------|--------|-------|--------|
+| NVDA | $255 | $230 | Post-earnings digestion; Hugging Face $12.93B acquisition |
+| AVGO | $420 | $385 | Q3 beat but Q4 guide $34.8B vs $35.03B consensus mixed reaction |
+| MRVL | $240 | $215 | Semiconductor sector digestion; no company-specific negative |
+| ARM | $285 | $252 | Post-AVGO pullback; joined Olix $312M AI photonic round |
+| FSLR | $224 | $305 | Section 232 MIP confirmed (CdTe zero polysilicon = structural winner) |
+| SEDG | $33 | $57 | Double catalyst: MIP + inverter import ban |
+| ENPH | $37 | $45 | Solar sector rally |
+| CCJ | $108 | $100 | Uranium spot softened to ~$81/lb |
+| OKLO | $48 | $40 | Nuclear profit-taking post-milestones |
+| GEV | $1,063 | $942 | Nuclear/utility sector profit-taking |
+| VST | $170 | $153 | Nuclear sector giving back August gains |
+| BWXT | $206 | $157 | Nuclear/defence sector profit-taking |
+| SPCX | $137 | $148 | Recovery; Starship Flight 14 Sep 15 targeting |
+| RKLB | $64 | $60 | Neutron 2027 slip risk per Sep 4 reporting |
+| ASTS | $58 | $63 | Cantor PT $90; Q2 revenue $31.5M from $1.2M |
+| PLTR | $186 | $174 | Slight sector rotation post-Q2 record highs |
+| RGTI | $16 | $13 | Quantum sector drift; -21% YTD |
+| QBTS | $18 | $17 | Quantum sector easing |
+| QNT | $50 | $49 | Consolidation; bookings $81M YTD |
+| CRCL | $92 | $103 | CLARITY Act signed Sep 3 (+16.5%) |
+| AFRM | $96 | $71 | Sep 1 yield repricing; BNPL hit hardest |
+| SOFI | $19 | $17 | Sep 1 yield repricing; rate-sensitive digital banks |
+| HOOD | $96 | $104 | Held through Sep 1 risk-off; CLARITY Act crypto boost |
+| COIN | $157 | $165 | CLARITY Act Sep 3 (+5%) |
+| ERAS | $18.38 | $16 | Biotech profit-taking after 700%+ run |
+
 ## 2026-08-31 — Weekly Research Refresh
 
 ### Summary
