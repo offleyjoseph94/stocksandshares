@@ -6,9 +6,36 @@ Tracks which watchlist tickers have received a weekly deep-dive in the **current
 
 ---
 
-## Current cycle: 2
+## Current cycle: 3
 
-## Covered this cycle (86/89)
+## Covered this cycle (9/89)
+- NVDA (2026-09-10)
+- AVGO (2026-09-10)
+- GEV (2026-09-10)
+- CEG (2026-09-10)
+- FSLR (2026-09-10)
+- BE (2026-09-10)
+- PLTR (2026-09-10)
+- IONQ (2026-09-10)
+- CRCL (2026-09-10)
+
+## Not yet covered this cycle (80/89)
+**stockData:** TSM, AMD, VRT, MRVL, ALAB, CRDO, NBIS, CRWV, CBRS, ANET, ETN, ARM, CCJ, OKLO, LEU, FLNC, VST, TLN, UUUU, UEC, DNN, BWXT, ENPH, NXT, QS, AMPX, EOSE, ALB, SQM, SEDG, SLDP, ARRY, SPCX, VOYG, KRMN, RDW, ONDS, UMAC, AVAV, RKLB, ASTS, KTOS, RCAT, RGTI, QBTS, QNT, QUBT, ARQQ, INFQ, XNDU, IQMX, KLAR, CHYM, ERAS, COIN, AFRM, NU, SOFI, RXRX, NTRA, HOOD, PYPL (61 stockData names)
+**DIV (14):** O, VZ, T, MO, XOM, KO, JNJ, LGEN, BATS, AV., NG., HSBA, ENB, IMB *(plus ABBV, VHYG/VHYL, IUKD)*
+**CRYPTO (5):** BTC, ETH, SOL, XRP, cETN
+
+---
+
+---
+
+## Cycle 2 — COMPLETE (89/89, closed 2026-09-10)
+
+### Final 3 (closed 2026-09-10):
+- RCAT (2026-09-10)
+- XNDU (2026-09-10)
+- ERAS (2026-09-10)
+
+### Earlier Cycle 2 coverage (86 names, 2026-07-16 through 2026-09-03):
 - COIN (2026-07-16)
 - CEG (2026-07-16)
 - NVDA (2026-07-23)
@@ -95,15 +122,6 @@ Tracks which watchlist tickers have received a weekly deep-dive in the **current
 - RDW (2026-09-03)
 - ONDS (2026-09-03)
 - UMAC (2026-09-03)
-
-## Not yet covered this cycle (3)
-**stockData (3):** RCAT, XNDU, ERAS
-
-**DIV:** all 14 covered ✓
-
-**CRYPTO:** all 5 covered ✓
-
-**Next run:** 3 remaining tickers (RCAT, XNDU, ERAS) will close Cycle 2 and then a new Cycle 3 begins — top up from fresh cycle to reach 12.
 
 ---
 

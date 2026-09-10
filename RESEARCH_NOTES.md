@@ -1,3 +1,283 @@
+# 2026-09-10 — Cycle 2 close (RCAT, XNDU, ERAS) + Cycle 3 open: NVDA, AVGO, GEV, CEG, FSLR, BE, PLTR, IONQ, CRCL
+
+This run closes the final three uncovered names from Cycle 2 (RCAT, XNDU, ERAS) and immediately opens **Cycle 3** with nine further names, bringing the week's total to 12. The nine Cycle 3 openers prioritise names with the most significant recent catalysts across five genres: AI compute (NVDA, AVGO), energy & nuclear (GEV, CEG), clean & batteries (FSLR, BE), defence & space (PLTR), quantum (IONQ), and fintech (CRCL). The investor holds RGTI in the ISA and buys VUAG and VHYG weekly — that context shapes the emphasis here. Research date: **10 September 2026**. All figures are approximate from the dashboard (~7 Sep 2026 snapshot) and publicly available sources; re-verify before acting. Nothing here is financial advice or a recommendation to buy or sell.
+
+---
+
+## RCAT — Red Cat Holdings
+**Genre: Defence & Space | Risk: Moonshot | Price: ~$8.50 | Revolut: Likely**
+
+**What it does:** Red Cat Holdings designs and manufactures **small unmanned aircraft systems (sUAS)** for the US military. Its two primary products are the **Teal 2** (a compact, fully autonomous quadrotor for intelligence, surveillance and reconnaissance — ISR — missions) and the **Black Widow** (a foldable rapid-deployment system targeting special-operations forces). Both products are **NDAA Section 848-compliant**, meaning they are on the Pentagon's approved procurement list for drone hardware. This is the defining competitive prerequisite: DJI and other Chinese-made drones are prohibited from US military procurement, and Section 848 compliance is the gateway to any US defence drone contract.
+
+**How it makes money:** Government contracts (US Army, SOCOM, and potentially allied nation sales) for drone hardware units and associated software/services. Revenue is lumpy by nature — large contract awards are followed by unit deliveries over multi-quarter periods. The company appears to generate minimal recurring revenue; most income is hardware-delivery-based.
+
+**Latest results and financial health:** The dashboard notes the price has recovered to **~$8.50** (up from $7), which tracks the broader defence sector rally following AeroVironment's landmark Q4 FY2026 beat (+100% YoY revenue). No specific RCAT quarterly figures are disclosed in the dashboard, and the description of a "tiny revenue base" and "lumpy government procurement schedule" suggests revenues remain very small relative to the market cap. The company is almost certainly pre-profitability.
+
+**Bull thesis:** The addressable market is enormous and structural. Every US military unit that currently uses DJI or other prohibited drones needs an NDAA-compliant replacement — and the Pentagon's FY2026 drone budget is **$13.4bn**. RCAT's AUSA (Association of the United States Army) contract wins for ISR missions confirm the products are qualified and procured. At $8.50 with a market cap probably in the $500–700m range (microcap), the pricing reflects early-stage risk rather than contract ramp potential. If even a few significant named Army or SOCOM contracts are announced, the stock reprices sharply.
+
+**Catalysts ahead:** Named US Army production contract awards; SOCOM sUAS procurement decisions; Black Widow AUSA qualification milestones; any expansion into allied nation procurement; Unusual Machines (UMAC, competitor on watchlist) results that validate the category.
+
+**Main risks:** Government procurement is unpredictable — a single programme delay can shift a fiscal year's revenue dramatically. The drone market is competitive: UMAC, Skydio (private), and (in the future) Anduril's small-drone capabilities all compete for the same procurement budgets. Red Cat is a microcap with limited balance-sheet buffer against a delayed contract award — dilutive equity raises are a live risk. Single-source contract concentration means the loss of any one major programme would be highly material. The stock has moved from $7 to $8.50 partly on sector sentiment; news-driven reversals would be violent.
+
+**Competitive position:** Within the NDAA-compliant sUAS market, the main listed competitor is Unusual Machines (UMAC, also on the watchlist). UMAC sells drone components; RCAT sells complete systems — a differentiated but related position. AeroVironment (AVAV) is a much larger, more established defence drone maker (Switchblade, Wasp) but competes at different capability tiers. Red Cat's advantage is the Teal 2's maturity at the small-unit ISR role and SOCOM credibility through the Black Widow.
+
+**Rough valuation:** At ~$8.50/share with a market cap in the $500–700m range (exact share count not in dashboard — estimate only), this is almost entirely a speculative valuation on future contract ramp. No meaningful P/E or EV/Revenue can be applied with confidence. The bet is binary: either RCAT wins significant Army/SOCOM production contracts and the revenue base scales to support the valuation, or it remains a very small player and the market cap drifts lower. Size strictly within the moonshot sleeve.
+
+---
+
+## XNDU — Xanadu Quantum Technologies
+**Genre: Quantum | Risk: Moonshot | Price: ~$3.50 | Revolut: Unsure (buy via Trading 212)**
+
+**What it does:** Xanadu is a **photonic quantum computing company** — it builds quantum computers using photons (particles of light) rather than superconducting circuits or trapped ions. The photonic approach has a theoretically compelling advantage: photons can operate at **room temperature** (no dilution refrigerator needed), travel at the speed of light through optical components, and can in principle be manufactured using standard semiconductor photonic fabrication processes. Xanadu's near-term hardware is the **Borealis** chip, which demonstrated a form of quantum computational advantage (Gaussian boson sampling) in 2022. Its longer-term goal is **fault-tolerant photonic quantum computing by approximately 2030**.
+
+Beyond hardware, Xanadu built **PennyLane** — an open-source quantum machine learning framework that has become one of the most widely used software platforms in the quantum computing research community, analogous to TensorFlow or PyTorch but for quantum algorithms. PennyLane integrates with IBM, Google, Amazon, and IonQ hardware, giving Xanadu an ecosystem position that outlasts any particular hardware generation.
+
+Xanadu listed on Nasdaq via SPAC merger in March 2026, with IBM, Microsoft and Amazon named as partners (though at this stage partnership generally means cloud access agreements rather than deep commercial commitments).
+
+**How it makes money:** Currently pre-revenue or near-zero revenue. Future revenue paths include cloud quantum computing access fees (Borealis through Amazon Braket), software licensing (PennyLane commercial extensions), and hardware sales to national research labs and government agencies.
+
+**Latest results and financial health:** The stock has **collapsed from ~$10.24 to ~$3.50 — a -65.3% decline in approximately six months** since the SPAC listing in March 2026. This is a typical SPAC trajectory: the SPAC structure often inflates the initial listing price as arbitrageurs exit, leaving the underlying company to find its fundamental value. At $3.50, the market cap is probably in the **$100–200m range** (SPAC mergers typically result in ~30–60m shares outstanding post-merger, though dilution from PIPE investors and warrants often adds more — verify the share structure). This is a very low absolute market cap for a quantum computing company, but still likely a significant premium to any near-term fundamental value.
+
+**Bull thesis:** Photonic quantum computing has structural advantages that could make it the winning long-term architecture — particularly for distributed quantum networking and certain error-correction approaches (measurement-based quantum computing, which is native to photonic systems). PennyLane's ecosystem position means Xanadu has developer mindshare regardless of which hardware architecture wins. The 2030 fault-tolerant target is ambitious but not implausible given the pace of photonic component improvement. IBM, Microsoft and Amazon partnerships suggest the ecosystem credibility is real. At $3.50 following a -65% SPAC collapse, the risk/reward profile has improved substantially relative to the listing price.
+
+**Catalysts ahead:** PennyLane adoption milestones (GitHub stars, download count, academic citations — this is the key near-term metric); Borealis cloud availability expansions; any new photonic hardware benchmarks or qubit-count announcements; government research contracts (DARPA, NSF, EU quantum flagship); a revenue or commercial partnership announcement proving the quantum-as-a-service model generates real income.
+
+**Main risks:** Photonic quantum computing faces a fundamental challenge: **two-qubit gate operations on photons are non-deterministic** — photon-photon interactions are weak, requiring probabilistic schemes that reduce circuit efficiency. Measurement-based approaches partly address this but add their own complexity. Pre-revenue companies that listed via SPAC often need additional funding. The 2030 fault-tolerant target has never been demonstrated on any photonic platform. SPAC dilution risk from warrants convertible below $3.50. Illiquid microcap — very volatile.
+
+**Competitive position:** The main photonic QC competitor is **PsiQuantum** (private, likely the best-funded photonic quantum company, targeting fault-tolerant silicon photonics). Among *listed* photonic quantum companies, XNDU is the most visible. The PennyLane software framework gives Xanadu a competitive position in quantum software that is genuinely differentiated — it is hardware-agnostic and could generate value even if the Borealis hardware fails to scale.
+
+**Rough valuation:** At $3.50 and an estimated $100–200m market cap, this is almost entirely option value on the 2030 fault-tolerant roadmap and PennyLane ecosystem. No revenue-based multiple applies. Size as a very small moonshot.
+
+---
+
+## ERAS — Erasca
+**Genre: Frontier Biotech (listed under "Fintech & Other" in dashboard) | Risk: Moonshot | Price: ~$16 | Revolut: Unsure**
+
+**What it does:** Erasca is a **precision oncology company** focused on the RAS/MAPK signalling cascade — a family of proteins (KRAS, NRAS, HRAS and their downstream effectors) mutated in approximately **25–30% of all human cancers**. RAS-mutant cancers include pancreatic (~90% KRAS-mutant), colorectal (~45%), and NSCLC (~30%), among others.
+
+Historically, RAS proteins were considered **"undruggable"** because their GTPase surface has no obvious pocket for small molecules to bind. The FDA approved two KRAS G12C-specific drugs in 2021-2022 (sotorasib, adagrasib), but these cover only one specific mutation. **ERAS-0015 is a "pan-RAS molecular glue"** targeting all RAS mutations — a novel mechanism that stabilises RAS in its inactive state via allosteric binding. If it works across KRAS, NRAS, and HRAS mutations, the addressable patient population is vastly larger than G12C-only drugs.
+
+**How it makes money:** Pre-commercial. Future revenue from potential drug royalties, milestone payments from licensing partnerships, or direct commercialisation. Currently burning cash through Phase 1 trials.
+
+**Latest results and financial health:** Phase 1 monotherapy trials for ERAS-0015 have shown **confirmed partial responses** — measurable tumour shrinkage in patients. This is genuinely significant: Phase 1 trials are primarily designed to establish safety and dosing, not efficacy; confirmed partial responses in a safety study indicate pharmacological activity in actual tumours. ERAS-4001 (a second programme) is also in Phase 1 with data pending. Cash runway extends to **H2 2028** — adequate to fund both readouts without near-term dilution from cash constraints. Stock has run **+700%+ over the prior 12 months** and has now pulled back from $18.38 to ~$16.
+
+**Bull thesis:** Pan-RAS coverage is a vastly larger commercial prize than G12C-only drugs — approximately 25% of all cancer patients vs ~3-4% with the G12C mutation specifically. Molecular glues are a **validated drug modality**: thalidomide derivatives (lenalidomide, pomalidomide) are molecular glues that generated billions in peak sales, proving the mechanism scales commercially. Confirmed Phase 1 responses mean ERAS-0015 is biologically active in patients — not just a computational prediction. H2 2026 Phase 1 full data readout is the near-term catalyst; meaningful response rates would make Erasca an acquisition target for Big Pharma. Cash runway removes near-term dilution risk.
+
+**Catalysts ahead:** ERAS-0015 Phase 1 full monotherapy dataset (H2 2026) — the primary binary; ERAS-4001 Phase 1 data; combination therapy results (ERAS-0015 + MEK inhibitor, the standard next step); Big Pharma licensing or partnership deal.
+
+**Main risks:** Phase 1 → Phase 2 success rates in oncology are historically ~50-60%. **Durability of responses is unknown** — partial responses lasting 2-3 months are less commercially valuable than durable responses. **Revolution Medicines (RVMD)** is a direct competitor with a pan-RAS programme further along in clinical development. The +700% run means bad Phase 1 data will cause a violent reversal. Do not oversize beyond a moonshot allocation.
+
+**Competitive position:** Directly competitive with Revolution Medicines (RVMD, public) on the pan-RAS indication; Amgen and BMS hold G12C-approved drugs in the narrower indication. If both a molecular glue and RVMD's covalent approach achieve approval, the RAS-mutant cancer market is large enough for multiple drugs. Erasca's molecular glue mechanism is mechanistically differentiated.
+
+**Rough valuation:** At ~$16 and approximately 80–120m shares (estimate), market cap is roughly $1.3–2bn. For a pre-Phase 2 oncology asset with confirmed Phase 1 activity in a ~30%-of-cancers indication, this is not obviously irrational if the Phase 1 data holds up. Pan-RAS assets with Phase 1 activity are routinely valued at $500m–$3bn at acquisition. Size as a moonshot only.
+
+---
+
+## — CYCLE 3 BEGINS — Run 1: NVDA, AVGO, GEV, CEG, FSLR, BE, PLTR, IONQ, CRCL
+
+Cycle 2 is now complete (89/89). Cycle 3 opens with nine names selected for recent news density, relevance to the investor's portfolio (VUAG is S&P 500 exposure, so NVDA/AVGO/PLTR are all held indirectly), and genre balance.
+
+---
+
+## NVDA — Nvidia
+**Genre: AI & Compute | Risk: Balanced | Price: ~$230 | Revolut: Yes**
+
+**What it does:** Nvidia designs the GPUs that have become the world's essential AI compute hardware, and — critically — builds the **CUDA software ecosystem** around those chips. CUDA is the deep-learning framework layer built over 15 years; switching from Nvidia GPUs to AMD or Intel alternatives requires rewriting entire toolchain layers. This software moat allows Nvidia to maintain 70–80% market share in AI datacenter accelerators despite competitors closing the raw chip performance gap.
+
+Revenue breakdown (Q2 FY2027): **Data Center $89B (+117% YoY)** within total revenue of $96.22B. Data Center is nearly the entire business now.
+
+**How it makes money:** Hardware sales (Hopper/Blackwell GPU platforms, DGX systems, NVLink interconnects); software and services (CUDA, DGX Cloud, NIM microservices); system-level AI factory partnerships.
+
+**Latest results (Q2 FY2027, reported late August 2026):** Revenue $96.22B (+106% YoY) — beat. EPS $2.22 — beat. Data Center $89B (+117% YoY) — beat. Q3 FY2027 guidance: ~$108B. **Blackwell** GPUs shipping at record pace. **Vera Rubin** platform on track for H2 2026 ramp. **AWS deal** (2 million GPUs + Vera CPU commitment) confirms hyperscalers cannot substitute Nvidia compute internally. **$12.93B acquisition of Hugging Face** (leading AI model hub, dataset repository, ML tools) expands Nvidia's ecosystem into the developer layer above the chip. Stock has pulled back to ~$230 from ~$255 post-earnings peak on sector digestion.
+
+**Bull thesis:** AI compute demand is the largest capex cycle in a generation. Every hyperscaler spends hundreds of billions on AI infrastructure with Nvidia GPUs at the centre. CUDA moat makes switching costly and slow. Blackwell is the dominant current product; Vera Rubin extends the roadmap through 2027-2028. Hugging Face acquisition deepens the ecosystem into the developer community. Analyst consensus: **57 buys, 1 sell; average PT $327** (~42% upside from $230). The $108B Q3 guidance run-rate implies ~$430B+ annualised revenue — placing Nvidia among the most revenue-prolific companies in history.
+
+**Catalysts ahead:** Q3 FY2027 earnings (November 2026) — confirming whether the $108B guide holds; Vera Rubin ramp milestones; hyperscaler capex guidance in their own Q3 earnings (each upward revision is a direct NVDA revenue signal); China export control policy updates.
+
+**Main risks:** China export controls (H20 chip restrictions reduce addressable market in a historically significant revenue geography). Hyperscaler customer concentration — any capex slowdown hits directly. AMD MI400 narrowing the raw performance gap (though not the CUDA ecosystem gap). Hugging Face integration ($12.93B acquisition) introduces execution risk. Valuation: ~104x trailing EPS on Q2's $2.22 — but forward P/E on FY2027 estimates is likely 35-45x given the growth trajectory, which is not obviously irrational for 100%+ YoY revenue growth at 55-60% net margins.
+
+**Competitive position:** Dominant. AMD and Intel are the only GPU alternatives; custom ASICs (Broadcom for Google TPUs, Marvell for Amazon Trainium) complement rather than replace Nvidia because they serve specific inference niches while Nvidia GPUs handle both training and general inference. Nvidia's real long-term risk is its customers successfully designing chips to avoid Nvidia — a process playing out over years.
+
+**Rough valuation:** Market cap ~$5.6T at $230 (~24.4bn shares). At $108B Q3 guidance run-rate (~$430B annualised), P/S ~13x. P/E on FY2027 estimates likely 35-45x. Analyst PT $327 = ~42% upside. The key risk is whether hyperscaler capex decelerates in 2027-2028.
+
+---
+
+## AVGO — Broadcom
+**Genre: AI & Compute | Risk: Balanced | Price: ~$385 | Revolut: Yes**
+
+**What it does:** Broadcom is a semiconductor conglomerate with two distinct businesses: (1) **AI custom ASIC design** for hyperscalers — it designs application-specific chips (Google TPUs, Meta MTIA, Apple AI silicon, ByteDance AI ASICs) purpose-built for specific AI workloads, manufactured on TSMC's leading-edge nodes; (2) **networking silicon** — Ethernet switching (Tomahawk, Trident), Wi-Fi, and broadband chips. After the VMware acquisition, a third pillar adds (3) **enterprise software** (VMware virtualisation and cloud infrastructure) providing stable, high-margin recurring revenue.
+
+**How it makes money:** Chip revenue (AI ASICs + networking) plus VMware software subscriptions. AI ASIC revenue is the fastest-growing segment, generated via multi-year hyperscaler design partnerships — each taking 2–4 years from chip design to volume production.
+
+**Latest results (Q3 FY2026, reported early September 2026):** Revenue $29.59B — beat. EPS $3.32 — beat. **AI revenue: $16.7B (+221% YoY)** — exceptional. Record FCF: **$13.7B (46% of revenue)** — one of the best FCF conversion rates in semiconductors. FY2027 AI semiconductor target raised to **$115B**; FY2028 target $230B. Q4 FY2026 guidance: revenue $34.8B (slightly below $35.03B consensus — caused brief market pullback), AI chips guided $21.7B (+236% YoY). Citi raised PT to **$515** = ~34% upside from $385.
+
+**Bull thesis:** Custom AI ASICs for hyperscalers are a multi-hundred-billion-dollar opportunity as hyperscalers want custom silicon to reduce NVIDIA dependency and improve cost efficiency. Broadcom serves Google, Meta, Apple, and others as a strategic design partner. FY2027 ($115B) and FY2028 ($230B) AI semiconductor targets suggest multi-year hyperscaler order visibility. At **46% FCF margin**, capital returns are sustainable. VMware integration smooths cyclicality. Citi PT $515 = ~34% upside.
+
+**Catalysts ahead:** Q4 FY2026 results (December 2026) — confirming $21.7B AI chip guide; new hyperscaler ASIC partnership announcements; Apple AI chip expansion; FY2027 guidance crystallising the $115B AI semiconductor outlook.
+
+**Main risks:** Q4 revenue guide slightly missed consensus — suggests near-term order pace may be normalising. Hyperscaler customer concentration in AI ASIC revenue. NVIDIA building custom ASIC capabilities could encroach. VMware integration complexity. 
+
+**Competitive position:** Broadcom and Marvell are the only credible custom AI ASIC designers for US hyperscalers at scale. Broadcom's Google TPU partnership is 10+ years old — an embedded relationship competitors cannot replicate quickly. In networking silicon (Tomahawk/Trident Ethernet switching), Broadcom is the default choice for hyperscaler AI clusters.
+
+**Rough valuation:** Approximate market cap ~$1.6T at $385 (~4.2bn shares). FCF ~$55B annualised → FCF yield ~3.4% at $1.6T. Forward P/E on FY2026 consensus likely 30-35x, declining toward 20x FY2027 as AI revenue flows through. FY2028 $230B AI semiconductor target, if achieved, makes current valuation look conservative. Citi PT $515 seems reasonable on this trajectory.
+
+---
+
+## GEV — GE Vernova
+**Genre: Energy & Nuclear | Risk: Steady | Price: ~$942 | Revolut: Likely**
+
+**What it does:** GE Vernova (spun out of GE in April 2024) is the world's premier **power generation and grid technology company**. Three segments: (1) **Power** — gas turbines (HA-class, world's most efficient large gas turbines; plus aeroderivatives for distributed power); (2) **Wind** — onshore/offshore wind turbines (currently loss-making on legacy offshore contracts); (3) **Electrification** — grid equipment (transformers, switchgear, HVDC systems) and the **BWRX-300 small modular reactor** programme.
+
+**How it makes money:** Long-term service agreements (LTSAs) on the installed turbine base (recurring); new turbine and wind orders (one-time); grid equipment projects; SMR licensing (pre-revenue investment stage).
+
+**Latest results and financial health:** Stock at **~$942**, pulled back from ATH of **$1,174.86 on 30 June 2026** — approximately 20% below peak. Gas turbines **sold out through 2030**; AI electrification data-centre orders **$2.4B in Q1 alone**; **BWRX-300 SMR received first Western hemisphere construction approval** in Ontario — a landmark regulatory milestone. New CFO (former Rivian CFO) appointed. Analyst mean PT: **$1,236 (24 buys, 6 outperforms, 7 holds)** = ~31% upside.
+
+**Bull thesis:** AI data centres need electricity at a scale and pace the existing grid cannot support — utility interconnection queues run years; gas turbines can be ordered and installed in 24–36 months. The sell-out through 2030 backlog makes GEV's revenue visible and defensible in a way unusual for industrials. The grid itself needs massive investment (transformers, HVDC, switchgear) for electrification and EV charging — GEV's Electrification segment benefits directly. The BWRX-300 construction approval in Ontario is a decade-long catalyst for the SMR sector globally.
+
+**Catalysts ahead:** Q3 2026 earnings — backlog revenue recognition; BWRX-300 Ontario construction commencement and timeline; new hyperscaler/utility gas turbine order announcements; wind segment margin recovery trajectory.
+
+**Main risks:** **Wind segment structurally loss-making** on offshore contracts signed at pre-inflation pricing — will persist through 2026-2027. Steel and copper tariffs increase turbine manufacturing costs without immediate pass-through on backlog contracts. SMR timeline uncertainty: construction approval ≠ operating reactor; first power from BWRX-300 Ontario likely 2030+.
+
+**Competitive position:** GEV's HA-class gas turbines operate at ~65% combined-cycle efficiency — among the highest globally. Competitors are Siemens Energy (German, own manufacturing challenges) and Mitsubishi Power (Japanese). In grid equipment, competes with ABB, Siemens, and Hitachi. The gas turbine backlog through 2030 exceeds any competitor's quoted lead times — GEV is the preferred supplier for premium new-build gas capacity globally.
+
+**Rough valuation:** ~$942 × ~270m shares = ~$254B market cap. FY2026 revenue likely $36-40B range, growing rapidly → P/S ~6.5-7x. Premium for backlog quality and SMR optionality. At PT $1,236 (31% upside), implied market cap ~$334B. Wind losses are the primary drag — if fully resolved, the gas-turbine-plus-grid business is meaningfully more valuable.
+
+---
+
+## CEG — Constellation Energy
+**Genre: Energy & Nuclear | Risk: Balanced | Price: ~$295 | Revolut: Yes**
+
+**What it does:** Constellation Energy, following the **$16.4B acquisition of Calpine** (closed January 2026), is now the **largest electricity producer in the United States** with approximately **55 GW of generating capacity**. Constellation is the largest US nuclear fleet operator (~21 GW of nuclear capacity, ~12% of all US nuclear power) plus gas generation from the Calpine assets. The nuclear fleet provides carbon-free, firm baseload electricity 24/7 — exactly what AI data centres need for long-term Power Purchase Agreements.
+
+**How it makes money:** Electricity sales at market prices (merchant generation); increasingly through **20-year PPAs** with Microsoft (TMI Crane Clean Energy Center — Three Mile Island Unit 1 restarted), Amazon, and Meta at fixed prices above market, providing income certainty for decades.
+
+**Latest results and financial health:** Price **~$295** (broadly flat since Calpine close). **Analyst Buy PT $520** = ~76% upside — one of the largest consensus gaps on the watchlist, suggesting analysts believe the PPA cashflows are not fully priced by the market.
+
+**Bull thesis:** Nuclear is the only carbon-free, firm baseload electricity source that can operate at 21 GW+ scale — no amount of solar/wind can replicate this reliability without enormous storage investment. AI data centres want "always on, always green" — nuclear guarantees both simultaneously at GW scale. 20-year PPAs at above-market pricing lock in premium revenue streams discounting to substantial present value. Post-Calpine, Constellation is a near-monopoly of premium nuclear-plus-gas baseload in the US. Each new hyperscaler PPA announcement is a direct re-rating catalyst.
+
+**Catalysts ahead:** Q3 2026 earnings (PPA revenue recognition, Calpine integration costs, fleet reliability metrics); new long-term PPA announcements; capacity price market outcomes in PJM/MISO; nuclear licence extensions beyond 60 years to 80 years.
+
+**Main risks:** Interest rate sensitivity — utilities with long-duration contracted cashflows are partly valued as bond equivalents; rate rises compress PV of PPA cashflows and depress the stock. Nuclear cost overruns and unplanned outages are unpredictable and expensive. Calpine integration complexity ($16.4B acquisition). Regulatory risk: NRC approvals required for operational changes and life extensions.
+
+**Competitive position:** No other US utility has Constellation's combination: 21 GW nuclear baseload scale, premium PPAs with Microsoft/Amazon/Meta, and gas-plus-nuclear diversity. Vistra (VST, also on watchlist) is the next-largest nuclear operator but more concentrated in deregulated Texas markets. In the AI power PPA market, Constellation has first-mover advantage and the highest-quality nuclear reputation with hyperscalers.
+
+**Rough valuation:** ~$295 × ~337m shares = ~$99B market cap. Electric utilities typically trade at 12-20x earnings. With Calpine integration costs and capacity market variability, a clean FY2027 EBITDA multiple would be most indicative. The analyst PT of $520 implies the PPA cashflows, properly discounted, support approximately 2x the current stock price — the thesis is "the market hasn't fully priced the long-duration contracted cashflows."
+
+---
+
+## FSLR — First Solar
+**Genre: Clean & Batteries | Risk: Balanced | Price: ~$305 | Revolut: Likely**
+
+**What it does:** First Solar is the **largest US manufacturer of solar panels** and the only significant manufacturer to use **cadmium telluride (CdTe) thin-film technology** — a process that deposits CdTe on glass substrates using vapour deposition, completely different from conventional polysilicon-based manufacturing. First Solar produces in the US (Ohio, two factories), Malaysia, India, and Germany. The CdTe process uses **zero polysilicon**.
+
+**How it makes money:** Solar panel sales (predominantly large utility-scale projects in the US and Europe); project development and services. The $13.6B contracted backlog provides multi-year manufacturing visibility — customers commit to purchase at fixed prices before panels are made.
+
+**Latest results (Q2 2026):** EPS $3.92 (vs $3.01 estimate — large beat). **Gross margin 57%** — exceptional for a manufacturer. Backlog $13.6B. Results confirm that FSLR's technology differentiation is translating into pricing power, not just volume.
+
+**Section 232 structural catalyst:** On **6 August 2026**, the Trump administration signed Section 232 MIP orders: $21/kg minimum price for polysilicon; $0.38/W for modules; plus 15% ad valorem tariffs on Chinese/SE Asian solar hardware. Because FSLR uses **zero polysilicon**, it faces **zero incremental cost** while competitors face a mandatory cost floor eliminating their historical price advantage. Wells Fargo PT raised to **$320** citing "asymmetric upside."
+
+**Bull thesis:** Section 232 MIP transforms the competitive landscape. Chinese/SE Asian manufacturers who undercut US producers by 40-60% on price now face a minimum cost floor; FSLR is immune. The $13.6B backlog provides multi-year visibility at 57% gross margins. US domestic content requirements for IRA incentives further advantage US-manufactured product. Regulatory tailwind is unusually bipartisan: IRA (Biden legacy) and Section 232 (Trump) both support US solar manufacturing.
+
+**Catalysts ahead:** December 2026 Section 232 effective date — first quarters of implementation data confirming whether competitor pricing moved up; Q3 2026 earnings and forward order update; any capacity expansion announcements.
+
+**Main risks:** Policy reversal — Section 232 MIPs are executive orders, though manufacturing-job-protection political calculus makes reversal difficult. Capacity-constrained — with $13.6B backlog, FSLR cannot sell more than it can make; factory issues cap revenue. Federal securities lawsuit outstanding (disclosed risk). A broad solar demand collapse (from rising interest rates making project financing uneconomical) would hit order cancellations.
+
+**Competitive position:** First Solar occupies a genuinely unique position — no other manufacturer at scale uses CdTe. The technical barrier (CdTe deposition equipment is proprietary, process took decades to develop) means no competitor can replicate in the short term. Among US manufacturers, FSLR is the only company capable of supplying utility-scale panels domestically at competitive cost post-Section 232.
+
+**Rough valuation:** ~$305 × ~107m shares = ~$33B market cap. Q2 EPS $3.92 annualised ≈ $15-16 FY2026 EPS → P/E ~19-20x at $305. That is a **very reasonable valuation** for a company with 57% gross margins, $13.6B backlog, and a structural moat created by Section 232. Wells Fargo PT $320 looks conservative — a re-rating toward 25-30x forward earnings would imply $375-450.
+
+---
+
+## BE — Bloom Energy
+**Genre: Clean & Batteries | Risk: Balanced | Price: ~$232 | Revolut: Likely**
+
+**What it does:** Bloom Energy makes **solid oxide fuel cell (SOFC) energy servers** — modular power generation systems producing electricity from natural gas (or hydrogen) through an electrochemical reaction rather than combustion. Each "Energy Server" is roughly parking-space-sized and generates 250kW. Key attributes for AI data centres: **fast deployment** (weeks to months vs years for grid connections), **always-on baseload** (no weather dependency), **cleaner than diesel backup**, and **on-site** (no transmission distance). Customers: Microsoft, AT&T, US Navy.
+
+**How it makes money:** Hardware sales of Energy Server installations (one-time); long-term service contracts (recurring); operating lease arrangements where Bloom retains ownership and charges for power (recurring). Service/lease revenues provide predictability; hardware is lumpier.
+
+**Latest results (Q2 2026):** **Revenue $1.07B (+166% YoY vs $826M estimate)** — massive beat. **EPS $0.78 vs $0.41 estimate** — beat. FY2026 guidance raised to **$3.9-4.2B**. The +166% YoY in a single quarter confirms a step-change in AI data centre power demand driving Bloom's orderbook. Analyst Buy coverage newly initiated August 2026 following these results.
+
+**Bull thesis:** AI data centres face **the most time-sensitive electricity demand in history** — hyperscalers order GPU clusters needing power within 12-18 months, but utility grid connections take 3-5 years. Bloom's fuel cell servers can be ordered and delivered on a timeline matching the GPU build-out — a structural demand pull from AI capex that doesn't exist for traditional utility customers. The +166% Q2 revenue growth is the most concrete evidence this thesis is translating into actual contracts. FY2026 guidance of $3.9-4.2B represents a dramatic step-up from the prior revenue base.
+
+**Catalysts ahead:** Q3 2026 revenue — confirming whether the +166% trend continues or normalises; FY2027 guidance update; hydrogen conversion announcements (any hyperscaler committing to run Bloom servers on green hydrogen would be long-term thesis confirmation); new customer wins beyond Microsoft/AT&T.
+
+**Main risks:** Natural gas is the feedstock — **rising gas prices directly compress margins and reduce attractiveness** relative to alternatives. The 52-week range of **$24–$351** shows extreme historical volatility. Q2's +166% growth could partially reflect one-time large contract recognition — Q3 will be the test. Customer concentration in the AI data centre sector; if hyperscalers pause capex, Bloom's orderbook could slow sharply.
+
+**Competitive position:** Bloom Energy's SOFC technology is highly differentiated — no other publicly listed company makes SOFC at comparable scale. Traditional backup power competitors (diesel generators, large gas turbines) cannot match Bloom's efficiency profile. Grid-scale batteries (FLNC, etc.) compete for shorter-duration storage but cannot replicate Bloom's always-on baseload profile.
+
+**Rough valuation:** At $232 and FY2026 guidance midpoint $4.05B, market cap approximately $60-65B (at ~265-280m shares estimated). P/S on $4.05B guidance ~15-16x — elevated but not extreme for a company growing at 166% YoY. 52-week high $351 provides a reference for prior peak; at $232, 34% below its own recent peak while revenue trajectory has materially improved.
+
+---
+
+## PLTR — Palantir Technologies
+**Genre: Defence & Space | Risk: Balanced | Price: ~$174 | Revolut: Yes**
+
+**What it does:** Palantir builds **AI decision intelligence platforms** for government (intelligence agencies, military, law enforcement — using Gotham) and commercial enterprises (using Foundry and AIP). **Gotham** was developed for the US intelligence community post-9/11 and is used by the CIA, NSA, DoD, GCHQ, and NATO. **AIP (AI Platform)** is the fastest-growing product: it sits on top of Gotham/Foundry and allows operators to build AI-powered applications using their own classified or proprietary data — combining LLMs with Palantir's data infrastructure and ontology layer.
+
+**How it makes money:** Software subscriptions (government multi-year contracts; commercial annual subscriptions); platform fees; minimal professional services.
+
+**Latest results (Q2 2026):** US commercial revenue **+150% YoY** — exceptional AIP adoption. US government revenue **+90% YoY** — TITAN AI targeting contract delivering. **Operating margin: 62%**. **FCF margin: 63%**. FY2026 guidance raised to **$8.15B**. The TITAN contract (US Army AI-enabled targeting) is a multi-year programme with physical deliveries ongoing. These metrics are exceptional across every dimension — growth, margin, and FCF.
+
+**Bull thesis:** Government AI is irreplaceable and embedded: removing Palantir from classified US military and intelligence operations would require years of transition — the switching cost is not economic but operational and classified. AIP at +150% YoY demonstrates that the commercial AI market is adopting Palantir's platform at an accelerating pace. 62% operating margins show the business scales with extraordinary efficiency. The TITAN contract proves Palantir can execute on physical battlefield AI delivery, not just software analytics. FCF margin 63% on $8.15B guidance implies ~$5B+ annual FCF — real capital generation.
+
+**Catalysts ahead:** Q3 2026 earnings (late October/November) — confirming whether 150% US commercial growth rate sustains; new NATO allied nation AIP deals; expansion of TITAN programme to Navy/Air Force; any civilian government AIP deployments.
+
+**Main risks:** **Valuation is the primary risk** — at ~100x trailing earnings, any deceleration in AIP commercial growth causes rapid multiple compression. SBC (stock-based compensation) at Palantir has historically been very high — GAAP profitability looks much worse than adjusted. US government budget politics: a continuing resolution or defence spending freeze directly hits government revenue. Analyst avg PT $191.68 = only ~10% upside from $174, suggesting consensus sees the stock fairly valued at current levels.
+
+**Competitive position:** Palantir's government position is near-impregnable. In commercial AI, AIP competes with Microsoft Copilot (enterprise data integration), Databricks, Snowflake. Palantir's differentiation: AIP can work on classified or highly sensitive data that cannot leave the organisation — bridging commercial AI capabilities to mission-critical use cases.
+
+**Rough valuation:** ~$174 × ~2.1bn shares ≈ $365B market cap. FY2026 guidance $8.15B → P/S ~45x. FCF at 63% margin on $8.15B = ~$5B+ annualised FCF → FCF yield ~1.4%. Expensive by every traditional metric; justified only by the exceptional growth trajectory and mission-critical embedded position. Analyst PT $191.68 suggests the market has broadly priced the known growth trajectory.
+
+---
+
+## IONQ — IonQ
+**Genre: Quantum | Risk: Moonshot | Price: ~$42 | Revolut: Likely**
+
+**What it does:** IonQ builds **trapped-ion quantum computers** — the most commercially advanced trapped-ion systems available. In trapped-ion QC, individual atoms (typically ytterbium or barium) are levitated in electromagnetic fields and their quantum states manipulated by laser pulses. The key technical advantage over superconducting (IBM, Google) is **substantially higher gate fidelity**: trapped-ion two-qubit gates routinely exceed 99.5% fidelity vs ~99% for best-in-class superconducting gates. Latest generation: **Cepheus-1-108Q** (108 qubits, 99.8% gate fidelity) available on AWS, Azure, and IonQ's own QCS.
+
+**How it makes money:** Cloud quantum computing access fees (per qubit-hour or circuit "shot"); government contracts (DoD, NIST, national labs); hardware co-development partnerships.
+
+**Latest results (Q2 2026):** Revenue **record $80M** (beat). FY2026 guidance raised to **$285M** (from $260-270M). **$470M backlog**. In September 2026, IonQ demonstrated **up to 100x quantum speedup** on specific computational tasks — a significant technical milestone. The **SkyWater Technology acquisition** (a US semiconductor foundry) received **final regulatory approval in September 2026**, making IonQ **vertically integrated** — able to manufacture photonic interposers and chip components domestically. This removes third-party fabrication dependency for specialised components and strengthens national-security credentials. American Quantum Competitiveness Act advancing in the US House (September 3).
+
+**Bull thesis:** Trapped-ion has the best gate fidelity of any near-term quantum platform — this matters because fault-tolerant quantum computing requires high-fidelity operations to implement error correction efficiently. IonQ is the only publicly traded trapped-ion company at commercial scale. Revenue is real and growing: $285M FY2026 guidance is meaningful commercial traction. The SkyWater acquisition is a long-term strategic move — domestic quantum chip manufacturing is becoming a national security priority. The American Quantum Competitiveness Act, if signed, would mandate government procurement of US quantum systems, directly benefiting IonQ.
+
+**Catalysts ahead:** Q3 2026 earnings — confirming the $285M FY2026 trajectory; American Quantum Competitiveness Act Congressional progress; SkyWater integration updates; new government contracts enabled by the domestic manufacturing credentials.
+
+**Main risks:** Quantum computing remains primarily a research and development market — commercial quantum advantage for commercially useful problems has not been definitively demonstrated. IBM and Google are investing billions in superconducting alternatives; neutral-atom platforms (QuEra, Infleqtion) are also maturing. P/S ratio at ~25x ($7B market cap / $285M guidance) is high. The 100x speedup demonstration needs validation for commercially relevant tasks. Dilution risk from SkyWater acquisition stack.
+
+**Competitive position:** Within trapped-ion, **Quantinuum** (QNT, also on watchlist) is the primary competitor with comparable gate fidelity. IonQ's advantages: broader cloud accessibility (AWS, Azure, Google Cloud, QCS); US-only IP and manufacturing post-SkyWater; most advanced revenue trajectory. Among all quantum approaches, IonQ is strongest in government and defence customer segments where US-origin requirements matter most. Note: the investor holds **RGTI (Rigetti)** in the ISA — IonQ and Rigetti occupy different quantum architecture niches (trapped-ion vs superconducting), so they are not directly substitutable but both serve the near-term quantum cloud market.
+
+**Rough valuation:** $42 × ~170m shares = ~$7.1B market cap. FY2026 revenue guidance $285M → P/S ~25x. High but declining as revenue grows. As revenue approaches $500M+ in FY2027 (if growth trajectory continues), P/S compresses to ~14-15x — more comparable to established SaaS. The bet is on quantum computing becoming commercially relevant by 2028-2030 with IonQ as the leading US trapped-ion platform.
+
+---
+
+## CRCL — Circle Internet Group
+**Genre: Fintech & Other | Risk: Aggressive | Price: ~$103 | Revolut: Likely**
+
+**What it does:** Circle is the company behind **USDC** (USD Coin), the second-largest US dollar stablecoin with approximately **$77B in circulation** (Q2 2026, +28% YoY). A stablecoin is a digital token pegged 1:1 to the US dollar, backed by actual dollar reserves held in regulated financial institutions and US Treasury bills. USDC serves as the digital dollar for on-chain transactions — used in DeFi protocols, cross-border payments, exchange settlements, and increasingly in real-world financial infrastructure. Circle is also becoming a regulated financial institution: it received **OCC national trust bank charter approval**, enabling it to operate as a bank-like entity under federal oversight.
+
+**How it makes money:** Circle holds the cash and US Treasury bills backing USDC in reserve; it earns **interest on those reserves** (~$3-4B+ gross annual interest income at current rates on $77B circulation). This model means revenue is **highly sensitive to Fed interest rates** — every 25bp rate cut on $77B reduces annual revenue by approximately $190M. Revenue is ~95% interest income. Additionally: IBM blockchain patent portfolio acquisition (680+ families) adds potential future licensing income.
+
+**Latest results (Q2 2026):** Revenue $701M (+6.6% YoY — modest growth because interest rates have moderated from 2023-2024 peak; USDC circulation growth +28% YoY partially offsets). **Net income turned positive** for the first time — a significant milestone. IBM blockchain patent acquisition confirmed.
+
+**The dual regulatory catalyst:** **GENIUS Act** (stablecoin-specific legislation, passed earlier in 2026) + **CLARITY Act** (digital-asset market-structure legislation, signed September 3, 2026) together provide the clearest US regulatory framework any stablecoin issuer has ever operated under. On CLARITY Act signing, CRCL surged **+16.5% in a single day**. USDC is explicitly structured to comply with both Acts — turning it from a crypto-native product into a federally sanctioned digital payment instrument eligible for bank, fintech, and institutional adoption without regulatory ambiguity.
+
+**Bull thesis:** Stablecoins are the "digital dollar infrastructure" for the internet economy. USDC is the most compliant, most regulated, and most institutionally trusted stablecoin behind Tether's USDT. The GENIUS Act + CLARITY Act dual framework enables banks, fintechs, and international payment networks to hold and transact USDC without regulatory ambiguity — expanding the addressable market from crypto-native use cases to mainstream financial infrastructure. USDC circulation growing 28% YoY despite a weak crypto market demonstrates structural adoption beyond speculation. OCC trust bank charter enables Circle to expand into direct bank relationships. IBM patent acquisition adds defensive IP moat.
+
+**Catalysts ahead:** Fed interest rate path — any rate increases are directly revenue-accretive; rate cuts are the primary headwind. GENIUS Act and CLARITY Act regulatory rulemaking (signed legislation creates framework; actual rules still being written). USDC circulation reaching $100B (narrative milestone). New distribution partnerships beyond Coinbase.
+
+**Main risks:** **Fed rate sensitivity** is the most direct financial risk — a full 200bp rate-cut cycle would reduce annual gross revenue by ~$1.5B on current $77B circulation. **Tether (USDT) competition**: USDT at ~$115B is 50% larger despite lower transparency — if institutional preference for USDT persists, USDC's growth ceiling is lower than the bull case requires. **Coinbase concentration**: COIN is both the primary distribution partner and a competitor; the revenue-sharing arrangement is a significant cost, and any renegotiation hits net revenue. Regulatory over-reach from rulemaking implementing the new Acts.
+
+**Competitive position:** In compliant USD stablecoins, USDC is clearly the leader post-GENIUS/CLARITY — USDT is larger but Cayman Islands-issued and faces institutional hesitancy under the new regulatory framework. PayPal's PYUSD and Ripple's RLUSD are smaller but growing alternatives. USDC's integration across global payment networks and Coinbase's global distribution make it the most likely dollar stablecoin to become mainstream for cross-border B2B payments.
+
+**Rough valuation:** ~$103 × ~415m shares ≈ $43B market cap. Annual revenue run rate ~$2.8B ($701M Q2 × 4). Net income positive but FY2026 net income likely $200-500M estimated → P/E roughly 90-200x. Expensive on traditional earnings; the thesis is that USDC becomes global digital dollar infrastructure, in which case the analogue is payment network valuations (Visa/Mastercard trade at 30-40x earnings with high market caps reflecting network value of payment rails). At $43B market cap with $77B circulation growing 28% YoY, the market is pricing a fraction of the "global digital dollar" outcome.
+
+---
+
+*Research complete: 10 September 2026. Cycle 2 closed (89/89). Cycle 3 opened with 9 names. All figures from dashboard (~7 Sep 2026 snapshot) and approximate public-domain sources — re-verify against live data before acting. Not financial advice.*
+
+---
+
 # 2026-09-03 — Cycle 2, Deep-dive 9: CRWV, CBRS, UUUU, UEC, DNN, EOSE, SQM, SLDP, ARRY, RDW, ONDS, UMAC
 
 This week covers the **final 12 of the 15 remaining Cycle 2 stockData names**, clearing the nuclear/uranium trio (UUUU, UEC, DNN), the clean-energy/battery group (EOSE, SQM, SLDP, ARRY), two AI compute names (CRWV, CBRS), and three defence/space names (RDW, ONDS, UMAC). Three names carry over to the next run which will open Cycle 3: RCAT, XNDU, ERAS. Research date: 3 September 2026. All figures are approximate; re-verify against live sources before acting. Dashboard prices from ~31 August 2026 snapshot.
