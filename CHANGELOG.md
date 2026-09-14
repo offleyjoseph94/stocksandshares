@@ -1,5 +1,60 @@
 # Changelog
 
+## 2026-09-14 — Weekly Research Refresh
+
+### Summary
+All stock prices, ETF prices, and dividend data refreshed to ~14 Sep 2026. **MACRO**: FOMC Sep 15–16 meeting with 85% market probability of a 25bp rate hike — the dominant near-term risk-off driver for rate-sensitive names (CRCL, SOFI, AFRM, Realty Income). **Quantum**: landmark week — $300M CHIPS Act DoC grants awarded Sep 9 ($100M each: RGTI +7.4%, QBTS +5.4%, QNT +3.9%); **IONQ** launched Superion 256 (industry's most powerful commercial quantum processor) at investor day Sep 8 AND raised FY2026 guidance from $285M → $450–460M (+60%); market sold off Sep 9 despite transformational news. **Semiconductor sector**: correction week — **SMH** $670→$568 (confirmed $568.49); **NVDA** $230→$218 (confirmed $218.29); **AVGO** $385→$365 (confirmed $364.91; ex-div $0.65 Sep 21); **GEV** $942→$924 (confirmed $923.91). **Defence & Space**: **RKLB** bounced $60→$64 after losing NASA $700M Mars contract to Blue Origin — filed GAO protest; Deutsche Bank raised PT to $73; **SPCX** $148→$151 (confirmed $151.21; Starship Flight 14 window now Sep 18); **AVAV** $193→$185 (BofA PT lowered to $185; RBC Hold); **PLTR** $174→$167 (confirmed $167.39; DA Davidson raised PT to $250). **Solar**: **FSLR** recalibrated $305→$249 (prior $305 was post-MIP intraday spike; market ~$248.88; Wells Fargo $320 PT = ~28% upside; Section 232 MIP thesis intact); **SEDG** $57→$58 (investor day Sep 10: $2.4B 2029 revenue target; -4% initial reaction then bounce); **ENPH** $45→$50 (SST modules Texas production Sep 8 = +5%); **OKLO** $40→$37 (Goldman Sachs ATM equity distribution agreement Sep 11 = dilutive). **Uranium**: **CCJ** $100→$97; uranium spot still soft ~$81/lb. **Fintech/Crypto**: **COIN** $165→$175 (confirmed ~$175; momentum continues); **HOOD** $104→$113 (Sep 13-14 range $111-116; crypto/regulatory rally); **CRCL** $103→$91 (confirmed $90.80; CLARITY Act profit-taking + FOMC fears). **SOFI** $17→$17.30 (confirmed Sep 13; FOMC cap). **AFRM** flat at $71.18 Sep 14. **IPO pipeline**: **Anthropic** ARR raised >$65B (from ~$47B); investor roadshow confirmed October 2026; price-setting imminent. **DIV section**: BATS yield jumped ~5.8%→~7.5% (yield trap warning — share price decline implied; verify dividend security before adding); Realty Income yield ~4.9%→~5.5% (price fell on rate-hike fears; annual dividend ~$3.25/sh); VZ compressed ~5.9%→~5.5% (price-rise-driven); AT&T compressed ~5.6%→~4.3% (post-restructure re-rating); Altria RAISED quarterly dividend $1.06→$1.11/sh (ex-div TODAY Sep 15); LGEN yield ~7.7% (search-confirmed 7.66%; Sep 25 payment imminent); Aviva compressed ~7%→~5.5% (went ex-div Sep 3; normal post-ex-div price recovery). **Quantum additions**: **RGTI** thesis updated to note CHIPS Act grant; **QBTS** updated; **QNT** updated. **Biotech stable**: ERAS $16 broadly flat; NTRA $315; RXRX $3.05.
+
+### Key catalysts (8–14 Sep 2026)
+- **IONQ Superion 256** — investor day Sep 8: launched industry's most powerful commercial quantum processor; FY2026 guidance raised $285M → $450–460M (+60%); Sep 9 -5.8% on analyst margin concern despite landmark news; Jefferies maintained PT $80
+- **CHIPS Act $300M quantum grants** (Sep 9) — $100M each to RGTI (+7.4%), QBTS (+5.4%), QNT (+3.9%); first major US government hardware grants to quantum computing sector
+- **RKLB NASA Mars contract** — lost ~$700M Mars Sample Return contract to Blue Origin; filed GAO bid protest (100-day review); Deutsche Bank raised PT to $73 despite news
+- **ENPH SST modules** — solid-state transformer module Texas production started Sep 8; +5% catalyst; SEDG investor day Sep 10 sets $2.4B 2029 revenue target
+- **OKLO Goldman ATM** — ATM equity distribution agreement with Goldman Sachs announced Sep 11; dilutive; shares fell ~7.5% to ~$37
+- **Altria dividend raise** — quarterly payout raised from $1.06 → $1.11/share; ex-dividend date Sep 15, 2026 (today at time of refresh)
+- **AVGO ex-dividend Sep 21** — $0.65/share quarterly; note for income-focused holders
+- **FOMC Sep 15–16** — 85% market probability of 25bp rate hike; directly impacts: Realty Income (REIT), CRCL (interest income), SOFI (loan margins), AFRM (cost of capital), HOOD (risk appetite)
+- **Starship Flight 14** — window moved to Sep 18; binary catalyst for SPCX
+- **Anthropic IPO roadshow** — October 2026; ARR >$65B confirmed (from ~$47B); price-setting imminent
+
+### Price changes (Sep 7 → Sep 14)
+| Stock | Prev | New | Note |
+|-------|------|-----|------|
+| NVDA | $230 | $218 | Sector digestion; confirmed $218.29 Sep 13 |
+| AVGO | $385 | $365 | Confirmed $364.91 Sep 14; ex-div $0.65 Sep 21 |
+| GEV | $942 | $924 | Confirmed $923.91 Sep 14 |
+| PLTR | $174 | $167 | Confirmed $167.39 Sep 13; DA Davidson PT→$250 |
+| SPCX | $148 | $151 | Confirmed $151.21 Sep 13; Flight 14 now Sep 18 |
+| RKLB | $60 | $64 | Lost NASA Mars contract; GAO protest filed; DB PT $73 |
+| AVAV | $193 | $185 | BofA PT lowered to $185; RBC Hold |
+| IONQ | $42 | $38 | Superion 256 + 60% guidance raise; Sep 9 -5.8% |
+| RGTI | $13 | $16 | CHIPS Act $100M grant; +7.4% Sep 9 |
+| QBTS | $17 | $18 | CHIPS Act $100M grant; +5.4% Sep 9 |
+| QNT | $49 | $52 | CHIPS Act $100M grant; +3.9% Sep 9 |
+| QUBT | $8 | $9 | Quantum sector recovery |
+| FSLR | $305 | $249 | Recalibration — prior was intraday spike; market ~$248.88; MIP thesis intact |
+| ENPH | $45 | $50 | SST modules Texas production Sep 8 (+5%); verify live |
+| SEDG | $57 | $58 | Investor day Sep 10; $2.4B 2029 target; -4% then bounce |
+| CRCL | $103 | $91 | CLARITY Act profit-taking + FOMC fears; confirmed $90.80 |
+| COIN | $165 | $175 | Crypto momentum; confirmed ~$175 Sep 13 |
+| HOOD | $104 | $113 | Crypto/regulatory rally; Sep 13-14 range $111-116 |
+| SOFI | $17 | $17.30 | Confirmed $17.30 Sep 13; FOMC cap |
+| AFRM | $71 | $71 | Flat; confirmed $71.18 Sep 14 |
+| CCJ | $100 | $97 | Uranium spot still ~$81/lb |
+| OKLO | $40 | $37 | Goldman ATM dilutive agreement Sep 11 |
+| SMH (ETF) | $670 | $568 | Confirmed $568.49 Sep 13; sector correction |
+
+### Dividend/yield changes (Sep 7 → Sep 14)
+| Name | Prev yield | New yield | Reason |
+|------|-----------|----------|--------|
+| Realty Income (O) | ~4.9% | ~5.5% | Price fell on FOMC rate-hike fears |
+| Verizon (VZ) | ~5.9% | ~5.5% | Yield compression: stock +30% YTD |
+| AT&T (T) | ~5.6% | ~4.3% | Yield compression: post-restructure re-rating |
+| Altria (MO) | ~6.5% | ~6.2% | Dividend RAISED $1.06→$1.11/qtr (ex-div Sep 15) |
+| Legal & General (LGEN) | ~7.5% | ~7.7% | Confirmed 7.66%; Sep 25 payment imminent |
+| BATS | ~5.8% | ~7.5% | Yield trap warning — price declined materially; verify dividend security |
+| Aviva (AV.) | ~7% | ~5.5% | Went ex-div Sep 3; normal post-ex-div price recovery |
+
 ## 2026-09-07 — Weekly Research Refresh
 
 ### Summary
