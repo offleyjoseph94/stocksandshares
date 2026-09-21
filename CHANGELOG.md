@@ -1,5 +1,64 @@
 # Changelog
 
+## 2026-09-21 — Weekly Research Refresh
+
+### Summary
+All stock prices, ETF prices, dividend data, and IPO pipeline refreshed to ~21 Sep 2026. **MACRO — CONFIRMED FOMC HIKE**: Federal Reserve hiked 25bp to 3.75–4.00% on Sep 16, 2026 — unanimous 12-0 vote, first hike since 2023. Markets read the unanimous vote as a "one and done" signal, triggering a risk-on rotation into high-beta tech and semis Sep 17–18. Net effect: semiconductors surged, solar sold off, rate-sensitive fintech fell. **Semiconductor rebound**: **AMD** $450→$560 (biggest beneficiary of risk-on rotation); **MRVL** $215→$244 (reclaimed prior dip); **NVDA** $218→$222; **SMH** ETF $568→$583. **Solar selloff**: **FSLR** $249→$203 (FOMC rate sensitivity + ITC/PTC tax credit uncertainty in budget reconciliation); **ENPH** $50→$37; **SEDG** $58→$36; **ICLN** ETF $25→$22. **Nuclear/energy**: FOMC "peak-hike" narrative drove nuclear sector rotation — **CCJ** $97→$102, **OKLO** $37→$41; however **CEG** $295→$278 (dual pressure: FOMC rate sensitivity on utilities + NRC operating licence extension now May 2027 = first electricity late 2027, not the earlier horizon). **Bloom Energy**: **BE** $232→$266 — class action lawsuit filed Sep 17 alleging misleading statements on Chinese scandium supply chain sourcing; stock initially rose to ~$281 then fell -5.4%, but still well above $195 pre-Q2 level. **Space**: **Starship Flight 14** delayed from Sep 18 → **Sep 28** (first orbital mission with Starlink V3 deployment); SPCX broadly flat at $151. **RKLB**: New catalyst — selected for **Space Based Interceptor (SBI) programme** alongside Raytheon; separately, GAO automatic stay on NASA Mars Sample Return contract protest means **Blue Origin must halt Mars work** until GAO decision (mid-December 2026 deadline). **Fintech post-FOMC**: rate-sensitive names fell — **HOOD** $113→$104, **CRCL** $91→$85, **AFRM** $71→$70, **SOFI** $17.30→$17.14; **FINX** ETF $31→$29. **AVGO ex-div**: went ex-dividend $0.65/share today Sep 21 — price at $349 reflects the natural adjustment. **IPO pipeline**: **Anthropic** valuation corrected — secondary market implies ~$1.05–1.15T (not $2T which was aspirational ceiling); public S-1 expected late September 2026; institutional roadshow mid-October; ARR >$65B annualised confirmed. **Anduril** valuation updated $38-40B → **$60B** (raised $4B at $60B valuation March 2026). **OpenAI** 2027 confirmed — CFO Friar Aug 19 statement definitive; September window definitively passed. **DIV section**: Realty Income yield widened to ~5.9% (FOMC hike pushed bond yields higher, compressing the share price); AT&T yield edged up to ~4.5%; LGEN Sep 25 payment this week (if held pre-ex-div).
+
+### Key catalysts (14–21 Sep 2026)
+- **FOMC confirmed 25bp hike** (Sep 16) — unanimous 12-0 vote; fed funds rate now 3.75–4.00%; first hike since 2023; markets read as "one and done" = risk-on for high-beta tech Sep 17–18
+- **Solar sector selloff** (Sep 10–17) — FOMC rate sensitivity + ITC/PTC tax credit uncertainty in US budget reconciliation; FSLR $249→$203, ENPH $50→$37, SEDG $58→$36
+- **AMD semiconductor surge** — $450→$560 (+24%); one of the biggest weekly moves in the watchlist; sector risk-on rotation post-FOMC
+- **Starship Flight 14 delayed** — Sep 18 window scrubbed; new target Sep 28 (first orbital Starlink V3 mission); SPCX held flat
+- **RKLB Space Based Interceptor** — selected for SBI programme with Raytheon; new significant defence credential; GAO auto-stay on NASA Mars protest = Blue Origin must halt work; mid-Dec decision deadline
+- **BE class action** — Bloom Energy sued Sep 17 over Chinese scandium supply chain sourcing allegations; stock spiked then fell -5.4%; net still above pre-Q2 $195
+- **CEG dual headwind** — FOMC utility rate sensitivity + NRC TMI operating licence now May 2027 (first electricity late 2027); $295→$278
+- **AVGO ex-dividend** — $0.65/share ex-div Sep 21 (TODAY); price at $349 reflects adjustment
+- **Anthropic IPO valuation reset** — secondary market implies $1.05–1.15T (not $2T aspirational ceiling); S-1 expected late September; roadshow mid-October
+- **Anduril valuation** — raised $4B at $60B valuation March 2026 (was $38-40B); IPO bar raised
+
+### Price changes (Sep 14 → Sep 21)
+| Stock | Prev | New | Note |
+|-------|------|-----|------|
+| AMD | $450 | $560 | FOMC risk-on rotation; semiconductor sector rebound |
+| MRVL | $215 | $244 | Sector rebound; reclaimed prior dip |
+| NVDA | $218 | $222 | Modest recovery; semiconductor sector |
+| AVGO | $365 | $349 | Ex-dividend $0.65 today Sep 21 |
+| FSLR | $249 | $203 | Solar selloff: FOMC hike + ITC/PTC uncertainty |
+| ENPH | $50 | $37 | Solar selloff |
+| SEDG | $58 | $36 | Solar selloff |
+| BE | $232 | $266 | Class action Sep 17 (scandium); spiked→fell -5.4% |
+| CCJ | $97 | $102 | Nuclear rotation post-FOMC peak-hike |
+| OKLO | $37 | $41 | Nuclear rotation |
+| CEG | $295 | $278 | FOMC rate sensitivity + NRC TMI licence May 2027 |
+| PLTR | $167 | $177 | Sector momentum post-FOMC |
+| ASTS | $63 | $59 | Profit-taking after Cantor PT raise |
+| IONQ | $38 | $40 | Quantum sector recovery post-FOMC |
+| CRCL | $91 | $85 | FOMC hike confirmed; risk-off fintech |
+| AFRM | $71 | $70 | FOMC rate hike cost-of-capital overhang |
+| SOFI | $17.30 | $17.14 | FOMC sentiment |
+| HOOD | $113 | $104 | FOMC hike cools retail/crypto trading sentiment |
+| SMH (ETF) | $568 | $583 | Semiconductor rebound |
+| URA (ETF) | $46 | $49 | Nuclear rotation |
+| NLR (ETF) | $118 | $123 | Nuclear rotation |
+| ICLN (ETF) | $25 | $22 | Solar selloff |
+| QTUM (ETF) | $158 | $163 | Quantum/tech recovery |
+| FINX (ETF) | $31 | $29 | FOMC fintech headwind |
+
+### Dividend/yield changes (Sep 14 → Sep 21)
+| Name | Prev yield | New yield | Reason |
+|------|-----------|----------|--------|
+| Realty Income (O) | ~5.5% | ~5.9% | FOMC confirmed hike pushed bond yields higher, compressing REIT price |
+| AT&T (T) | ~4.3% | ~4.5% | Slight share price pressure post-FOMC |
+| Verizon (VZ) | ~5.5% | ~5.4% | Broadly stable; telecoms less rate-sensitive than REITs |
+
+### IPO pipeline changes
+| Name | Prev val | New val/status | Note |
+|------|----------|----------------|------|
+| Anthropic | $2T targeted | $1.05–1.15T secondary-implied | $2T was aspirational ceiling; secondary market implies $1.05-1.15T; S-1 late Sep; roadshow mid-Oct |
+| Anduril | $38-40B | $60B | Raised $4B at $60B in March 2026 |
+| OpenAI | 2027 targeted | 2027 confirmed | CFO Friar Aug 19 statement — September window definitively passed |
+
 ## 2026-09-14 — Weekly Research Refresh
 
 ### Summary
