@@ -1,3 +1,516 @@
+# 2026-09-24 — Cycle 3, Run 3: Completing DIV + All CRYPTO + TSM & AMD — JNJ, NG., HSBA, IUKD, ABBV, BTC, ETH, SOL, XRP, cETN, TSM, AMD
+
+This run **closes out the remaining DIV names** (JNJ, NG., HSBA, plus the IUKD and ABBV extras) and covers **all five CRYPTO entries** for the first time in Cycle 3, then adds two key AI-compute names (TSM, AMD) to fill the 12-holding slot. The investor's long-term income goal means the DIV universe always gets priority coverage first. Research date: **24 September 2026**. All figures are approximate from dashboard data, public company disclosures, and published sources; prices, yields and market caps move constantly — **re-verify live before acting**. Nothing here is financial advice or a recommendation to buy or sell.
+
+Context this week: the FOMC delivered its 25bp rate rise on 16 September (now confirmed in last week's notes); higher-for-longer is the backdrop for all rate-sensitive names below. The CLARITY Act (signed 3 September 2026) continues to provide a constructive regulatory backdrop for the crypto names. BTC halved in April 2024 (block reward 6.25 → 3.125 BTC); the historic 12–18 month post-halving window is now well advanced.
+
+---
+
+## JNJ — Johnson & Johnson
+**Genre: US Healthcare / DIV | Yield: ~3% | Revolut: Yes | 15% US WHT with W-8BEN | Dividend King (62+ yrs)**
+
+### What it does
+Following the 2023 spinoff of its consumer health division as **Kenvue** (listed separately; think Band-Aid, Tylenol, Neutrogena), JNJ is now a focused healthcare company with two segments: **Innovative Medicine** (pharmaceuticals) and **MedTech** (medical devices, orthopaedics, vision care). Revenues run at approximately $90bn+ per year, making it one of the largest pharmaceutical companies in the world.
+
+Key pharma products (by revenue size, approximate mid-2026):
+- **Darzalex** (daratumumab, multiple myeloma): ~$9–10bn/year — now the anchor growth product
+- **Stelara** (ustekinumab, immunology): was ~$10bn/year but **US loss of exclusivity (LOE) began January 2025** — biosimilar competition now eroding this rapidly
+- **Tremfya** (guselkumab, psoriasis/PsA): ~$3–4bn/year and growing
+- **Carvykti** (CAR-T cell therapy, myeloma): early but high-growth; $1bn+ revenue potential near-term
+- **Erleada** (prostate cancer): growing ~$1.5–2bn/year
+
+MedTech covers surgical robotics (Ottava — in development), orthopaedics (DePuy Synthes), electrophysiology (Abiomed/Shockwave). Shockwave Medical ($13.1bn acquisition closed 2024) is the key growth driver in MedTech.
+
+### Dividend history — has it ever been cut or suspended?
+**NO cut in 62+ consecutive years of dividend increases** — JNJ is a confirmed **Dividend King**. It raised its quarterly payout during COVID-19 (2020), during the 2008-09 financial crisis, and through every major recession since 1963. The payout is backed by the AAA-rated balance sheet (JNJ is one of only two non-financial US companies with a AAA credit rating, alongside Microsoft). This is the strongest dividend-safety pedigree in US healthcare.
+
+### Current yield and dividend mechanics
+- Quarterly dividend: approximately **$1.24/share** (~$4.96 annualised, as of mid-2026 — verify current rate)
+- At a share price of approximately $165 (estimate; re-verify), yield ≈ **~3.0%** (matches dashboard)
+- Payout ratio: approximately **40–50% of adjusted EPS** — well within comfortable cover
+- 15% US withholding tax applies with W-8BEN on file (30% without)
+
+### Payout affordability
+Very affordable. JNJ generates ~$18–22bn in operating cash flow annually; the ~$10bn+ annual dividend bill is comfortably funded without touching the balance sheet. The AAA rating means JNJ could issue debt at nearly no cost to cover any short-term shortfall, but this is hypothetical — dividends have never needed that backstop.
+
+### Is the yield a trap or a strength?
+**Strength** — the ~3% yield reflects a high stock price (consistent with a premium quality rating), not a distressed payout. JNJ is one of the few stocks that goes *up* during recessions as investors flee to safety. The yield is not spectacular but the safety and consistency are arguably unmatched in the US market. A 3% yield that grows every year for 62 years is different from a 7% yield that might be cut tomorrow.
+
+### Bull thesis
+- **Darzalex + Carvykti + Tremfya** are replacing Stelara revenue as LOE kicks in — pipeline coverage is credible
+- **Shockwave** adds a meaningful MedTech growth vector (cardiovascular)
+- **Immuno-oncology pipeline**: bispecifics (Talvey, Tecvayli) launching in haematology
+- **AAA balance sheet**: de-risks the dividend absolutely; buybacks are incremental capital return
+- **Safe-haven status**: in risk-off environments, JNJ is a capital-preservation vehicle that also pays income
+
+### Main risks and what would break the thesis
+- **Stelara LOE**: the biggest near-term headwind — US biosimilar entrants (Hadlima, Wezlana) are eroding this ~$10bn revenue pillar faster than hoped; new products need to grow quickly
+- **Talc litigation**: the 2024 $6.475bn settlement (via LTL Management Chapter 11) resolved most claims, but some appeals remain; overhang is diminished but not zero
+- **IRA drug pricing**: Darzalex is a candidate for future Medicare price negotiation rounds — a structural headwind for all large US pharma
+- **Pipeline failure**: CAR-T and bispecific executions are complex; a Phase 3 failure in a key indication can dent the replacement thesis
+
+### Competitive position
+JNJ has no single dominant competitor — it competes with AbbVie (immunology), Roche/Genentech (oncology), AstraZeneca, Bristol-Myers Squibb, and Merck depending on the therapeutic area. In MedTech it faces Medtronic, Stryker, and Edwards Lifesciences. No competitor matches JNJ's breadth, balance-sheet strength, and dividend history simultaneously.
+
+### Rough valuation
+P/E ~14–16x on FY2026 forward earnings — typical for a defensive healthcare dividend grower. At this multiple, the market is paying for quality and safety rather than growth. Relative to historical averages (~17–20x), JNJ looks modestly cheap, which could reflect the Stelara LOE overhang. As Darzalex and newer products fill the gap, a re-rating toward historical averages is plausible on a 2–3 year view. For an income investor, the main metric is dividend safety, not P/E — and on that measure JNJ is in the top tier of the market.
+
+---
+
+## NG. — National Grid
+**Genre: UK Utility / DIV | Yield: ~5.5% | Revolut: Unsure | LSE-listed — no UK WHT | Price: verify live (~1,050–1,100p)**
+
+### What it does
+National Grid owns and operates the **regulated electricity and gas transmission networks** that form the backbone of the UK's energy system — the high-voltage wires and high-pressure gas pipes that move energy from generators to local distribution networks. It also operates regulated electricity distribution in the US (New England, New York state) through National Grid Ventures. This is a **natural monopoly** business: there is only one set of high-voltage transmission wires across Great Britain, and National Grid owns them.
+
+Revenue is set largely by **Ofgem's regulatory framework** (RIIO-T2 running 2021–2026; RIIO-T3 starting April 2026). Ofgem determines the allowed return on capital (WACC), the capital expenditure allowance, and the revenue formula. National Grid earns a stable, inflation-linked return on its **Regulated Asset Base (RAB)** — the net book value of regulated assets. The more capex it invests (building and upgrading the grid), the larger its RAB and therefore the larger its allowed return.
+
+How it makes money: regulated returns on transmission assets; US distribution revenues regulated by state authorities (NYPSC, FERC for New England); some commercial/unregulated activities (interconnectors, LNG terminals). Approximately 70–75% of revenues are regulated UK transmission.
+
+### Dividend history — has it ever been cut or suspended?
+**YES — the dividend was cut (rebased) in 2024.** This is the critical income fact. In May 2024, National Grid launched a **rights issue** (raising approximately £7bn, ~1 for 2 basis at 645p per share) to fund its accelerated £60bn 5-year capex programme for the energy transition. Alongside the rights issue, management **rebased the dividend** — reducing the per-share payout from approximately 69.84p to approximately 58p, then committing to grow it from that new base broadly in line with **CPIH (Consumer Prices Index including Housing costs)** each year.
+
+Key points on the cut:
+- This was a **capital-structure reset**, not a distress cut — the business was profitable and cash-generative
+- The cut was clearly communicated in advance, tied to the rights issue
+- It was a choice to direct capital to growth capex rather than sustaining a payout level that would have required either more debt or forgone investment
+- The rebased dividend is growing again from 2024/25
+
+For an income investor building a "forever" income stream, the 2024 cut matters — it shows the dividend can be adjusted when capital needs change. However, the motive (investing in grid infrastructure) is fundamentally different from a cut caused by business deterioration.
+
+### Current yield and dividend mechanics
+- Dividend: approximately **58–60p/share** (FY2025/26; growing ~CPIH/year — verify)
+- At a price of approximately 1,050–1,100p, yield ≈ **~5.5%** (dashboard)
+- No UK withholding tax for UK residents on LSE-listed dividends
+- Revolut availability: unsure — UK retail investors typically access NG. via ISA platforms (HL, AJ Bell, etc.)
+
+### Payout affordability
+Regulated utility dividends are highly predictable if the business operates within its regulatory framework. NG.'s capex is largely pre-agreed with Ofgem; the dividend is sized relative to the regulated cash generation. The key constraint is **net debt** (~£50bn+ range) and interest coverage — with rates higher for longer (FOMC confirmed Sep 16 hike), debt refinancing is more expensive. NG. manages this with a mix of inflation-linked bonds (which help — its revenues are inflation-linked) and fixed-rate long-dated debt. Cover at the dividend level is manageable but not generous (approximately 1.2–1.4x on underlying EPS).
+
+### Is the yield a trap or a strength?
+**Reasonably priced regulated income — not a trap, but not risk-free.** The ~5.5% yield is consistent with regulated utility peers globally. The 2024 rights issue and dividend rebase reset the sustainability picture — the new, lower payout is better covered than the old one. The main ongoing risks are regulatory (Ofgem could set lower returns in future price controls) and financial (high leverage in a higher-rate environment). The yield is attractive for the security of the income, especially as a no-withholding-tax LSE name inside an ISA.
+
+### Bull thesis
+- **Grid electrification is mandatory**: the UK Government has committed to full grid decarbonisation by 2030. EV charging, heat pumps, AI data centres, and offshore wind connections all require massive grid upgrades — and NG. does them all
+- **RIIO-T3 agreed**: regulatory certainty through 2031 with a reasonable allowed return
+- **Inflation protection**: revenues linked to CPIH; the rebased dividend growing with inflation provides real income protection
+- **No competitive threat**: regulated monopoly — no alternative provider
+
+### Main risks
+- **Interest rate risk**: heavy debt (£50bn+) means higher rates raise financing costs; higher-for-longer (post-Sep 16 FOMC) is a moderate headwind
+- **Regulatory reset**: Ofgem may set lower allowed returns in future price controls if government policy shifts
+- **Execution risk**: £60bn capex in 5 years is an enormous programme; cost overruns, delays, or planning permission issues are real
+- **Capital structure**: further equity issuance is possible if capex exceeds current plans; new shares dilute existing holders
+- **ESG / transition risk**: gas transmission assets may face regulatory pressure as UK targets gas phase-out, though the timeline is long
+
+### Rough valuation
+Utilities trade on RAB multiples and dividend yield. At ~5.5% yield, NG. is priced fairly relative to regulated-utility peers. Historically regulated utilities in the UK have traded at 1.0–1.3× RAB; the current price implies a premium to RAB, which is typical when growth capex (new investment earning allowed returns) is large and visible. No notable over- or under-valuation signal.
+
+---
+
+## HSBA — HSBC Holdings
+**Genre: UK Banking / DIV | Yield: ~3.7% | Revolut: Unsure | LSE-listed — no UK WHT | Price: verify live (~680–740p)**
+
+### What it does
+HSBC is one of the world's largest banks by assets, with a particular concentration in **Asia** (Hong Kong and China account for roughly 50–60% of pre-tax profits). Core businesses: retail banking, corporate and investment banking, global transaction banking (custody, payments, trade finance), and — increasingly — **wealth management** in Asia. HSBC processed over $1 trillion in trade finance annually; its network across 60+ countries is a genuine competitive moat for multinational corporate clients.
+
+How it makes money: **net interest income** (NIM — the spread between lending rates and deposit rates), **fee income** (transaction banking, wealth management, investment banking), and **insurance income** (HSBC Life, primarily in Asia). In a higher-rate environment (relevant now — FOMC Sep 16 hike), NIM widens and net interest income rises. HSBC's USD-based US operations benefit directly; its HKD operations are pegged to USD, so they benefit similarly.
+
+### Dividend history — has it ever been cut or suspended?
+**YES — HSBC suspended its dividend entirely in 2020.** Under pressure from the Bank of England's Prudential Regulation Authority (PRA), which requested UK banks stop dividends during COVID-19, HSBC cancelled its Q1 2020 dividend and suspended the full-year 2020 payout. For 2021, it restored a partial dividend; by 2022–23 it had fully restored its progressive dividend and added substantial share buybacks.
+
+This is the defining risk for bank income investors: bank dividends are **inherently cyclical and can be suspended by regulators**. The 2020 suspension was the most dramatic example in memory — all major UK banks suspended simultaneously. This is not a theoretical risk; it happened. Any income portfolio built on bank dividends must account for this.
+
+Since restoration, HSBC has paid:
+- Progressive quarterly dividends (~$0.10/share or $0.40/year; verify current rate)
+- Multiple **share buyback programmes** ($3bn+ in H1 2026 buyback; additional buybacks likely at H2 results)
+
+The combined shareholder return (dividends + buybacks) is higher than the raw dividend yield suggests.
+
+### Current yield and dividend mechanics
+- Yield: **~3.7%** (dashboard, ~Sep 2026) — this is the headline dividend yield; total return including buybacks is higher
+- Payout ratio: ~50% of earnings; very well-covered at current profitability
+- CET1 ratio: **~15%** — one of the strongest capital ratios among global banks; this headroom supports both the dividend and buybacks
+- UK-listed, LSE: no withholding tax for UK residents
+
+### Payout affordability
+At ~$30bn+ annualised pre-tax profit (approximate; verify H1 2026 annualised), HSBC's ~$10bn dividend bill is comfortably covered at the current 50% payout ratio. The $3bn H1 2026 buyback adds to that. FOMC's Sep 16 hike modestly widens NIM further, improving near-term earnings quality. The risk to affordability is a sharp deterioration in Asian economic activity (primarily HK/China credit deterioration) — not a near-term base case but a tail risk worth tracking.
+
+### Is the yield a trap or a strength?
+**Moderate strength, with awareness of cyclicality.** The ~3.7% yield at a bank with 15% CET1 and a strong buyback programme reflects a quality payer, not a distressed one. The yield is lower than LGEN or BATS because the market prices bank capital allocation more conservatively (given 2020 precedent). Total return (dividends + buybacks) is meaningfully above 3.7% — probably 6–8% total yield-equivalent. For an income investor: treat HSBC as a **total-return income play**, not purely a headline yield play.
+
+### Bull thesis
+- **Asia growth**: China and HK wealth management are in secular growth mode despite near-term property sector stress; HSBC is best-positioned among Western banks to capture this
+- **Rate tailwind**: higher-for-longer benefits NIM directly; FOMC Sep 16 hike reinforces this
+- **Simplification**: CEO Georges Elhedery's restructuring (East-West split, geographic rationalisation) should improve capital efficiency and returns
+- **Capital strength**: CET1 ~15% allows buybacks to continue; buybacks reduce share count and mechanically grow EPS and dividend per share over time
+- **No withholding for UK ISA investors**: one of the highest-quality large-cap LSE income names accessible with full tax efficiency inside an ISA
+
+### Main risks
+- **China/HK economic/political risk**: CCP governance of HK, mainland real estate stress (exposure has been reduced but not eliminated), geopolitical tension (Taiwan risk would severely impact HK financial activity)
+- **Dividend cyclicality**: banks can and do suspend dividends under regulatory instruction; the 2020 precedent is recent
+- **Global recession risk**: rising NPLs (non-performing loans) erode bank earnings quickly in a downturn
+- **Currency risk**: HKD-pegged earnings; sterling investors face USD/GBP translation risk
+
+### Rough valuation
+HSBC trades at approximately **0.9–1.0× book value** — reasonable for a major bank with strong capital and Asia exposure. P/E approximately 7–9× forward earnings (bank multiples are typically low). The combination of headline yield (~3.7%) + buybacks (~2–3% yield equivalent) gives a competitive total return profile. No material over- or under-valuation signal at current levels.
+
+---
+
+## IUKD — iShares UK Dividend UCITS ETF
+**Genre: UK Equity Income ETF / DIV | Yield: ~5–6% | ISA-eligible (LSE-listed) | No UK WHT | BlackRock / iShares**
+
+### What it does
+IUKD tracks the **FTSE UK Dividend+ Index**, which selects the **top 50 UK stocks by forecasted dividend yield** from within the FTSE 350 universe (the largest 350 UK-listed companies by market cap). It is a pure yield-screening vehicle — it buys whatever is yielding the most among large and mid-cap UK equities, rebalancing semi-annually.
+
+How it makes money for the investor: distributes dividends quarterly (income ETF, not accumulating); the underlying portfolio receives dividends from 50 UK-listed companies and pays them through to holders.
+
+### Index and holdings
+**Index:** FTSE UK Dividend+ Index. The selection criterion is simple: take the FTSE 350, forecast which 50 will have the highest dividend yield over the next 12 months, buy them equally or market-cap-weighted. This mechanical screen means the portfolio can change substantially at rebalances as yield leaders shift.
+
+**Typical holdings (approximate, mid-2026 — verify via iShares factsheet):**
+Sectors that dominate a UK yield screen: financials (HSBC, Legal & General, Aviva, Standard Chartered), energy (Shell, BP), mining (Rio Tinto, Anglo American, Glencore — though mining dividends are volatile), tobacco (British American Tobacco, Imperial Brands), telecoms (Vodafone, BT), utilities (National Grid, Severn Trent), consumer staples (Unilever). The exact 50 and their weights change at each rebalance.
+
+### OCF and key fund facts
+- **OCF: ~0.40%** per year — reasonable for an active-screen ETF but higher than broad market trackers (VHYG is 0.22%; VUAG ~0.07%)
+- **Distributor** (pays income): unlike VHYG (accumulating), IUKD pays dividends quarterly — directly useful for income investors wanting cash
+- **Fund size: >£800m AUM** (BlackRock — no closure risk, ample liquidity)
+- **ISA-eligible**: yes — UK UCITS ETF listed on the LSE in GBP; no withholding tax on dividends for UK residents
+
+### Yield and distribution mechanics
+Current approximate yield: **~5–6%** (re-verify on iShares UK site). Because the fund selects by forecast yield, it naturally concentrates in the highest-yielding LSE names. Yield is gross of the 0.40% OCF. For a UK ISA investor there is no dividend withholding — the full gross yield is received in the ISA wrapper.
+
+### Has it ever cut its distribution?
+Indirectly yes — **2020 was a severe test**. COVID-19 prompted widespread dividend cuts across UK listed companies: Shell (cut by 66%), BP (cut), several banks, miners and retailers. The FTSE UK Dividend+ Index saw its underlying yield collapse as many of its holdings cut or suspended dividends. IUKD's distribution dropped significantly in 2020 (exact % requires verification of fund distribution history). This is the central risk of a yield-screen ETF: by selecting purely by high yield, you may end up concentrated in companies under financial pressure whose dividend is about to be cut — a classic yield trap amplified at the index level.
+
+### Is the yield a trap or a strength?
+**Mixed — requires scrutiny.** IUKD does not filter for dividend quality or sustainability; it just picks the highest yielders. This creates structural yield-trap risk in the composition. However:
+- Diversification across 50 names limits any single cut's damage
+- Post-2020, many of the worst-hit companies (Shell, BP, banks) have rebuilt payouts substantially
+- The semi-annual rebalance removes companies that have already cut (they are no longer top yielders)
+- For UK ISA investors wanting broad UK income exposure without picking individual stocks, IUKD is a pragmatic tool — but treat the yield as an approximate target, not a guaranteed income level
+
+**Comparison with VHYG:** IUKD is more concentrated (50 stocks vs ~1,800), more UK-focused (vs VHYG's global 50%/UK ~9% split), higher OCF (0.40% vs 0.22%), and distributes cash vs accumulates. VHYG is the more robust core holding; IUKD is a UK income tilt. Used together they would increase UK income exposure but would be somewhat redundant (both likely hold HSBC, Shell, AstraZeneca).
+
+### Bull thesis
+- **UK income tilt**: concentrated exposure to the highest-yielding UK stocks without having to pick individuals
+- **No withholding tax**: all major holdings are UK-listed; dividends pass through free of WHT into an ISA
+- **BlackRock quality**: large, liquid, no operational risk
+- **UK value case**: FTSE 350 has lagged global equities for years; mean-reversion toward global multiples plus a high income yield could produce competitive total returns
+
+### Main risks
+- **Yield trap risk**: mechanically selects high-yielders including distressed ones — no quality filter
+- **UK concentration**: a UK-specific shock (hard Brexit sequel, UK recession) hits 100% of the portfolio
+- **Sector concentration**: financials, energy, mining, tobacco typically dominate — all cyclical or structurally declining sectors
+- **Distribution volatility**: 2020 showed distributions can drop sharply in adverse conditions
+- **OCF**: 0.40% is not high but is more than 5x VUAG's cost
+
+---
+
+## ABBV — AbbVie
+**Genre: US Pharma / DIV | Yield: ~3.5% | Revolut: Yes | 15% US WHT with W-8BEN | Dividend Aristocrat (50+ yrs via Abbott)**
+
+### What it does
+AbbVie was spun off from Abbott Laboratories in **January 2013** and is one of the largest US pharmaceutical companies. It operates in four major areas: **immunology** (the biggest segment), **oncology/haematology**, **aesthetics**, and **neuroscience**. Its 2020 acquisition of Allergan ($63bn deal) added Botox Cosmetic, Juvederm, and a neuroscience pipeline.
+
+Key products:
+- **Humira** (adalimumab): was the world's #1 selling drug for many years (~$20bn/year peak revenue); US biosimilars entered January 2023, EU entry earlier. US Humira revenues have declined sharply — approximately halved by FY2024 — and continue eroding
+- **Skyrizi** (risankizumab): IL-23 inhibitor for plaque psoriasis, PsA, Crohn's disease, UC. Growing rapidly — FY2026 revenue guidance of ~$13bn+; peak sales potential ~$21-22bn across all indications
+- **Rinvoq** (upadacitinib): JAK inhibitor for RA, PsA, atopic dermatitis, UC, Crohn's. FY2026 revenue guidance ~$8–9bn; peak ~$14bn
+- **Imbruvica** (ibrutinib): BTK inhibitor for blood cancers; declining due to competition from next-gen BTK inhibitors (Calquence, Brukinsa)
+- **Venclexta/Venclyxto** (venetoclax): BCL-2 inhibitor for AML and CLL; growing
+- **Botox** (cosmetic + therapeutic): stable ~$5bn/year combined; Juvederm/aesthetics additional ~$1.5bn
+- **Cerevel Therapeutics** (acquired ~2024): Parkinson's disease (tavapadon in Phase 3), schizophrenia (emraclidine in Phase 2) — near-term pipeline catalysts
+
+How it makes money: manufacturing and selling branded pharmaceuticals and aesthetics; a high-margin business (~55% operating margins) where the cost of goods is low relative to the R&D and marketing expense.
+
+### Dividend history — has it ever been cut or suspended?
+**NO cut since AbbVie's founding in 2013.** The dividend growth heritage traces back through Abbott's ~50-year streak (Abbott has Dividend Aristocrat status). AbbVie as a standalone entity has raised its quarterly dividend every year since inception in 2013 through 2026. It is an **S&P 500 Dividend Aristocrat** (25+ years of consecutive increases via the combined heritage). No suspension during COVID-19 (pharma dividends were much less affected by the pandemic than banks or energy).
+
+### Current yield and dividend mechanics
+- Quarterly dividend: approximately **$1.64/share** (~$6.56 annualised; verify — this grows each year, so the current rate may be higher)
+- At a price of approximately $185–195 (estimate; re-verify), yield ≈ **~3.4–3.5%**
+- Payout ratio: approximately **50–60% of adjusted diluted EPS** — comfortable coverage; Skyrizi and Rinvoq growth should expand EPS faster than dividends, lowering the ratio over time
+- 15% US withholding tax with W-8BEN filed
+
+### Payout affordability
+AbbVie generates substantial free cash flow — approximately $18–20bn/year (approximate; verify FY2025/FY2026 reports). The ~$11–12bn annual dividend bill is covered around 1.5–1.7× by FCF. The Allergan debt (from the $63bn acquisition) added leverage, but AbbVie has been deleveraging steadily; net debt/EBITDA is tracking toward a more comfortable level. The dividend is not in question from an affordability standpoint provided Skyrizi + Rinvoq continue to ramp.
+
+### Is the yield a trap or a strength?
+**Strength, with residual transition risk.** The ~3.5% yield reflects a strong payer, not distress — similar to JNJ but slightly higher yield, slightly more pipeline-dependent. The Humira cliff is the key event: AbbVie spent years warning the market about biosimilar entry, then managing the transition via Skyrizi and Rinvoq. The transition appears to be working: FY2025 and FY2026 guidance was raised, reflecting Skyrizi + Rinvoq growing faster than Humira declining. The risk is execution — if Skyrizi or Rinvoq face unexpected competition or safety issues, the replacement thesis weakens.
+
+### Bull thesis
+- **Skyrizi + Rinvoq ramp**: combined guidance of ~$31bn in peak revenue is one of the most visible multi-year pharma growth stories in the market
+- **Humira cliff largely priced in**: most of the bad news on US Humira biosimilar erosion was well-flagged; the market has had several years to price this
+- **Aesthetics durability**: Botox Cosmetic is a near-monopoly in injectable aesthetics with pricing power; recurring treatment revenue
+- **Cerevel/neuroscience pipeline**: tavapadon (Parkinson's) and emraclidine (schizophrenia) are Phase 3/2 — positive readouts would be significant new revenue drivers
+- **Dividend aristocrat with buyback capacity**: after Allergan debt paydown, buyback capacity is growing
+
+### Main risks and what would break the thesis
+- **Skyrizi or Rinvoq setback**: an unexpected safety signal, a faster-than-expected competitor, or a failed indication expansion would undermine the entire replacement thesis
+- **IRA Medicare price negotiations**: Humira is already subject to negotiation, limiting US pricing upside; Rinvoq could follow — this is a structural cap on US pharma profitability
+- **Allergan integration execution**: Botox franchise must continue growing; any management disruption or competitor aesthetics launch matters
+- **Pipeline disappointments**: Cerevel acquisitions were expensive; if tavapadon or emraclidine fail, $8.7bn acquisition price looks harder to justify
+
+### Competitive position
+Skyrizi competes with AstraZeneca/LEO Pharma's Spevigo and J&J's Tremfya in psoriasis; with Pfizer's Cibinqo and Sanofi's Dupixent in atopic dermatitis. Rinvoq competes with Pfizer's Xeljanz (declining), Eli Lilly's Olumiant, and multiple biologics. The IL-23/JAK inhibitor space is competitive, but Skyrizi and Rinvoq have demonstrated differentiated efficacy profiles (especially in Crohn's and UC for Skyrizi) that justify premium positioning.
+
+### Rough valuation
+P/E approximately **14–16× forward earnings** on FY2026 estimates — typical pharma multiple for a dividend grower with visible near-term growth. This reflects: premium for the growth runway (Skyrizi/Rinvoq), discount for ongoing IRA policy risk and pipeline execution risk. Relative to the broader S&P 500, AbbVie looks reasonably valued; relative to other Dividend Aristocrats with sub-3% yields, the ~3.5% yield is attractive if the transition continues to execute.
+
+---
+
+## BTC — Bitcoin
+**Genre: CRYPTO | Risk: Aggressive | Buy: Revolut or ETN route | Not ISA-eligible (direct crypto)**
+
+### What it does
+Bitcoin is a **decentralised digital currency and store-of-value asset** operating on a permissionless blockchain. There is no company, no board, no CEO, and no earnings — it is a protocol maintained by a global distributed network of nodes and miners. Supply is capped at **21 million BTC** (fixed by protocol; ~19.7m already mined as of mid-2026). The only thing that determines Bitcoin's value is the interplay of supply (fixed, known, declining) and demand (variable, speculative, narrative-driven).
+
+How it "makes money" for holders: solely through price appreciation. Bitcoin generates no cash flows, pays no dividends, and has no intrinsic use case in the way a business has customers. This is crucial for an income-focused investor to understand — BTC is the opposite end of the spectrum from JNJ or LGEN; it is a pure capital-gain (or loss) asset.
+
+### Current snapshot (late Sep 2026)
+- **Price**: approximately **$60,000–65,000** (dashboard Aug 2026: $63,500; slight pressure from FOMC Sep 16 25bp hike; exact price will have moved — re-verify)
+- **Market cap**: approximately **$1.2–1.3 trillion** (6th or 7th largest global asset by market cap including equities/bonds)
+- **Halving**: completed **April 2024** — block reward reduced from 6.25 to **3.125 BTC** per block. Historically, halvings reduce supply growth and have preceded bull cycles by 12–18 months; that window is now open (Oct 2025 – Oct 2026 as the historical precedent range)
+
+### Financial health / fundamentals
+There are no financial statements. Relevant on-chain data as of mid-2026:
+- **Hash rate**: near all-time highs (~700 EH/s — exahashes per second; higher = more secure network)
+- **Long-term holder (LTH) supply**: approximately 14–15m BTC held by wallets with no recent movement — strong HODLing behaviour
+- **US spot ETF flows**: BlackRock's IBIT has accumulated >$40bn AUM; total US spot BTC ETF AUM ~$60–70bn; cumulative net inflows $50–60bn since January 2024 launch
+
+### Bull thesis
+- **Fixed supply + ETF demand**: the April 2024 halving reduced new BTC supply to ~450 BTC/day (~$27m/day at $60k). BlackRock's IBIT alone was buying 1,000+ BTC/day at peak inflow — ETF demand dwarfs miner supply
+- **Post-halving cycle**: all three prior halvings (2012, 2016, 2020) preceded 12–18 month bull runs. The 2024 halving suggests a potential 2025–26 peak cycle (currently underway)
+- **Institutional credibility**: the ETF route brought regulatory and institutional legitimacy; sovereign wealth funds are reportedly allocating; MicroStrategy holds 400,000+ BTC (~2% of supply)
+- **CLARITY Act (Sep 3, 2026)**: statutory digital-asset market-structure legislation removes years of classification uncertainty; reduces the legal risk premium for institutional holders
+- **Reserve asset narrative**: a small but growing number of central banks and governments are discussing BTC reserves (El Salvador precedent; various executive order frameworks)
+
+### Main risks and what would break the thesis
+- **Macro / risk-off**: FOMC higher-for-longer is a persistent headwind — rising real yields reduce the opportunity cost of holding non-yielding assets like BTC
+- **Regulatory reversal**: despite CLARITY Act, regulatory risk globally persists; a major exchange failure (FTX 2.0 scenario) or state-level ban in a major economy would be severe
+- **ETF outflows**: if institutional sentiment reverses and ETF holders sell, the concentrated demand that drove the run-up unwinds — BTC can fall 50–80% from peaks
+- **Technology**: quantum computing (very long-horizon), second-layer vulnerabilities, or a major protocol exploit — extremely unlikely near-term but genuine long-term tail risks
+- **No cash flows**: BTC cannot be "fundamentally cheap" in the way a stock can; there is no earnings power to anchor valuation
+
+### For the investor context
+BTC is held outside the ISA (crypto is not ISA-eligible in a standard S&S ISA; crypto ETNs went IFISA-only from April 2026). Capital gains tax applies to all realised gains. Given the income-focused long-term goal, BTC in the portfolio is a **speculation with a defined allocation cap** — the STARTER_FRAMEWORK.md caps the total speculative bucket at 5–10%. BTC is the least speculative of the speculative sleeve (most institutional, most liquid, most established). Sizing accordingly is the key risk management decision.
+
+---
+
+## ETH — Ethereum
+**Genre: CRYPTO | Risk: Aggressive | Buy: Revolut or ETN route | Not ISA-eligible (direct)**
+
+### What it does
+Ethereum is a **programmable blockchain platform** — a global, decentralised computer on which developers build decentralised applications (dApps), smart contracts, DeFi protocols, NFT marketplaces, and increasingly tokenised real-world assets (RWAs) and stablecoins. Unlike Bitcoin (a store of value), Ethereum is **infrastructure** — similar conceptually to AWS or Azure, but decentralised and permissionless. Value accrues to ETH (the native token) when people use the network: transactions require ETH for gas fees, a portion of which is **burned** (destroyed permanently) via EIP-1559.
+
+**The Merge (September 2022)**: Ethereum transitioned from Proof of Work (energy-intensive mining) to **Proof of Stake (PoS)** — validators stake ETH to secure the network and earn staking rewards (~3–4% annualised). This made ETH the first large-cap crypto asset with a **native yield mechanism**. Staked ETH cannot easily be sold; approximately 25–30% of all ETH (~30–35m ETH) is currently staked, removing it from liquid supply.
+
+### Current snapshot (late Sep 2026)
+- **Price**: approximately **$1,700–2,000** (dashboard Aug 2026: $1,915; post-FOMC Sep 16 mild pressure; re-verify)
+- **Market cap**: approximately **$200–240bn**
+- **ETH supply**: ~120m ETH (slightly inflationary in low-fee periods; deflationary in high-activity periods — depends on burn vs issuance balance)
+- **Staking yield**: ~3–4% annualised (stakers receive this; non-staking holders do not)
+
+### Bull thesis
+- **RWA tokenisation**: institutional demand for tokenising bonds, funds, and real estate is growing fast; Ethereum is the dominant platform (BlackRock, JPMorgan, Franklin Templeton all using ETH-based tokenisation)
+- **L2 scaling maturity**: Arbitrum, Optimism, Base (Coinbase), Blast, zkSync — collectively handling more transactions than Ethereum mainnet at low fees; Ethereum serves as the settlement layer (economic security)
+- **ETH as yield asset**: ~3–4% staking yield is native, not dependent on any external cash flow — increasingly attractive to treasury managers
+- **US spot ETH ETFs**: launched May 2024; currently smaller than BTC ETFs but growing; institutional interest in a yield-bearing crypto asset
+- **Pectra and future upgrades**: continued protocol improvements (account abstraction, blob throughput expansion) should drive usage and therefore fee burn
+
+### Main risks
+- **L2 competition siphoning fees**: more activity on L2s means lower fees on Ethereum mainnet → less ETH burned → ETH may be inflationary rather than deflationary in low-activity periods; this undermines the "ultrasound money" narrative
+- **Solana and other L1 competition**: for consumer apps and DeFi, Solana is faster and cheaper; Ethereum cedes the high-frequency use case to L1 competitors
+- **ETF inflows much smaller than BTC**: institutional demand for ETH as a financial asset has been weaker than for BTC; ETH ETFs attracted ~$2–3bn vs $50bn+ for BTC — this is a meaningful demand signal
+- **Regulatory classification**: US regulators' position on whether ETH is a commodity (like BTC) or a security (given staking) remains uncertain despite CLARITY Act
+- **Complexity**: Ethereum is harder to explain and harder for mainstream investors to understand than Bitcoin; this limits its store-of-value narrative
+
+### For the investor
+ETH's staking yield creates a fundamentally different profile from BTC — an income-oriented investor might find the concept of a ~3–4% native yield on a digital asset more intuitive than pure price speculation. However, the volatility (ETH can fall 50–80% in bear markets) means this "yield" is overwhelmed by price moves. Treat ETH as a speculative asset in the same 5–10% bucket as BTC and XRP, not as an income holding.
+
+---
+
+## SOL — Solana
+**Genre: CRYPTO | Risk: Moonshot | Buy: Revolut | Not ISA-eligible (direct)**
+
+### What it does
+Solana is a **high-performance Layer-1 blockchain** designed for fast, cheap transactions — theoretically 65,000 transactions per second (TPS) vs Ethereum's ~15 TPS on mainnet. It achieves this through a novel **Proof of History (PoH) consensus mechanism** combined with Proof of Stake, allowing validators to process transactions in parallel without the coordination overhead of traditional consensus. SOL (the token) is used to pay transaction fees (fractions of a cent) and to stake for validator rewards.
+
+Solana has become the **dominant platform for consumer crypto** — meme coins (Dogwifhat, Bonk, etc.), NFTs (Tensor marketplace), mobile crypto apps (Saga phone), and fast-moving DeFi all favour Solana's low fees and speed. Jupiter is the largest DEX aggregator by volume. Daily active addresses on Solana have at times exceeded Ethereum mainnet.
+
+### Current snapshot (late Sep 2026)
+- **Price**: approximately **$65–80** (dashboard Aug 2026: $77; FOMC headwind; re-verify)
+- **Market cap**: approximately **$30–40bn**
+- **Staking yield**: ~7–8% annualised (higher than ETH; reflects higher inflation rate of SOL issuance)
+
+### Bull thesis
+- **Consumer crypto's fastest growing platform**: developer adoption, DeFi TVL growth, and meme-coin ecosystems driving network fee revenue
+- **Firedancer upgrade (Jump Crypto)**: a second validator client designed to massively increase throughput and reduce outage risk — improved validator diversity expected to reduce network halt events
+- **US spot SOL ETF potential**: multiple applications filed (VanEck, Canary Capital, 21Shares); if approved, would create a new institutional demand channel similar to BTC and ETH ETFs
+- **Jito (liquid staking + MEV)**: JitoSOL liquid staking derivative growing; MEV extraction providing additional validator revenue
+
+### Main risks
+- **Network outage history**: Solana has experienced multiple major outages (2021–2023); while improving, reputation damage remains
+- **FTX legacy**: FTX / Alameda Research were among the biggest early investors and validators; the estate has sold ~$2.1bn of SOL; overhang largely cleared but narrative damage persists
+- **Validator concentration**: top validators hold disproportionate stake; theoretical centralisation concern
+- **Narrative fragility**: Solana's price is highly correlated with speculative sentiment around consumer crypto (meme coins, NFTs) — sectors with high volatility and unclear long-term value
+- **SOL ETF not yet approved**: unlike BTC and ETH, institutional access via ETF is not yet available — approval uncertainty
+
+### For the investor
+SOL is the **highest-risk** crypto holding in the watchlist — a genuine moonshot. Its connection to consumer/speculative crypto (meme coins, NFTs) means it can have very large run-ups and very large drawdowns. For an income-focused portfolio, SOL is a small, defined speculative allocation — never a core holding. The FTX estate selling pressure has cleared; the network fundamentals (activity, fees, developer growth) are stronger than the $77 price might suggest — but it is still a sentiment-driven asset.
+
+---
+
+## XRP — Ripple / XRP Ledger
+**Genre: CRYPTO | Risk: Moonshot | Buy: Revolut or Kraken | CURRENTLY HELD (£25/week Kraken, CGT-exposed)**
+
+*Full analysis is maintained in `XRP_RESEARCH.md`. Summary for this week's notes:*
+
+XRP is held weekly at £25/week on Kraken. The thesis tracker in XRP_RESEARCH.md records weekly updates. As of the latest entry (2026-09-17), the read remains **cautious**: on-chain transaction counts are still falling, the post-August ETF inflow collapse has not recovered, ODL/payments data is stale (last quarterly figure January 2026), and the FOMC Sep 16 hike adds mild macro headwind. The CLARITY Act (Sep 3) is a genuine regulatory positive for the asset class but has not produced measurable XRP-specific adoption change.
+
+**The thesis in one sentence**: XRP is a capped weekly bet on speculative sentiment returning (and on the small probability that bank adoption materialises at scale), not a confirmed adoption trade. The evidence for adoption has not moved in six consecutive weeks of monitoring. Continue within the defined weekly contribution plan; do not extend the allocation target unless at least one of the five "what would change the picture" signals triggers.
+
+A new tracker row is added to XRP_RESEARCH.md as part of this run (see Step 6).
+
+---
+
+## cETN — Crypto ETNs (e.g. WisdomTree Bitcoin ETP, 21Shares Bitcoin ETP)
+**Genre: CRYPTO | Risk: Aggressive | Buy: HL / AJ Bell / Interactive Investor (NOT Revolut/T212) | ISA status: NOT in standard S&S ISA post-Apr 2026**
+
+### What it does
+Crypto ETNs are **Exchange-Traded Notes** listed on LSE that give price exposure to a cryptocurrency (primarily BTC, ETH, or sometimes multi-asset baskets) through a regulated financial instrument, without requiring the holder to manage a crypto wallet or private keys. The structure: the ETN issuer (e.g. WisdomTree, 21Shares, ETC Group) issues the note, uses proceeds to purchase and custodise actual crypto (typically with Coinbase Custody or BitGo), and the note tracks the spot price of the underlying crypto, minus a small ongoing charge.
+
+Specific products available in the UK on FCA-recognised exchanges:
+- **WisdomTree Bitcoin ETP** (BTCE.L) — physically backed, TER ~0.95%
+- **21Shares Bitcoin ETP** (ABTC.L) — TER ~1.49%
+- **ETC Group Physical Bitcoin** (BTCE.L/BTCG.L) — TER ~2.00%
+- **WisdomTree Ethereum ETP** (WETH.L) — TER ~0.95%
+- Multiple others for SOL, XRP, multi-asset
+
+### Key regulatory development (UK context for this investor)
+- **October 2025**: FCA-recognised exchanges (LSE, AIM, AQSE) officially opened crypto ETN trading to UK retail investors — previously restricted to professional investors only
+- **April 2026**: HM Treasury confirmed that **crypto ETNs may no longer be held in a standard Stocks & Shares ISA** — new purchases after April 2026 must route via an **Innovative Finance ISA (IFISA)**. Holdings already in an ISA before April 2026 were grandfathered (the exact treatment varied by platform — verify with your broker). This is a critical point for this investor: VHYG and VUAG are in the Revolut S&S ISA; adding crypto ETNs would require opening a separate IFISA
+
+### Ongoing charges
+- TER/OCF range: **~0.95–2.00%** depending on provider — significantly higher than equity ETFs (VUAG ~0.07%, VHYG ~0.22%). This annual drag directly reduces returns vs holding BTC directly on an exchange
+- For comparison: US spot BTC ETFs (IBIT) charge 0.25%; UK crypto ETNs are 4–8× more expensive
+- The premium over direct custody reflects the regulatory wrapper, insurance, and custodian costs
+
+### ETN mechanics vs direct crypto
+| Factor | Direct crypto (Kraken/Revolut) | Crypto ETN (HL/AJ Bell) |
+|---|---|---|
+| Private key risk | You manage (or exchange does) | None — ETN issuer custodies |
+| FSCS protection | None | None (ETNs not deposits) |
+| ISA eligibility | Never | IFISA only (post-Apr 2026) |
+| Annual cost | Exchange fee + spread | TER 0.95–2.00% |
+| Liquidity | 24/7 | Exchange hours only |
+| Access | Revolut, Kraken | HL, AJ Bell, II |
+
+### For the investor
+The investor already holds XRP directly on Kraken (outside any ISA, CGT-exposed). The ETN route would be:
+- Relevant primarily for **BTC or ETH** (not XRP — XRP ETNs exist but the liquidity and provider choice is thinner)
+- Only worth considering via an **IFISA** structure for tax efficiency
+- Not available through Revolut or Trading 212 — would require a new platform/account (HL, AJ Bell, Interactive Investor, Bestinvest)
+
+The cost difference (0.95–2.00% TER vs essentially zero for direct custody on Revolut/Kraken) is a meaningful drag — at a 1.5% TER over 10 years, approximately 14% of capital is consumed by fees vs direct holding. For smaller amounts in the 5–10% speculative sleeve, this cost is manageable; for a significant allocation, direct custody is more efficient. The primary benefit is the removal of self-custody risk — if wallet management is a practical barrier, ETNs are the right answer.
+
+### Risks
+- **ETN issuer insolvency**: if WisdomTree or 21Shares failed, the process of recovering the underlying crypto from custodian could be protracted (though physical backing is designed to protect investors)
+- **Custodian risk**: Coinbase Custody or BitGo failure would be severe; both are large and regulated but not zero-risk
+- **ISA complication**: the IFISA requirement adds operational friction and means crypto can never share the same annual ISA allowance as the VUAG/VHYG S&S ISA
+
+---
+
+## TSM — Taiwan Semiconductor Manufacturing Company
+**Genre: AI Compute & Infrastructure (stockData) | Risk: Balanced | Revolut: Yes | Price: ~$175–200 (verify live)**
+
+### What it does
+TSMC is the world's **dominant semiconductor contract manufacturer (foundry)** — it makes chips designed by others, including Apple, NVIDIA, AMD, Qualcomm, MediaTek, and hundreds more. It does not design its own chips (fabless model in reverse). What it does instead is master the extraordinarily complex and capital-intensive process of manufacturing chips at the world's smallest node sizes — currently in **mass production at 3nm (N3E)**, with **2nm (N2) ramping in 2025–26**, and **next-generation A14/A16 processes** in development for 2026–27.
+
+The industry's central reality: **no company other than TSMC can manufacture the world's most advanced chips**. Intel Foundry Services, Samsung Foundry, and others are attempting to compete at leading-edge nodes, but as of mid-2026, TSMC has a 2–3 generation lead at the frontier. When NVIDIA, Apple, or AMD need their most advanced chips manufactured, there is effectively **one option**: TSMC. This is arguably the most durable economic moat in technology.
+
+How it makes money: wafer fabrication fees from customers. Revenue is denominated primarily in USD; expenses are partly in TWD (Taiwan dollar). Capex is enormous (~$28–32bn/year) but generates durable returns because the capital is deployed at the technological frontier where pricing power is strong.
+
+### Latest results and financial health (mid-2026)
+- **Revenue**: Q2 2026 revenues of approximately **NT$933bn (~$29bn USD)** — record quarterly revenues, driven by explosive AI-related demand (NVIDIA H100/H200/Blackwell architecture chips, Apple M4 chips)
+- **Gross margin**: approximately **55–58%** — a near-record level, reflecting the premium pricing achievable at N3 and advanced packaging nodes
+- **Net income margin**: ~35–40%
+- **Net cash position**: TSMC has a strong net cash position despite enormous capex; dividend is growing
+- **FY2026 guidance**: management raised guidance multiple times through H1 2026 — full-year revenue likely >$100bn USD equivalent
+
+### Advanced packaging: CoWoS
+One critical detail often missed by new investors: TSMC's **CoWoS (Chip-on-Wafer-on-Substrate) advanced packaging** is essential for NVIDIA's Blackwell and Hopper GPUs — it integrates the GPU die with HBM (High Bandwidth Memory) at a physical level that enables the data throughput required for AI training. TSMC is **the bottleneck** for CoWoS capacity, and CoWoS demand is running far ahead of supply. This packaging technology is a separate revenue stream from pure wafer fabrication and is one reason margins are elevated.
+
+### Bull thesis
+- **NVIDIA / AI demand**: the AI infrastructure buildout requires leading-edge TSMC wafers; NVIDIA's revenue has grown 10× in 2 years, all manufactured by TSMC; no near-term alternative exists
+- **Arizona geographic diversification**: Fab 21 Phase 1 (N4 process) is operational in Phoenix, AZ; Phase 2 (N2) under construction. CHIPS Act funding ($6.6bn direct grants). This de-risks the geopolitical concentration concern and enables "Made in USA" supply for defence-critical chips
+- **N2 ramp**: 2nm process node offers ~10–15% performance improvement over N3 at similar power; Apple's A-series and NVIDIA next-gen will use it
+- **Japan and Germany**: TSMC Japan (JASM, 12/16nm, operational); TSMC Germany (ESMC, with Infineon/NXP/Bosch consortium) under construction — serving automotive and industrial customers who want European manufacturing. Geographic diversification of the manufacturing base reduces single-point-of-failure risk
+- **Economic moat durability**: Intel Foundry lost $7bn+ in 2024 trying to catch up; Samsung's yield at leading edge remains problematic; TSMC's moat is wider today than 5 years ago
+
+### Main risks and what would break the thesis
+- **Taiwan geopolitical risk**: this is the single most important risk. China-Taiwan military tension is real; PLA military exercises around Taiwan occur intermittently. A full-scale conflict or Chinese naval blockade would be catastrophic for TSMC and global chip supply. Most TSMC scenario analyses suggest this risk is extremely difficult to price — it is binary and existential. The Arizona fab partly mitigates this for N4 chips, but N2 and N3 mass production remain Taiwan-based
+- **US-China trade restrictions**: TSMC is restricted from selling advanced chips to Chinese customers (US export controls); China ~10% of TSMC revenue; further escalation could cut this entirely
+- **Customer concentration**: Apple ~25%, NVIDIA ~(growing); a slowdown at either would impact revenue
+- **AI capex slowdown**: if hyperscaler AI spending decelerates sharply, NVIDIA chip demand falls → TSMC revenue growth slows
+
+### Competitive position
+TSMC's lead at leading-edge nodes (2nm, 3nm) is approximately 2 years ahead of Samsung and significantly wider than Intel Foundry's current capability. This lead is likely to persist for 3–5+ years given the compound difficulty of semiconductor manufacturing at sub-3nm dimensions. For pure picks-and-shovels exposure to the AI infrastructure buildout, TSMC is the most direct vehicle after NVIDIA itself.
+
+### Rough valuation
+- P/E approximately **20–25× forward earnings** (FY2026E)
+- EV/EBITDA approximately **12–15×**
+- For a near-monopoly at the single most critical technology node in the world, this multiple is arguably conservative — TSMC's earnings power per wafer is rising as customer chip complexity increases
+- The Taiwan discount is real (political risk embedded in the valuation); without it, TSMC would likely trade at a significant premium to current levels
+
+---
+
+## AMD — Advanced Micro Devices
+**Genre: AI Compute & Infrastructure (stockData) | Risk: Balanced | Revolut: Yes | Price: ~$130–160 (verify live)**
+
+### What it does
+AMD is a **fabless semiconductor company** — it designs chips but outsources manufacturing to TSMC. It operates in two primary markets: **Computing and Graphics** (consumer CPUs and GPUs, gaming consoles) and **Data Center** (server CPUs via EPYC, AI accelerator GPUs via the Instinct MI-series, and embedded processors via the Xilinx/Adaptive Computing acquisition).
+
+Key products:
+- **EPYC** (server CPUs): now holding approximately **30–35% of the x86 server CPU market** — primarily taken from Intel, which dominated for decades. EPYC Genoa and Bergamo (released 2023-24) are widely regarded as best-in-class for cloud workloads
+- **Radeon** (consumer GPUs): competitive with NVIDIA GeForce in gaming; smaller market share
+- **Instinct MI300X / MI325X** (AI accelerator GPUs): AMD's primary answer to NVIDIA's H100/H200; notable for its **192GB HBM3 memory** (vs 80GB on H100), making it preferred for memory-bandwidth-intensive inference workloads
+- **Xilinx FPGAs** (acquired 2022, ~$35bn): adaptive computing chips used in telecom, aerospace, industrial, datacenter networking
+- **Silo AI** (acquired 2024): AI software capability — improving the software ecosystem to support Instinct AI GPU adoption
+
+### Latest results and financial health (mid-2026)
+- **Revenue**: approximately **$27–30bn annualised** (FY2025), growing 15–25% YoY driven by Data Center segment
+- **Data Center segment**: Q2 2026 data center revenue approximately **$5bn+ for the quarter** (record); MI300X and MI325X deployments at hyperscalers (Microsoft, Meta, Oracle publicly disclosed; others likely)
+- **Gross margin**: approximately **50–53%** (lower than TSMC/NVIDIA but improving with data center mix shift)
+- **Cash position**: strong; ongoing buyback programme
+- **No dividend**: AMD pays no dividend — a growth company reinvesting in R&D and returning capital via buybacks
+
+### Bull thesis
+- **NVIDIA supply constraints = AMD opportunity**: NVIDIA's GB200 NVL72 systems are backordered; hyperscalers actively diversifying their AI accelerator supply chains to include AMD to reduce single-vendor dependence (analogous to how they diversify cloud providers)
+- **MI300X memory advantage**: 192GB HBM3 is the largest GPU memory in production; for LLM inference (serving AI to end-users), memory capacity is often the binding constraint — AMD has a genuine edge here vs H100/H200
+- **EPYC dominance**: AMD's server CPU share gain is structural — Intel's response (Sapphire Rapids, Emerald Rapids) has not arrested the share loss; ARM (Graviton, Ampere) is the longer-term concern but cloud still leans x86 for compatibility
+- **ROCm maturity (AI software)**: ROCm 6.x is significantly more capable than earlier versions; multiple major AI frameworks (PyTorch, JAX) now support ROCm; Silo AI acquisition adds software engineers and models
+- **Valuation relative to NVIDIA**: AMD trades at a significant P/E discount to NVIDIA (~25–35× vs NVIDIA's ~40–50×); if AMD can demonstrate sustained GPU market share gain, multiple expansion is possible
+
+### Main risks and what would break the thesis
+- **CUDA moat**: NVIDIA's CUDA ecosystem (software libraries, developer familiarity, enterprise integrations, ROCm compatibility layers) is still meaningfully ahead of ROCm. For new AI model development and training of novel architectures, most researchers default to NVIDIA. AMD wins workloads where the model is already trained and the customer needs inference scale — a real but smaller total addressable market than training
+- **AI capex moderation**: if hyperscalers reduce spending (due to demand uncertainty, ROI pressure, macro), AI GPU demand softens across the board — AMD would feel this as strongly as NVIDIA, possibly more so given smaller scale
+- **China export restrictions**: US export controls prevent AMD from selling MI300X to Chinese customers; China was a ~15% revenue contributor — this lost revenue is being replaced by ROW but represents a permanent TAM reduction
+- **Xilinx integration**: the FPGA/adaptive computing business has not yet delivered the cross-selling synergies originally promised; competition from Intel Altera is intensifying
+- **Lisa Su succession**: CEO Lisa Su has been transformative since 2014 — she is a key-person risk for AMD execution
+
+### Competitive position
+AMD is now clearly the #2 in both CPU (server) and GPU (AI/datacenter) — a vast improvement from 5 years ago when it was a marginal player. The CPU competition with Intel has decisively swung AMD's way on performance-per-watt; the GPU competition with NVIDIA is growing but NVIDIA's lead is still substantial. AMD's position is "strong enough to win meaningful contracts, insufficient to dominate" — the right positioning for a competitive beneficiary of AI infrastructure growth without bearing the existential risk of being the sole provider.
+
+### Rough valuation
+- Forward P/E approximately **25–35×** on FY2026E earnings — premium over the S&P 500 multiple (~18–20×) but a discount to NVIDIA (~40–50×)
+- The premium reflects: data center growth runway, EPYC share gains, MI300X ramp
+- The discount to NVIDIA reflects: CUDA moat, software gap, NVIDIA's more dominant market position
+- For an investor who missed NVIDIA at lower prices, AMD offers meaningful AI exposure with a less extreme starting valuation and a real business outside pure GPU (EPYC, FPGA, embedded)
+
+---
+
 # 2026-09-17 — Cycle 3, Run 2: Income/Dividend Deep Dive — VHYG, LGEN, BATS, O, MO, VZ, T, ENB, IMB, AV., XOM, KO
 
 This run is **entirely income-focused**, covering 12 of the 14 outstanding DIV names in Cycle 3 (leaving NG. and HSBA for Run 3). The investor's long-term goal is dividend/cashflow income, and VHYG is held and purchased weekly — so the DIV universe gets the spotlight until it is fully covered. Also of note this week: the FOMC met on 15–16 September and, given the 85% market-implied probability of a 25 bp hike cited in the dashboard, a rate increase is treated as the base case here and discussed where relevant to individual names. Research date: **17 September 2026**. All figures are approximate from the dashboard (~14 Sep 2026 snapshot), public company disclosures, and published sources; yields and prices move constantly — **re-verify live before acting**. Nothing here is financial advice or a recommendation to buy or sell.

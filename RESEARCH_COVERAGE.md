@@ -8,7 +8,7 @@ Tracks which watchlist tickers have received a weekly deep-dive in the **current
 
 ## Current cycle: 3
 
-## Covered this cycle (20/89 official + VHYG as extra)
+## Covered this cycle (32/89 official + VHYG + ABBV + IUKD as extras)
 - NVDA (2026-09-10)
 - AVGO (2026-09-10)
 - GEV (2026-09-10)
@@ -30,11 +30,23 @@ Tracks which watchlist tickers have received a weekly deep-dive in the **current
 - XOM [DIV] (2026-09-17)
 - KO [DIV] (2026-09-17)
 - VHYG [DIV — extra beyond 89] (2026-09-17)
+- JNJ [DIV] (2026-09-24)
+- NG. [DIV] (2026-09-24)
+- HSBA [DIV] (2026-09-24)
+- IUKD [DIV — extra] (2026-09-24)
+- ABBV [DIV — extra] (2026-09-24)
+- BTC [CRYPTO] (2026-09-24)
+- ETH [CRYPTO] (2026-09-24)
+- SOL [CRYPTO] (2026-09-24)
+- XRP [CRYPTO] (2026-09-24)
+- cETN [CRYPTO] (2026-09-24)
+- TSM (2026-09-24)
+- AMD (2026-09-24)
 
-## Not yet covered this cycle (69/89)
-**stockData:** TSM, AMD, VRT, MRVL, ALAB, CRDO, NBIS, CRWV, CBRS, ANET, ETN, ARM, CCJ, OKLO, LEU, FLNC, VST, TLN, UUUU, UEC, DNN, BWXT, ENPH, NXT, QS, AMPX, EOSE, ALB, SQM, SEDG, SLDP, ARRY, SPCX, VOYG, KRMN, RDW, ONDS, UMAC, AVAV, RKLB, ASTS, KTOS, RCAT, RGTI, QBTS, QNT, QUBT, ARQQ, INFQ, XNDU, IQMX, KLAR, CHYM, ERAS, COIN, AFRM, NU, SOFI, RXRX, NTRA, HOOD, PYPL (61 stockData names)
-**DIV (3):** JNJ, NG., HSBA *(extras not yet covered: ABBV, IUKD)*
-**CRYPTO (5):** BTC, ETH, SOL, XRP, cETN
+## Not yet covered this cycle (57/89)
+**stockData:** VRT, MRVL, ALAB, CRDO, NBIS, CRWV, CBRS, ANET, ETN, ARM, CCJ, OKLO, LEU, FLNC, VST, TLN, UUUU, UEC, DNN, BWXT, ENPH, NXT, QS, AMPX, EOSE, ALB, SQM, SEDG, SLDP, ARRY, SPCX, VOYG, KRMN, RDW, ONDS, UMAC, AVAV, RKLB, ASTS, KTOS, RCAT, RGTI, QBTS, QNT, QUBT, ARQQ, INFQ, XNDU, IQMX, KLAR, CHYM, ERAS, COIN, AFRM, NU, SOFI, RXRX, NTRA, HOOD, PYPL (59 stockData names)
+**DIV:** all 14 official DIV names now covered this cycle ✓; extras (ABBV, IUKD, VHYG) also covered ✓
+**CRYPTO:** all 5 CRYPTO names now covered this cycle ✓
 
 ---
 
