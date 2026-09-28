@@ -1,5 +1,62 @@
 # Changelog
 
+## 2026-09-28 — Weekly Research Refresh
+
+### Summary
+All stock prices, ETF prices, dividend data, and IPO pipeline refreshed to ~28 Sep 2026. **WEEK'S BIGGEST CATALYST — IONQ QUANTUM BREAKTHROUGH (Sep 22)**: IonQ announced the industry's first end-to-end real-time quantum error correction decoder running on a single standard CPU — 408 logical qubits corrected in real time without added latency. Stock +7% after-hours, then +11% next session; triggered sector-wide buying across RGTI (+6%), QBTS (+4%), QNT, QUBT (+3%). Second milestone in two weeks (Superion 256 launched Sep 8). FY2026 guidance $450-460M intact; Jefferies PT $80. **Space sector rally (Sep 24)**: broad space rally — RKLB +6% to $74, ASTS +4% to $62, SPCX +$160; Pentagon confirmed Space Force operating orbital weapons for Golden Dome. **Starship Flight 14 TODAY (Sep 28)**: first orbital launch attempt with 26 Starlink V3 satellites, 75-minute window 7:15am CT. **RKLB GAO clarification**: the lost contract at issue is the NASA Mars TELECOMMUNICATIONS NETWORK contract (a comms relay orbiter), NOT Mars Sample Return — Blue Origin must halt all work via auto-stay through mid-December 2026 GAO decision. **Solar sector extended rout (Sep 22-26)**: FSLR hit a fresh 52-week low at $172 on Sep 24 (fell 10%+ in a single session); SEDG $34, ENPH $36, ICLN ETF $20. Elevated borrowing costs (3.75-4% fed funds) continue to pressure utility-scale solar project financing. Section 232 MIP effective Dec 4 thesis structurally unchanged. **CRCL double leadership shock (Sep 25)**: CFO Jeremy Fox-Geen stepped down with immediate effect AND co-founder P. Sean Neville resigned from the board — both on the same day as the Tazapay $400M all-stock acquisition announcement (Singapore B2B cross-border payments, $25B+ annualised payment volume). Governance overhang; CRCL $85→$82. **SOFI Mastercard stablecoin (Sep 22)**: SoFiUSD stablecoin settlement service launched via Mastercard partnership; stock +5% to $18. **Anthropic S-1 imminent**: today (Sep 28) is the last day of the "late September" filing window; institutional roadshow mid-October; Nasdaq listing targeting Oct–Nov 2026; ARR >$65B; secondary-implied valuation $1.05-1.15T. **DIV corrections**: BATS yield corrected from 7.5% (yield trap warning in prior refresh) back to ~5.8% — share price has recovered; BATS ex-div Oct 1 is THIS WEEK. Realty Income ex-div Sep 30 is in TWO DAYS. LGEN Sep 25 payment confirmed paid; yield compressed to ~7.0%.
+
+### Key catalysts (21–28 Sep 2026)
+- **IONQ quantum error correction breakthrough** (Sep 22) — industry's first real-time quantum error correction decoder on a single CPU; 408 logical qubits; stock +11%; RGTI +6%, QBTS +4%, QNT and QUBT also lifted; two milestones in two weeks
+- **Space sector rally** (Sep 24) — broad sector move; RKLB +6% to $74, ASTS +4% to $62, SPCX to $160; Pentagon confirms Space Force operating orbital weapons for Golden Dome
+- **Starship Flight 14 orbital launch** (Sep 28, TODAY) — 75-min window from 7:15am CT; 26 Starlink V3 satellites; 275km altitude; ~6 orbits; booster and ship splashdowns (no catch); Pacific splashdown west of Chile
+- **FSLR fresh 52-week low** (Sep 24) — fell 10%+ in a single session to $172; extended solar rout on elevated borrowing cost narrative; Wells Fargo PT $320 = ~86% upside; Section 232 MIP Dec 4 unchanged
+- **CRCL double leadership departure** (Sep 25) — CFO Fox-Geen + co-founder Neville resigned same day as Tazapay $400M all-stock acquisition; governance overhang; $82 from $85
+- **SoFiUSD Mastercard stablecoin** (Sep 22) — instant digital dollar settlement over Mastercard network; SOFI +5% to $18; product diversification into stablecoin infrastructure
+- **Anthropic S-1 imminent** — today is last day of "late September" window; October roadshow; Nasdaq listing Oct–Nov 2026; ARR >$65B; $1.05-1.15T secondary-implied valuation
+- **BATS ex-div Oct 1** — yield corrected to ~5.8% (share price recovered from yield-trap levels); ex-div THIS WEEK
+- **Realty Income ex-div Sep 30** — monthly payer; ex-div in two days
+
+### Price changes (Sep 21 → Sep 28)
+| Stock | Prev | New | Note |
+|-------|------|-----|------|
+| IONQ | $40 | $43 | Quantum error correction breakthrough Sep 22 (+11% next session) |
+| RGTI | $16 | $17 | Sector rally on IONQ news (+6%) |
+| QBTS | $18 | $19 | Sector rally on IONQ news (+4%) |
+| QNT | $52 | $54 | Sector rally on IONQ news |
+| QUBT | $9.00 | $9.50 | Sector rally on IONQ news (+3%) |
+| RKLB | $64 | $74 | Space sector rally Sep 24 (+6%); SBI programme; GAO auto-stay on NASA Mars Telecom Network contract |
+| ASTS | $59 | $62 | Space sector rally Sep 24 (+4%); Berenberg $1T space economy report |
+| SPCX | $151 | $160 | Space sector rally; Starship Flight 14 orbital launch TODAY |
+| FSLR | $203 | $172 | FRESH 52-WEEK LOW Sep 24; solar rout extended; elevated borrowing costs |
+| SEDG | $36 | $34 | Solar rout extended Sep 22-26 |
+| ENPH | $37 | $36 | Solar rout extended |
+| CEG | $278 | $256 | Persistent FOMC rate sensitivity; TMI NRC licence still May 2027 |
+| VST | $153 | $148 | Power/nuclear sector digestion continues |
+| CRCL | $85 | $82 | Double leadership departure Sep 25 (CFO + co-founder) + Tazapay acquisition |
+| SOFI | $17.14 | $18 | SoFiUSD Mastercard stablecoin launch Sep 22 (+5%) |
+| NVDA | $222 | $215 | Semiconductor sector digestion Sep 22-26 |
+| AMD | $560 | $549 | Semiconductor sector digestion |
+| AVGO | $349 | $354 | Recovery from Sep 21 ex-dividend adjustment |
+| AFRM | $70 | $68 | Higher-for-longer rate environment weighing on BNPL |
+| ICLN (ETF) | $22 | $20 | Solar rout; FSLR, SEDG, ENPH all lower |
+| QTUM (ETF) | $163 | $167 | Quantum sector surge on IONQ breakthrough |
+| UFO (ETF) | $53 | $54 | Space sector rally Sep 24 |
+| ITA (ETF) | $278 | $280 | Defence sector steady; Golden Dome orbital weapons confirmation |
+| FINX (ETF) | $29 | $28 | CRCL governance shock; AFRM/AFRM easing |
+
+### Dividend/yield changes (Sep 21 → Sep 28)
+| Name | Prev yield | New yield | Reason |
+|------|-----------|----------|--------|
+| BATS | ~7.5% | ~5.8% | Share price recovered; prior 7.5% was yield-trap expansion; ex-div Oct 1 THIS WEEK |
+| LGEN | ~7.7% | ~7.0% | Sep 25 dividend paid; slight share price recovery |
+
+### IPO pipeline changes
+| Name | Prev status | New status | Note |
+|------|-------------|------------|------|
+| Anthropic | S-1 expected late Sep | S-1 IMMINENT (today is last day of window) | Oct roadshow; Oct–Nov Nasdaq listing; ARR >$65B; $1.05-1.15T secondary-implied |
+
+---
+
 ## 2026-09-21 — Weekly Research Refresh
 
 ### Summary
