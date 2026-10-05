@@ -1,5 +1,77 @@
 # Changelog
 
+## 2026-10-05 — Weekly Research Refresh
+
+### Summary
+All stock prices, ETF prices, dividend data, and IPO pipeline refreshed to ~5 Oct 2026. **STARSHIP FLIGHT 14 REACHED ORBIT (Sep 28)**: Starship performed its first-ever orbital insertion burn, deployed all 26 Starlink V3 satellites at 275km altitude — all 26 contacted; ~6 orbits over ~10 hours before Pacific splashdown. The decisive operational milestone for Starship's commercial viability. SPCX $160→$165. **TSMC MEGA-RALLY**: TSMC rallied to $473 from $404 ahead of Q3 2026 earnings Oct 15 — company raised 2026 USD revenue growth guidance to >40% (from >30%); Q3 guided at $44.6-45.8B with gross margin 65-67%. **MRVL RALLIED**: Investor Day Oct 6 confirmed FY2028 revenue target ~$18B; stock $244→$272. **RKLB MULTI-CATALYST WEEK**: ARK Invest bought $16.5M worth of RKLB (Oct 1, rotating PLTR proceeds); Citi initiated new Buy coverage with PT $105 = ~40% upside; 20-launch Synspective SAR constellation agreement (2028-2031, largest commercial Electron deal ever, total 47 bookings, backlog >100 missions); Oct 2 Falcon 9 rideshare +7%. RKLB $74→$75. **BWXT $1.5B DUECE CONTRACT**: BWX Technologies received $1.5B DOE NNSA contract to build the Domestic Uranium Enrichment Centrifuge Experiment (DUECE) HALEU pilot plant in Tennessee — significant new revenue stream alongside Navy propulsion monopoly; also adds a competitive monitoring note for LEU holders; BWXT $157→$162. **FLNC CORRECTED MISSING CATALYST**: Fluence Energy was named Nvidia's EXCLUSIVE energy storage partner for AI factory projects (May 2026, stock surged +30% then +60% over two days) — this key catalyst was previously missing from the dashboard note; thesis now correctly updated; FLNC $15→$16. **CEG RECOVERY**: Constellation Energy recovered to $277 from $256 lows as the worst of rate-shock pressure on utilities partially eased; analyst Buy PT $520 = ~88% upside. **VST CONTINUED EASING**: Vistra eased further to $137 from $148 — rate environment; Meta 20-yr PPA intact. **PLTR EASED**: ARK sold PLTR shares Oct 1, rotating into RKLB; PLTR $177→$168; DA Davidson PT $250 intact. **NVDA consolidated**: $215→$208; Q3 FY2027 guidance $54B intact; Q3 earnings Nov 19. **Anthropic S-1 timeline slipped**: Sep 28 public S-1 window passed without action; public S-1 now expected November 2026; Nasdaq listing targeting November–December 2026 (slipped from Oct–Nov). **VZ DIVIDEND RAISED**: 19th consecutive annual dividend increase (Sep 2026); yield now ~6.7% on the higher payout. **MO confirmed**: $1.11/quarter ($4.44 annualised = 61st consecutive year of increases); stock ~$70, yield ~6.4%. **BATS ex-div Oct 1 PASSED**: dividend captured; next ex-div early 2027. **Realty Income ex-div Sep 30 passed**: yield compressed slightly to ~5.7%.
+
+### Key catalysts (28 Sep – 5 Oct 2026)
+- **Starship Flight 14 REACHED ORBIT** (Sep 28) — first orbital Starship mission; 26 Starlink V3 satellites deployed at 275km; all 26 contacted; ~6 orbits; Pacific splashdown; SPCX +rally to $165; Oppenheimer PT $280
+- **TSMC 2026 guidance raised to >40% USD growth** — Q3 2026 earnings Oct 15 is the next major sector catalyst (quiet period Oct 5-14); Q3 guided $44.6-45.8B, GM 65-67%; TSM $404→$473
+- **MRVL Investor Day Oct 6** — FY2028 revenue target ~$18B confirmed; MRVL $244→$272
+- **RKLB ARK buy + Citi Buy coverage + Synspective** (Oct 1-2) — ARK bought $16.5M; Citi initiated Buy PT $105; 20-launch Synspective deal (largest commercial Electron deal ever); Oct 2 Falcon 9 +7%
+- **BWXT $1.5B DUECE DOE contract** — DOE NNSA HALEU centrifuge pilot plant in Tennessee; major new government revenue stream; also creates a potential future LEU competitor (monitor)
+- **FLNC Nvidia exclusive partnership** (corrected May 2026 catalyst) — named Nvidia's exclusive energy storage partner for AI factory projects; +30-60% surge at the time; now correctly reflected in dashboard
+- **CEG recovered to $277** from $256 lows — rate-pressure partial relief; analyst Buy PT $520 intact
+- **VST continued to $137** from $148 — rate environment; Meta 20-yr PPA intact; analyst PT $230
+- **PLTR ARK rotation** (Oct 1) — ARK sold PLTR, bought RKLB; PLTR $177→$168; creating near-term momentum headwind
+- **Anthropic S-1 slipped** — Sep 28 public S-1 window passed; now November public S-1; Nov-Dec Nasdaq listing target
+- **VZ dividend raised** 19th consecutive year — yield now ~6.7%; 6th consecutive quarterly earnings beat
+- **BATS ex-div Oct 1** — passed; quarterly dividend captured; next ex-div early 2027
+
+### Price changes (Sep 28 → Oct 5)
+| Stock | Prev | New | Note |
+|-------|------|-----|------|
+| TSM | $404 | $473 | 2026 revenue growth guidance raised >40%; Q3 earnings Oct 15 |
+| MRVL | $244 | $272 | Investor Day Oct 6 confirmed FY2028 ~$18B |
+| RKLB | $74 | $75 | ARK $16.5M buy; Citi Buy PT $105; Synspective 20-launch deal; +7% Oct 2 rideshare |
+| BWXT | $157 | $162 | $1.5B DOE DUECE HALEU centrifuge contract |
+| SPCX | $160 | $165 | Starship Flight 14 REACHED ORBIT Sep 28 |
+| CEG | $256 | $277 | Recovery from rate-shock lows |
+| VST | $148 | $137 | Continued rate-environment easing |
+| PLTR | $177 | $168 | ARK sold Oct 1 (rotated to RKLB) |
+| NVDA | $215 | $208 | Semiconductor sector consolidation |
+| FLNC | $15 | $16 | Corrected missing Nvidia exclusive partnership catalyst |
+| LEU | $200 | $205 | Slight recovery; BWXT DUECE competitive watch noted |
+| CCJ | $102 | $97 | Slight easing ahead of Q3 earnings Oct 30 |
+| OKLO | $41 | $40 | Goldman ATM dilution watch ongoing |
+| CRDO | $100 | $105 | Slight recovery from correction lows |
+| GEV | $924 | $912 | Broader industrial sector digestion |
+| AMD | $549 | $535 | Semiconductor sector consolidation |
+| AVBO | $354 | $355 | Stable; Anthropic chip deal reports |
+| FSLR | $172 | $175 | Marginal recovery; Keybanc upgrade Sep 28 |
+
+### ETF price changes (Sep 28 → Oct 5)
+| Ticker | Prev | New | Note |
+|--------|------|-----|------|
+| SMH | $583 | $560 | Semiconductor sector consolidation despite TSMC/MRVL rallies |
+| BOTZ | $40 | $35 | AI/robotics sector digestion |
+| URA | $49 | $56 | Uranium sector recovery |
+| NLR | $123 | $103 | Nuclear utilities sector easing |
+| ICLN | $20 | $18 | Solar sector continued rout |
+| LIT | $65 | $77 | Lithium cycle recovery; EV demand signals |
+| ITA | $280 | $233 | Defence sector prime-contractor digestion |
+| UFO | $54 | $42 | Space ETF composition drag despite individual stock rallies |
+| QTUM | $167 | $148 | Quantum basket easing from IONQ rally highs |
+| FINX | $28 | $26 | Fintech sector digestion |
+| XBI | $165 | $154 | Small/mid-cap biotech rate-sensitive |
+| IBB | $198 | $211 | Large-cap biopharma stable/slight recovery |
+
+### Dividend/yield changes (Sep 28 → Oct 5)
+| Name | Prev yield | New yield | Reason |
+|------|-----------|----------|--------|
+| Realty Income (O) | ~5.9% | ~5.7% | Share price slight recovery from Sep lows |
+| Verizon (VZ) | ~5.4% | ~6.7% | DIVIDEND RAISED — 19th consecutive annual increase |
+| Altria (MO) | ~6.2% | ~6.4% | Confirmed $1.11/quarter; stock ~$70 |
+| BATS | ~5.8% | ~5.8% | Ex-div Oct 1 passed; yield stable |
+
+### IPO pipeline changes
+| Name | Prev status | New status | Note |
+|------|-------------|------------|------|
+| Anthropic | S-1 imminent (Sep 28 last day of window) | S-1 confidential; public S-1 expected Nov 2026 | Sep 28 window passed; Nov-Dec 2026 Nasdaq listing now targeted; ARR >$65B; $1.05-1.15T secondary-implied unchanged |
+
+---
+
 ## 2026-09-28 — Weekly Research Refresh
 
 ### Summary
