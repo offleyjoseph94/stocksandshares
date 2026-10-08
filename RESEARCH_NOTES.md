@@ -1,3 +1,460 @@
+# 2026-10-08 — Cycle 3, Run 5: AI connectivity, nuclear power, clean energy, space, defence, quantum & fintech — ALAB, ARM, OKLO, TLN, NXT, QS, ASTS, AVAV, QNT, QUBT, AFRM, PYPL
+
+DIV and CRYPTO universes are fully covered this cycle. This run continues the stockData rotation across all 6 genres, 2 per genre. Research date: **8 October 2026**. All figures are drawn from company SEC filings, earnings releases, and press releases (cited with approximate dates). Prices, rates, and financial metrics move constantly — **re-verify live before acting**. Nothing here is financial advice or a recommendation to buy or sell.
+
+Macro context this week: higher-for-longer (FOMC confirmed 3.75–4% fed funds) is still the backdrop; crypto broadly sideways since the Sep 16 hike. TSMC reports Oct 15 (potential AI capex sentiment read). Quantum sector energised by IONQ's Sep 22 fault-tolerant error-correction milestone and $300M CHIPS Act sector grants. Solar sector near multi-year lows on project finance headwinds. PayPal guiding a low-single-digit EPS decline in Q3. Affirm reached pre-tax GAAP profitability for the first time (Q4 FY26).
+
+---
+
+## ALAB — Astera Labs
+**Genre: AI & Compute | Risk: Aggressive | Revolut: No | Price: ~$285 (mid-2026 ref) | Horizon: Long**
+
+### What it does and how it makes money
+Astera Labs (NASDAQ: ALAB) is a fabless semiconductor company making the connectivity chips that hold AI computing clusters together. Three core product families:
+- **ARIES** — PCIe/CXL retimers (signal conditioning); the dominant revenue line today
+- **TAURUS** — CXL memory modules
+- **Scorpio** — AI fabric switches that link hundreds of GPUs into a unified computing pool; the strategic growth product
+
+TSMC manufactures the silicon. Revenue model is almost entirely chip sales to hyperscalers. Gross margins 72–76% reflect mission-critical products with high switching costs.
+
+### Latest results and financial health
+- Q2 2026 (reported 4 Aug 2026): Revenue $392.4M, +104% YoY, +27% QoQ. Non-GAAP EPS $0.80 (vs ~$0.69 consensus). Non-GAAP gross margin 73.7%, operating margin 39.1%.
+- FY2025 full-year revenue $852.5M (+115% YoY). Q1 2026 revenue $308.4M (+93% YoY).
+- Q3 2026 guidance (reported at Q2): Revenue $540–560M, gross margin ~72%, EPS $1.16–$1.21. Q3 results due 3 November 2026.
+- PCIe 6.0 products exceeded 50% of Q2 revenue (up from ~33% in Q1) — the fastest technology transition Astera has executed.
+- Balance sheet: no significant debt flagged; cash generative.
+
+### Bull thesis
+Scorpio X 320-lane AI fabric switches entered volume production ahead of schedule and are expected to become Astera's largest product family — a step-change in revenue per rack. Content per AI rack is increasing materially as GPU density rises. PCIe 6.0 locks in retimers for the next accelerator generation. Two additional hyperscalers are beginning Scorpio P-Series adoption, diversifying from the initial anchor customer. Consensus FY2026 revenue estimate ~$1.35B (+58% YoY). Late-2026 design wins could fuel 2027 estimates not yet priced in.
+
+### Catalysts ahead
+Q3 results (3 Nov 2026), Scorpio X volume ramp confirmation, new design-win announcements (late 2026), further hyperscaler Scorpio P-Series adoption, UALink fabric standard development.
+
+### Main risks and what would break the thesis
+- **Customer concentration**: ~90% of revenue from a small number of hyperscalers — any capex pause is painful
+- **Valuation**: ~165× non-GAAP trailing P/E at ~$285 — almost no margin of safety; a guidance cut would hit hard
+- **Gross margin drift**: ~72% as Scorpio mix grows (lower margin than retimers)
+- **Scorpio X execution risk**: a complex new product in early volume production
+- **Competition**: Broadcom and Marvell both competing in AI connectivity
+
+### Competitive position
+Strong moat in retimers/CXL (embedded in next-gen AI racks, high switching costs once designed in). Scorpio positions Astera against Broadcom in AI fabric — a bolder move with genuine execution risk. RISC-V and NVLink are indirect rather than direct substitutes.
+
+### Rough valuation sense-check
+~165× non-GAAP trailing P/E, ~21× forward revenues. Analyst targets span $153–$500. TD Cowen $425 (Hold), Bank of America $450 (Neutral). A pure execution story priced for market leadership. Downside if hyperscaler AI capex cycle stalls; upside if Scorpio X ramp runs ahead of the guide.
+
+---
+
+## ARM — Arm Holdings
+**Genre: AI & Compute | Risk: Balanced | Revolut: No | Price: ~$280–320 (2026 range, verify live) | Horizon: Long**
+
+### What it does and how it makes money
+Arm (NASDAQ: ARM) designs processor instruction set architectures (ISAs) and licensable CPU core blueprints — it does not manufacture chips. Two revenue streams:
+- **Licensing fees**: upfront payment when a chip designer licences an Arm architecture
+- **Royalties**: per-chip payment (~1–5% of chip ASP) each time a licensee ships a product
+
+Arm's Compute Subsystems (CSS) bundles entire chip sub-systems and commands materially higher royalty rates than traditional IP licensing. Arm is also entering physical silicon with the Arm AGI CPU targeting AI data-centre workloads — a structural strategic shift that creates a tension with its licensee relationships.
+
+### Latest results and financial health
+- FY2026 (year ended March 2026): Revenue $4.92B (+22.8% YoY), net income ~$904M. Royalties reached $2.61B for the full year; data-centre royalties more than doubled YoY.
+- Q1 FY2027 (ended 30 June 2026): Revenue ~$1.29B (+22.4% YoY, beat ~$1.26B estimate). Non-GAAP EPS $0.45 (beat $0.40 estimate). Royalties $715M (+22% YoY). CSS ~20% of royalties.
+- Q2 FY2027 guidance: Revenue $1.38B ±$50M, adjusted EPS $0.47 ±$0.04. Results due 4 November 2026.
+- ARMv9 is ~25% of royalty revenue today; management targets 60–70% adoption over time.
+
+### Bull thesis
+ARMv9 architecture royalty rates are reportedly ~5% vs ~2.5–3% for v8. As v9 adoption grows from 25% toward 60–70% of chips shipped, blended royalty revenue per chip rises structurally — a multi-year earnings tailwind regardless of unit volume growth. Data-centre royalties more than doubled YoY; the architecture powers Amazon Graviton, Microsoft Cobalt, Google Axion, and Apple M-series. CSS bundles deepen the moat and raise revenue per engagement. Management has guided toward $15B in chip-related revenue by FY2031. Arm's performance-per-watt advantage over x86 is increasingly important as data-centre energy costs become the binding constraint for AI infrastructure.
+
+### Catalysts ahead
+Q2 FY2027 results (4 Nov 2026), Qualcomm/Nuvia litigation trial outcome (Q4 2026), Arm AGI CPU data-centre rollout, v9 adoption milestones, new hyperscaler custom-chip announcements.
+
+### Main risks and what would break the thesis
+- **Extreme valuation**: ~270× trailing P/E, ~97× forward P/E — priced for perfection
+- **Qualcomm/Nuvia litigation**: trial in Q4 2026 — an adverse outcome could threaten a key licensee relationship
+- **Competing with licensees**: the Arm AGI CPU creates a conflict-of-interest dynamic that JP Morgan and others have flagged
+- **RISC-V**: NVIDIA's large SiFive investment and 13B+ cumulative RISC-V shipments suggest the open-source alternative is maturing; server-grade RISC-V silicon is now in early production
+- **China concentration** and US export control exposure
+- **R&D scaling**: compressing operating margin to ~15% (from ~18%)
+
+### Competitive position
+Moat is the ecosystem: decades of software optimisation, compiler toolchains, and developer familiarity are extremely hard to replicate. x86 is losing data-centre share to Arm on power efficiency. RISC-V is a genuine long-term structural threat but years behind in software maturity for complex enterprise workloads. SoftBank retains ~90% ownership, limiting free float and making a meaningful valuation reset unlikely on any single bad quarter.
+
+### Rough valuation sense-check
+~270× trailing P/E, ~97× forward P/E. The bull case requires successful transition to higher-royalty CSS plus physical silicon at scale. Management's $15B FY2031 chip-revenue target is the key number to track. Bears point to the licensee conflict and RISC-V acceleration as structural rather than transient. An expensive stock in an expensive sector; patience required.
+
+---
+
+## OKLO — Oklo Inc
+**Genre: Energy & Nuclear | Risk: Moonshot | Revolut: No | Price: ~$38 (late Sep 2026, verify live) | Horizon: Long**
+
+### What it does and how it makes money
+Oklo (NYSE: OKLO) is developing the Aurora powerhouse — a compact advanced fission reactor (15–50 MWe) using metallic uranium fuel with the ability to recycle spent nuclear material. Its intended business model is to **own and operate** reactors and sell electricity via long-term power purchase agreements (PPAs) — not sell reactor hardware. It also acquired Atomic Alchemy for radioactive isotope production, providing a secondary near-term revenue stream. Current revenue is negligible (~$1.2M in H1 2026 from engineering services); the company is entirely pre-commercial on its core power business.
+
+### Latest results and financial health
+- H1 2026: Revenue ~$1.2M, net loss $81.6M, cash ~$1.6B (30 June 2026)
+- First $1B ATM equity offering exhausted by September 2026 (17.97M shares at avg ~$55.64/share)
+- **Second $1B ATM offering launched late September 2026** at a stock price then ~$38, implying ~14%+ dilution
+- Annualised cash burn ~$160M — approximately 10 years of runway from current cash, but ongoing ATM dilution replenishes at increasing share-count cost
+- 52-week high ~$193.84; stock ~$38 (late Sep 2026) — down ~80% from peak
+
+### Regulatory progress (critical for the thesis)
+- First Aurora powerhouse under construction at Idaho National Laboratory under DOE authorisation (groundbreaking 22 Sep 2025)
+- 3 of 5 DOE pathway steps complete; 2028 is described as "an **ambitious** target" for first power
+- NRC principal design criteria topical report approved April 2026 — a framework document, not a licence
+- **Critical point**: the first plant cannot sell power to the **commercial grid** under current DOE authorisation — commercial grid sales depend on subsequent NRC-licensed plants, which are years further out
+
+### Bull thesis
+AI data centres need massive 24/7 low-carbon power; Oklo's long-term PPA model is precisely what hyperscalers want. Sam Altman (OpenAI CEO) as executive chairman gives a direct line to the industry's largest power consumers. First-mover in licensed advanced fission in the US — if it delivers, it sets regulatory precedent. Atomic Alchemy isotopes provide a near-term revenue bridge. NVIDIA + Los Alamos collaboration validates technical approach.
+
+### Catalysts ahead
+DOE pathway step 4 authorisation, Atomic Alchemy isotope contracts signed, NRC commercial licensing milestones, first power from Aurora INL (~2028), data-centre PPA announcements (any specific hyperscaler deal would be significant).
+
+### Main risks and what would break the thesis
+- **Serial dilution**: two $1B ATM offerings in one year at prices far below the 52-week high is a major dilution event; the per-share thesis becomes progressively harder at higher share counts
+- **Timeline risk**: 2028 first-power is explicitly "ambitious" — nuclear projects historically overshoot; the commercial grid requires subsequent NRC licensing (2030s at best)
+- **Stock down ~80% from peak**: the market has materially repriced the timeline risk
+- **No revenue underpins the valuation** — pure option value on technology and regulatory execution
+- Venture-stage risk profile in a public-market wrapper
+
+### Competitive position
+Competes in the emerging advanced SMR space alongside NuScale (financial difficulties), X-energy, and TerraPower. Differentiated by metallic fuel cycle, DOE partnership at INL, and Sam Altman's direct hyperscaler relationships. Real competition is less about beating rivals and more about getting to the grid at all. Edge: early site access and AI-industry backing at board level.
+
+### Rough valuation sense-check
+~$1.6B cash, negligible revenue. Entire market cap is option value on the technology and regulatory outcome. A 2031–2035 commercial revenue inflection is the realistic base case. Position sizing accordingly — a small speculative weight makes sense only if the investor understands this could stay pre-commercial for the rest of the decade.
+
+---
+
+## TLN — Talen Energy
+**Genre: Energy & Nuclear | Risk: Balanced | Revolut: No | Price: ~$340 (Aug 2026 ref, verify live) | Horizon: Medium**
+
+### What it does and how it makes money
+Talen Energy (NASDAQ: TLN) is an independent power producer (IPP) operating in the PJM grid (US Northeast/mid-Atlantic). Its crown jewel is the Susquehanna nuclear station (~2.5 GW, Pennsylvania). It also operates natural gas and hydro plants; the Cornerstone portfolio acquisition (3 gas plants) closed June 2026. Revenue sources:
+- **Wholesale electricity**: PJM energy + capacity market sales
+- **Hyperscaler PPAs**: premium direct contracts for 24/7 carbon-free power — the value driver
+
+The landmark deal: a **1,920 MW PPA with Amazon Web Services** through 2042 from Susquehanna, with a company revenue estimate of ~$18B over the contract life. Amazon paid ~$650M for the adjacent Cumulus data-centre campus (2024).
+
+### Latest results and financial health
+- Q2 2026 (reported 5 Aug 2026): Adj. EBITDA $374M (+$284M YoY), adj. FCF $212M, revenue $747M. GAAP net loss $92M (unrealised derivative losses + interest expense — standard for hedged IPPs; not representative of cash generation)
+- FY2026 adj. EBITDA guidance raised to $2.03–2.23B (raised again after Cornerstone close; 2027 and 2028 outlooks also lifted)
+- Hedging: ~70% hedged 2027, ~30% 2028 — increasing earnings sensitivity to power prices in 2028+
+- YTD (H1 2026) adj. EBITDA $847M, adj. FCF $562M
+
+### Bull thesis
+The AWS contract provides ~$18B contracted revenue through 2042 — rare earnings visibility for an IPP. Carbon-free 24/7 nuclear power commands a premium that renewables cannot match at GW scale today. Susquehanna licence runs to 2044/2045; marginal cost of selling extra output via PPA is very low. PJM capacity prices are rising, benefiting the wider portfolio. "Powered land" strategy creates optionality for further hyperscaler deals at minimal incremental capex. Oppenheimer estimated the upsized AWS deal adds ~$73/share of value.
+
+### Catalysts ahead
+Q3 2026 earnings, AWS contract ramp (840+ MW by 2029), Montour data-centre deal resolution (current planning rejection may be appealed), further hyperscaler PPA announcements, PJM capacity auction results.
+
+### Main risks and what would break the thesis
+- **GAAP losses** (derivative hedges) create confusion and preclude traditional P/E screening; investors must use adj. EBITDA/FCF framework
+- **2028 book only ~30% hedged** — significant exposure to wholesale power price weakness if the power market softens
+- **Montour rezoning rejected** (Feb 2026) — delays a potentially significant second data-centre deal
+- **Debt from Cornerstone acquisition** increases leverage
+- **Unplanned Susquehanna outages** reduce output; nuclear licence extensions are not guaranteed
+- Stock down ~15% from June 2026 high to early October 2026
+
+### Competitive position
+Competes with Constellation Energy (Microsoft/TMI nuclear PPA) and NRG in nuclear-to-data-centre deals. Susquehanna's 2.5 GW scale is a genuine differentiator. "Powered land" near the plant creates optionality no renewable developer can easily replicate. Competition for hyperscaler PPA budget: renewables-plus-storage are the alternative (but cannot match 24/7 carbon-free baseload at cost; geography also constrains them).
+
+### Rough valuation sense-check
+At ~$340/share, with FY2026 adj. EBITDA guidance ~$2.03–2.23B, TLN trades at approximately 15–17× adj. EBITDA — a premium to traditional IPP multiples (8–10×) justified by PPA quality and growth optionality. Analyst consensus target ~$398 (Simply Wall St); most optimistic target $595. Re-rating likely requires new data-centre deal announcements. The AWS contract is the floor; new PPAs are the upside.
+
+---
+
+## NXT — Nextracker (formerly traded as NXT)
+**Genre: Clean Energy & Batteries | Risk: Balanced | Revolut: No | Price: verify live | Horizon: Long**
+
+### What it does and how it makes money
+Nextracker (NASDAQ: NXT) designs and manufactures single-axis solar tracker systems for utility-scale solar farms — the mechanical systems that rotate solar panels throughout the day to follow the sun, increasing energy output by 20–25% vs fixed-tilt. Also provides TrueCapture AI-powered tracker control software. Revenue is almost entirely hardware (tracker systems) plus growing software and services. Dominant US market position; international expansion underway.
+
+### Latest results and financial health
+- Q1 FY2027 (ended 3 Jul 2026): Record revenue $935M, adj. EBITDA margin 24.9%, adj. EPS $1.20
+- Balance sheet: ~$1.2B net cash, zero debt; FY2026 FCF $515.6M
+- Backlog: $5.5B+; FY2027 revenue guidance raised to $4.1–4.4B
+- Note: NXT rebranded itself as "Nextpower" in some contexts — still trades as NXT; verify branding live
+
+### Bull thesis
+Dominant US market position with strong moat from proprietary software and scale manufacturing. Clean balance sheet (net cash, no debt) is rare in the sector. TrueCapture software layer is growing and sticky — once installed, operators don't switch tracker software mid-farm. Backlog of $5.5B provides strong revenue visibility. Utility-scale solar construction pipeline in the US remains large despite IRA policy uncertainty; NXT is picks-and-shovels for the solar build-out.
+
+### Catalysts ahead
+Continued US solar project groundbreakings, IRA investment tax credit clarity, international expansion milestones, software revenue growing as % of mix (higher margin), Investor Day updates.
+
+### Main risks and what would break the thesis
+- **IRA dependency**: a significant rollback of the Investment Tax Credit for solar could delay or cancel projects and slow order intake
+- **Project timing lumpy**: utility-scale projects can push quarters of revenue recognition
+- **High PEG (~4.75)**: expensive relative to growth rate
+- **Competition**: Array Technologies (US), FTC Solar, international entrants from China
+
+### Competitive position
+~45-50% estimated US market share. Scale advantage in manufacturing and supply-chain. Software (TrueCapture) creates switching costs. Backlog scale means near-term revenue is well covered. More defensible than a commodity tracker manufacturer, but not immune to margin pressure if the solar tracker market becomes crowded.
+
+### Rough valuation sense-check
+~28–32× trailing P/E, ~23–26× forward — premium to the peer group (average ~20× forward). Clean balance sheet and backlog partially justify the premium. The bull case requires continued solar build-out and IRA stability; bear case is policy disruption triggering project deferrals.
+
+---
+
+## QS — QuantumScape
+**Genre: Clean Energy & Batteries | Risk: Moonshot | Revolut: No | Price: ~$5.17 (Oct 2026, verify live) | Horizon: Long**
+
+### What it does and how it makes money
+QuantumScape (NYSE: QS) is a pre-revenue company developing solid-state lithium-metal battery cells for electric vehicles. Key structural difference from conventional Li-ion: replaces the graphite anode with pure lithium metal — promising higher energy density (potentially 15–25% range improvement), faster charging, and improved safety. Currently in the QSE-5 cell (5-layer) pre-production phase; commercial production (if achieved) is years away. Revenue: essentially zero; income is from development partnerships and government contracts.
+
+### Latest results and financial health
+- Q2 2026: Net loss ~$98M; 2026 adj. EBITDA loss guided $250–275M
+- Liquidity ~$905M at Q2 2026 — provides roughly 3–4 years of runway at current burn rate
+- Key milestones: Honda R&D joint research agreement (June 2026); Eagle Line pilot facility opened Feb 2026; QSE-5 cells shipped to a US defence prime (contract details undisclosed)
+- Strategic OEM backing: Volkswagen PowerCo JDA, Honda JDA, and reports of two further top-10 OEM joint development agreements
+
+### Bull thesis
+If solid-state cells reach commercial production, the TAM is enormous — every EV battery pack globally. Licensing model (QuantumScape charges royalties per kWh to OEMs rather than building its own gigafactory) reduces capex requirements and capital risk relative to a traditional cell manufacturer. Honda and VW PowerCo JDAs provide validation and a potential commercialisation route. The QSE-5 cells shipping to defence demonstrates the technology can be built at small scale. $905M liquidity extends the runway.
+
+### Catalysts ahead
+QSE-5 scale-up milestones, Eagle Line throughput data, further OEM JDA announcements, commercialisation timeline updates, any disclosed defence contract details, EV market demand recovery.
+
+### Main risks and what would break the thesis
+- **Manufacturing scalability unproven**: making 5-layer cells in a pilot facility is categorically different from manufacturing millions of multi-layer cells at automotive cost; this has been the industry's consistent failure mode for solid-state
+- **Repeated timeline slippage**: QuantumScape has pushed commercial timelines back multiple times; the market has stopped trusting the stated roadmap
+- **Dilution**: ongoing equity issuances to fund operations
+- **Competitive threat**: Toyota, Samsung SDI, CATL, and Solid Power are all pursuing solid-state; Toyota's timeline has also accelerated
+- Pre-revenue at ~$3–4B market cap is pure option value on long-dated IP
+
+### Competitive position
+Multiple credible alternatives in solid-state battery development. QuantumScape's differentiation is the anode-free design (no lithium plating during manufacturing — it plates in situ during charging). But Toyota's oxide solid electrolyte and Samsung's sulphide approach are also progressing. The OEM validation (VW, Honda) is genuine competitive credentialing, but it doesn't guarantee commercial victory.
+
+### Rough valuation sense-check
+Market cap ~$3–4B (verify live) with near-zero revenue — the entire value is option value on a technology that has not been commercially validated at scale. A 2030+ commercialisation is the realistic timeline even in the bull case. Sized as a lottery ticket with a thesis: the thesis is that VW/Honda wouldn't sign JDAs without data suggesting manufacturability.
+
+---
+
+## ASTS — AST SpaceMobile
+**Genre: Defence & Space | Risk: Moonshot | Revolut: No | Price: ~$62 (Oct 2026, verify live) | Horizon: Long**
+
+### What it does and how it makes money
+AST SpaceMobile (NASDAQ: ASTS) is building a low Earth orbit (LEO) satellite constellation to provide mobile broadband connectivity directly to standard, unmodified smartphones — no special hardware required on the user side. Revenue model: per-subscriber or revenue-share agreements with mobile network operators (MNOs) who integrate AST's satellite capacity into their existing cellular plans. The service bridges coverage gaps in rural, maritime, and underserved regions.
+
+### Latest results and financial health
+- Q2 2026 (reported ~August 2026): Revenue $31.5M (missed $35.18M consensus); adj. loss/share $0.77 vs $0.26 expected — a significant miss; cash ~$2.7B; capex $610.4M
+- 13 satellites in orbit; FY2026 guidance $150–200M requires a substantial H2 ramp (i.e., achieving ~$120–170M in H2 with ~$31.5M in H1 — aggressive)
+- Contracted backlog ~$1.3B; 60+ MNO partners covering 3B+ subscribers globally
+- Next earnings: ~9 November 2026
+
+### Bull thesis
+Space-based direct-to-device (D2D) broadband is a genuine structural market — the ~3B people with smartphones but insufficient terrestrial coverage represent a material addressable market. 60+ MNO partners covering billions of subscribers is a remarkable distribution achievement that took little capex — AST is leveraging existing MNO billing and subscriber relationships. Contracted backlog of $1.3B provides revenue visibility if satellites are deployed on schedule. SpaceX Starlink D2D is the main competitor, but AST uses wider antenna arrays giving superior power per user.
+
+### Catalysts ahead
+Next earnings (~9 Nov 2026): H2 revenue ramp confirmation. Satellite launch cadence updates. Commercial beta launch to mass market (initially delayed to late 2026). MNO partner commercial service announcements. SpaceX Starlink D2D progress (a threat to watch).
+
+### Main risks and what would break the thesis
+- **Q2 revenue miss**: missing by ~$3.6M and guiding $150–200M for the year (with only $31.5M in H1) sets up a high-risk H2 execution requirement
+- **Launch delays**: satellite deployment depends on launch vehicle availability (SpaceX Falcon 9 rideshares); any delay pushes revenue
+- **SpaceX Starlink D2D competition**: SpaceX's scale advantage and vertical integration are formidable; if Starlink secures major MNO deals, AST's differentiation narrows
+- **Dilution and capex**: $610.4M capex in H1 with ongoing capital needs
+- **Valuation**: ~104× 2026 sales — price in an enormous execution scenario
+
+### Competitive position
+First-mover in LEO direct-to-device broadband at scale — no competitor has 13 operational D2D satellites in orbit. MNO partnership network is the key moat; the contracts make switching costly. SpaceX Starlink D2D is the existential competitive watch: if it signs T-Mobile, AT&T, Verizon exclusives globally, AST's market shrinks materially.
+
+### Rough valuation sense-check
+~104× 2026 sales. Even bulls price in a 2027–2028 revenue inflection. At $62, the market is pricing a scenario where AST becomes a $1B+ revenue business by 2027–2028 with good margins. That scenario requires execution on (1) launches, (2) H2 ramp, (3) defending against SpaceX. Moonshot categorisation is accurate.
+
+---
+
+## AVAV — AeroVironment
+**Genre: Defence & Space | Risk: Balanced | Revolut: No | Price: ~$185 (Oct 2026, verify live) | Horizon: Medium**
+
+### What it does and how it makes money
+AeroVironment (NASDAQ: AVAV) is a US tactical unmanned aircraft systems (UAS) and counter-drone company. It supplies:
+- **Switchblade** loitering munitions (used extensively in Ukraine) — the flagship offensive product
+- **Puma** and **Raven** ISR drones — small tactical surveillance
+- **Counter-drone systems**: UVMS and others
+- **Space systems** (post-BlueHalo acquisition, July 2024): satellite communications, directed energy
+
+Revenue model: US Department of Defense contracts (primary), international FMS contracts, IDIQ vehicles. BlueHalo acquisition was all-stock and added space/directed-energy capabilities at significant dilution.
+
+### Latest results and financial health
+- FY2026 (year ended April 2026): Revenue ~$1.98B; bookings $2.7B; book-to-bill 1.4×
+- Q1 FY2027 (reported ~Sept 2026): Revenue $480.5M (record Q1, +6% YoY)
+- Funded backlog: record $1.5B (+37% YoY); 86% of FY2027 revenue guidance already covered by backlog
+- **FY2027 guidance**: Revenue $2.13–2.23B; adj. EBITDA $305–325M; non-GAAP EPS $3.02–3.34 — **below** prior ~$4 consensus
+- No positive FCF expected in FY2027; gross margin compressed to ~32% from ~36%
+- BofA analyst PT $185 — at current price, suggesting fairly valued by this analyst
+
+### Bull thesis
+UAS and counter-drone are front-line realities in modern warfare (Ukraine, Middle East). DoD and international allies are materially increasing procurement budgets; Switchblade and Puma are proven, in-service platforms. Book-to-bill of 1.4× indicates demand is running ahead of production. Growing international demand via FMS is additive. BlueHalo's directed-energy and satellite comms capabilities add long-term optionality in the Space Force and future combat networks. 86% backlog coverage for FY2027 provides unusual earnings visibility.
+
+### Catalysts ahead
+Q2 FY2027 results (~Nov 2026), US FY2027 defence budget finalisation, new Switchblade variants for anti-armour and counter-drone, AVAV JUMP-20 medium-altitude UAS programmes, Space Force contracts, international FMS deliveries.
+
+### Main risks and what would break the thesis
+- **FY2027 EPS guide below consensus**: guidance of $3.02–3.34 vs prior ~$4 consensus signals margin pressure — the market reacted negatively to this guidance reduction
+- **BlueHalo integration**: all-stock acquisition means dilution; integrating a company at scale adds operational risk
+- **Capex-heavy year** in FY2027 — FCF-negative
+- **Contract concentration**: DoD accounts for the bulk of revenue; program terminations or budget cuts would hurt
+- **Accounting disclosure**: an earlier 2026 accounting error disclosure damaged near-term credibility
+
+### Competitive position
+AVAV is the US tactical UAS specialist with no domestically qualified direct substitute for Switchblade in the loitering munition category. International competitors (Turkish Bayraktar, Israeli Elbit) sell into non-US NATO markets. Counter-drone is a growing sub-market with more competition (L3Harris, Shield AI). Moat: DoD qualification barriers, existing US supply chain, and battlefield-proven systems. BlueHalo adds differentiation in directed energy.
+
+### Rough valuation sense-check
+~45.6× forward earnings, 3.8× forward sales — elevated but reportedly below 5-year historical averages. With guided EPS $3.02–3.34, at $185 the stock trades at ~55–61× guide midpoint. Expensive for a defence contractor (peers typically 20–30× forward); the premium reflects the drone/loitering munition tailwind. A re-rating to defence-sector peers would imply significant downside; the bull case requires sustained above-consensus booking performance.
+
+---
+
+## QNT — Quantinuum
+**Genre: Quantum & Frontier Compute | Risk: Moonshot | Revolut: No | Price: ~$48 (late Sep 2026, verify live) | Horizon: Long**
+
+### What it does and how it makes money
+Quantinuum (NASDAQ: QNT) IPO'd on 4 June 2026, raising $1.7B gross at $60/share, with Honeywell retaining a majority stake. The company emerged from the 2021 merger of Honeywell Quantum Solutions and Cambridge Quantum Computing. Three revenue streams:
+- **Hardware cloud access**: trapped-ion quantum systems (Helios) accessible via Azure, AWS, and forthcoming Oracle OCI
+- **Quantum software**: TKET (open-source circuit compiler, widely used across the industry), InQuanto (quantum chemistry), Lambeq (quantum NLP)
+- **Quantum cybersecurity**: Quantum Origin — generates quantum-randomness-verified cryptographic keys for financial institutions and telecoms; the most commercially mature, near-term revenue driver
+
+### Latest results and financial health
+- Q2 2026 (reported 11 Aug 2026): Revenue $8M (+279% YoY from $2M). GAAP net loss $597M (includes large one-time IPO stock compensation — not representative of run-rate). Adj. EBITDA loss $68M (vs $43M a year earlier). Adj. gross margin 62%.
+- FY2026 guidance raised to $28–32M
+- Balance sheet: ~$2.1B cash at 30 June 2026
+- Cash burn estimated ~$250–300M/year
+- FY2027 revenue guided to grow above 100% YoY
+- Post-IPO high ~$82; stock ~$48 (late Sep 2026) — down ~41% from post-IPO high
+- Next earnings estimated ~early November 2026
+
+### Bull thesis
+Only publicly traded quantum company with a functioning cybersecurity revenue stream (Quantum Origin) independent of broader quantum adoption timelines. Helios approaching "five-nines" logical fidelity. Concrete roadmap: Sol hardware (2027), Apollo fault-tolerant system (2029). Analyst support from major banks post-IPO: Needham Buy $100, BofA Buy $85, Jefferies Buy $85 (August 2026). Preliminary $100M US government CHIPS-linked funding. Honeywell anchor provides a durable institutional backstop and enterprise customer relationships.
+
+### Catalysts ahead
+Oracle OCI quantum service launch; Q3 results (~early November 2026); Sol hardware launch (2027); Apollo fault-tolerant system (2029); NIST post-quantum cryptography mandates tightening (drives Quantum Origin demand); further enterprise/government partnerships.
+
+### Main risks and what would break the thesis
+- **Extreme valuation**: ~$12.7B market cap vs ~$30M FY2026E revenue = 400×+ forward P/S
+- **Architecture uncertainty**: the company's own S-1 discloses genuine uncertainty about whether trapped-ion will remain the winning quantum architecture
+- **Cash burn**: requires revenue inflection or further capital raises; IPO cash provides ~7–8 years of runway but EPS will remain deeply negative throughout
+- **IPO lockup expiry selling**: Honeywell insider shares unlock post-lockup
+- Down ~41% from post-IPO high in ~4 months
+
+### Competitive position
+Direct trapped-ion rival: IonQ (IONQ). Broader rivals: IBM (superconducting, most commercially deployed), Google (superconducting, "Willow" chip), Microsoft (topological, early stage). Differentiation: software moat (TKET compiler used by competitors too, reinforcing ecosystem position), cybersecurity revenue stream independent of quantum timelines, Honeywell anchor providing enterprise customer access. Apollo (2029) fault-tolerant roadmap is more credible than most public competitors'.
+
+### Rough valuation sense-check
+~$48/share. Forward P/S 400×+. Bull analyst PT range $85–$100 (Needham, BofA, Jefferies); Rosenblatt $155 (outlier). Seeking Alpha and Simply Wall St hold sell-equivalent views. Pure speculative bet on the 2029+ commercial quantum inflection. The cybersecurity revenue line is the one near-term anchor; watch Quantum Origin contract wins as the signal that distinguishes "real adoption" from narrative.
+
+---
+
+## QUBT — Quantum Computing Inc.
+**Genre: Quantum & Frontier Compute | Risk: Moonshot | Revolut: No | Price: verify live | Horizon: Long**
+
+### What it does and how it makes money
+Quantum Computing Inc. (NASDAQ: QUBT) has transformed from a quantum software startup into a vertically integrated quantum photonics manufacturer. Three acquisitions in early 2026: Luminar Semiconductor (~$110M, February), NuCrypt (March), NHanced Semiconductors — adding chip design, foundry capacity, and packaging. Core technology: **thin-film lithium niobate (TFLN) photonics** — chips with higher modulation speeds and lower power vs conventional silicon photonics, attractive for AI datacenter interconnects, defence sensing, and quantum communications. QCi operates Fab 1, a TFLN foundry in Tempe, Arizona. Revenue streams: foundry services, quantum photonic systems (QPhoton brand), government R&D contracts (NIST contract), software.
+
+### Latest results and financial health
+- Q2 2026 (10 Aug 2026): Revenue ~$5.6M vs ~$61K a year earlier (almost entirely acquisition-driven). Net loss improved to $11.8M (vs $36.5M)
+- Q1 2026: Revenue ~$3.7M vs ~$39K. Full-year 2026 consensus estimate ~$22.7M
+- Cash: ~$1.3B at 30 June 2026 (down from ~$1.5B; ~$180M spent on acquisitions)
+- Historical heavy equity dilution — share count has increased significantly over three years
+- Next earnings estimated ~13 November 2026
+
+### Bull thesis
+TFLN photonics market estimated at ~$190M (2024), projected ~$1.93B by 2029 at ~39% CAGR. QCi claims unique vertical integration spanning quantum systems and a domestic TFLN foundry. AI datacenter tailwind for ultra-fast optical interconnects is independent of quantum computing adoption timelines. $1.3B cash provides strong runway. US-domestic Fab 1 is advantaged for defence/government procurement under domestic manufacturing preferences. The TFLN thesis is **not** dependent on quantum computing succeeding — it's a photonics semiconductor story.
+
+### Catalysts ahead
+Fab 1 utilisation ramp; AI/hyperscaler TFLN chip orders; Q3 2026 earnings (~13 November); post-acquisition integration milestones; new government/defence contracts; any hyperscaler TFLN design win.
+
+### Main risks and what would break the thesis
+- **Revenue is almost entirely inorganic**: integrating three companies simultaneously while scaling a new foundry is operationally very demanding; the revenue history is not predictive of organic capability
+- **Dilution history**: per-share metrics need constant scrutiny
+- **Competition in photonics**: Lumentum, Coherent/II-VI, MACOM are established photonics players with far larger scale
+- **Extreme sector volatility**: QUBT, QBTS, RGTI, IONQ trade as a correlated pack — sentiment-driven swings
+- **Key framing question**: is this a quantum company (binary, long-horizon) or a photonics manufacturer (industrial, near-term revenue)? The answer matters enormously for valuation
+
+### Competitive position
+In quantum systems: IonQ, Rigetti, D-Wave, Quantinuum. In TFLN photonics: Lumentum, Coherent/II-VI, MACOM. Claimed differentiation: only company combining quantum systems with its own TFLN foundry and domestic US manufacturing. The actual competitive test will be whether hyperscalers purchase TFLN photonics chips from QCi's Fab 1 — that would validate the business transformation thesis.
+
+### Rough valuation sense-check
+$1.3B cash provides a meaningful valuation floor. At ~$22.7M estimated FY2026 revenue, the stock carries a large TFLN/AI narrative premium. The Rosenblatt Buy PT of $22 (January 2026) remains the most recent available bull-case target. DCF at Simply Wall St suggests $23.67 — but DCF of a pre-revenue company is highly model-dependent. The risk/reward here is that the cash almost covers the market cap; the technology and industrial assets are potentially additive. Size as a small speculative weight.
+
+---
+
+## AFRM — Affirm Holdings
+**Genre: Fintech & Digital Money | Risk: Aggressive | Revolut: No | Price: ~$68 (Oct 2026, verify live) | Horizon: Medium**
+
+### What it does and how it makes money
+Affirm (NASDAQ: AFRM) is the US's leading pure-play buy-now-pay-later (BNPL) company. It partners with merchants to offer real-time instalment loans at checkout using proprietary AI underwriting (not FICO-based). Products:
+- **Pay-in-4**: four interest-free fortnightly payments; merchant-funded
+- **Longer-term loans**: 3–60 months, typically interest-bearing at 0–36% APR
+- **Affirm Card**: a Visa debit card that converts eligible purchases to instalments, extending into everyday categories (restaurants, groceries)
+
+Revenue: merchant discount fees (primary), interest income, Affirm Card interchange, gain-on-sale from loan securitisations. Key partners: Amazon, Shopify ecosystem. Note: Klarna secured exclusive BNPL at Walmart (March 2025) — a lost deal for Affirm.
+
+### Latest results and financial health
+- FY2026 (year ended 30 June 2026): Revenue ~$4.26B (+32% YoY); GMV ~$50.2B (+37% YoY)
+- **Q4 FY26 pre-tax GAAP profit of $169.1M — Affirm's first ever pre-tax GAAP profit quarter**
+- Full-year GAAP net income ~$1.9B — but ~$1.5B is a one-time non-cash tax benefit (valuation allowance release); ongoing profitability is real but more modest
+- Q4 revenue ~$1.17B (+33%). Q3 FY26 EPS $0.30 beat vs $0.17 consensus
+- Market cap ~$23.7B (Sep/Oct 2026)
+- Next earnings: Q1 FY27, estimated ~5 November 2026
+
+### Bull thesis
+The profitability inflection is genuine — Affirm transitions from a loss-making growth story to a margin-expansion story. GMV growing 37% at $50B+ scale is impressive. Apple Pay Later discontinued in the US (removed a feared competitor). Affirm Card expanding TAM into everyday spending beyond e-commerce. Q2 FY (Oct–Dec) is structurally Affirm's strongest quarter annually (holiday shopping). Proprietary underwriting data moat built over hundreds of millions of loan decisions creates differentiation Klarna cannot easily replicate.
+
+### Catalysts ahead
+Q1 FY27 earnings (~5 November 2026) — first full post-profitability quarter. Holiday season GMV (Oct–Dec 2026) — seasonally strongest. Affirm Card user growth data. Fed rate cuts (each cut lowers Affirm's cost of capital on securitisations). New merchant partnership announcements.
+
+### Main risks and what would break the thesis
+- **Consumer credit quality**: US consumer debt at record levels; a recession would hit delinquencies and charge-offs directly — BNPL borrowers are often credit-thin
+- **Klarna competition**: reported $33.7B GMV in Q1 2026 (global); post-IPO Klarna is investing aggressively in the US market and has Walmart distribution
+- **Rate sensitivity**: higher-for-longer raises Affirm's securitisation funding costs; Fed rate cuts are a tailwind but their timing is uncertain
+- **Valuation elevated**: forward PE ~37×, EV/EBITDA ~43×, P/S ~6.4× — expensive for a first-year-profitable company
+- **State-level BNPL licensing**: increasing compliance costs
+
+### Competitive position
+Estimated ~1/3 of US BNPL payment value. Klarna is the global leader; Affirm is the US specialist. Other rivals: Afterpay (Block), PayPal Pay Later, Sezzle. Broader competition: traditional credit cards (better rewards structure for the consumer who pays off monthly). Key competitive watch: Klarna embedded in Apple Pay on iOS could give it OS-level distribution advantage in the US.
+
+### Rough valuation sense-check
+Market cap ~$23.7B. Forward PE ~37×; EV/EBITDA ~43×; P/S ~6.4×. GuruFocus "Modestly Undervalued" with GF Value $80.57. The premium reflects 30%+ GMV growth and the fresh profitability milestone. Premium valuation is justifiable only if the profitability trajectory continues — Q1 FY27 earnings (~5 Nov) is the first real test.
+
+---
+
+## PYPL — PayPal Holdings
+**Genre: Fintech & Digital Money | Risk: Balanced | Revolut: Yes | Price: ~$54 (Oct 2026, verify live) | Horizon: Medium**
+
+### What it does and how it makes money
+PayPal (NASDAQ: PYPL) is one of the world's largest digital payments platforms with hundreds of millions of active accounts. Three pillars:
+- **PayPal branded checkout**: the "PayPal button" on e-commerce sites — higher take-rate, trusted brand, but slow-growing as Apple/Google Pay displace it
+- **Venmo**: dominant US P2P social payment app (under-35 demographic), monetised via debit card interchange and merchant fees
+- **Braintree**: unbranded enterprise payment processing (Uber, Airbnb scale) — high-volume but lower take-rate
+
+Additional: Xoom (international transfers), PYUSD (USD-pegged stablecoin), Pay Later (BNPL). CEO Alex Chriss (since Sep 2023) is pursuing transformation: branded checkout quality improvement, Venmo monetisation, and **agentic commerce** — building payment rails for AI-agent purchases (OpenAI/Google partnerships cited).
+
+### Latest results and financial health
+- Q2 2026 (reported late July 2026): Revenue $8.68B (+5% YoY), beat $8.47B consensus. Adj. EPS $1.38, beat $1.28 consensus. FY2026 adj. EPS guidance raised to $5.38
+- Operating margins contracted 248 bps (transformation investment spending) — stock fell on margin compression despite the beat
+- Venmo payment volume: +14% YoY (7th consecutive quarter of double-digit growth)
+- Branded checkout: +2% FX-neutral (sluggish)
+- Q3 2026 guidance: **low-single-digit adj. EPS decline** vs prior year — a warning shot on near-term margin
+- Q3 results expected late October/early November 2026
+- Active buyback programme; strong cash generation
+
+### Bull thesis
+Forward PE ~11×, EV/EBITDA ~7.9× are anomalously cheap by fintech standards (Visa ~30×, Mastercard ~35×). This is the deep-value angle: PayPal may be "cheap for a reason" OR fundamentally mispriced by a market that has written off the brand too quickly. Venmo monetisation is still early innings with 14% volume growth. **Agentic commerce** (OpenAI/Google partnerships) is significant asymmetric optionality — if AI agents increasingly make purchases on behalf of users, PayPal's embedded relationships provide distribution. PYUSD provides stablecoin optionality. Active buybacks enhance per-share earnings even with flat revenue. Low valuation makes PayPal a plausible activist target or acquisition candidate.
+
+### Catalysts ahead
+Q3 2026 results (~late Oct/Nov) — key test of margin trajectory and whether the Q3 EPS guide deterioration is the trough. Venmo merchant volume data. Agentic commerce product announcements. PYUSD adoption metrics (it launched on Solana, adding reach). Fed rate cuts. Potential activist announcement.
+
+### Main risks and what would break the thesis
+- **Branded checkout structural decline**: Apple Pay and Google Pay are embedded at OS level with ecosystem lock-in PayPal cannot match; branded checkout grew just +2% FX-neutral in Q2 2026
+- **Braintree margin compression**: enterprise clients negotiate lower rates as volume grows; unbranded processing is lower-margin than branded
+- **Three consecutive years of guidance pressure** have eroded investor trust in management's execution ability
+- **Venmo vs. Zelle**: bank-backed Zelle has reportedly surpassed Venmo in US P2P transfer volume; the youth demographic Venmo relies on is also Zelle's target
+- **Stripe and Adyen** consistently gaining enterprise share from Braintree
+- Q3 2026 guidance (EPS decline) signals no near-term re-rating catalyst on the fundamental side
+
+### Competitive position
+Consumer digital wallets: Apple Pay (iOS-embedded), Google Pay, Samsung Pay — structural OS-level distribution advantage none of PayPal's existing products can overcome. P2P: Zelle, Cash App (Block), Apple Cash. Enterprise processing: Stripe, Adyen. PayPal's remaining moat: 400M+ account base (broad, but aging demographics); cross-border/currency capabilities; brand recognition with the 40+ demographic. Challenge: these advantages are weakest in the fastest-growing market segments.
+
+### Rough valuation sense-check
+Forward PE ~11×, EV/EBITDA ~7.9×. FY2026 consensus ~$34.75B revenue, ~$5.39 adj. EPS. The deep-value case is real — at these multiples a modest re-rating from 11× to 15× adds ~35% to the price with no earnings growth. The bear case: "cheap for a reason" — moat is eroding faster than the value being unlocked. The PYUSD/agentic commerce optionality is real but unproven. Position sizing matters: the probability-weighted outcome has a wide distribution.
+
+---
+
 # 2026-10-01 — Cycle 3, Run 4: AI/compute infrastructure, nuclear, clean energy, space, quantum & fintech — VRT, MRVL, CCJ, BWXT, ENPH, ALB, SPCX, RKLB, RGTI, QBTS, COIN, NTRA
 
 DIV and CRYPTO universes are fully covered this cycle (as of last week). This run resumes the stockData rotation: two names per genre, prioritising the most closely held or most topical picks. **RGTI is an actual investor holding — covered in extra depth.** Research date: **1 October 2026**. All figures are drawn from dashboard JSON data (as at 28 Sep 2026), company disclosures, and training-period public data. Prices, rates, and financial metrics move constantly — **re-verify live before acting**. Nothing here is financial advice or a recommendation to buy or sell.
