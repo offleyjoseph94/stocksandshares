@@ -1,5 +1,62 @@
 # Changelog
 
+## 2026-10-12 — Weekly Research Refresh
+
+### Summary
+All stock prices, ETF prices, dividend data, and IPO pipeline refreshed to ~12 Oct 2026. **TSMC Q3 2026 BEAT**: TSMC reported Q3 2026 revenue of NT$1.49T (~$46.71B) vs guidance $44.6-45.8B — a record quarterly beat +50% YoY; AI and HPC demand confirmed as the primary structural driver; Q3 net profit ~NT$740.8B (+64% YoY); Arizona Phase 2 ramp ongoing; TSM $473→$510. **CONSTELLATION–GOOGLE 890MW NUCLEAR PPA**: Constellation Energy signed a power purchase agreement with Google for 890MW of new nuclear capacity from uprates across 11 existing reactors — fourth hyperscaler contract alongside Microsoft, Amazon, Meta; nuclear sector broad rally; CEG $277→$310 (+12%). **WHITE HOUSE NUCLEAR ACCELERATION**: Reports of White House executive action to speed US nuclear reactor development added further nuclear sector tailwind; VST $137→$144 (+10%), CCJ $97→$100. **PLTR MASSIVE Q3 RECOVERY**: Palantir +60% Q3 recovery from H1 lows, closed Oct 1 at $190.04; Q3 2026 earnings confirmed Nov 2; PLTR $168→$190. **GEV Q2 BEAT**: GE Vernova Q2 orders +88% YoY to $24.2B (record), backlog $176B (record), FY guidance raised; Q3 earnings Oct 28; GEV $912→$980. **ANTHROPIC PRE-IPO INVESTOR DAY OCT 14**: Pre-IPO investor day at SF HQ scheduled for October 14; Bloomberg reports mid-November Nasdaq listing target; Reuters obtained early look at S-1 targeting $2T valuation; ipoData updated. **SEMICONDUCTOR SECTOR RECOVERY**: Sector rebounding broadly post-TSMC beat; NVDA $208→$230, AVBO $355→$362, AMD $535→$540, MRVL $272→$275 (UBS PT $350). **AVIVA PAYMENT OCT 15**: Aviva income payout arriving this week for shareholders on record. **VZ EX-DIV OCT 9**: Verizon ex-dividend passed Oct 9; quarterly payout incoming. **BATS PAYMENT NOV 6**: British American Tobacco payment date confirmed Nov 6, 2026.
+
+### Key catalysts (5 Oct – 12 Oct 2026)
+- **TSMC Q3 2026 BEAT** (Oct 15 earnings call) — revenue $46.71B vs guidance $44.6-45.8B, +50% YoY; record quarterly revenue; AI HPC confirmed as structural driver; TSM $473→$510
+- **Constellation–Google 890MW nuclear PPA** (announced ~Oct 6) — Constellation signed PPA with Google for 890MW from uprates across 11 reactors; fourth hyperscaler contracted; CEG $277→$310 (+12%)
+- **White House reactor acceleration** — reports of executive action to speed nuclear reactor development; nuclear sector broad rally; VST +10%, CCJ recovered, OKLO +8%
+- **GEV Q2 BEAT** — orders +88% YoY to $24.2B (record), backlog $176B (record), FY guidance raised to $45.5-46.5B revenue; Q3 earnings Oct 28; GEV $912→$980
+- **PLTR Q3 RECOVERY** — +60% recovery in Q3 from H1 lows; closed Oct 1 at $190.04; Q3 earnings Nov 2; PLTR $168→$190
+- **Anthropic IPO developments** — pre-IPO Investor Day at SF HQ Oct 14; Bloomberg reports mid-November Nasdaq listing; Reuters early S-1 look targets $2T valuation
+- **BWXT $1.5B DUECE contract** (from prior week, reinforced) — DOE NNSA HALEU centrifuge pilot; BWXT $157→$162
+- **CRCL double leadership shock** (Sep 25, from prior week) — CFO + co-founder departed same day as Tazapay acquisition; CRCL recovering to $85 from $82 lows
+- **VZ ex-div Oct 9** — passed; Q4 2026 payout incoming
+- **Aviva payment Oct 15** — income payment this week for shareholders on record post-Sep 3 ex-div
+- **BATS payment Nov 6** — confirmed; ex-div Oct 1 captured; next ex-div early 2027
+
+### Price changes (Oct 5 → Oct 12)
+| Stock | Prev | New | Note |
+|-------|------|-----|------|
+| TSM | $473 | $510 | Q3 2026 BEAT: $46.71B revenue +50% YoY, record |
+| NVDA | $208 | $230 | Sector recovery; TSMC Q3 beat positive read-through |
+| AVBO | $355 | $362 | Sector recovery; FY2027/FY2028 AI semis targets intact |
+| AMD | $535 | $540 | Sector recovery; MI400 deliveries ongoing |
+| MRVL | $272 | $275 | UBS raised PT to $350 post-Investor Day |
+| GEV | $912 | $980 | Q2 BEAT — orders +88%, backlog $176B; FY guidance raised |
+| CEG | $277 | $310 | Google 890MW nuclear PPA — +12%; fourth hyperscaler |
+| VST | $137 | $144 | Nuclear sector rally; White House reactor signals |
+| CCJ | $97 | $100 | Nuclear sector rally |
+| OKLO | $40 | $38 | Nuclear sector rally but ATM dilution ongoing drag |
+| PLTR | $168 | $190 | Q3 +60% recovery; closed Oct 1 at $190.04 |
+| FSLR | $175 | $178 | Slight recovery; Goldman Buy PT $272; Q3 earnings Oct 29 |
+| ENPH | $36 | $33 | Budget bill ITC risk weighs; European resi solar soft |
+| SEDG | $34 | $32 | Solar sector continues lower; Dec 4 MIP catalyst intact |
+| COIN | $175 | $179 | Slight uptick; crypto market stable post-FOMC |
+| HOOD | $104 | $114 | Recovery from FOMC-shock lows; retail trading stabilising |
+| CRCL | $82 | $85 | Recovering from Sep 25 leadership shock lows |
+
+### ETF price changes (Oct 5 → Oct 12)
+| Ticker | Prev | New | Note |
+|--------|------|-----|------|
+| SMH | $560 | $590 | Semiconductor sector recovery on TSMC Q3 beat |
+| BOTZ | $35 | $37 | PLTR recovery lifts AI/robotics basket |
+| URA | $56 | $60 | Nuclear sector rally — Constellation–Google PPA + White House |
+| NLR | $103 | $115 | Nuclear utilities rally on same catalysts |
+| LIT | $77 | $78 | Lithium cycle recovery holding |
+| ITA | $233 | $238 | Defence sector lift; Barclays Overweight on aerospace/defence |
+| UFO | $42 | $44 | Space sector recovery continues |
+| QTUM | $148 | $145 | Slight pullback; quantum fundamentals strengthening |
+| FINX | $26 | $27 | Fintech recovery; COIN/HOOD/CRCL all nudged up |
+| XBI | $154 | $155 | Broadly flat; rate environment still a headwind |
+| IBB | $211 | $212 | Large-cap biopharma stable |
+| ICLN | $18 | $18 | Solar sector flat — rate headwinds vs Dec 4 MIP anticipation |
+
+---
+
 ## 2026-10-05 — Weekly Research Refresh
 
 ### Summary
