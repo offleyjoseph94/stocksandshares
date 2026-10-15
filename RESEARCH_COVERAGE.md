@@ -8,7 +8,7 @@ Tracks which watchlist tickers have received a weekly deep-dive in the **current
 
 ## Current cycle: 3
 
-## Covered this cycle (56/89 official + VHYG + ABBV + IUKD as extras)
+## Covered this cycle (68/89 official + VHYG + ABBV + IUKD as extras)
 - NVDA (2026-09-10)
 - AVGO (2026-09-10)
 - GEV (2026-09-10)
@@ -66,9 +66,21 @@ Tracks which watchlist tickers have received a weekly deep-dive in the **current
 - QUBT (2026-10-08)
 - AFRM (2026-10-08)
 - PYPL (2026-10-08)
+- CRDO (2026-10-15)
+- NBIS (2026-10-15)
+- LEU (2026-10-15)
+- VST (2026-10-15)
+- SEDG (2026-10-15)
+- AMPX (2026-10-15)
+- KTOS (2026-10-15)
+- RCAT (2026-10-15)
+- ARQQ (2026-10-15)
+- NU (2026-10-15)
+- HOOD (2026-10-15)
+- RXRX (2026-10-15)
 
-## Not yet covered this cycle (36/89 stockData + DIV/CRYPTO all done)
-**stockData:** CRDO, NBIS, CRWV, CBRS, ANET, ETN, LEU, FLNC, VST, UUUU, UEC, DNN, AMPX, EOSE, SQM, SEDG, SLDP, ARRY, VOYG, KRMN, RDW, ONDS, UMAC, KTOS, RCAT, ARQQ, INFQ, XNDU, IQMX, KLAR, CHYM, ERAS, NU, SOFI, RXRX, HOOD (36 stockData names)
+## Not yet covered this cycle (24/89 stockData + DIV/CRYPTO all done)
+**stockData:** CRWV, CBRS, ANET, ETN, FLNC, UUUU, UEC, DNN, EOSE, SQM, SLDP, ARRY, VOYG, KRMN, RDW, ONDS, UMAC, INFQ, XNDU, IQMX, KLAR, CHYM, ERAS, SOFI (24 stockData names)
 **DIV:** all 14 official DIV names now covered this cycle ✓; extras (ABBV, IUKD, VHYG) also covered ✓
 **CRYPTO:** all 5 CRYPTO names now covered this cycle ✓
 
