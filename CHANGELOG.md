@@ -1,5 +1,50 @@
 # Changelog
 
+## 2026-10-19 — Weekly research refresh
+
+### Stocks updated
+- **VRT** price corrected $272 → $240: Q2 revenue miss caused ~14% sell-off; Q3 guide and FY2026 $14B intact
+- **IONQ** major thesis update: $1.3B Elisity cybersecurity acquisition + $2B equity offering (Oct 12–14) — stock $43 → $32; thesis pivoting to quantum+cybersecurity hybrid; FY2026 guidance $450–460M cited intact
+- **RKLB** price $75 → $60: Neutron rocket delayed to 2027 due to carbon-composite structural issues — significant negative; Electron business and Iridium contract unaffected
+- **ASTS** price $62 → $52: space sector profit-taking after Sep orbital milestone
+- **SPCX** price $165 → $150: space sector profit-taking post Starship Flight 14 milestone
+- **GEV** price $980 → $921: nuclear sector consolidating after Oct 6 Google/CEG PPA spike; Q3 earnings Oct 28
+- **CEG** price $310 → $271: nuclear sector profit-taking; Brazos Valley sold to LS Power Oct 14; four hyperscaler PPAs intact
+- **CCJ** price $100 → $82: nuclear pullback; Q3 earnings Oct 30; Westinghouse confidential IPO draft
+- **OKLO** price $38 → $32: nuclear pullback; DOE Nuclear Energy Launch Pad (Groves 2 Forge) advancement Oct 13 intact
+- **PLTR** price $190 → $180: slight pullback ahead of Q3 earnings Nov 2
+- **AMPX** price $12.22 → $8.50 (sharp drop flagged — investigate before adding)
+- General date refresh across all stock notes to ~19 Oct 2026
+
+### ETF notes refreshed
+- **BOTZ**: Updated PLTR ($190→$180), RKLB ($75→$60 with Neutron delay), ASTS ($62→$52), VRT ($272→$240 price corrected)
+- **LIT**: AMPX sharp drop $12.22→$8.50 flagged — investigate cause before adding
+- **FINX**: Date updated; COIN $179→$182, HOOD $114→$112, CRCL $85→$87, SOFI $18→$19
+- **XBI / IBB**: Date updated to ~19 Oct 2026
+- **SMH, URA, NLR, ICLN, ITA, UFO, QTUM**: Full note refreshes (see prior edits this session)
+
+### Dividend section corrections
+- **VZ (Verizon)**: Corrected "19th consecutive year" → **"20th consecutive year"**; yield updated ~6.7% → ~6.0% (share price appreciation)
+- **T (AT&T)**: **IMPORTANT CORRECTION** — AT&T has NOT raised its dividend since the 2022 restructuring cut; payout flat at ~$0.2775/quarter since then; clarified this is not a dividend growth name
+- **O (Realty Income)**: Yield updated ~5.7% → ~6.0% (REIT valuation drift in rate environment)
+- **XOM (Exxon Mobil)**: Yield updated ~2.6% → ~2.3% at ~$177/share (Oct 2026)
+- **IMB (Imperial Brands)**: Sep 30 interim payment completed; interim dividend raised 4% to 83.36p/share; annual results Nov 17 flagged
+- **NG. (National Grid)**: Added upcoming ex-dividend date Nov 19 2026; payment Jan 12 2027
+
+### IPO pipeline
+- **Anthropic**: Updated to reflect $61.5B valuation post-$3.5B Series E (Mar 2026); Alexa AI partnership; AGI target 2027
+
+### Key upcoming catalysts (next 4 weeks)
+| Date | Event |
+|---|---|
+| Oct 28 | GEV Q3 earnings |
+| Oct 29 | FSLR Q3 earnings + Dec 4 MIP in 36 days |
+| Oct 30 | CCJ Q3 earnings |
+| Nov 2 | PLTR Q3 earnings (biggest near-term catalyst) |
+| Nov 6 | VST Q3 earnings |
+| Nov 17 | IMB full-year results (dividend decision) |
+| Nov 19 | NG. ex-dividend date |
+| ~Nov 18 | NVDA Q3 FY2027 earnings |
 ## 2026-10-12 — Weekly Research Refresh
 
 ### Summary
