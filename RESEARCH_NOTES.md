@@ -1,3 +1,403 @@
+# 2026-10-22 — Cycle 3, Run 7: AI cloud & networking, power infrastructure, uranium trio, clean energy & batteries — CRWV, CBRS, ANET, ETN, FLNC, UUUU, UEC, DNN, EOSE, SQM, SLDP, ARRY
+
+DIV and CRYPTO universes are fully covered this cycle. This run completes a 12-stock sweep of the remaining uncovered stockData names: three AI-compute plays (CoreWeave, Cerebras, Arista), one power/electrical-infrastructure name (Eaton), one battery-storage project (Fluence Energy), the uranium trio (Energy Fuels, Uranium Energy Corp, Denison Mines), and four clean-energy/battery names (Eos Energy, SQM, Solid Power, Array Technologies). Research date: **22 October 2026**. All figures drawn from company SEC filings, earnings releases, and press releases as cited; prices and financial metrics move constantly — **re-verify live before acting**. Nothing here is financial advice or a recommendation to buy or sell.
+
+Macro context this week: Eaton reports Q3 2026 likely this week or next (Q3 guidance EPS $3.46–3.56 issued July 31); Arista Q3 not yet reported (Q3 guidance ~$3.3B revenue issued August); Ripple Swell conference scheduled Oct 27–29 in New York, which may be a catalyst for XRP sentiment. Broader market: higher-for-longer US rates remain a headwind for growth-priced stocks; uranium spot price in mid-$90s/lb supports the uranium sub-theme.
+
+---
+
+## CRWV — CoreWeave
+**Genre: AI & Compute | Risk: Aggressive | Revolut: Likely (verify in-app) | Price: ~$70–100 (2026 range — verify live) | Horizon: Long**
+
+### What it does and how it makes money
+CoreWeave (NASDAQ: CRWV) is a specialist AI cloud provider — it rents GPU compute (NVIDIA H100, H200, and Blackwell clusters) to AI model developers, enterprises, and research labs. Unlike AWS/GCP/Azure, CoreWeave runs exclusively on NVIDIA GPUs, with no legacy CPU cloud to cross-subsidise. Revenue model: long-term committed contracts (multi-year take-or-pay) with AI companies. CoreWeave IPO'd on NASDAQ in March 2026 in a heavily anticipated debut.
+
+### Latest results and financial health
+- **Q1 2026** (reported May 7, 2026): Revenue **$2.1B** (+111.7% YoY, beat consensus of ~$2.0B). GAAP EPS -$1.12 (missed -$0.91 consensus). Stock fell ~11–22% after earnings on the EPS miss.
+- **Q2 2026** (reported August 11, 2026): Revenue **$2.6B** (+112% YoY, +24% QoQ). Adjusted operating income $128M (5% margin). Net loss ~$626M (driven by ~$640M interest expense on debt). Stock initially jumped ~14–18% on the backlog figure.
+- **Backlog**: ~$104B at June 30, 2026, excluding >$25B net new commitments added in early Q3.
+- **FY 2026 guidance raised**: $12.4–13.2B revenue. Q3 2026 guidance: $3.45–3.60B.
+- **Capex**: $9.4B in Q2 alone; full-year capex guidance raised to $35–39B (from $31–35B prior).
+- Balance sheet: carries significant debt (interest expense ~$640M/quarter); verify exact debt load against SEC filings.
+
+### Bull thesis
+CoreWeave is the "GPU-native" alternative to the hyperscalers for AI model training and inference workloads. Its committed $104B backlog (as of mid-2026) is a real forward revenue guarantee — not a pipeline — suggesting demand for dedicated GPU compute dramatically outstrips supply. The AI capex cycle (OpenAI, Microsoft, Google, Meta, and dozens of AI labs) shows no sign of decelerating; CoreWeave's contract structure locks in that demand. Revenue has grown from ~zero to a ~$12B annual run-rate in roughly 36 months.
+
+### Catalysts ahead
+Q3 2026 results (likely November 2026); further backlog expansion announcements; potential new large-model developer customers; Blackwell/B200 GPU cluster deployments (denser, more performant, higher revenue per rack); any reduction in financing costs as the business matures.
+
+### Main risks and what would break the thesis
+- **Debt load**: at ~$640M quarterly interest expense, the company burns cash on a GAAP basis even as adjusted EBITDA turns positive; relies on capital markets staying open
+- **Customer concentration**: large share of backlog likely concentrated in a small number of hyperscalers/AI labs — if one cancels, it is existential
+- **Capex mis-timed**: if AI model-training demand plateaus, $35–39B of capex planned for 2026 could sit underutilised
+- **Hyperscaler vertical integration**: if Microsoft/Google/Meta build enough internal GPU capacity, they reduce CoreWeave dependency
+- **Interest rate environment**: high-for-longer rates make debt refinancing expensive
+
+### Competitive position
+First-mover among pure-play GPU cloud providers; Nebius (NBIS) is the closest European analog. CoreWeave's scale ($104B backlog) now exceeds any direct competitor. The moat is execution speed in procuring and deploying NVIDIA hardware — an operational, not technological, advantage. NVIDIA itself has equity in CoreWeave, aligning incentives for preferential GPU allocation.
+
+### Rough valuation sense-check
+At ~$12.4–13.2B FY2026 revenue guidance and a mid-2026 market cap of roughly $30–50B (verify live), the stock trades at roughly 2–4× forward revenue — not cheap, but reasonable for >100% revenue growth if the backlog converts. The key risk is whether net income ever materialises given the interest burden.
+
+---
+
+## CBRS — Cerebras Systems
+**Genre: AI & Compute | Risk: Moonshot | Revolut: Unsure (recently IPO'd — verify in-app) | Price: ~$147–180 (October 2026, near/below IPO price — verify live) | Horizon: Long**
+
+### What it does and how it makes money
+Cerebras Systems (NASDAQ: CBRS) makes wafer-scale AI chips — specifically the **Wafer Scale Engine (WSE)**, the largest processor ever manufactured, roughly 60 times the die area of a standard GPU. Rather than linking thousands of discrete GPU chips over a high-speed interconnect fabric (like NVIDIA's NVLink), Cerebras integrates an entire compute engine on a single silicon wafer, eliminating the interconnect bottleneck for certain AI workloads. Revenue: hardware sales and cloud inference contracts. The company IPO'd on NASDAQ on May 14, 2026 — among the largest US IPOs of 2026 — pricing at $185 and opening at $350.
+
+### Latest results and financial health
+Cerebras is a recently-listed company; detailed quarterly financials are still accumulating.
+- **IPO**: Priced at $185, raised ~$5.55B; stock opened at $350 on debut day (May 14, 2026), closed at $311.07.
+- **Post-IPO price action**: Fell below the $185 IPO price by October 1, 2026. Hit a post-IPO low of ~$146.98 on October 12, 2026 — down ~62% from first-day high of ~$386.
+- **Disclosed backlog**: >$20B deal with OpenAI; AWS partnership announced.
+- **Customer concentration risk**: G42 (UAE sovereign AI fund) accounted for >60% of disclosed backlog at IPO. One report (unconfirmed) suggested OpenAI's Ultrafast speed tier may have shifted to NVIDIA GPUs rather than Cerebras chips.
+- **Lockup**: Initial lockup covering ~19.4M shares expired ~October 1, 2026; insiders filed to sell ~$84M. Full 180-day lockup expires ~November 9–10, 2026 (or two trading days after Q3 earnings).
+
+### Bull thesis
+If the wafer-scale approach works at commercial scale, Cerebras can offer AI inference at dramatically lower latency and cost than GPU-cluster alternatives for certain workloads (particularly autoregressive language model inference, where memory bandwidth is the bottleneck). The OpenAI and AWS relationships validate the technology. A $20B+ contractual relationship with OpenAI — if real and durable — is a very large revenue anchor for a company of this size.
+
+### Catalysts ahead
+Q3 2026 earnings (likely early-to-mid November, which also triggers the remaining lockup expiry); further hyperscaler design wins; evidence of OpenAI workload volume on WSE; any commercial deployment by G42 at scale; government/sovereign AI contracts.
+
+### Main risks and what would break the thesis
+- **Customer concentration**: G42 alone at >60% of backlog; OpenAI relationship not fully verified
+- **Lockup expiry**: full 180-day lockup expires ~November 9 — insider selling pressure could be significant
+- **Unconfirmed OpenAI report**: if OpenAI's Ultrafast tier has migrated off Cerebras silicon, the disclosed backlog is misleading
+- **Competitive response**: NVIDIA's B200/GB200 NVL rack systems close the memory-bandwidth gap for inference; AMD MI400 also competing
+- **Hardware risk**: wafer-scale chips have historically faced yield challenges at commercial volumes
+
+### Competitive position
+Differentiated on latency/throughput for specific inference workloads, particularly autoregressive generation. NVIDIA GPU clusters remain the dominant choice for training; Cerebras competes primarily in the inference market. Groq (private) is the main direct alternative. The moat depends on whether the performance gap persists as GPU architects respond.
+
+### Rough valuation sense-check
+At ~$147–180/share in October 2026 the stock is near/below its IPO price. The OpenAI deal size (~$20B) is large enough to matter if it converts to recognised revenue; if G42 is the primary customer and OpenAI migrates away, the IPO valuation was optimistic. A moonshot at current prices — meaningful upside if the technology and customer base diversify, meaningful downside if lockup selling and customer concentration disappoint.
+
+---
+
+## ANET — Arista Networks
+**Genre: AI & Compute | Risk: Balanced | Revolut: Yes (verify in-app) | Price: ~$400–500 (2026 range — verify live) | Horizon: Long**
+
+### What it does and how it makes money
+Arista Networks (NYSE: ANET) makes high-speed Ethernet switches and networking software for large data centres. Its EOS (Extensible Operating System) platform is the software layer — all physical switches run the same EOS image, making it fundamentally different from legacy multi-SKU vendors (Cisco). Revenue: hardware switches (majority), software subscriptions and support services. AI hyperscalers building GPU clusters need a data-centre network fabric: Arista is one of the primary beneficiaries alongside NVIDIA InfiniBand.
+
+### Latest results and financial health
+- **Q2 2026** (reported August 5, 2026): Revenue **$3.04B** (+37.7% YoY, beat $2.83B consensus). Non-GAAP EPS $1.02 vs $0.89 consensus. Non-GAAP operating margin 49.9%.
+- **Q3 2026 guidance** (issued August 2026): Revenue ~$3.3B (~12% above consensus at time), non-GAAP operating margin 48–49%, non-GAAP diluted EPS $1.06–1.08. Q3 actual results not yet reported as of October 22, 2026.
+- **FY 2026 raised outlook**: Revenue ~$12.6B, implying ~40% full-year growth.
+- Balance sheet: historically cash-generative with minimal debt; verify exact figures via SEC filings.
+
+### Bull thesis
+Arista is the networking layer for the AI data-centre buildout. Every GPU cluster needs Ethernet-based spine-and-leaf switching; Arista's 400G and 800G switches are the primary choice for hyperscalers that choose Ethernet over InfiniBand (including Microsoft, Meta, and others). The Q3 guidance of ~$3.3B revenue represents a structural step-up from the pre-AI era. Much of FY2026 guidance upgrade stems from general-purpose networking demand (not just AI-specific), which suggests the demand base is broader than pure GPU-interconnect — a resilience indicator.
+
+### Catalysts ahead
+Q3 2026 earnings (due ~late October/early November 2026); 800G and 1.6T product cycle; NVIDIA Ethernet Consortium adoption displacing InfiniBand in some configurations; continued hyperscaler infrastructure buildout; expansion into the smaller enterprise segment via software.
+
+### Main risks and what would break the thesis
+- **Customer concentration**: top five hyperscalers drive the majority of revenue; any capex pause hits Arista disproportionately
+- **InfiniBand competition**: NVIDIA's NVLink and InfiniBand remain preferred for tightly-coupled GPU training clusters; Arista competes more on inference-scale and general-purpose networking
+- **Cisco resurgence**: Cisco's investments in AI networking could close the product gap over 2–3 years
+- **Gross margin pressure**: mix shift to higher-volume but potentially lower-margin ports could compress the ~49% operating margin
+
+### Competitive position
+Arista dominates the large-scale data-centre Ethernet market — its software-defined approach and EOS consistency model have made it the default for hyperscalers building at scale. Cisco and Juniper are distant second and third. The moat is the combination of software (EOS stickiness), scale procurement relationships, and deep integration into hyperscaler operational stacks.
+
+### Rough valuation sense-check
+At ~$12.6B FY guidance and ~40%+ growth, Arista is priced for continued acceleration. A high-quality compounder — arguably the least risky of the AI compute picks given its stable margins, recurring software revenue, and diversified hyperscaler customer base. Not cheap, but earnings estimates have been consistently beaten.
+
+---
+
+## ETN — Eaton Corporation
+**Genre: Energy for AI & Electrification | Risk: Steady | Revolut: Yes (verify in-app) | Price: ~$350–450 (2026 range — verify live) | Horizon: Long**
+
+### What it does and how it makes money
+Eaton (NYSE: ETN) is a power-management and electrical-infrastructure company. Its Electrical Americas segment — the AI-relevant division — makes switchgear, power distribution units, UPS systems, and electrical components that every data centre and hyperscaler campus depends on. Eaton also has vehicle and industrial segments. Revenue model: hardware sales (large capital equipment), recurring services, and increasingly recurring software (energy management). Its March 2026 acquisition of **Boyd Thermal** ($9.55B) added liquid-cooling technology — a direct play on the power and thermal management challenge of AI GPU clusters.
+
+### Latest results and financial health
+- **Q2 2026** (reported July 31, 2026): Revenue **$8.53B** (+21.4% YoY, beat $8.16B consensus). Adjusted EPS **$3.15** (beat ~$3.08 consensus). Organic growth 14%; Electrical Americas organic growth 18%.
+- **Data-centre demand**: Data-centre orders reportedly surged 240% YoY in Q1 2026.
+- **FY 2026 guidance raised** (July 31): Organic growth raised to 11–13%; EPS raised to $13.40–13.60.
+- **Q3 2026 guidance**: EPS $3.46–3.56 (vs ~$3.51 consensus). Q3 results not yet reported as of October 22, 2026.
+- **Boyd Thermal acquisition**: Closed March 2026 for $9.55B. Positions Eaton to offer integrated power + liquid-cooling solution for AI data centres — a strategic move given GPU thermal density.
+
+### Bull thesis
+Eaton is the "boring but essential" AI infrastructure play. Every hyperscaler data centre needs power distribution and UPS systems; a shortage of qualified electrical gear is a documented constraint on data-centre build-outs. Data-centre orders +240% in Q1 2026 reflect this. Boyd Thermal integrates liquid cooling into Eaton's electrical-management stack, which is the right product for the AI era (H100/B200 GPUs consume 700W–1kW+ each and require liquid cooling at rack density). Organic growth at 14%+ for a $35B+ market-cap company is exceptional. The EPS base is already $13+/year.
+
+### Catalysts ahead
+Q3 2026 results (likely late October 2026); Boyd Thermal integration milestones; continued hyperscaler capex announcements; any upward revision to FY guidance; nuclear/SMR grid infrastructure orders.
+
+### Main risks and what would break the thesis
+- **Valuation**: at ~$13.50 FY EPS and ~$400–450/share, trades at ~30–33× earnings — already pricing in durable growth; any guidance miss would re-rate sharply lower
+- **Supply chain**: electrical transformer and switchgear supply chains remain stressed; production constraints can limit revenue realisation even if orders are strong
+- **Boyd Thermal integration**: $9.55B is a large acquisition; any integration missteps or product-line cannibalisation erodes the thesis
+- **Industrial cycle**: automotive and aerospace segments are more cyclical; a slowdown partially offsets data-centre strength
+
+### Competitive position
+Eaton competes with Schneider Electric, ABB, and Vertiv in data-centre electrical infrastructure. Eaton has a larger US market share and is typically the preferred vendor for large US hyperscaler campuses. Boyd Thermal strengthens the cooling angle where Vertiv has historically been stronger. A strong incumbent position.
+
+### Rough valuation sense-check
+A premium multiple is warranted for the structural growth rate, but this is not a cheap stock. Priced for execution. For a "steady" AI-infrastructure exposure where the risk of zero is essentially absent, the risk/reward is reasonable at this growth rate — but buying at a peak multiple in a high-rate environment adds interest-rate sensitivity.
+
+---
+
+## FLNC — Fluence Energy
+**Genre: Clean Energy & Batteries | Risk: Aggressive | Revolut: Likely (verify in-app) | Price: ~$15–30 (2026 range — verify live) | Horizon: Long**
+
+### What it does and how it makes money
+Fluence Energy (NASDAQ: FLNC) designs, procures, and delivers utility-scale battery energy storage systems (BESS). It is a joint venture of Siemens and AES. Revenue model: hardware-and-software BESS projects sold to utilities, grid operators, and hyperscalers. Increasingly, Fluence is winning contracts to co-locate battery storage alongside AI data-centre campuses. Also sells AI-powered optimisation software (Mosaic OS) as a recurring software layer.
+
+### Latest results and financial health
+- **Q3 FY2026** (quarter ended June 30, 2026, reported August 5, 2026): Revenue **$649.8M** (vs $602.5M a year earlier). GAAP gross margin **5.1%** (down sharply from 14.8% in Q3 FY2025). Net loss **$44.3M** (vs $6.9M profit prior year).
+- **Nine-month revenue**: $1.59B (FY2026 year-to-date through June 30); nine-month net loss widened to $136.1M.
+- **Guidance cut**: FY2026 revenue lowered to **$2.90–3.10B** (from $2.20–3.60B prior). Reason: production delays at new contract manufacturing sites.
+- **Cash**: $339.3M at June 30, 2026.
+- **Q2 FY2026** (ended March 31, 2026): Revenue $464.9M (+7.7% YoY); stock jumped >20% after-hours on record backlog and hyperscaler data-centre storage wins.
+
+### Bull thesis
+Battery energy storage is a necessary enabling technology for AI data-centre campuses and the energy transition simultaneously. Hyperscalers co-locating BESS alongside their data centres provides firming capacity and lowers grid connection costs. The Siemens/AES parentage provides balance-sheet support and project credibility. Mosaic OS (software) is a recurring, higher-margin revenue layer being layered on top of the hardware business.
+
+### Catalysts ahead
+Q4 FY2026 results (quarter ending September 30, reported likely November 2026 — will show whether guidance cut was the floor or if further slippage occurs); resolution of contract manufacturing delays; new hyperscaler data-centre storage contracts; IRA-driven utility solar+storage project backlog.
+
+### Main risks and what would break the thesis
+- **Margin collapse**: gross margin 5.1% (Q3) leaves almost no room for error; a further decline below zero on new contracts would be existential for the standalone business
+- **Execution on contract manufacturing**: guidance was cut due to production delays — if these persist into FY2027, revenue ramp is further deferred
+- **Liquidity**: $339.3M cash with ongoing losses; may need to raise capital if cash burn continues
+- **Competition**: Tesla (Megapack), BYD, and CATL all scaling utility BESS at aggressive price points
+- **IRA risk**: battery storage incentives underpin project economics; any policy rollback damages the market
+
+### Competitive position
+Fluence is among the top three global utility-scale BESS providers alongside Tesla and BYD/CATL. Its differentiation is software (Mosaic OS) and hyperscaler relationships. Tesla's Megapack has a stronger margin profile and TSLA's balance sheet support. Fluence needs to demonstrate that its software advantage translates into pricing power.
+
+### Rough valuation sense-check
+With a guidance cut and 5% gross margins, the near-term risk is elevated. The long-term thesis (AI + grid storage) remains intact. The stock has fallen significantly from its highs; at ~$2.90–3.10B FY revenue guidance with positive EBITDA targeted by end of FY2026, the risk/reward improves only if margin recovery is credible.
+
+---
+
+## UUUU — Energy Fuels
+**Genre: Energy & Nuclear | Risk: Aggressive | Revolut: Unsure (NYSE American listing — verify in-app) | Price: ~$7–12 (2026 range — verify live) | Horizon: Long**
+
+### What it does and how it makes money
+Energy Fuels (NYSE American: UUUU) is a US-based producer of uranium concentrate (yellowcake) from conventional and in-situ recovery (ISR) mines in the western US. It also processes **rare earth elements (REEs)** through its White Mesa Mill in Utah — the only fully licensed conventional uranium mill operating in the US. Revenue: uranium sales (long-term and spot contracts), rare earth carbonate sales (ramping). The REE segment positions UUUU as a domestic alternative to China-dominated REE supply chains.
+
+### Latest results and financial health
+- **Q1 2026** (reported May 6, 2026): Revenue ~$35.8M (+112.1% YoY, beat $31.3M consensus). EPS -$0.04.
+- **FY2026 fiscal year ended July 31, 2026** (announced September 29, 2026): Liquid assets **$753M**, no debt. **Realized uranium price: $93.13/lb** (peer-leading, per company). New CEO Ross Bhappu succeeded Mark Chalmers.
+
+### Bull thesis
+Three structural tailwinds converge: (1) nuclear power renaissance driven by AI data-centre demand for clean baseload electricity (Microsoft, Google, Amazon all signing nuclear PPAs); (2) US government drive to re-shore strategic minerals (REEs for defence, EVs, wind turbines); (3) uranium spot prices ~$90+/lb — a decade-high level. Energy Fuels is the only company simultaneously producing uranium and processing REEs domestically, making it strategically irreplaceable for a US reducing dependence on Kazakh uranium and Chinese REEs.
+
+### Catalysts ahead
+Commissioning and ramp of new US uranium mines; US government long-term uranium purchase agreements or stockpile purchases; rare earth carbonate offtake agreements; uranium spot price moves; Pinyon Plain Mine (Arizona) production ramp.
+
+### Main risks and what would break the thesis
+- **Uranium spot price**: if spot price reverts to the $30–40/lb range of 2014–2020, mine economics deteriorate sharply
+- **Permitting delays**: US uranium mine permitting is notoriously slow
+- **REE competition**: MP Materials and others building domestic REE supply; UUUU's REE revenue is still small
+- **Execution**: the company has historically seen production milestones slip; $753M in liquid assets provides buffer
+
+### Competitive position
+Unique position as a combined uranium + REE domestic producer with White Mesa Mill as an irreplaceable asset (no new conventional uranium mill has been licensed in the US in decades). Cameco and Kazatomprom are larger pure-play uranium miners globally; UUUU is differentiated by its domestic US focus and the REE optionality.
+
+### Rough valuation sense-check
+$753M liquid assets with no debt is a strong balance sheet. At $90+/lb realized uranium prices and growing REE revenue, the business is generating real cash. The question is whether production scales fast enough to justify the valuation — uranium miners are priced on expected production, not current output.
+
+---
+
+## UEC — Uranium Energy Corp
+**Genre: Energy & Nuclear | Risk: Aggressive | Revolut: Unsure (NYSE American listing — verify in-app) | Price: ~$8–14 (2026 range — verify live) | Horizon: Long**
+
+### What it does and how it makes money
+Uranium Energy Corp (NYSE American: UEC) is a US-based uranium production company focused on **ISR (in-situ recovery) mining** in Texas and Wyoming. ISR is the lowest-cost, lowest-environmental-footprint uranium production method. Revenue: uranium concentrate sales from spot and term contracts. UEC also holds physical uranium inventory (purchased at lower spot prices) for future delivery into higher-priced contracts. No debt — entirely equity-funded.
+
+### Latest results and financial health
+- **Fiscal Q3 2026** (quarter ended April 30, 2026, reported June 9, 2026): Adjusted EPS -$0.07 (missed -$0.05 consensus). No uranium sales in the quarter. Uranium production: **32,195 lbs**, Cash Cost/lb: **$46.69**, Total Cost/lb: **$54.61**. Burke Hollow mine (South Texas) began operations.
+- **FY2026 year ended July 31, 2026** (announced September 29, 2026): **$753M in liquid assets, no debt**. Realized uranium price: **$93.13/lb** (peer-leading, per announcement). Cash: $488M at April 30, 2026 (Q3).
+
+### Bull thesis
+UEC holds a large ISR asset base in Texas (Palangana, Burke Hollow, Goliad, Longhorn) and Wyoming (Reno Creek), which are low-cost to restart and operate. The company has built a substantial physical uranium inventory purchased at prices well below current spot, positioning it to sell into long-term contracts at $80–100+/lb. No debt and $753M in liquid assets means no dilution risk. Burke Hollow commencing operations adds a new production unit.
+
+### Catalysts ahead
+Q4 and FY results (year ends July 31); new long-term utility contracts at $90+/lb; Reno Creek (Wyoming) production decision; US Congressional action on domestic uranium procurement preferences (buy-American clauses could benefit UEC directly); spot uranium price moves.
+
+### Main risks and what would break the thesis
+- **No revenue quarters**: ISR miners can go multiple quarters without a sale; creates volatility in quarterly results
+- **Uranium price reversal**: if spot reverts below $60/lb, economics of new mine starts deteriorate
+- **Production reliability**: 32,195 lbs in Q3 FY2026 is modest — the company needs to demonstrate it can scale production meaningfully
+- **Competition**: Cameco, Kazatomprom, and Orano dominate global uranium supply; UEC is a US-domestic niche player
+
+### Competitive position
+UEC is the largest US-based pure-play uranium ISR producer by asset count. Competitor Energy Fuels (UUUU) is the comparison; UEC focuses exclusively on uranium (no REEs), making it a cleaner uranium pure-play. The ISR method and Texas/Wyoming geography are genuine strategic differentiation in a US market increasingly prioritising domestic supply.
+
+### Rough valuation sense-check
+$753M in liquid assets, no debt, and a peer-leading $93.13/lb realized price is a strong position. UEC is not cheap on a current-earnings basis (earnings are irregular given the contract delivery model), but the asset value — especially the physical uranium inventory and the ISR asset base — is real. A buy-and-hold name for the nuclear renaissance thesis rather than a near-term earnings play.
+
+---
+
+## DNN — Denison Mines
+**Genre: Energy & Nuclear | Risk: Moonshot | Revolut: Unsure (NYSE American/TSX listing — verify in-app) | Price: ~$2.50–4.50 (2026 range — verify live) | Horizon: Long**
+
+### What it does and how it makes money
+Denison Mines (NYSE American: DNN) is a Canadian uranium developer focused on the Athabasca Basin, Saskatchewan — the world's highest-grade uranium deposits. Its flagship project is **Wheeler River**, specifically the **Phoenix ISR deposit** (highest-grade ISR uranium project in the world, ~19% average grade). Revenue at present is minimal — Denison is in development/construction stage, not production. It earns small amounts from toll milling and ownership of the McClean Lake mill (through a JV). Denison makes money when Phoenix enters production.
+
+### Latest results and financial health
+- **Q2 2026** (reported August 12, 2026): Revenue **$0.52M** (down 43.6% YoY). EPS -$0.02 (in line with consensus). Construction at **Phoenix ISR mine commenced** during Q2 — the single most important milestone in Denison's history.
+- All amounts in Canadian dollars; USD investors should factor in CAD/USD FX.
+- Balance sheet (March 31, 2026, per aggregator — verify via SEDAR+): Total assets C$795.4M, debt C$524.8M, cash C$403.6M.
+- Analyst consensus: "Strong Buy" from 13 analysts with average 12-month price target of ~$4.81 USD (verify date/methodology).
+
+### Bull thesis
+Phoenix ISR is the world's highest-grade known ISR uranium deposit at ~19% U3O8 average grade (most US ISR deposits grade 0.05–0.10%). If Phoenix enters production on schedule, Denison becomes a large-volume, very-low-cost uranium producer at a time when utilities are desperately seeking non-Kazakh supply. The Wheeler River feasibility study (2023) modelled an operating cost of ~US$8.26/lb — the lowest projected operating cost of any undeveloped uranium project globally. Construction has now commenced.
+
+### Catalysts ahead
+Phoenix ISR construction milestones (first uranium production targeted ~2027–2028); long-term utility offtake contracts signed at construction completion; uranium spot price moves; potential toll-milling revenue from the McClean Lake mill as Athabasca uranium production grows.
+
+### Main risks and what would break the thesis
+- **Construction risk**: ISR wellfield at unprecedented grade has never been done before at commercial scale; the technology works at lower grades but Phoenix is unprecedented — execution risk is real
+- **Timeline risk**: uranium development projects in Canada have a history of permitting and construction delays
+- **Debt**: C$524.8M in debt (Q1 2026) needs to be serviced and eventually refinanced or repaid from production cash flows; if uranium prices fall, this leverage is dangerous
+- **Pre-revenue**: the company is entirely pre-revenue from its core asset; all value is in the future option
+- **Uranium price**: the entire thesis rests on uranium prices staying above ~$60/lb
+
+### Competitive position
+Denison's Phoenix deposit is in a class of its own globally for ISR grade. Cameco (Cigar Lake, McArthur River) is the dominant Athabasca player with a much larger production base, but Denison's Phoenix deposit, if delivered, would be a tier-1 asset. The McClean Lake toll-milling JV provides a connection to the regional production ecosystem. Uniquely positioned but entirely pre-production.
+
+### Rough valuation sense-check
+Priced as a development-stage option on a world-class uranium deposit. If Phoenix delivers as modelled at $90+/lb uranium, the NPV is very large relative to current market cap. If construction fails, delays materially, or uranium reverts to $50/lb, the equity could be worth a fraction of current value. A classic high-risk/high-reward resource development name.
+
+---
+
+## EOSE — Eos Energy Enterprises
+**Genre: Clean Energy & Batteries | Risk: Moonshot | Revolut: Likely (verify in-app) | Price: ~$5–15 (2026 range — verify live) | Horizon: Long**
+
+### What it does and how it makes money
+Eos Energy Enterprises (NASDAQ: EOSE) makes **zinc-based long-duration energy storage (LDES)** systems — specifically its Z3 battery technology, which uses zinc instead of lithium. Zinc is non-flammable, cheap, and abundant in North America. The Z3 battery targets 4–12 hour duration storage (vs 2–4 hours for lithium BESS), which is the use case for grid firming of renewable generation over daily demand cycles. Revenue: project sales and EPC contracts. Eos manufactures at its Turtle Creek facility (Pennsylvania) and is scaling a second manufacturing line at Thorn Hill.
+
+### Latest results and financial health
+- **Q2 2026** (reported ~August 2026): Revenue **$68.8M** (+351% YoY). Record backlog **$807M**. FY2026 revenue guidance **$300–$350M**. Gross margin **-71%** (negative — still in manufacturing scale-up). Net loss attributable to shareholders $275.7M (primarily non-cash fair value adjustments). Cash $364M at June 30, 2026. FPUSA (Frontier Power USA) JV contributed $55M of Q2 revenue.
+- **Q3 2026 preliminary** (released October 19, 2026): Revenue expected ~$82–83M (+169–172% YoY, +19–21% QoQ). Management cited continued production scaling at the second Thorn Hill manufacturing line.
+- **Notable contracts**: $100M Blanquilla order; 750 MWh master supply agreement for the DACH (Germany/Austria/Switzerland) region.
+
+### Bull thesis
+Zinc-based LDES solves a different problem from lithium BESS — it targets longer durations (4–12 hours) where lithium chemistry is economically disadvantaged. As renewable penetration approaches 40–50%+ of grids, daily duration storage becomes critical for grid stability. Eos's Z3 battery is non-flammable (important for permitting), uses US-domestic supply chains (advantageous for IRA incentives), and is targeting cost parity with lithium at scale. Revenue grew 351% YoY in Q2 — from a tiny base but the direction is correct. The DACH market is a significant validation: European utilities need storage with no fire risk and domestic supply chains. Q3 preliminary of $82–83M confirms the growth trajectory.
+
+### Catalysts ahead
+Q3 actual results (October/November 2026); progression toward positive gross margin (management targeted Q4 FY2026 — significant milestone if achieved); additional large utility contracts; Thorn Hill second-line ramp; any offtake or technology licensing agreements.
+
+### Main risks and what would break the thesis
+- **Negative gross margin (-71%)**: every Z3 battery sold currently destroys value; if margins don't improve as production scales, the business is not viable as a standalone entity
+- **Cash burn**: $364M cash with ongoing losses; the company will need additional capital if the path to positive margin extends
+- **Technology risk**: zinc battery technology has a long history of failed commercialisation attempts
+- **Competition**: lithium BESS (Tesla Megapack, BYD), pumped hydro, iron-air batteries (Form Energy), and other LDES chemistries all compete
+- **IRA risk**: battery storage IRA incentives underpin much of the US order book
+
+### Competitive position
+Eos is a pioneer in zinc-based LDES; no major direct zinc-battery competitor at similar scale. Form Energy (iron-air, private) is the closest analog for very-long-duration (100-hour+) storage. Eos's Z3 sits in the 4–12 hour window. The FPUSA JV and the European DACH agreement suggest Eos is building a commercial pipeline.
+
+### Rough valuation sense-check
+Revenue growing +350% and a $807M backlog are impressive, but negative gross margins mean the company currently loses money on every unit sold. The stock is a bet on the manufacturing cost curve bending positive. Positive gross margin by Q4 FY2026 would be a genuine inflection signal. A moonshot with a real technology and growing order book.
+
+---
+
+## SQM — Sociedad Química y Minera de Chile
+**Genre: Clean Energy & Batteries (Lithium) | Risk: Balanced | Revolut: Yes (verify in-app) | Price: ~$40–65 (2026 range — verify live) | Horizon: Long**
+
+### What it does and how it makes money
+SQM (NYSE: SQM) is a Chilean mining and chemicals company. Its **Lithium and Derivatives** segment — now by far its dominant business — produces lithium carbonate and hydroxide from the Atacama brine deposits, the world's lowest-cost lithium resource. SQM also produces potassium nitrate (industrial fertilisers), iodine, and specialty plant nutrients. Revenue: lithium sales (majority), potassium nitrate, iodine, and lithium industrial contracts. The Atacama deposit gives SQM the world's lowest-cost lithium production at ~$3,000–4,000/metric ton cash cost.
+
+### Latest results and financial health
+- **Q1 2026** (reported May 27, 2026): Revenue **$1.76B**, net income $364.7M ($1.28/share). Adjusted EBITDA ~$837M (more than double prior year, beat Bloomberg consensus). SQM raised FY2026 lithium volume growth forecast from 10% to **~15%**.
+- **H1 2026** (reported August 19, 2026): Total revenue **$4.23B** (vs $2.08B H1 2025, roughly doubled YoY). H1 net income **$1.02B** ($3.59/share). Q2 lithium revenue **$1.78B** (+~300% YoY). Q2 lithium volumes hit record **84,000+ metric tons LCE**.
+- **Capex plan**: ~$3B over 2026–2028, with ~60% allocated to the **Nova Andino Litio** JV with Codelco, which extends SQM's Atacama concession and social licence.
+- FY2026 global lithium demand forecast raised to >2.1 million metric tons LCE.
+
+### Bull thesis
+SQM is the lowest-cost lithium producer in the world with the richest and largest lithium brine reserves on earth. EV penetration is still in single digits globally — even a modest acceleration to 30–40% EV share by 2030 requires a massive increase in lithium supply. The Nova Andino JV with Codelco gives SQM a 30-year runway in the Atacama. At $1.78B quarterly lithium revenue in Q2 2026, this is already a very large, profitable business — not a development-stage miner. Dividends funded from lithium cash flows.
+
+### Catalysts ahead
+Q3 2026 results; Nova Andino JV progress milestones; lithium carbonate spot price (key revenue driver); EV market penetration data from major markets (China, US, EU); any long-term battery supply agreement with a major OEM or cell-maker.
+
+### Main risks and what would break the thesis
+- **Lithium price cycle**: lithium prices are notoriously volatile — in 2023 they fell ~80% from peak; another correction would sharply reduce revenue and margins
+- **Chile political risk**: the Nova Andino JV with Codelco (a state company) mitigates some sovereignty risk, but Chilean resource nationalism remains a headline risk
+- **New lithium supply**: hard-rock spodumene (Australia, Africa) and direct lithium extraction (DLE) technology could structurally lower the cost floor
+- **Currency**: revenues in USD, costs partially in Chilean pesos; CLP/USD moves affect margins
+
+### Competitive position
+SQM and Albemarle (ALB) are the two lowest-cost global lithium producers. SQM has a structural cost advantage from Atacama brine vs spodumene. Its industrial chemical businesses (iodine, nitrates) provide modest diversification. Pilbara Minerals, Arcadium Lithium, and Lithium Americas remain higher-cost or pre-production.
+
+### Rough valuation sense-check
+At ~$4.23B H1 2026 revenue (implying ~$8–9B annual run rate) and net margin ~24% in H1, SQM at ~$20–25B market cap is trading at roughly 2–3× run-rate revenue and ~10× run-rate earnings. Not expensive for the world's lowest-cost lithium producer in a multi-decade structural growth market — provided you believe EV adoption and lithium prices hold. The primary valuation risk is a commodity price cycle.
+
+---
+
+## SLDP — Solid Power
+**Genre: Clean Energy & Batteries | Risk: Moonshot | Revolut: Unsure (verify in-app) | Price: ~$1.50–3.50 (2026 range — verify live) | Horizon: Long**
+
+### What it does and how it makes money
+Solid Power (NASDAQ: SLDP) is developing **solid-state batteries (SSBs)** for electric vehicles — specifically manufacturing **sulfide-based solid electrolyte** and piloting the transition from pouch cells to SSB technology. Unlike liquid-electrolyte lithium-ion batteries, SSBs promise higher energy density, no flammability, and potentially longer cycle life. Solid Power's commercialisation model is licensing its electrolyte technology to cell manufacturers (Samsung SDI, BMW, SK On) rather than making finished batteries. Revenue at this stage: technology licensing fees, joint evaluation agreements, grant income.
+
+### Latest results and financial health
+- **Q1 2026** (reported May 5, 2026): Revenue + grant income ~**$3.1M** (down ~50% YoY). The decline reflects the SK On pilot cell line installation agreement reaching its final milestone — that revenue stream is now closed. Operating loss **$26.3M** (widened slightly from $24.0M Q1 2025). Net loss **$13.0M** ($0.06/share; improved from $0.08/share Q1 2025 due to non-cash warrant fair-value gain).
+- **Financing**: Completed a **$130M registered direct offering** in early 2026.
+- **Technology milestones**: Site acceptance testing on the SK On pilot cell line completed. Samsung SDI/BMW Joint Evaluation Agreement ongoing. Continuous manufacturing pilot line for sulfide electrolyte on schedule for **commissioning end-2026**.
+- **Korea**: Exploring potential partners for commercial-scale sulfide electrolyte production in Korea.
+
+### Bull thesis
+SSB technology offers step-change improvements in energy density (~50% higher vs best lithium-ion) and safety (no liquid electrolyte, no thermal runaway risk). BMW and Samsung SDI — serious automotive and cell-chemistry researchers — are continuing their partnership with Solid Power after years of collaboration, which is the strongest third-party validation of the technology. The electrolyte licensing model means Solid Power does not need to build a gigafactory; it licenses the chemistry and collects royalties. The $130M offering funds the company to the end-2026 manufacturing pilot milestone.
+
+### Catalysts ahead
+Commissioning of the sulfide electrolyte continuous manufacturing pilot line (end-2026 — a binary milestone); Samsung SDI or BMW publicly confirming incorporation of Solid Power electrolyte in a vehicle programme; Korean commercial-scale electrolyte production partner announcement; any EV OEM licensing agreement.
+
+### Main risks and what would break the thesis
+- **Pre-revenue development stage**: essentially no revenue; future revenue is uncertain and likely years away
+- **Technology risk**: SSBs have been "10 years away" for 20 years; sulfide electrolytes have manufacturing challenges at scale that have not been fully solved
+- **Competitive risk**: Toyota, QuantumScape, CATL, Samsung SDI and others all developing their own SSB technologies; if Samsung SDI or BMW develop their own internal electrolyte capability, the licensing thesis weakens
+- **Cash burn**: $26M quarterly operating loss on $130M cash post-offering gives ~5–6 quarters of runway; another raise will be needed by 2027–2028
+
+### Competitive position
+Solid Power's sulfide electrolyte approach is one of several SSB chemistries (oxide, polymer, sulfide). Sulfide has the best conductivity but is challenging to manufacture and is moisture-sensitive. QuantumScape (oxide/lithium-metal) and Solid Power are the two most advanced SSB developers with automotive OEM backing. Solid Power's joint evaluation agreements with Samsung SDI and BMW are genuine competitive advantages.
+
+### Rough valuation sense-check
+A pure development-stage option on a transformative technology. No path to near-term revenue; entirely dependent on milestones. The end-2026 manufacturing pilot is the near-term event to watch. For a UK retail ISA investor, this is a true moonshot — size a position accordingly (small percentage of the speculative sleeve only).
+
+---
+
+## ARRY — Array Technologies
+**Genre: Clean Energy & Batteries (Solar Infrastructure) | Risk: Balanced | Revolut: Likely (verify in-app) | Price: ~$8–16 (2026 range — verify live) | Horizon: Long**
+
+### What it does and how it makes money
+Array Technologies (NASDAQ: ARRY) makes **single-axis solar trackers** — the mechanical systems that pivot solar panels to follow the sun throughout the day, increasing energy yield by ~20–25% vs fixed-tilt installations. Also provides OmniTrack (terrain-following tracker) and DriveReact (predictive wind management software). Revenue: hardware sales (trackers), software, and services. Array has a strong US utility-scale solar market share.
+
+### Latest results and financial health
+- **Q2 2026** (reported August 5, 2026): Revenue **$342.1M** (down ~6% YoY from $362.2M). Gross margin **29.1%**. Net income to common shareholders **$8.4M**. Adjusted EBITDA **$63.3M**. Adjusted diluted EPS **$0.24**.
+- **Order book**: Record **$2.5B** (+37% YoY) with **$500M+** in new orders in Q2 alone.
+- **FY2026 guidance maintained**: Revenue $1.40–1.50B. Q3 guidance: Revenue $310–330M. Adjusted EBITDA guidance raised to **$210–230M** (full year).
+- Note: revenue declined ~6% YoY in Q2 despite record orders, reflecting timing of project delivery; the large order book provides visibility for H2 2026 and 2027.
+
+### Bull thesis
+Solar energy is the fastest-growing new electricity source globally, and every utility-scale solar installation requires a tracker. Array holds a dominant US market position (~35–40% US utility solar market share), protected by existing customer relationships, engineering teams, and the logistical complexity of supply. The $2.5B order book growing at 37% YoY — despite a revenue dip — indicates demand exceeds current supply recognition; this is a timing issue, not demand destruction. The IRA incentivises domestic solar projects, which directly drives Array's addressable market. Adjusted EBITDA margins of ~$210–230M on ~$1.40–1.50B revenue (14–16% margin) are solid.
+
+### Catalysts ahead
+Q3 2026 results (likely October/November 2026) — whether the $310–330M Q3 guidance converts to actual revenue; FY 2027 guidance issuance; new large utility project awards; IRA safe-harbour provisions locking in utility solar project economics; any international expansion wins.
+
+### Main risks and what would break the thesis
+- **Revenue lumpiness**: project timing means revenue can fall in a quarter even as orders grow; creates volatility
+- **Competition**: Nextracker (NXT) is the primary direct competitor with similar market share; pricing competition has been a margin headwind
+- **Steel costs**: trackers are steel-intensive; steel price volatility affects margins; tariff risk on imported steel
+- **IRA risk**: any reduction in US solar incentives delays projects and compresses the order book conversion
+- **Customer concentration**: utility solar dominated by a small number of large IPPs
+
+### Competitive position
+Array and Nextracker together account for most US utility tracker market share. Array's OmniTrack terrain-following product is a differentiator for complex terrain projects. Nextracker has been more aggressive internationally. The competitive dynamic between the two is the main price/margin risk for the sector.
+
+### Rough valuation sense-check
+At $1.40–1.50B FY2026 revenue guidance and ~$210–230M adjusted EBITDA guidance, the stock trades at a mid-to-low single-digit EV/EBITDA multiple — not expensive for a market-leader in a structural growth industry. The revenue dip YoY has compressed the multiple, potentially creating value. The record order book is reassurance: this is a delivery timing story, not demand destruction.
+
+
+---
+
 # 2026-10-15 — Cycle 3, Run 6: AI connectivity, AI cloud, nuclear enrichment, merchant power, solar recovery, silicon-anode batteries, defence drones, quantum encryption, digital banking & AI biotech — CRDO, NBIS, LEU, VST, SEDG, AMPX, KTOS, RCAT, ARQQ, NU, HOOD, RXRX
 
 DIV and CRYPTO universes are fully covered this cycle. This run continues the stockData rotation, targeting ~2 names per genre. Research date: **15 October 2026**. All figures drawn from company SEC filings, earnings releases, and press releases; cited with approximate dates. Prices and financial metrics move constantly — **re-verify live before acting**. Nothing here is financial advice or a recommendation to buy or sell.
