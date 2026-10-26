@@ -1,5 +1,65 @@
 # Changelog
 
+## 2026-10-26 — Weekly research refresh
+
+### Macro context
+- **Semiconductor sector sell-off Oct 15-26**: US CPI 3.7% YoY (above 3.6% estimate) delayed Fed rate-cut timeline; TSMC cautious 2027 guidance alongside record Q3 2026 results triggered 'AI boom meets reality' profit-taking headlines; broad multiple compression in higher-for-longer environment
+- **Earnings gauntlet opening**: SOFI Oct 27 (nearest-term), FSLR Oct 29, GEV Oct 28 (pre-market), CCJ Oct 30, PLTR Nov 2, ARM Nov 4, VST Nov 6, CEG Nov 9, NVDA Nov 17-18
+- **Dec 4 MIP countdown**: Section 232 minimum import prices now 39 days away — FSLR/SEDG structural catalyst approaching
+- **Anthropic IPO imminent**: Public S-1 filing expected ~Oct 24 per Benzinga; roadshow week of Nov 9; listing before Thanksgiving (~Nov 20-26)
+
+### AI & Compute — semiconductor sell-off
+- **NVDA** $239 → $228: sector sell-off; AI/HPC demand pipeline unchanged; Q3 FY2027 earnings Nov 17-18, consensus EPS $2.47
+- **AVGO** $368 → $322: sharp drop in sector sell-off; Q4 FY2026 earnings Dec; FY2027 AI $115B intact; Citi PT $515 = ~60% upside
+- **TSM** $510 → $419: own cautious 2027 guidance (2nm ramp costs) caused sell-off despite record Q3 $46.72B +50.9% YoY; Q4 guide $52.3-54.3B (record); next earnings Jan 2027
+- **AMD** $545 → $517: sector beta; Q3 earnings IMMINENT late Oct/early Nov; guidance $13B +41% YoY
+- **ARM** $252 → $242: sector sell-off; Q2 FY2027 earnings Nov 4, guidance EPS $0.43-0.51
+- **MRVL** $255 → $245, **ALAB** $379 → $360, **CRDO** $105 → $100, **NBIS** $188 → $180, **ANET** $176 → $170, **ETN** $448 → $435: all eased with semiconductor sector sell-off
+
+### Energy & Nuclear
+- **GEV** $921 → $952: recovering ahead of Q3 earnings OCT 28 PRE-MARKET (consensus EPS $3.99-4.02, revenue $11.99B; options pricing ±8.92% move)
+- **CCJ** $82 → $80: uranium sector continuing to consolidate; Q3 earnings OCT 30 (consensus EPS $0.23; Q2 missed at $0.13 vs $0.26)
+- **VST** $152 → $149: BMO Capital cut PT $231 → $210 (Outperform maintained); Q3 earnings Nov 6
+- **CEG** $271 → $268: continuing to ease post Oct 6 spike; Q3 earnings Nov 9; four hyperscaler PPAs intact
+- **OKLO** $32 → $30, **TLN** $332 → $328, **BWXT** $162 → $160: small easing moves
+
+### Clean & Batteries
+- **FSLR** $173 → $175: edged up ahead of Q3 earnings OCT 29 (consensus EPS $4.67, revenue $1.29B); Dec 4 MIP now 39 days away
+- **ENPH** $31 → $30, **SEDG** $32 → $30: continuing rate/ITC headwinds
+- **ALB** $117 → $115, **SQM** $70 → $68, **BE** $266 → $258, **NXT** $100 → $98: eased with sector
+
+### Quantum — extended sell-off
+- **IONQ** $32 → $30, **RGTI** $12 → $11, **QBTS** $12 → $11, **QNT** $52 → $50, **QUBT** $8.00 → $7.25: continued weakness from IONQ's Oct 12-14 events compounded by semiconductor sell-off
+- **ARQQ** $22 → $21, **INFQ** $10 → $9.75, **XNDU** $3.50 → $3.25, **IQMX** $10.50 → $10.25: small easing moves
+
+### Fintech & Other
+- **SOFI** $18 → $18.25: edged up ahead of Q3 earnings OCT 27 (nearest-term catalyst; consensus EPS $0.17)
+- **CRCL** $88 → $90, **KLAR** $20 → $21, **CHYM** $24 → $25, **NTRA** $315 → $318, **PYPL** $54 → $55: modest gains
+- **ERAS** $16 → $15, **COIN** $175 → $170, **AFRM** $68 → $66, **NU** $13.83 → $13.50, **HOOD** $104 → $101: mild pullbacks
+
+### IPO pipeline
+- **Anthropic**: MAJOR UPDATE — public S-1 filing expected ~Oct 24 per Benzinga; roadshow week of Nov 9; listing before Thanksgiving (~Nov 20-26); EDGAR submission confirmed; ticker placeholder ANTP seen on data sites; $2T S-1 valuation target per Reuters confirmed
+
+### ETF prices refreshed
+- **SMH** $595 → $560, **BOTZ** $37 → $35 (semiconductor sell-off)
+- **URA** $55 → $53, **NLR** $107 → $104 (nuclear consolidation; earnings gauntlet GEV Oct 28, CCJ Oct 30)
+- **ICLN** $17 → $16, **LIT** $78 → $76 (solar rate/Dec 4 MIP dynamics; FSLR earnings Oct 29)
+- **ITA** $238 → $237 (broadly stable; PLTR Nov 2 noted)
+- **UFO** $40 → $38 (space sector sell-off continuing; RKLB Neutron delay noted)
+- **QTUM** $120 → $112 (quantum sector + semi sell-off combined)
+- **FINX** price held $27 (note refreshed; SOFI Oct 27 earnings highlighted)
+- **XBI** $155 → $153, **IBB** $212 → $210 (mild easing)
+
+### DIV section
+- **NG.**: UPCOMING ex-dividend Nov 19 2026 (now 24 days away) — income buyers must hold before then; payment Jan 12 2027
+- **IMB**: Full-year results NOV 17 2026 (now 22 days away) — key catalyst for full-year dividend decision
+- Date reference updated to ~26 Oct 2026
+
+### Header
+- Dashboard date updated: 19 October → 26 October 2026
+
+---
+
 ## 2026-10-19 — Weekly research refresh
 
 ### Stocks updated
