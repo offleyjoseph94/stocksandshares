@@ -6,9 +6,30 @@ Tracks which watchlist tickers have received a weekly deep-dive in the **current
 
 ---
 
-## Current cycle: 3
+## Current cycle: 4
 
-## Covered this cycle (80/89 official + VHYG + ABBV + IUKD as extras)
+## Covered this cycle (0/89)
+*(Cycle 4 begins — no tickers covered yet. Priority order as always: DIV names first, then remaining stockData by genre.)*
+
+---
+
+## Cycle 3 — COMPLETE (89/89 official, closed 2026-10-29)
+
+### Final 12 (closed 2026-10-29):
+- VOYG (2026-10-29)
+- KRMN (2026-10-29)
+- RDW (2026-10-29)
+- ONDS (2026-10-29)
+- UMAC (2026-10-29)
+- INFQ (2026-10-29)
+- XNDU (2026-10-29)
+- IQMX (2026-10-29)
+- KLAR (2026-10-29)
+- CHYM (2026-10-29)
+- SOFI (2026-10-29)
+- ERAS (2026-10-29)
+
+### Earlier Cycle 3 coverage (80/89 official + VHYG + ABBV + IUKD as extras)
 - NVDA (2026-09-10)
 - AVGO (2026-09-10)
 - GEV (2026-09-10)
@@ -90,13 +111,6 @@ Tracks which watchlist tickers have received a weekly deep-dive in the **current
 - SQM (2026-10-22)
 - SLDP (2026-10-22)
 - ARRY (2026-10-22)
-
-## Not yet covered this cycle (12/89 stockData + DIV/CRYPTO all done)
-**stockData:** VOYG, KRMN, RDW, ONDS, UMAC, INFQ, XNDU, IQMX, KLAR, CHYM, ERAS, SOFI (12 stockData names)
-**DIV:** all 14 official DIV names now covered this cycle ✓; extras (ABBV, IUKD, VHYG) also covered ✓
-**CRYPTO:** all 5 CRYPTO names now covered this cycle ✓
-
----
 
 ---
 
