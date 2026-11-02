@@ -1,631 +1,190 @@
-# Changelog
+# Watchlist Changelog
+
+Newest entry at the top. Each entry covers one weekly research cycle.
+
+---
+
+## 2026-11-02 — Weekly research refresh
+
+### Summary
+Earnings season results for key positions: GEV Q3 BEAT (+~9%), SOFI Q3 BEAT (+~13%), FSLR Q3 revenue miss (−~4%), CCJ Q3 MISS (5th consecutive, −~10%). PLTR reports tonight (Nov 2 after close). ARM earnings in 2 days (Nov 4). Anthropic ticker ANT confirmed in public S-1 filing. New addition: MP Materials (MP) to Clean & Batteries. Income watchlist: NG. ex-div 17 days away, IMB full-year results 15 days away.
+
+### Earnings results
+- **GEV** $952 → $1,030 (+~9%) — Q3 2026 BEAT (Oct 28 pre-market): revenue $12.6B vs $11.99B consensus (+27% YoY); orders $29B +96% YoY (record); backlog $197B (record); FCF $5.4B; FY2026 guidance raised; share buyback raised to $20B. Thesis strongly reinforced.
+- **SOFI** $18.25 → $20.50 (+~13%) — Q3 2026 BEAT (Oct 27): record revenue $1.4B +44% YoY; EPS $0.18 beat consensus $0.17; FY2027 EPS outlook raised to ~$0.90. Digital bank thesis intact.
+- **FSLR** $175 → $168 (−~4%) — Q3 2026 revenue MISS (Oct 29): revenue $1.23B vs $1.31B consensus; EPS $5.30 beat; market punished the revenue miss; Dec 4 MIP structural catalyst now 32 days away — thesis intact.
+- **CCJ** $80 → $72 (−~10%) — Q3 2026 MISS (Oct 30): 5th consecutive quarterly miss; adj. EPS ~$0 vs $0.23 consensus (verify); Key Lake mill outage; CFO retirement announced. Five consecutive misses raises serious execution concerns — reduced to cautious hold.
+- **PLTR** $176 — Q3 2026 REPORTING TONIGHT (Nov 2 after close): consensus EPS ~$0.41, revenue ~$2.18B; no position change before the print.
+- **ARM** $242 — Q2 FY2027 earnings NOV 4 (in 2 days): guidance EPS $0.43–0.51, revenue $1.33–1.43B; imminent binary.
+
+### IPO pipeline changes
+- **Anthropic**: Public S-1 filed ~Oct 26 — **ticker ANT confirmed** on Nasdaq (previously placeholder ANTP); roadshow targets week of Nov 9; listing target before Thanksgiving (~Nov 20-26 2026). The nearest-term IPO in the pipeline — watch for roadshow pricing news this week.
+
+### New additions
+- **MP Materials (MP, NYSE)** — Added to Clean & Batteries genre. Only operating US rare earth mine and processor (Mountain Pass, CA); vertically integrating into NdFeB permanent magnets for EV motors and wind turbines; Chinese rare earth export restrictions (2025) made Mountain Pass a strategic national asset; US DoD contracts; ~$28 (verify live). Revolut: likely.
+
+### Income watchlist updates
+- **NG. (National Grid)**: Ex-dividend date NOV 19 2026 is now 17 days away (was 24 days). Income buyers must hold shares before Nov 19 to receive payment on Jan 12 2027 — most time-sensitive income action in the portfolio.
+- **IMB (Imperial Brands)**: Full-year results NOV 17 2026 are now 15 days away (was 22 days). Key catalyst for full-year dividend decision and 4% annual growth target confirmation.
+
+### ETF notes updated
+- **SMH**: Date ~2 Nov 2026; ARM Nov 4 IMMINENT (2 days); NVDA Nov 17-18 upcoming.
+- **BOTZ**: PLTR earnings TONIGHT Nov 2 after close — biggest near-term catalyst for basket.
+- **NLR**: GEV beat $1,030 (+~9%) and CCJ miss $72 (5th consecutive) both incorporated. VST Nov 6 and CEG Nov 9 are the next hard catalysts.
+- **URA**: CCJ 5th consecutive miss incorporated; Key Lake outage; CFO retirement.
+- **ICLN**: FSLR Q3 revenue miss updated; Dec 4 MIP now 32 days away.
+- **FINX**: SOFI Q3 beat incorporated; $20.50 price; CRCL Nov 4 earnings next catalyst.
+
+### Dashboard dates
+- Research snapshot header: 26 October 2026 → **2 November 2026**
+- Disclaimer snapshot date: ~19 Oct 2026 → **~2 Nov 2026**
+
+---
 
 ## 2026-10-26 — Weekly research refresh
 
-### Macro context
-- **Semiconductor sector sell-off Oct 15-26**: US CPI 3.7% YoY (above 3.6% estimate) delayed Fed rate-cut timeline; TSMC cautious 2027 guidance alongside record Q3 2026 results triggered 'AI boom meets reality' profit-taking headlines; broad multiple compression in higher-for-longer environment
-- **Earnings gauntlet opening**: SOFI Oct 27 (nearest-term), FSLR Oct 29, GEV Oct 28 (pre-market), CCJ Oct 30, PLTR Nov 2, ARM Nov 4, VST Nov 6, CEG Nov 9, NVDA Nov 17-18
-- **Dec 4 MIP countdown**: Section 232 minimum import prices now 39 days away — FSLR/SEDG structural catalyst approaching
-- **Anthropic IPO imminent**: Public S-1 filing expected ~Oct 24 per Benzinga; roadshow week of Nov 9; listing before Thanksgiving (~Nov 20-26)
+### Summary
+Universe grew to 54 stocks across 7 genres. IONQ thesis pivot (Elisity cybersecurity acquisition + $2B equity offering Oct 12-14) triggered quantum sector sell-off. Semiconductor sector sell-off Oct 15-26 driven by US CPI 3.7% YoY (above estimate) + TSMC cautious 2027 guidance alongside record Q3. SpaceX / SPCX eased from $165 to $147. Rocket Lab Neutron delay to 2027 confirmed. Multiple imminent earnings: GEV Oct 28, CCJ Oct 30, FSLR Oct 29, SOFI Oct 27, PLTR Nov 2, ARM Nov 4. Anthropic: Public S-1 expected filed this week, roadshow targeting Nov 9.
 
-### AI & Compute — semiconductor sell-off
-- **NVDA** $239 → $228: sector sell-off; AI/HPC demand pipeline unchanged; Q3 FY2027 earnings Nov 17-18, consensus EPS $2.47
-- **AVGO** $368 → $322: sharp drop in sector sell-off; Q4 FY2026 earnings Dec; FY2027 AI $115B intact; Citi PT $515 = ~60% upside
-- **TSM** $510 → $419: own cautious 2027 guidance (2nm ramp costs) caused sell-off despite record Q3 $46.72B +50.9% YoY; Q4 guide $52.3-54.3B (record); next earnings Jan 2027
-- **AMD** $545 → $517: sector beta; Q3 earnings IMMINENT late Oct/early Nov; guidance $13B +41% YoY
-- **ARM** $252 → $242: sector sell-off; Q2 FY2027 earnings Nov 4, guidance EPS $0.43-0.51
-- **MRVL** $255 → $245, **ALAB** $379 → $360, **CRDO** $105 → $100, **NBIS** $188 → $180, **ANET** $176 → $170, **ETN** $448 → $435: all eased with semiconductor sector sell-off
+### Key price updates
+- **NVDA** fell to ~$228 from $239 — sector sell-off
+- **AVGO** fell to ~$322 from $368 — sector sell-off
+- **TSM** fell to ~$419 from $510 — sold despite record Q3 ($46.72B +50.9% YoY; Q4 guide $52.3–54.3B record); market priced cautious 2027 guidance optics
+- **AMD** fell to ~$517 from $545
+- **ARM** fell to ~$242 from $252
+- **IONQ** fell to ~$30 from $43 — Elisity acquisition + $2B equity offering
+- **RGTI** fell to ~$11 from $17 — quantum sector contagion
+- **QBTS** fell to ~$11 from $19 — quantum sector contagion
+- **QNT** eased to ~$50 from $54 — quantum sector contagion
+- **SPCX** eased to ~$147 from $165 — space sector sell-off
+- **RKLB** fell to ~$57 from $75 — Neutron delay to 2027 + space sector sell-off
+- **ASTS** fell to ~$50 from $62 — space sector sell-off
+- **CEG** eased to ~$268 from $271 — nuclear sector consolidation
+- **VST** eased to ~$149 from $152
+- **GEV** recovering to ~$952 — imminent Q3 earnings Oct 28
+- **FSLR** edged to ~$175 — imminent Q3 earnings Oct 29
+- **CCJ** eased to ~$80 — Q3 earnings Oct 30
+- **SOFI** edged to ~$18.25 — Q3 earnings Oct 27 imminent
+- **PLTR** eased to ~$176 — Q3 earnings Nov 2
 
-### Energy & Nuclear
-- **GEV** $921 → $952: recovering ahead of Q3 earnings OCT 28 PRE-MARKET (consensus EPS $3.99-4.02, revenue $11.99B; options pricing ±8.92% move)
-- **CCJ** $82 → $80: uranium sector continuing to consolidate; Q3 earnings OCT 30 (consensus EPS $0.23; Q2 missed at $0.13 vs $0.26)
-- **VST** $152 → $149: BMO Capital cut PT $231 → $210 (Outperform maintained); Q3 earnings Nov 6
-- **CEG** $271 → $268: continuing to ease post Oct 6 spike; Q3 earnings Nov 9; four hyperscaler PPAs intact
-- **OKLO** $32 → $30, **TLN** $332 → $328, **BWXT** $162 → $160: small easing moves
-
-### Clean & Batteries
-- **FSLR** $173 → $175: edged up ahead of Q3 earnings OCT 29 (consensus EPS $4.67, revenue $1.29B); Dec 4 MIP now 39 days away
-- **ENPH** $31 → $30, **SEDG** $32 → $30: continuing rate/ITC headwinds
-- **ALB** $117 → $115, **SQM** $70 → $68, **BE** $266 → $258, **NXT** $100 → $98: eased with sector
-
-### Quantum — extended sell-off
-- **IONQ** $32 → $30, **RGTI** $12 → $11, **QBTS** $12 → $11, **QNT** $52 → $50, **QUBT** $8.00 → $7.25: continued weakness from IONQ's Oct 12-14 events compounded by semiconductor sell-off
-- **ARQQ** $22 → $21, **INFQ** $10 → $9.75, **XNDU** $3.50 → $3.25, **IQMX** $10.50 → $10.25: small easing moves
-
-### Fintech & Other
-- **SOFI** $18 → $18.25: edged up ahead of Q3 earnings OCT 27 (nearest-term catalyst; consensus EPS $0.17)
-- **CRCL** $88 → $90, **KLAR** $20 → $21, **CHYM** $24 → $25, **NTRA** $315 → $318, **PYPL** $54 → $55: modest gains
-- **ERAS** $16 → $15, **COIN** $175 → $170, **AFRM** $68 → $66, **NU** $13.83 → $13.50, **HOOD** $104 → $101: mild pullbacks
+### Key events
+- **Semiconductor sector sell-off Oct 15-26**: US CPI 3.7% YoY (above estimate) delayed rate-cut timeline; TSMC Q3 beat but cautious 2027 guidance triggered 'AI boom meets reality' profit-taking
+- **IONQ double event Oct 12-14**: $1.3B Elisity cybersecurity acquisition + $2B equity offering → quantum sector-wide sell-off
+- **RKLB Neutron delay confirmed**: Carbon-composite structural issues push timeline to 2027 (was 2026)
+- **CEG Google PPA**: 890 MW across 11 reactor uprates signed Oct 2026
+- **DOE $4.2B conditional loan to VST**: Nuclear uprate funding confirmed Oct 5
+- **Oklo DOE Nuclear Energy Launch Pad**: Selected Oct 13 for Groves 2 Forge advancement
+- **BWXT $1.5B DUECE contract**: DOE NNSA contract for HALEU centrifuge pilot plant in Tennessee
 
 ### IPO pipeline
-- **Anthropic**: MAJOR UPDATE — public S-1 filing expected ~Oct 24 per Benzinga; roadshow week of Nov 9; listing before Thanksgiving (~Nov 20-26); EDGAR submission confirmed; ticker placeholder ANTP seen on data sites; $2T S-1 valuation target per Reuters confirmed
+- **Anthropic**: Pre-IPO Investor Day Oct 14 COMPLETED; Public S-1 expected ~Oct 24-25; roadshow targeting Nov 9 week; listing before Thanksgiving (~Nov 20-26 2026); $2T S-1 valuation; ticker TBA (ANTP placeholder)
+- **OpenAI**: Definitively 2027; Sep window not used per CFO Sarah Friar
 
-### ETF prices refreshed
-- **SMH** $595 → $560, **BOTZ** $37 → $35 (semiconductor sell-off)
-- **URA** $55 → $53, **NLR** $107 → $104 (nuclear consolidation; earnings gauntlet GEV Oct 28, CCJ Oct 30)
-- **ICLN** $17 → $16, **LIT** $78 → $76 (solar rate/Dec 4 MIP dynamics; FSLR earnings Oct 29)
-- **ITA** $238 → $237 (broadly stable; PLTR Nov 2 noted)
-- **UFO** $40 → $38 (space sector sell-off continuing; RKLB Neutron delay noted)
-- **QTUM** $120 → $112 (quantum sector + semi sell-off combined)
-- **FINX** price held $27 (note refreshed; SOFI Oct 27 earnings highlighted)
-- **XBI** $155 → $153, **IBB** $212 → $210 (mild easing)
-
-### DIV section
-- **NG.**: UPCOMING ex-dividend Nov 19 2026 (now 24 days away) — income buyers must hold before then; payment Jan 12 2027
-- **IMB**: Full-year results NOV 17 2026 (now 22 days away) — key catalyst for full-year dividend decision
-- Date reference updated to ~26 Oct 2026
-
-### Header
-- Dashboard date updated: 19 October → 26 October 2026
+### ETF prices updated (~26 Oct 2026)
+SMH $560 · BOTZ $35 · URA $53 · NLR $104 · ICLN $16 · LIT $76 · ITA $237 · UFO $38 · QTUM $112 · FINX $27 · XBI $153 · IBB $210
 
 ---
 
 ## 2026-10-19 — Weekly research refresh
 
-### Stocks updated
-- **VRT** price corrected $272 → $240: Q2 revenue miss caused ~14% sell-off; Q3 guide and FY2026 $14B intact
-- **IONQ** major thesis update: $1.3B Elisity cybersecurity acquisition + $2B equity offering (Oct 12–14) — stock $43 → $32; thesis pivoting to quantum+cybersecurity hybrid; FY2026 guidance $450–460M cited intact
-- **RKLB** price $75 → $60: Neutron rocket delayed to 2027 due to carbon-composite structural issues — significant negative; Electron business and Iridium contract unaffected
-- **ASTS** price $62 → $52: space sector profit-taking after Sep orbital milestone
-- **SPCX** price $165 → $150: space sector profit-taking post Starship Flight 14 milestone
-- **GEV** price $980 → $921: nuclear sector consolidating after Oct 6 Google/CEG PPA spike; Q3 earnings Oct 28
-- **CEG** price $310 → $271: nuclear sector profit-taking; Brazos Valley sold to LS Power Oct 14; four hyperscaler PPAs intact
-- **CCJ** price $100 → $82: nuclear pullback; Q3 earnings Oct 30; Westinghouse confidential IPO draft
-- **OKLO** price $38 → $32: nuclear pullback; DOE Nuclear Energy Launch Pad (Groves 2 Forge) advancement Oct 13 intact
-- **PLTR** price $190 → $180: slight pullback ahead of Q3 earnings Nov 2
-- **AMPX** price $12.22 → $8.50 (sharp drop flagged — investigate before adding)
-- General date refresh across all stock notes to ~19 Oct 2026
-
-### ETF notes refreshed
-- **BOTZ**: Updated PLTR ($190→$180), RKLB ($75→$60 with Neutron delay), ASTS ($62→$52), VRT ($272→$240 price corrected)
-- **LIT**: AMPX sharp drop $12.22→$8.50 flagged — investigate cause before adding
-- **FINX**: Date updated; COIN $179→$182, HOOD $114→$112, CRCL $85→$87, SOFI $18→$19
-- **XBI / IBB**: Date updated to ~19 Oct 2026
-- **SMH, URA, NLR, ICLN, ITA, UFO, QTUM**: Full note refreshes (see prior edits this session)
-
-### Dividend section corrections
-- **VZ (Verizon)**: Corrected "19th consecutive year" → **"20th consecutive year"**; yield updated ~6.7% → ~6.0% (share price appreciation)
-- **T (AT&T)**: **IMPORTANT CORRECTION** — AT&T has NOT raised its dividend since the 2022 restructuring cut; payout flat at ~$0.2775/quarter since then; clarified this is not a dividend growth name
-- **O (Realty Income)**: Yield updated ~5.7% → ~6.0% (REIT valuation drift in rate environment)
-- **XOM (Exxon Mobil)**: Yield updated ~2.6% → ~2.3% at ~$177/share (Oct 2026)
-- **IMB (Imperial Brands)**: Sep 30 interim payment completed; interim dividend raised 4% to 83.36p/share; annual results Nov 17 flagged
-- **NG. (National Grid)**: Added upcoming ex-dividend date Nov 19 2026; payment Jan 12 2027
-
-### IPO pipeline
-- **Anthropic**: Updated to reflect $61.5B valuation post-$3.5B Series E (Mar 2026); Alexa AI partnership; AGI target 2027
-
-### Key upcoming catalysts (next 4 weeks)
-| Date | Event |
-|---|---|
-| Oct 28 | GEV Q3 earnings |
-| Oct 29 | FSLR Q3 earnings + Dec 4 MIP in 36 days |
-| Oct 30 | CCJ Q3 earnings |
-| Nov 2 | PLTR Q3 earnings (biggest near-term catalyst) |
-| Nov 6 | VST Q3 earnings |
-| Nov 17 | IMB full-year results (dividend decision) |
-| Nov 19 | NG. ex-dividend date |
-| ~Nov 18 | NVDA Q3 FY2027 earnings |
-## 2026-10-12 — Weekly Research Refresh
-
 ### Summary
-All stock prices, ETF prices, dividend data, and IPO pipeline refreshed to ~12 Oct 2026. **TSMC Q3 2026 BEAT**: TSMC reported Q3 2026 revenue of NT$1.49T (~$46.71B) vs guidance $44.6-45.8B — a record quarterly beat +50% YoY; AI and HPC demand confirmed as the primary structural driver; Q3 net profit ~NT$740.8B (+64% YoY); Arizona Phase 2 ramp ongoing; TSM $473→$510. **CONSTELLATION–GOOGLE 890MW NUCLEAR PPA**: Constellation Energy signed a power purchase agreement with Google for 890MW of new nuclear capacity from uprates across 11 existing reactors — fourth hyperscaler contract alongside Microsoft, Amazon, Meta; nuclear sector broad rally; CEG $277→$310 (+12%). **WHITE HOUSE NUCLEAR ACCELERATION**: Reports of White House executive action to speed US nuclear reactor development added further nuclear sector tailwind; VST $137→$144 (+10%), CCJ $97→$100. **PLTR MASSIVE Q3 RECOVERY**: Palantir +60% Q3 recovery from H1 lows, closed Oct 1 at $190.04; Q3 2026 earnings confirmed Nov 2; PLTR $168→$190. **GEV Q2 BEAT**: GE Vernova Q2 orders +88% YoY to $24.2B (record), backlog $176B (record), FY guidance raised; Q3 earnings Oct 28; GEV $912→$980. **ANTHROPIC PRE-IPO INVESTOR DAY OCT 14**: Pre-IPO investor day at SF HQ scheduled for October 14; Bloomberg reports mid-November Nasdaq listing target; Reuters obtained early look at S-1 targeting $2T valuation; ipoData updated. **SEMICONDUCTOR SECTOR RECOVERY**: Sector rebounding broadly post-TSMC beat; NVDA $208→$230, AVBO $355→$362, AMD $535→$540, MRVL $272→$275 (UBS PT $350). **AVIVA PAYMENT OCT 15**: Aviva income payout arriving this week for shareholders on record. **VZ EX-DIV OCT 9**: Verizon ex-dividend passed Oct 9; quarterly payout incoming. **BATS PAYMENT NOV 6**: British American Tobacco payment date confirmed Nov 6, 2026.
+Universe grew from 54 to 55 stocks (added CBRS — Cerebras Systems, CS-4 chip launched). Google–Constellation Energy nuclear PPA signed Oct 14 (890 MW). VST DOE $4.2B conditional loan Oct 5. Circle (CRCL) co-founder CFO departed Sep 25 — governance shock. SOFI SoFiUSD Mastercard stablecoin launched Sep 22. SpaceX Starship Flight 14 orbital milestone Sep 28 — first operational Starlink payload deployed. IONQ Elisity cybersecurity acquisition flagged.
 
-### Key catalysts (5 Oct – 12 Oct 2026)
-- **TSMC Q3 2026 BEAT** (Oct 15 earnings call) — revenue $46.71B vs guidance $44.6-45.8B, +50% YoY; record quarterly revenue; AI HPC confirmed as structural driver; TSM $473→$510
-- **Constellation–Google 890MW nuclear PPA** (announced ~Oct 6) — Constellation signed PPA with Google for 890MW from uprates across 11 reactors; fourth hyperscaler contracted; CEG $277→$310 (+12%)
-- **White House reactor acceleration** — reports of executive action to speed nuclear reactor development; nuclear sector broad rally; VST +10%, CCJ recovered, OKLO +8%
-- **GEV Q2 BEAT** — orders +88% YoY to $24.2B (record), backlog $176B (record), FY guidance raised to $45.5-46.5B revenue; Q3 earnings Oct 28; GEV $912→$980
-- **PLTR Q3 RECOVERY** — +60% recovery in Q3 from H1 lows; closed Oct 1 at $190.04; Q3 earnings Nov 2; PLTR $168→$190
-- **Anthropic IPO developments** — pre-IPO Investor Day at SF HQ Oct 14; Bloomberg reports mid-November Nasdaq listing; Reuters early S-1 look targets $2T valuation
-- **BWXT $1.5B DUECE contract** (from prior week, reinforced) — DOE NNSA HALEU centrifuge pilot; BWXT $157→$162
-- **CRCL double leadership shock** (Sep 25, from prior week) — CFO + co-founder departed same day as Tazapay acquisition; CRCL recovering to $85 from $82 lows
-- **VZ ex-div Oct 9** — passed; Q4 2026 payout incoming
-- **Aviva payment Oct 15** — income payment this week for shareholders on record post-Sep 3 ex-div
-- **BATS payment Nov 6** — confirmed; ex-div Oct 1 captured; next ex-div early 2027
+### Key additions / changes
+- **CBRS** (Cerebras Systems) — Added to AI & Compute; CS-4 fastest AI accelerator; IPO'd May 14 2026 at $185; backlog $25.4B
+- **CRCL (Circle)**: CFO + co-founder departure Sep 25 (governance shock); stock fell to ~$82 lows before partial recovery; USDC $77B intact
+- **VST**: DOE $4.2B conditional loan for nuclear uprates Oct 5 announced
+- **CEG**: Google PPA 890 MW across 11 reactor uprates signed Oct 2026
+- **SOFI**: SoFiUSD Mastercard stablecoin settlement service launched Sep 22
+- **RKLB**: Neutron delay to 2027 due to carbon-composite structural issues confirmed
 
-### Price changes (Oct 5 → Oct 12)
-| Stock | Prev | New | Note |
-|-------|------|-----|------|
-| TSM | $473 | $510 | Q3 2026 BEAT: $46.71B revenue +50% YoY, record |
-| NVDA | $208 | $230 | Sector recovery; TSMC Q3 beat positive read-through |
-| AVBO | $355 | $362 | Sector recovery; FY2027/FY2028 AI semis targets intact |
-| AMD | $535 | $540 | Sector recovery; MI400 deliveries ongoing |
-| MRVL | $272 | $275 | UBS raised PT to $350 post-Investor Day |
-| GEV | $912 | $980 | Q2 BEAT — orders +88%, backlog $176B; FY guidance raised |
-| CEG | $277 | $310 | Google 890MW nuclear PPA — +12%; fourth hyperscaler |
-| VST | $137 | $144 | Nuclear sector rally; White House reactor signals |
-| CCJ | $97 | $100 | Nuclear sector rally |
-| OKLO | $40 | $38 | Nuclear sector rally but ATM dilution ongoing drag |
-| PLTR | $168 | $190 | Q3 +60% recovery; closed Oct 1 at $190.04 |
-| FSLR | $175 | $178 | Slight recovery; Goldman Buy PT $272; Q3 earnings Oct 29 |
-| ENPH | $36 | $33 | Budget bill ITC risk weighs; European resi solar soft |
-| SEDG | $34 | $32 | Solar sector continues lower; Dec 4 MIP catalyst intact |
-| COIN | $175 | $179 | Slight uptick; crypto market stable post-FOMC |
-| HOOD | $104 | $114 | Recovery from FOMC-shock lows; retail trading stabilising |
-| CRCL | $82 | $85 | Recovering from Sep 25 leadership shock lows |
-
-### ETF price changes (Oct 5 → Oct 12)
-| Ticker | Prev | New | Note |
-|--------|------|-----|------|
-| SMH | $560 | $590 | Semiconductor sector recovery on TSMC Q3 beat |
-| BOTZ | $35 | $37 | PLTR recovery lifts AI/robotics basket |
-| URA | $56 | $60 | Nuclear sector rally — Constellation–Google PPA + White House |
-| NLR | $103 | $115 | Nuclear utilities rally on same catalysts |
-| LIT | $77 | $78 | Lithium cycle recovery holding |
-| ITA | $233 | $238 | Defence sector lift; Barclays Overweight on aerospace/defence |
-| UFO | $42 | $44 | Space sector recovery continues |
-| QTUM | $148 | $145 | Slight pullback; quantum fundamentals strengthening |
-| FINX | $26 | $27 | Fintech recovery; COIN/HOOD/CRCL all nudged up |
-| XBI | $154 | $155 | Broadly flat; rate environment still a headwind |
-| IBB | $211 | $212 | Large-cap biopharma stable |
-| ICLN | $18 | $18 | Solar sector flat — rate headwinds vs Dec 4 MIP anticipation |
+### ETF prices updated (~19 Oct 2026)
+SMH $580 · BOTZ $36 · URA $55 · NLR $108 · ICLN $17 · LIT $78 · ITA $240 · UFO $42 · QTUM $120 · FINX $28 · XBI $155 · IBB $212
 
 ---
 
-## 2026-10-05 — Weekly Research Refresh
+## 2026-10-05 — Weekly research refresh
 
 ### Summary
-All stock prices, ETF prices, dividend data, and IPO pipeline refreshed to ~5 Oct 2026. **STARSHIP FLIGHT 14 REACHED ORBIT (Sep 28)**: Starship performed its first-ever orbital insertion burn, deployed all 26 Starlink V3 satellites at 275km altitude — all 26 contacted; ~6 orbits over ~10 hours before Pacific splashdown. The decisive operational milestone for Starship's commercial viability. SPCX $160→$165. **TSMC MEGA-RALLY**: TSMC rallied to $473 from $404 ahead of Q3 2026 earnings Oct 15 — company raised 2026 USD revenue growth guidance to >40% (from >30%); Q3 guided at $44.6-45.8B with gross margin 65-67%. **MRVL RALLIED**: Investor Day Oct 6 confirmed FY2028 revenue target ~$18B; stock $244→$272. **RKLB MULTI-CATALYST WEEK**: ARK Invest bought $16.5M worth of RKLB (Oct 1, rotating PLTR proceeds); Citi initiated new Buy coverage with PT $105 = ~40% upside; 20-launch Synspective SAR constellation agreement (2028-2031, largest commercial Electron deal ever, total 47 bookings, backlog >100 missions); Oct 2 Falcon 9 rideshare +7%. RKLB $74→$75. **BWXT $1.5B DUECE CONTRACT**: BWX Technologies received $1.5B DOE NNSA contract to build the Domestic Uranium Enrichment Centrifuge Experiment (DUECE) HALEU pilot plant in Tennessee — significant new revenue stream alongside Navy propulsion monopoly; also adds a competitive monitoring note for LEU holders; BWXT $157→$162. **FLNC CORRECTED MISSING CATALYST**: Fluence Energy was named Nvidia's EXCLUSIVE energy storage partner for AI factory projects (May 2026, stock surged +30% then +60% over two days) — this key catalyst was previously missing from the dashboard note; thesis now correctly updated; FLNC $15→$16. **CEG RECOVERY**: Constellation Energy recovered to $277 from $256 lows as the worst of rate-shock pressure on utilities partially eased; analyst Buy PT $520 = ~88% upside. **VST CONTINUED EASING**: Vistra eased further to $137 from $148 — rate environment; Meta 20-yr PPA intact. **PLTR EASED**: ARK sold PLTR shares Oct 1, rotating into RKLB; PLTR $177→$168; DA Davidson PT $250 intact. **NVDA consolidated**: $215→$208; Q3 FY2027 guidance $54B intact; Q3 earnings Nov 19. **Anthropic S-1 timeline slipped**: Sep 28 public S-1 window passed without action; public S-1 now expected November 2026; Nasdaq listing targeting November–December 2026 (slipped from Oct–Nov). **VZ DIVIDEND RAISED**: 19th consecutive annual dividend increase (Sep 2026); yield now ~6.7% on the higher payout. **MO confirmed**: $1.11/quarter ($4.44 annualised = 61st consecutive year of increases); stock ~$70, yield ~6.4%. **BATS ex-div Oct 1 PASSED**: dividend captured; next ex-div early 2027. **Realty Income ex-div Sep 30 passed**: yield compressed slightly to ~5.7%.
+Universe at 54 stocks (added HOOD, PYPL, XNDU, IQMX, CBRS). Anthropic Investor Day Oct 14 scheduled. Nuclear sector spike Oct 6: Google–CEG nuclear PPA triggering +10-15% moves across CEG, OKLO, NLR, URA. BWXT $1.5B DUECE DOE contract. IONQ double-events flagged (Elisity + $2B offering). Kraken IPO pushed to 2027.
 
-### Key catalysts (28 Sep – 5 Oct 2026)
-- **Starship Flight 14 REACHED ORBIT** (Sep 28) — first orbital Starship mission; 26 Starlink V3 satellites deployed at 275km; all 26 contacted; ~6 orbits; Pacific splashdown; SPCX +rally to $165; Oppenheimer PT $280
-- **TSMC 2026 guidance raised to >40% USD growth** — Q3 2026 earnings Oct 15 is the next major sector catalyst (quiet period Oct 5-14); Q3 guided $44.6-45.8B, GM 65-67%; TSM $404→$473
-- **MRVL Investor Day Oct 6** — FY2028 revenue target ~$18B confirmed; MRVL $244→$272
-- **RKLB ARK buy + Citi Buy coverage + Synspective** (Oct 1-2) — ARK bought $16.5M; Citi initiated Buy PT $105; 20-launch Synspective deal (largest commercial Electron deal ever); Oct 2 Falcon 9 +7%
-- **BWXT $1.5B DUECE DOE contract** — DOE NNSA HALEU centrifuge pilot plant in Tennessee; major new government revenue stream; also creates a potential future LEU competitor (monitor)
-- **FLNC Nvidia exclusive partnership** (corrected May 2026 catalyst) — named Nvidia's exclusive energy storage partner for AI factory projects; +30-60% surge at the time; now correctly reflected in dashboard
-- **CEG recovered to $277** from $256 lows — rate-pressure partial relief; analyst Buy PT $520 intact
-- **VST continued to $137** from $148 — rate environment; Meta 20-yr PPA intact; analyst PT $230
-- **PLTR ARK rotation** (Oct 1) — ARK sold PLTR, bought RKLB; PLTR $177→$168; creating near-term momentum headwind
-- **Anthropic S-1 slipped** — Sep 28 public S-1 window passed; now November public S-1; Nov-Dec Nasdaq listing target
-- **VZ dividend raised** 19th consecutive year — yield now ~6.7%; 6th consecutive quarterly earnings beat
-- **BATS ex-div Oct 1** — passed; quarterly dividend captured; next ex-div early 2027
-
-### Price changes (Sep 28 → Oct 5)
-| Stock | Prev | New | Note |
-|-------|------|-----|------|
-| TSM | $404 | $473 | 2026 revenue growth guidance raised >40%; Q3 earnings Oct 15 |
-| MRVL | $244 | $272 | Investor Day Oct 6 confirmed FY2028 ~$18B |
-| RKLB | $74 | $75 | ARK $16.5M buy; Citi Buy PT $105; Synspective 20-launch deal; +7% Oct 2 rideshare |
-| BWXT | $157 | $162 | $1.5B DOE DUECE HALEU centrifuge contract |
-| SPCX | $160 | $165 | Starship Flight 14 REACHED ORBIT Sep 28 |
-| CEG | $256 | $277 | Recovery from rate-shock lows |
-| VST | $148 | $137 | Continued rate-environment easing |
-| PLTR | $177 | $168 | ARK sold Oct 1 (rotated to RKLB) |
-| NVDA | $215 | $208 | Semiconductor sector consolidation |
-| FLNC | $15 | $16 | Corrected missing Nvidia exclusive partnership catalyst |
-| LEU | $200 | $205 | Slight recovery; BWXT DUECE competitive watch noted |
-| CCJ | $102 | $97 | Slight easing ahead of Q3 earnings Oct 30 |
-| OKLO | $41 | $40 | Goldman ATM dilution watch ongoing |
-| CRDO | $100 | $105 | Slight recovery from correction lows |
-| GEV | $924 | $912 | Broader industrial sector digestion |
-| AMD | $549 | $535 | Semiconductor sector consolidation |
-| AVBO | $354 | $355 | Stable; Anthropic chip deal reports |
-| FSLR | $172 | $175 | Marginal recovery; Keybanc upgrade Sep 28 |
-
-### ETF price changes (Sep 28 → Oct 5)
-| Ticker | Prev | New | Note |
-|--------|------|-----|------|
-| SMH | $583 | $560 | Semiconductor sector consolidation despite TSMC/MRVL rallies |
-| BOTZ | $40 | $35 | AI/robotics sector digestion |
-| URA | $49 | $56 | Uranium sector recovery |
-| NLR | $123 | $103 | Nuclear utilities sector easing |
-| ICLN | $20 | $18 | Solar sector continued rout |
-| LIT | $65 | $77 | Lithium cycle recovery; EV demand signals |
-| ITA | $280 | $233 | Defence sector prime-contractor digestion |
-| UFO | $54 | $42 | Space ETF composition drag despite individual stock rallies |
-| QTUM | $167 | $148 | Quantum basket easing from IONQ rally highs |
-| FINX | $28 | $26 | Fintech sector digestion |
-| XBI | $165 | $154 | Small/mid-cap biotech rate-sensitive |
-| IBB | $198 | $211 | Large-cap biopharma stable/slight recovery |
-
-### Dividend/yield changes (Sep 28 → Oct 5)
-| Name | Prev yield | New yield | Reason |
-|------|-----------|----------|--------|
-| Realty Income (O) | ~5.9% | ~5.7% | Share price slight recovery from Sep lows |
-| Verizon (VZ) | ~5.4% | ~6.7% | DIVIDEND RAISED — 19th consecutive annual increase |
-| Altria (MO) | ~6.2% | ~6.4% | Confirmed $1.11/quarter; stock ~$70 |
-| BATS | ~5.8% | ~5.8% | Ex-div Oct 1 passed; yield stable |
-
-### IPO pipeline changes
-| Name | Prev status | New status | Note |
-|------|-------------|------------|------|
-| Anthropic | S-1 imminent (Sep 28 last day of window) | S-1 confidential; public S-1 expected Nov 2026 | Sep 28 window passed; Nov-Dec 2026 Nasdaq listing now targeted; ARR >$65B; $1.05-1.15T secondary-implied unchanged |
+### Key price moves (Oct 5)
+- **CEG** recovered to ~$295 from ~$237 — Google PPA Oct 14 spike
+- **OKLO** recovered to ~$32 — DOE Nuclear Energy Launch Pad
+- **CCJ** $80.93 — uranium sector strength
+- **BWXT** recovered to ~$162 — $1.5B DUECE contract
 
 ---
 
-## 2026-09-28 — Weekly Research Refresh
+## 2026-09-28 — Weekly research refresh
 
 ### Summary
-All stock prices, ETF prices, dividend data, and IPO pipeline refreshed to ~28 Sep 2026. **WEEK'S BIGGEST CATALYST — IONQ QUANTUM BREAKTHROUGH (Sep 22)**: IonQ announced the industry's first end-to-end real-time quantum error correction decoder running on a single standard CPU — 408 logical qubits corrected in real time without added latency. Stock +7% after-hours, then +11% next session; triggered sector-wide buying across RGTI (+6%), QBTS (+4%), QNT, QUBT (+3%). Second milestone in two weeks (Superion 256 launched Sep 8). FY2026 guidance $450-460M intact; Jefferies PT $80. **Space sector rally (Sep 24)**: broad space rally — RKLB +6% to $74, ASTS +4% to $62, SPCX +$160; Pentagon confirmed Space Force operating orbital weapons for Golden Dome. **Starship Flight 14 TODAY (Sep 28)**: first orbital launch attempt with 26 Starlink V3 satellites, 75-minute window 7:15am CT. **RKLB GAO clarification**: the lost contract at issue is the NASA Mars TELECOMMUNICATIONS NETWORK contract (a comms relay orbiter), NOT Mars Sample Return — Blue Origin must halt all work via auto-stay through mid-December 2026 GAO decision. **Solar sector extended rout (Sep 22-26)**: FSLR hit a fresh 52-week low at $172 on Sep 24 (fell 10%+ in a single session); SEDG $34, ENPH $36, ICLN ETF $20. Elevated borrowing costs (3.75-4% fed funds) continue to pressure utility-scale solar project financing. Section 232 MIP effective Dec 4 thesis structurally unchanged. **CRCL double leadership shock (Sep 25)**: CFO Jeremy Fox-Geen stepped down with immediate effect AND co-founder P. Sean Neville resigned from the board — both on the same day as the Tazapay $400M all-stock acquisition announcement (Singapore B2B cross-border payments, $25B+ annualised payment volume). Governance overhang; CRCL $85→$82. **SOFI Mastercard stablecoin (Sep 22)**: SoFiUSD stablecoin settlement service launched via Mastercard partnership; stock +5% to $18. **Anthropic S-1 imminent**: today (Sep 28) is the last day of the "late September" filing window; institutional roadshow mid-October; Nasdaq listing targeting Oct–Nov 2026; ARR >$65B; secondary-implied valuation $1.05-1.15T. **DIV corrections**: BATS yield corrected from 7.5% (yield trap warning in prior refresh) back to ~5.8% — share price has recovered; BATS ex-div Oct 1 is THIS WEEK. Realty Income ex-div Sep 30 is in TWO DAYS. LGEN Sep 25 payment confirmed paid; yield compressed to ~7.0%.
+Universe grew from 50 to 54 stocks (added CBRS, NTRA, HOOD, PYPL). Starship Flight 14 orbital milestone Sep 28. CLARITY Act signed Sep 3 — crypto regulatory clarity landmark. KRMN Walker Precision Engineering acquisition completed Sep 1. Section 232 MIP signed Aug 6, effective Dec 4. Anthropic confidential S-1 filed Jun 1 — Oct 2026 Nasdaq target.
 
-### Key catalysts (21–28 Sep 2026)
-- **IONQ quantum error correction breakthrough** (Sep 22) — industry's first real-time quantum error correction decoder on a single CPU; 408 logical qubits; stock +11%; RGTI +6%, QBTS +4%, QNT and QUBT also lifted; two milestones in two weeks
-- **Space sector rally** (Sep 24) — broad sector move; RKLB +6% to $74, ASTS +4% to $62, SPCX to $160; Pentagon confirms Space Force operating orbital weapons for Golden Dome
-- **Starship Flight 14 orbital launch** (Sep 28, TODAY) — 75-min window from 7:15am CT; 26 Starlink V3 satellites; 275km altitude; ~6 orbits; booster and ship splashdowns (no catch); Pacific splashdown west of Chile
-- **FSLR fresh 52-week low** (Sep 24) — fell 10%+ in a single session to $172; extended solar rout on elevated borrowing cost narrative; Wells Fargo PT $320 = ~86% upside; Section 232 MIP Dec 4 unchanged
-- **CRCL double leadership departure** (Sep 25) — CFO Fox-Geen + co-founder Neville resigned same day as Tazapay $400M all-stock acquisition; governance overhang; $82 from $85
-- **SoFiUSD Mastercard stablecoin** (Sep 22) — instant digital dollar settlement over Mastercard network; SOFI +5% to $18; product diversification into stablecoin infrastructure
-- **Anthropic S-1 imminent** — today is last day of "late September" window; October roadshow; Nasdaq listing Oct–Nov 2026; ARR >$65B; $1.05-1.15T secondary-implied valuation
-- **BATS ex-div Oct 1** — yield corrected to ~5.8% (share price recovered from yield-trap levels); ex-div THIS WEEK
-- **Realty Income ex-div Sep 30** — monthly payer; ex-div in two days
+### Key additions
+- **NTRA** (Natera) — Frontier biotech / liquid biopsy; Signatera MRD test; Q2 beat; Japan PMDA approval
+- **HOOD** (Robinhood) — Fintech; Q2 EPS $0.62 beat; 56.65% EBITDA margin
+- **PYPL** (PayPal) — Fintech; PYUSD/GENIUS Act; Fastlane 1-click checkout
 
-### Price changes (Sep 21 → Sep 28)
-| Stock | Prev | New | Note |
-|-------|------|-----|------|
-| IONQ | $40 | $43 | Quantum error correction breakthrough Sep 22 (+11% next session) |
-| RGTI | $16 | $17 | Sector rally on IONQ news (+6%) |
-| QBTS | $18 | $19 | Sector rally on IONQ news (+4%) |
-| QNT | $52 | $54 | Sector rally on IONQ news |
-| QUBT | $9.00 | $9.50 | Sector rally on IONQ news (+3%) |
-| RKLB | $64 | $74 | Space sector rally Sep 24 (+6%); SBI programme; GAO auto-stay on NASA Mars Telecom Network contract |
-| ASTS | $59 | $62 | Space sector rally Sep 24 (+4%); Berenberg $1T space economy report |
-| SPCX | $151 | $160 | Space sector rally; Starship Flight 14 orbital launch TODAY |
-| FSLR | $203 | $172 | FRESH 52-WEEK LOW Sep 24; solar rout extended; elevated borrowing costs |
-| SEDG | $36 | $34 | Solar rout extended Sep 22-26 |
-| ENPH | $37 | $36 | Solar rout extended |
-| CEG | $278 | $256 | Persistent FOMC rate sensitivity; TMI NRC licence still May 2027 |
-| VST | $153 | $148 | Power/nuclear sector digestion continues |
-| CRCL | $85 | $82 | Double leadership departure Sep 25 (CFO + co-founder) + Tazapay acquisition |
-| SOFI | $17.14 | $18 | SoFiUSD Mastercard stablecoin launch Sep 22 (+5%) |
-| NVDA | $222 | $215 | Semiconductor sector digestion Sep 22-26 |
-| AMD | $560 | $549 | Semiconductor sector digestion |
-| AVGO | $349 | $354 | Recovery from Sep 21 ex-dividend adjustment |
-| AFRM | $70 | $68 | Higher-for-longer rate environment weighing on BNPL |
-| ICLN (ETF) | $22 | $20 | Solar rout; FSLR, SEDG, ENPH all lower |
-| QTUM (ETF) | $163 | $167 | Quantum sector surge on IONQ breakthrough |
-| UFO (ETF) | $53 | $54 | Space sector rally Sep 24 |
-| ITA (ETF) | $278 | $280 | Defence sector steady; Golden Dome orbital weapons confirmation |
-| FINX (ETF) | $29 | $28 | CRCL governance shock; AFRM/AFRM easing |
-
-### Dividend/yield changes (Sep 21 → Sep 28)
-| Name | Prev yield | New yield | Reason |
-|------|-----------|----------|--------|
-| BATS | ~7.5% | ~5.8% | Share price recovered; prior 7.5% was yield-trap expansion; ex-div Oct 1 THIS WEEK |
-| LGEN | ~7.7% | ~7.0% | Sep 25 dividend paid; slight share price recovery |
-
-### IPO pipeline changes
-| Name | Prev status | New status | Note |
-|------|-------------|------------|------|
-| Anthropic | S-1 expected late Sep | S-1 IMMINENT (today is last day of window) | Oct roadshow; Oct–Nov Nasdaq listing; ARR >$65B; $1.05-1.15T secondary-implied |
+### Key events
+- **CLARITY Act signed Sep 3** — landmark US crypto/stablecoin regulation
+- **Starship Flight 14 orbital Sep 28** — first operational Starlink V3 payload deployed
+- **KRMN Walker Precision acquisition Sep 1** — European missile/guidance components
+- **MO Q3 2026**: 61st consecutive annual dividend increase confirmed
 
 ---
 
-## 2026-09-21 — Weekly Research Refresh
+## 2026-09-07 — Weekly research refresh
 
 ### Summary
-All stock prices, ETF prices, dividend data, and IPO pipeline refreshed to ~21 Sep 2026. **MACRO — CONFIRMED FOMC HIKE**: Federal Reserve hiked 25bp to 3.75–4.00% on Sep 16, 2026 — unanimous 12-0 vote, first hike since 2023. Markets read the unanimous vote as a "one and done" signal, triggering a risk-on rotation into high-beta tech and semis Sep 17–18. Net effect: semiconductors surged, solar sold off, rate-sensitive fintech fell. **Semiconductor rebound**: **AMD** $450→$560 (biggest beneficiary of risk-on rotation); **MRVL** $215→$244 (reclaimed prior dip); **NVDA** $218→$222; **SMH** ETF $568→$583. **Solar selloff**: **FSLR** $249→$203 (FOMC rate sensitivity + ITC/PTC tax credit uncertainty in budget reconciliation); **ENPH** $50→$37; **SEDG** $58→$36; **ICLN** ETF $25→$22. **Nuclear/energy**: FOMC "peak-hike" narrative drove nuclear sector rotation — **CCJ** $97→$102, **OKLO** $37→$41; however **CEG** $295→$278 (dual pressure: FOMC rate sensitivity on utilities + NRC operating licence extension now May 2027 = first electricity late 2027, not the earlier horizon). **Bloom Energy**: **BE** $232→$266 — class action lawsuit filed Sep 17 alleging misleading statements on Chinese scandium supply chain sourcing; stock initially rose to ~$281 then fell -5.4%, but still well above $195 pre-Q2 level. **Space**: **Starship Flight 14** delayed from Sep 18 → **Sep 28** (first orbital mission with Starlink V3 deployment); SPCX broadly flat at $151. **RKLB**: New catalyst — selected for **Space Based Interceptor (SBI) programme** alongside Raytheon; separately, GAO automatic stay on NASA Mars Sample Return contract protest means **Blue Origin must halt Mars work** until GAO decision (mid-December 2026 deadline). **Fintech post-FOMC**: rate-sensitive names fell — **HOOD** $113→$104, **CRCL** $91→$85, **AFRM** $71→$70, **SOFI** $17.30→$17.14; **FINX** ETF $31→$29. **AVGO ex-div**: went ex-dividend $0.65/share today Sep 21 — price at $349 reflects the natural adjustment. **IPO pipeline**: **Anthropic** valuation corrected — secondary market implies ~$1.05–1.15T (not $2T which was aspirational ceiling); public S-1 expected late September 2026; institutional roadshow mid-October; ARR >$65B annualised confirmed. **Anduril** valuation updated $38-40B → **$60B** (raised $4B at $60B valuation March 2026). **OpenAI** 2027 confirmed — CFO Friar Aug 19 statement definitive; September window definitively passed. **DIV section**: Realty Income yield widened to ~5.9% (FOMC hike pushed bond yields higher, compressing the share price); AT&T yield edged up to ~4.5%; LGEN Sep 25 payment this week (if held pre-ex-div).
+Universe at 50 stocks. Bloom Energy Q2 BEAT (revenue $1.07B +166% YoY, EPS $0.78 vs $0.41 est; FY guidance raised to $3.9–4.2B). Affinity Q4 FY2026 MASSIVE BEAT (EPS $4.62 vs $0.85). IONQ Superion 256-qubit Sep 8; real-time error correction decoder Sep 22. RGTI 100x speedup milestone Sep 2.
 
-### Key catalysts (14–21 Sep 2026)
-- **FOMC confirmed 25bp hike** (Sep 16) — unanimous 12-0 vote; fed funds rate now 3.75–4.00%; first hike since 2023; markets read as "one and done" = risk-on for high-beta tech Sep 17–18
-- **Solar sector selloff** (Sep 10–17) — FOMC rate sensitivity + ITC/PTC tax credit uncertainty in US budget reconciliation; FSLR $249→$203, ENPH $50→$37, SEDG $58→$36
-- **AMD semiconductor surge** — $450→$560 (+24%); one of the biggest weekly moves in the watchlist; sector risk-on rotation post-FOMC
-- **Starship Flight 14 delayed** — Sep 18 window scrubbed; new target Sep 28 (first orbital Starlink V3 mission); SPCX held flat
-- **RKLB Space Based Interceptor** — selected for SBI programme with Raytheon; new significant defence credential; GAO auto-stay on NASA Mars protest = Blue Origin must halt work; mid-Dec decision deadline
-- **BE class action** — Bloom Energy sued Sep 17 over Chinese scandium supply chain sourcing allegations; stock spiked then fell -5.4%; net still above pre-Q2 $195
-- **CEG dual headwind** — FOMC utility rate sensitivity + NRC TMI operating licence now May 2027 (first electricity late 2027); $295→$278
-- **AVGO ex-dividend** — $0.65/share ex-div Sep 21 (TODAY); price at $349 reflects adjustment
-- **Anthropic IPO valuation reset** — secondary market implies $1.05–1.15T (not $2T aspirational ceiling); S-1 expected late September; roadshow mid-October
-- **Anduril valuation** — raised $4B at $60B valuation March 2026 (was $38-40B); IPO bar raised
-
-### Price changes (Sep 14 → Sep 21)
-| Stock | Prev | New | Note |
-|-------|------|-----|------|
-| AMD | $450 | $560 | FOMC risk-on rotation; semiconductor sector rebound |
-| MRVL | $215 | $244 | Sector rebound; reclaimed prior dip |
-| NVDA | $218 | $222 | Modest recovery; semiconductor sector |
-| AVGO | $365 | $349 | Ex-dividend $0.65 today Sep 21 |
-| FSLR | $249 | $203 | Solar selloff: FOMC hike + ITC/PTC uncertainty |
-| ENPH | $50 | $37 | Solar selloff |
-| SEDG | $58 | $36 | Solar selloff |
-| BE | $232 | $266 | Class action Sep 17 (scandium); spiked→fell -5.4% |
-| CCJ | $97 | $102 | Nuclear rotation post-FOMC peak-hike |
-| OKLO | $37 | $41 | Nuclear rotation |
-| CEG | $295 | $278 | FOMC rate sensitivity + NRC TMI licence May 2027 |
-| PLTR | $167 | $177 | Sector momentum post-FOMC |
-| ASTS | $63 | $59 | Profit-taking after Cantor PT raise |
-| IONQ | $38 | $40 | Quantum sector recovery post-FOMC |
-| CRCL | $91 | $85 | FOMC hike confirmed; risk-off fintech |
-| AFRM | $71 | $70 | FOMC rate hike cost-of-capital overhang |
-| SOFI | $17.30 | $17.14 | FOMC sentiment |
-| HOOD | $113 | $104 | FOMC hike cools retail/crypto trading sentiment |
-| SMH (ETF) | $568 | $583 | Semiconductor rebound |
-| URA (ETF) | $46 | $49 | Nuclear rotation |
-| NLR (ETF) | $118 | $123 | Nuclear rotation |
-| ICLN (ETF) | $25 | $22 | Solar selloff |
-| QTUM (ETF) | $158 | $163 | Quantum/tech recovery |
-| FINX (ETF) | $31 | $29 | FOMC fintech headwind |
-
-### Dividend/yield changes (Sep 14 → Sep 21)
-| Name | Prev yield | New yield | Reason |
-|------|-----------|----------|--------|
-| Realty Income (O) | ~5.5% | ~5.9% | FOMC confirmed hike pushed bond yields higher, compressing REIT price |
-| AT&T (T) | ~4.3% | ~4.5% | Slight share price pressure post-FOMC |
-| Verizon (VZ) | ~5.5% | ~5.4% | Broadly stable; telecoms less rate-sensitive than REITs |
-
-### IPO pipeline changes
-| Name | Prev val | New val/status | Note |
-|------|----------|----------------|------|
-| Anthropic | $2T targeted | $1.05–1.15T secondary-implied | $2T was aspirational ceiling; secondary market implies $1.05-1.15T; S-1 late Sep; roadshow mid-Oct |
-| Anduril | $38-40B | $60B | Raised $4B at $60B in March 2026 |
-| OpenAI | 2027 targeted | 2027 confirmed | CFO Friar Aug 19 statement — September window definitively passed |
-
-## 2026-09-14 — Weekly Research Refresh
-
-### Summary
-All stock prices, ETF prices, and dividend data refreshed to ~14 Sep 2026. **MACRO**: FOMC Sep 15–16 meeting with 85% market probability of a 25bp rate hike — the dominant near-term risk-off driver for rate-sensitive names (CRCL, SOFI, AFRM, Realty Income). **Quantum**: landmark week — $300M CHIPS Act DoC grants awarded Sep 9 ($100M each: RGTI +7.4%, QBTS +5.4%, QNT +3.9%); **IONQ** launched Superion 256 (industry's most powerful commercial quantum processor) at investor day Sep 8 AND raised FY2026 guidance from $285M → $450–460M (+60%); market sold off Sep 9 despite transformational news. **Semiconductor sector**: correction week — **SMH** $670→$568 (confirmed $568.49); **NVDA** $230→$218 (confirmed $218.29); **AVGO** $385→$365 (confirmed $364.91; ex-div $0.65 Sep 21); **GEV** $942→$924 (confirmed $923.91). **Defence & Space**: **RKLB** bounced $60→$64 after losing NASA $700M Mars contract to Blue Origin — filed GAO protest; Deutsche Bank raised PT to $73; **SPCX** $148→$151 (confirmed $151.21; Starship Flight 14 window now Sep 18); **AVAV** $193→$185 (BofA PT lowered to $185; RBC Hold); **PLTR** $174→$167 (confirmed $167.39; DA Davidson raised PT to $250). **Solar**: **FSLR** recalibrated $305→$249 (prior $305 was post-MIP intraday spike; market ~$248.88; Wells Fargo $320 PT = ~28% upside; Section 232 MIP thesis intact); **SEDG** $57→$58 (investor day Sep 10: $2.4B 2029 revenue target; -4% initial reaction then bounce); **ENPH** $45→$50 (SST modules Texas production Sep 8 = +5%); **OKLO** $40→$37 (Goldman Sachs ATM equity distribution agreement Sep 11 = dilutive). **Uranium**: **CCJ** $100→$97; uranium spot still soft ~$81/lb. **Fintech/Crypto**: **COIN** $165→$175 (confirmed ~$175; momentum continues); **HOOD** $104→$113 (Sep 13-14 range $111-116; crypto/regulatory rally); **CRCL** $103→$91 (confirmed $90.80; CLARITY Act profit-taking + FOMC fears). **SOFI** $17→$17.30 (confirmed Sep 13; FOMC cap). **AFRM** flat at $71.18 Sep 14. **IPO pipeline**: **Anthropic** ARR raised >$65B (from ~$47B); investor roadshow confirmed October 2026; price-setting imminent. **DIV section**: BATS yield jumped ~5.8%→~7.5% (yield trap warning — share price decline implied; verify dividend security before adding); Realty Income yield ~4.9%→~5.5% (price fell on rate-hike fears; annual dividend ~$3.25/sh); VZ compressed ~5.9%→~5.5% (price-rise-driven); AT&T compressed ~5.6%→~4.3% (post-restructure re-rating); Altria RAISED quarterly dividend $1.06→$1.11/sh (ex-div TODAY Sep 15); LGEN yield ~7.7% (search-confirmed 7.66%; Sep 25 payment imminent); Aviva compressed ~7%→~5.5% (went ex-div Sep 3; normal post-ex-div price recovery). **Quantum additions**: **RGTI** thesis updated to note CHIPS Act grant; **QBTS** updated; **QNT** updated. **Biotech stable**: ERAS $16 broadly flat; NTRA $315; RXRX $3.05.
-
-### Key catalysts (8–14 Sep 2026)
-- **IONQ Superion 256** — investor day Sep 8: launched industry's most powerful commercial quantum processor; FY2026 guidance raised $285M → $450–460M (+60%); Sep 9 -5.8% on analyst margin concern despite landmark news; Jefferies maintained PT $80
-- **CHIPS Act $300M quantum grants** (Sep 9) — $100M each to RGTI (+7.4%), QBTS (+5.4%), QNT (+3.9%); first major US government hardware grants to quantum computing sector
-- **RKLB NASA Mars contract** — lost ~$700M Mars Sample Return contract to Blue Origin; filed GAO bid protest (100-day review); Deutsche Bank raised PT to $73 despite news
-- **ENPH SST modules** — solid-state transformer module Texas production started Sep 8; +5% catalyst; SEDG investor day Sep 10 sets $2.4B 2029 revenue target
-- **OKLO Goldman ATM** — ATM equity distribution agreement with Goldman Sachs announced Sep 11; dilutive; shares fell ~7.5% to ~$37
-- **Altria dividend raise** — quarterly payout raised from $1.06 → $1.11/share; ex-dividend date Sep 15, 2026 (today at time of refresh)
-- **AVGO ex-dividend Sep 21** — $0.65/share quarterly; note for income-focused holders
-- **FOMC Sep 15–16** — 85% market probability of 25bp rate hike; directly impacts: Realty Income (REIT), CRCL (interest income), SOFI (loan margins), AFRM (cost of capital), HOOD (risk appetite)
-- **Starship Flight 14** — window moved to Sep 18; binary catalyst for SPCX
-- **Anthropic IPO roadshow** — October 2026; ARR >$65B confirmed (from ~$47B); price-setting imminent
-
-### Price changes (Sep 7 → Sep 14)
-| Stock | Prev | New | Note |
-|-------|------|-----|------|
-| NVDA | $230 | $218 | Sector digestion; confirmed $218.29 Sep 13 |
-| AVGO | $385 | $365 | Confirmed $364.91 Sep 14; ex-div $0.65 Sep 21 |
-| GEV | $942 | $924 | Confirmed $923.91 Sep 14 |
-| PLTR | $174 | $167 | Confirmed $167.39 Sep 13; DA Davidson PT→$250 |
-| SPCX | $148 | $151 | Confirmed $151.21 Sep 13; Flight 14 now Sep 18 |
-| RKLB | $60 | $64 | Lost NASA Mars contract; GAO protest filed; DB PT $73 |
-| AVAV | $193 | $185 | BofA PT lowered to $185; RBC Hold |
-| IONQ | $42 | $38 | Superion 256 + 60% guidance raise; Sep 9 -5.8% |
-| RGTI | $13 | $16 | CHIPS Act $100M grant; +7.4% Sep 9 |
-| QBTS | $17 | $18 | CHIPS Act $100M grant; +5.4% Sep 9 |
-| QNT | $49 | $52 | CHIPS Act $100M grant; +3.9% Sep 9 |
-| QUBT | $8 | $9 | Quantum sector recovery |
-| FSLR | $305 | $249 | Recalibration — prior was intraday spike; market ~$248.88; MIP thesis intact |
-| ENPH | $45 | $50 | SST modules Texas production Sep 8 (+5%); verify live |
-| SEDG | $57 | $58 | Investor day Sep 10; $2.4B 2029 target; -4% then bounce |
-| CRCL | $103 | $91 | CLARITY Act profit-taking + FOMC fears; confirmed $90.80 |
-| COIN | $165 | $175 | Crypto momentum; confirmed ~$175 Sep 13 |
-| HOOD | $104 | $113 | Crypto/regulatory rally; Sep 13-14 range $111-116 |
-| SOFI | $17 | $17.30 | Confirmed $17.30 Sep 13; FOMC cap |
-| AFRM | $71 | $71 | Flat; confirmed $71.18 Sep 14 |
-| CCJ | $100 | $97 | Uranium spot still ~$81/lb |
-| OKLO | $40 | $37 | Goldman ATM dilutive agreement Sep 11 |
-| SMH (ETF) | $670 | $568 | Confirmed $568.49 Sep 13; sector correction |
-
-### Dividend/yield changes (Sep 7 → Sep 14)
-| Name | Prev yield | New yield | Reason |
-|------|-----------|----------|--------|
-| Realty Income (O) | ~4.9% | ~5.5% | Price fell on FOMC rate-hike fears |
-| Verizon (VZ) | ~5.9% | ~5.5% | Yield compression: stock +30% YTD |
-| AT&T (T) | ~5.6% | ~4.3% | Yield compression: post-restructure re-rating |
-| Altria (MO) | ~6.5% | ~6.2% | Dividend RAISED $1.06→$1.11/qtr (ex-div Sep 15) |
-| Legal & General (LGEN) | ~7.5% | ~7.7% | Confirmed 7.66%; Sep 25 payment imminent |
-| BATS | ~5.8% | ~7.5% | Yield trap warning — price declined materially; verify dividend security |
-| Aviva (AV.) | ~7% | ~5.5% | Went ex-div Sep 3; normal post-ex-div price recovery |
-
-## 2026-09-07 — Weekly Research Refresh
-
-### Summary
-All stock prices, ETF prices, and dividend data refreshed to ~7 Sep 2026. **AVGO** Q3 FY2026 beat (Sep 2): revenue $29.59B, AI revenue $16.7B +221% YoY, EPS $3.32, record FCF $13.7B; Q4 AI guide $21.7B +236% YoY; FY2027 AI semis $115B; mixed Q4 revenue guide ($34.8B vs $35.03B consensus) triggered partial sector pullback. **NVDA** digesting post-earnings at $230 (from $255); Hugging Face $12.93B acquisition announced; Q3 guidance $108B intact. **MRVL** ~$215 (~10% sector dip week Sep 2–6; 44 analysts Buy, avg PT $285). **CLARITY Act** signed Sep 3 — digital-asset market-structure legislation: **CRCL** +16.5% to $103; **COIN** +5% to $165; **HOOD** +further lift to $104. Sep 1 yield repricing hit rate-sensitive fintech: **AFRM** $96→$71, **SOFI** $19→$17. **IONQ** SkyWater Technology acquisition received final regulatory approval — now vertically integrated with in-house domestic chip fab. **RGTI** $16→$13 (down ~21% YTD) despite 100x speedup milestone Sep 2. **QBTS** $18→$17; **QNT** $50→$49 (bookings $81M YTD, Quanta Computer partnership). American Quantum Competitiveness Act advancing US House Sep 3. **Section 232 MIP** confirmed (signed Aug 6, effective Dec 4): **FSLR** $224→$305 (CdTe zero polysilicon = structural winner; Wells Fargo PT $320); **SEDG** $33→$57 (double catalyst: MIP + inverter import ban). **Uranium** spot softened to ~$81/lb (from $88-89/lb): **CCJ** $108→$100, **OKLO** $48→$40 (profit-taking post-milestones). **Nuclear utilities** easing: **GEV** $1,063→$942 (Rivian CFO appointed), **VST** $170→$153, **CEG** $300→$295, **BWXT** $206→$157. **Defence & Space**: **SPCX** $137→$148 (Starship Flight 14 targeting Sep 15); **RKLB** $64→$60 (Neutron 2027 slip risk per Sep 4 reporting; 94th Electron launch Sep 2); **ASTS** $58→$63 (Cantor PT $90; Q2 revenue $31.5M from $1.2M prior year); **KRMN** Walker Precision Engineering acquisition Sep 1; **PLTR** $186→$174. **Kraken** IPO: October 2026 target definitively off, pushed to Q2 2027 or later. **Anthropic** IPO: ARR ~$47B annualised, October Nasdaq listing still targeted, public S-1 expected imminently. **DIV section**: LGEN Sep 25 payment (GBX 6.24/sh) flagged; BATS new CFO Sep 1, ex-div Oct 1; Aviva ex-div Sep 3, payment Oct 15; HSBC yield compressed to ~3.7% (from ~5%) as stock has risen; VZ 6th consecutive earnings beat, +30% YTD; AT&T buyback focus noted; Realty Income 115th consecutive quarterly increase. **Three new DIV additions**: ENB (Enbridge, ~5.4% yield, 31-year streak, pipeline infrastructure), IMB (Imperial Brands, ~6% yield, Sep 30 payment imminent, LSE-listed no WHT), ABBV (AbbVie, ~3.3% yield, Dividend King 50+ consecutive increases, biopharma). DIV section now 17 names.
-
-### Key catalysts (1–7 Sep 2026)
-- **AVGO** Q3 FY2026 (Sep 2) — revenue $29.59B beat, AI revenue $16.7B +221% YoY beat, EPS $3.32, record FCF $13.7B; Q4 guide $34.8B (vs $35.03B consensus — slight miss); FY2027 AI semis $115B target; Citi PT $515
-- **CLARITY Act** signed Sep 3 — digital-asset market-structure legislation; CRCL +16.5%; COIN +5%; HOOD further lift
-- **Sep 1 yield repricing** — risk-off hit BNPL/rate-sensitive names: AFRM -26% to $71; SOFI -11% to $17
-- **IONQ** SkyWater Technology acquisition final regulatory approval granted — vertically integrated domestic chip fab
-- **RGTI** 100x quantum speedup milestone demonstrated Sep 2 (stock still -21% YTD)
-- **American Quantum Competitiveness Act** advancing in US House Sep 3
-- **Section 232 MIP** (signed Aug 6) taking effect Dec 4 — structural solar catalyst confirmed: FSLR $305, SEDG $57
-- **RKLB** Neutron launch window 2026 narrowing — 2027 slip possible per Sep 4 reporting; 94th Electron launch Sep 2
-- **ASTS** Cantor Fitzgerald raised PT to $90 (Sep 3); Q2 revenue $31.5M from $1.2M prior year
-- **KRMN** Walker Precision Engineering acquisition completed Sep 1 (European missile/guidance capabilities)
-- **Starship Flight 14** targeting Sep 15 — near-term SPCX binary catalyst
-- **Kraken** IPO October 2026 target definitively off — Q2 2027 or later now most likely
-
-### New additions
-- **ENB** (Enbridge, NYSE): Energy infrastructure pipelines, ~5.4% yield, 31-year consecutive annual dividend increase streak. Infrastructure toll-road model; Canadian domicile (WHT verification needed vs standard US W-8BEN). Risk: steady. Horizon: long.
-- **IMB** (Imperial Brands, LSE): Tobacco, ~6% yield, Sep 30 2026 payment imminent, LSE-listed (no UK withholding). Risk: steady. Horizon: long.
-- **ABBV** (AbbVie, NYSE): Healthcare biopharma, ~3.3% yield, Dividend King (50+ consecutive increases). Post-Humira diversification into Skyrizi/Rinvoq; FCF generative. Risk: safe-ish. Horizon: long.
-
-### Price moves (key changes from Aug 31)
-| Ticker | Before | After | Driver |
-|--------|--------|-------|--------|
-| NVDA | $255 | $230 | Post-earnings digestion; Hugging Face $12.93B acquisition |
-| AVGO | $420 | $385 | Q3 beat but Q4 guide $34.8B vs $35.03B consensus mixed reaction |
-| MRVL | $240 | $215 | Semiconductor sector digestion; no company-specific negative |
-| ARM | $285 | $252 | Post-AVGO pullback; joined Olix $312M AI photonic round |
-| FSLR | $224 | $305 | Section 232 MIP confirmed (CdTe zero polysilicon = structural winner) |
-| SEDG | $33 | $57 | Double catalyst: MIP + inverter import ban |
-| ENPH | $37 | $45 | Solar sector rally |
-| CCJ | $108 | $100 | Uranium spot softened to ~$81/lb |
-| OKLO | $48 | $40 | Nuclear profit-taking post-milestones |
-| GEV | $1,063 | $942 | Nuclear/utility sector profit-taking |
-| VST | $170 | $153 | Nuclear sector giving back August gains |
-| BWXT | $206 | $157 | Nuclear/defence sector profit-taking |
-| SPCX | $137 | $148 | Recovery; Starship Flight 14 Sep 15 targeting |
-| RKLB | $64 | $60 | Neutron 2027 slip risk per Sep 4 reporting |
-| ASTS | $58 | $63 | Cantor PT $90; Q2 revenue $31.5M from $1.2M |
-| PLTR | $186 | $174 | Slight sector rotation post-Q2 record highs |
-| RGTI | $16 | $13 | Quantum sector drift; -21% YTD |
-| QBTS | $18 | $17 | Quantum sector easing |
-| QNT | $50 | $49 | Consolidation; bookings $81M YTD |
-| CRCL | $92 | $103 | CLARITY Act signed Sep 3 (+16.5%) |
-| AFRM | $96 | $71 | Sep 1 yield repricing; BNPL hit hardest |
-| SOFI | $19 | $17 | Sep 1 yield repricing; rate-sensitive digital banks |
-| HOOD | $96 | $104 | Held through Sep 1 risk-off; CLARITY Act crypto boost |
-| COIN | $157 | $165 | CLARITY Act Sep 3 (+5%) |
-| ERAS | $18.38 | $16 | Biotech profit-taking after 700%+ run |
-
-## 2026-08-31 — Weekly Research Refresh
-
-### Summary
-All stock prices, ETF prices, and dividend yields refreshed to ~31 Aug 2026. **NVDA** massive Q2 FY27 beat (26 Aug): revenue $96.22B +106% YoY, EPS $2.22, Data Center $89B +117%, Q3 guidance $108B — triggered broad AI/semiconductor rally; NVDA $255 from $225. **AFRM** massive Q4 FY2026 beat (27 Aug): EPS $4.62 vs $0.85 consensus, GMV $14.1B +36%, FY2027 guidance >$64B GMV; AFRM $96 from $75. **PYPL** drama: Stripe/Advent $53B takeover bid announced mid-July, rejected as too low, deal collapsed 28 Aug — PYPL -12.7% to $54. **OKLO** milestone: Groves Isotope Test Reactor first criticality 5 Aug 2026 — first private-land reactor under DOE Reactor Pilot Program; OKLO $48. **Nuclear/uranium sector** up +16% in August: UUUU $15 (+39%), UEC $13 (+38%), DNN $3.80 (+33%), CCJ $108, uranium spot $88-89/lb +34% YoY. **KLAR** H1 results (18 Aug): Q2 revenue $1.042B +27% YoY, adj. operating income $91M +214%, net income positive; KLAR $20 from $18. **NTRA** added to watchlist (Fintech & Other genre): precision oncology ctDNA testing, Q2 record volumes, revenue +38% YoY, Signatera Japan PMDA approval, $315, Barclays PT $340. **Quantum** sector consolidating after Q2 surge: QNT $50, RGTI $16, QBTS $18 (all with profit-taking despite strong fundamentals). **Solar**: Trump emergency order banning foreign inverter imports — SEDG $33 (sharp pullback but UBS upgraded Buy, $42 PT), ENPH $37, ARRY $7.50 (beneficiary). **CEG** Calpine acquisition closed Jan 7, 2026 — now nation's largest electricity producer at 55 GW; $300. **VST** $170 on Meta 20-year nuclear PPA 2,609 MW. **PLTR** $186 (record Q2: US commercial +150% YoY, US govt +90%, FCF margin 63%). **DIV section**: LGEN yield ~7.5% (from ~7.2%), BATS ~5.8% (from ~6.2%), Aviva ~7% (from ~7.5%), HSBC ~5% (was "verify"). Header/disclaimer updated to 31 August 2026.
-
-### Key catalysts (18–31 Aug 2026)
-- **NVDA** Q2 FY27 (26 Aug) — $96.22B revenue +106% YoY, EPS $2.22, Q3 guidance $108B; AWS 2M GPU + Vera CPU deal announced; NVDA $255 (+13%)
-- **AFRM** Q4 FY2026 (27 Aug) — EPS $4.62 vs $0.85 consensus (+444% beat); GMV $14.1B +36%; AFRM $96 (+28%)
-- **PYPL** takeover saga — Stripe/Advent $60.50/sh bid collapsed 28 Aug; PYPL -12.7% to $54; standalone thesis must prove out
-- **OKLO** Groves Isotope Test Reactor first criticality (5 Aug) — first private-land reactor under DOE Reactor Pilot Program; acquired Atomic Alchemy; $48
-- **KLAR** H1 (18 Aug) — Q2 revenue $1.042B +27% YoY, adj. OI $91M +214%, net income $9M; H1 adj. OI $159M = 4x all 2025; $20
-- **CEG** Calpine acquisition closed Jan 7 — nation's largest electricity producer 55 GW; analyst Buy PT $520; $300
-- **VST** Meta 20-year nuclear PPA 2,609 MW (Perry/Davis-Besse/Beaver Valley); $170
-- **Uranium sector** — nuclear +16% August (best month 2026); uranium spot $88-89/lb +34% YoY; UUUU +39%, UEC +38%, DNN +33%
-
-### New addition
-- **NTRA** (Natera, NASDAQ): Precision oncology ctDNA testing (Signatera MRD assay). Q2 beat (7 Aug): record test volumes, revenue +38% YoY. Signatera Japan PMDA approval for colorectal cancer MRD detection. Barclays PT $340. Genre: Fintech & Other (Biotech/Precision Medicine). Risk: aggressive. Horizon: medium. Revolut: likely. Price: $315.
-
-### Price moves (key changes from Aug 17)
-| Ticker | Before | After | Driver |
-|--------|--------|-------|--------|
-| NVDA | $225 | $255 | Q2 FY27 mega-beat, Q3 guidance $108B |
-| AMD | $421 | $450 | Semiconductor rally post-NVDA |
-| MRVL | $233 | $240 | CEO raised multi-year outlook; +150% YTD |
-| ARM | $274 | $285 | Led Aug 26 AI chip rally |
-| CCJ | $99 | $108 | Uranium spot +34% YoY; nuclear sector +16% |
-| OKLO | $45 | $48 | First criticality milestone |
-| LEU | $195 | $200 | Uranium rally |
-| CEG | $279 | $300 | Calpine closed; analyst PT $520 |
-| VST | $147 | $170 | Meta 20-yr 2,609 MW nuclear PPA |
-| UUUU | $11 | $15 | +39% uranium August rally |
-| UEC | $9.55 | $13 | +38% uranium August rally |
-| DNN | $2.85 | $3.80 | +33% uranium August rally |
-| SEDG | $52 | $33 | Profit-taking + pullback; BUT Trump inverter ban = UBS Buy, $42 PT |
-| ENPH | $40 | $37 | Slight pullback; limited incremental from inverter ban |
-| ARRY | $7.10 | $7.50 | Inverter ban beneficiary |
-| PLTR | $174 | $186 | Record Q2: US commercial +150% YoY, FCF margin 63% |
-| RKLB | $83 | $64 | Sector pullback; record backlog $2.36B; Cantor PT $122 |
-| ASTS | $68 | $58 | Pullback; new BlueBird sats ~200 Mbps; revenue backlog $1.3B |
-| QNT | $68 | $50 | Profit-taking post-Q2 surge; avg analyst PT $98.75 |
-| RGTI | $17 | $16 | Quantum sector consolidating; analyst PT $28.81 |
-| QBTS | $22 | $18 | Profit-taking; H1 bookings $36M (12x YoY) |
-| CRCL | $104 | $92 | Valuation giveback; IBM blockchain patent deal |
-| KLAR | $18 | $20 | H1 results beat; adj. OI 4x all-2025 |
-| AFRM | $75 | $96 | Q4 FY2026 massive beat (EPS +444% vs consensus) |
-| COIN | $149 | $157 | Stablecoin rotation; USDC/Circle deal renewed |
-| SOFI | $18.30 | $19 | Piper Sandler Overweight $22 PT |
-| PYPL | $68 | $54 | Stripe/Advent bid collapsed 28 Aug; -12.7% |
-
-### ETF price moves
-| Ticker | Before | After |
-|--------|--------|-------|
-| SMH | $652 | $685 |
-| BOTZ | $39 | $41 |
-| URA | $42 | $49 |
-| NLR | $112 | $122 |
-| ICLN | $22 | $23 |
-| ITA | $272 | $275 |
-| UFO | $54 | $55 |
-| QTUM | $165 | $160 |
-| FINX | $29 | $30 |
-| XBI | $165 | $168 |
-| IBB | $199 | $201 |
-| LIT | $67 | $67 |
-
-### DIV yield refreshes
-| Name | Before | After |
-|------|--------|-------|
-| LGEN | ~7.2% | ~7.5% |
-| BATS | ~6.2% | ~5.8% |
-| Aviva | ~7.5% | ~7% |
-| HSBC | verify | ~5% |
-
-### IPO pipeline updates
-- **Anthropic**: Valuation narrative changed to ~$2T IPO target (would be largest IPO in history, surpassing SpaceX ~$1.77T). ARR >$65B (7x growth from end-2025). Public S-1 filing expected imminently (late Aug 2026); target Sep or early Oct 2026 listing.
-- **Kraken (Payward)**: IPO process restarted; targeting October 2026 listing (was "paused Mar 2026, 2027 at earliest").
-
-## 2026-08-17 — Weekly Research Refresh
-
-### Summary
-All stock prices refreshed to ~17 Aug 2026. **CBRS** Q2 12 Aug — mixed: EPS beat but GAAP revenue miss drove ~15% drop; cloud revenue +281% YoY and $25.4B RPO remain the long-term bull signal. **QNT** Q2 11 Aug — strong beat, revenue +279% YoY; leaped to $68 from $52. **RKLB** awarded $397M Space Force Flatellite contract (SB-AMTI) on 4 Aug — total $663M in Space Force awards. **BE** surged to $232 on analyst Buy initiation + confirmed Q2 momentum (+166% YoY revenue). **SEDG** returned to non-GAAP profitability for first time in ~3 years in Q2; +99% YTD. **CRCL** surged to $104 (+55%) on OCC national trust bank final approval + GENIUS Act tailwind. **SPCX** recovered to $137 (+19% from $115). **DIV section**: three new income names added — AT&T (T, ~5.6% yield), Aviva (AV., ~7.5%), National Grid (NG., ~5.5%) — growing towards a 14-name diversified income portfolio. Yield refreshes: O ~4.9%, VZ ~5.9%, MO ~6.5%, XOM ~2.6%, LGEN ~7.2%, BATS ~6.2%. ETF notes updated to ~17 Aug 2026. All section date comments refreshed.
-
-### Key outcomes from this week's catalysts (11–17 Aug)
-- **CBRS** Q2 12 Aug — EPS beat; GAAP revenue miss; cloud +281% YoY; $25.4B RPO; dropped to $190 from $218
-- **QNT** Q2 11 Aug — revenue +279% YoY beat; leaped to $68 from $52 (+31%)
-- **RKLB** — $397M Space Force Flatellite (SB-AMTI) contract awarded 4 Aug; total $663M Space Force awards; steady at $83
-- **BE** — analyst Buy initiated; surged to $232 from $195 (Aug 17 range $227-$248)
-- **SEDG** — returned to non-GAAP profitability Q2 (first time ~3 years); revenue +20% YoY; up to $52 from $44; +99% YTD
-- **CRCL** — OCC national trust bank FINAL approval confirmed; surged to $104 from $67 (+55%)
-- **SPCX** — recovered to $137 from $115 (+19%)
-- **ALAB** — continued Q2 beat momentum; up to $379 from $334
-
-### Other price moves (week of 17 Aug)
-- NVDA $225 from $217.94 — building ahead of 26 Aug earnings
-- MRVL $233 from $219 — AI ASIC tailwinds
-- GEV $1,063 from $990 — Q2 miss fully digested
-- AVAV $193 from $187; KTOS $62 from $55 (sector sympathy)
-- PLTR $174 from $172; ASTS $68 from $72; HOOD $96 from $93
-- VST $147, CEG $279, CCJ $99 — power/nuclear sector softer
-- CHYM pulled back to $24 from $33.30; AFRM $75 from $85 ahead of 26 Aug earnings
-
-## 2026-08-10 — Weekly Research Refresh
-
-### Summary
-All 70 stock prices refreshed to ~10 Aug 2026. Heavy earnings week with most 3–7 Aug catalysts now past. **SERV removed** (Uber Eats agreement not renewed, FY2026 guidance cut -65% to $9-10M, thesis broken). **ARM added** to AI & Compute (AGI CPU $2B+ order book, +18% post-Q1 FY2027 earnings, +80% YTD). **CHYM added** to Fintech (Chime Financial IPO'd Jun 2025, Q2 +27% YoY, FY guidance raised, GAAP profitable, +28.5% on results). **IPO pipeline**: Anduril Industries (~$38-40B, 2027) and Shield AI (~$12.7B, 2027) added; Anthropic updated to roadshow-underway / targeted 23 Oct 2026 listing, ARR >$50B. **Solar catalyst**: Trump signed 15% polysilicon tariff (effective Dec 4, 2026) — FSLR +9% to $266, ENPH +6% to $40, SEDG +7.6% to $44, ARRY +5% to $7.10 (from null). ARRY now has a verifiable price. LEU now $195 post Q2 results (revenue $176.1M, $3B backlog, $900M DOE task order confirmed). Chart tabs updated: ARM added to AI & Compute; CHYM added to Fintech.
-
-### Key outcomes from last week's catalysts (3–10 Aug)
-- **PLTR** Q2 3 Aug — 9th consecutive beat; surged to $172 from $127 (+35%)
-- **AMD** Q2 4 Aug — beat on revenue; settled at $421 from $476 pre-earnings (miss on AI GPU guidance vs Nvidia)
-- **ALAB** Q2 4 Aug — strong beat; surged to $334 from $292 (+14%)
-- **IONQ** Q2 5 Aug — beat; up to $40 from $33 (+21%)
-- **CRCL** Q2 5 Aug — beat; up to $67 from $61.59
-- **RXRX** Q2 5 Aug — steady; $3.05 from $3.00
-- **ASTS** BlueBird 11-13 launched successfully 5 Aug — constellation now 16 satellites; up to $72 from $56.94
-- **RGTI** Q2 6 Aug — beat; up to $17 from $14.10
-- **QBTS** Q2 6 Aug — beat; up to $22 from $16.92
-- **AMPX** Q2 6 Aug — beat, FY guidance raised; up to $12.22 from $10.13
-- **VST** Q2 7 Aug — reported; up to $172 from $163
-- **LEU** Q2 11 Aug — revenue $176.1M, $3B backlog, $900M DOE task order on track; set at $195
-
-### Removal
-- **SERV** (Serve Robotics): thesis broken — Uber Eats volume declined for first time in 17 quarters; CEO confirmed Uber agreement will NOT be renewed (expires early 2027); FY2026 guidance cut from $26M to $9-10M (-65%); stock near all-time lows. Removed from watchlist.
-
-### New additions
-- **ARM** (Arm Holdings, NASDAQ): AGI CPU launched with Meta as lead customer; OpenAI and Cloudflare committed; $2B+ order book; Q1 FY2027 EPS +108% YoY; revenue $1.29B +22%; +80% YTD. Added to AI & Compute, balanced risk, long horizon. Revolut: likely.
-- **CHYM** (Chime Financial, NASDAQ): Listed Jun 2025; Q2 2026 revenue +27% YoY; FY guidance raised to $2.725-2.745B; GAAP profitable; 10.4M members +20%; surged 28.5% to $33.30 on results. Added to Fintech & Other, aggressive risk, medium horizon. Revolut: likely.
-
-### Key upcoming catalysts (week of 10 Aug+)
-- **CBRS** Q2 earnings 12 Aug
-- **RDW** Q2 earnings ~12 Aug
-- **QNT** Q2 earnings 11 Aug
-- **NVDA** Q2 FY2027 earnings 26 Aug — major sector catalyst
-- **AFRM** Q4 FY2026 earnings 26 Aug
-- **KLAR** H1 2026 earnings 2 Sep
-- **AVGO** Fiscal Q3 earnings ~early Sep
+### Key price updates (~7 Sep 2026)
+- **BE** surged from ~$195 to ~$281 post-Q2 beat before class action pullback to ~$266
+- **AFRM** surged on Q4 FY2026 beat: EPS $4.62 vs $0.85 consensus; GMV $14.1B +36%
+- **IONQ** $35 — Superion 256-qubit milestone Sep 8; real-time error correction Sep 22
+- **RGTI** $17 — 100x speedup milestone Sep 2; $100M CHIPS Act DoC grant Sep 9
 
 ---
 
-## 2026-08-03 — Weekly Research Refresh
+## 2026-08-18 — Weekly research refresh
 
 ### Summary
-All 69 stock prices refreshed to ~3 Aug 2026. Heavy earnings week: FSLR, ENPH, BE, PYPL, SOFI, HOOD, VRT, AVAV all reported; winners and losers noted. Quantum earnings season begins (IONQ 5 Aug, RGTI/QBTS 6 Aug, QNT 11 Aug). IPO pipeline: DeepSeek added (~$71B valuation, $1.5B raise, 2026-2027 target). AMPX price now live ($10.13, was null). LEU set to null (too volatile — verify live; Q2 earnings 11 Aug). ETF notes updated. Header dates updated.
+Universe grew from 46 to 50 stocks. Nubank Mexican bank authorisation received Jul 10. GEV received Venture Global (later Oct 15 deal). Crypto section refreshed for the first time (~Aug 2026 prices). Circle CLARITY Act Sep 3 tailwind in preview. KLAR H1 2026 results Aug 18 beat.
 
-### Key earnings this week (Jul 28 – Aug 3, 2026)
-- **FSLR** Q2 BEAT: EPS $3.92 vs $3.01 est (+30%), GM 57%, backlog $13.6B; Barclays PT raised to $279 — recovered to $209.97 from $206
-- **ENPH** Q2 slight beat despite -20% YoY revenue; safe harbor $84.3M + $45M tariff refund; GM 46.8% — recovered to $37.54 from $36
-- **BE** Q2 BEAT: revenue $1.07B +166% YoY vs $826M est, EPS $0.78 vs $0.41; raised FY guidance to $3.9-4.2B — recovered to $201.50 from $186
-- **PYPL** Q2 EPS $1.38 beat 8%; raised FY guidance to $5.38; margins contracted 248bps — recovered to $67 from $59.81
-- **SOFI** Q2 record revenue $1.21B +43% YoY but flat EBITDA guidance disappointed — fell ~10% to $15 from $16.65
-- **HOOD** Q2 EPS $0.62 vs $0.41 beat; $573M net income; 56.65% EBITDA margin; BUT crypto revenue -38% QoQ — fell to $88.67 from $121.70
-- **VRT** Q2 EPS $1.52 beat (+60% YoY) but revenue $3.27B missed $3.38B estimate; raised FY guidance; market punished on miss — fell ~17% to $240.75 from $291
-- **AVAV** Q4 FY2026 revenue $641.6M +100% YoY vs $557M estimate — surged to ~$175 from $149.51; KTOS +8% sympathy
+### Key additions
+- **CHYM** (Chime Financial) — Fintech; listed Nasdaq Jun 2025; Q2 revenue +27% YoY; FY guidance $2.725-2.745B; GAAP profitable
+- **KLAR** (Klarna Group) — Fintech; BNPL to full neobank; H1 2026 beat; US bank application
+- **CRCL** (Circle Internet Group) — Fintech; USDC issuer; GENIUS Act beneficiary; IBM patent portfolio
 
-### Key upcoming catalysts (week of 3 Aug)
-- **AMD** Q2 earnings 4 Aug — fell to $476 from $522 ahead of results
-- **ALAB** Q2 earnings 4 Aug after close (guidance $355-365M, GM ~73%)
-- **PLTR** Q2 earnings 3 Aug after close (8 consecutive beats; options pricing 12% swing)
-- **IONQ** Q2 earnings 5 Aug
-- **CRCL** Q2 earnings 5 Aug
-- **RXRX** Q2 earnings 5 Aug
-- **RGTI** Q2 earnings 6 Aug
-- **QBTS** Q2 earnings 6 Aug
-- **AMPX** Q2 earnings 6 Aug
-- **SERV** Q2 earnings 6 Aug
-- **ASTS** BlueBird 11-13 satellite launch 5 Aug from Cape Canaveral
-- **VST** Q2 earnings 7 Aug (consensus PT $230)
+### Key price updates (~18 Aug 2026)
+- **AMPX** fell sharply to ~$8.50 from $12.22 despite Q2 beat — investigate before adding
+- **KLAR** up to ~$20 on H1 2026 beat
 
-### Notable movers
+---
+
+## 2026-08-04 — Weekly research refresh
+
+### Summary
+Universe grew from 43 to 46 stocks. FSLR Section 232 MIP signed Aug 6 (effective Dec 4). Cerebras CS-4 / Supernova event Sep 2026. GEV Q2 EPS miss but revenue beat. Nubank Mexican bank authorisation. ERAS Phase 1 confirmed partial responses. US uranium rally: UUUU +39%, UEC +38%, DNN +33%.
+
+### Key additions
+- **ERAS** (Erasca) — Frontier biotech; ERAS-0015 Phase 1 confirmed partial responses; +700%+ prior 12M
+- **RXRX** (Recursion Pharma) — AI drug discovery; Big Pharma partnerships
+- **QS** (QuantumScape) — Solid-state battery; Honda added as OEM alongside VW
+
+### Key events
+- **Section 232 MIP signed Aug 6** — minimum import prices for solar cells/modules, effective Dec 4
+- **August uranium sector rally** — UUUU +39%, UEC +38%, DNN +33%; uranium spot $88-89/lb
+
+---
+
+## 2026-08-03 — Weekly research refresh
+
+### Summary
+Universe at 43 stocks. Nuclear stocks: VanEck URA ETF +16% in August — best August since January. BWXT $1.5B DUECE contract previewed. LEU added (HALEU enricher). OKLO Groves first criticality Aug 5. IONQ SkyWater Foundry acquisition.
+
+### Key price updates (~3 Aug 2026)
 - **CCJ** +$12.93 to $100.93 — nuclear sentiment improving, FY revenue guidance strong
 - **BWXT** +$30.65 to $205.65 — Navy contracts firm, medical isotopes growing (+13.1% YTD)
 - **CEG** recovered to ~$295 from $237
