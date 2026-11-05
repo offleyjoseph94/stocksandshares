@@ -8,8 +8,23 @@ Tracks which watchlist tickers have received a weekly deep-dive in the **current
 
 ## Current cycle: 4
 
-## Covered this cycle (0/89)
-*(Cycle 4 begins — no tickers covered yet. Priority order as always: DIV names first, then remaining stockData by genre.)*
+## Covered this cycle (12/89)
+
+### Run 1 (2026-11-05) — DIV priority slate:
+- VHYG [DIV — extra] (2026-11-05)
+- O [DIV] (2026-11-05)
+- LGEN [DIV] (2026-11-05)
+- VZ [DIV] (2026-11-05)
+- MO [DIV] (2026-11-05)
+- BATS [DIV] (2026-11-05)
+- IUKD [DIV — extra] (2026-11-05)
+- T [DIV] (2026-11-05)
+- ENB [DIV] (2026-11-05)
+- IMB [DIV] (2026-11-05)
+- AV. [DIV] (2026-11-05)
+- XOM [DIV] (2026-11-05)
+
+*(Remaining uncovered DIV names: KO, JNJ, NG., HSBA — priority for Run 2 along with ABBV and remaining stockData names)*
 
 ---
 
