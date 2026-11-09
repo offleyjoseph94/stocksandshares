@@ -4,6 +4,56 @@ Newest entry at the top. Each entry covers one weekly research cycle.
 
 ---
 
+## 2026-11-09 — Weekly research refresh
+
+### Macro context
+- **Democratic Congress sweep** (Nov 3): markets repriced AI/energy deregulation, crypto sentiment, and SMR permitting; clean energy rallied, AI/crypto/nuclear pulled back.
+- **Philadelphia Semiconductor Index** fell ~12% over the week (AI trade unwind, rate environment, sector-wide multiple compression).
+- **NVDA**: fell below 200-day MA; Jensen Huang and wife Alice Huang subject to US counterintelligence investigation reported Nov 7 (Huang denied; Nvidia supporting statement).
+- **Anthropic (ANT)**: roadshow STARTED week of Nov 9 (the current week); listing target before Thanksgiving (~Nov 20-26 2026) — now ~2 weeks away.
+- **RGTI Q3 earnings**: due tomorrow, Nov 10 — do not add ahead of print.
+- **RKLB Q3 earnings**: due tonight after close, Nov 9 — do not trade ahead of print.
+
+### Price updates (verify live before trading)
+| Ticker | Prev | Now | Change | Note |
+|--------|------|-----|--------|------|
+| NVDA | $228 | $187 | −18% | Semiconductor selloff; spy allegation overhang; below 200-day MA |
+| AVGO | $322 | $294 | −9% | Sector selloff + Democratic sweep uncertainty |
+| TSM | $419 | $375 | −10% | Semiconductor selloff; Democratic sweep Taiwan ambiguity |
+| AMD | $517 | $449 | −13% | Q3 beat $13.38B; bounced +11% Nov 6; MI400 racks shipping |
+| VRT | $240 | $183 | −24% | AI capex selloff + Democratic sweep multiple de-rating |
+| MRVL | $245 | $134 | −45% | **THESIS CHANGE** — Lumentum $115B all-stock deal Nov 2 |
+| ARM | $242 | $215 | −11% | Q2 FY2027: GAAP EPS miss (timing), non-GAAP beat, revenue beat; FY guidance raised |
+| GEV | $1,030 | $800 | −22% | Democratic sweep AI/energy selloff; Q3 beat fundamentals intact |
+| OKLO | $30 | $23.55 | −22% | Democratic sweep SMR permitting uncertainty; sector pullback |
+| VST | $149 | $158 | +6% | Q3 Adj EBITDA $2.378B record; FY2027 guidance $7.7-8.5B initiated |
+| FSLR | $168 | $201 | +20% | Democratic sweep clean energy rally; MIP Dec 4 now 25 days away |
+| ENPH | $30 | $33 | +10% | Democratic sweep; residential ITC threat removed |
+| SEDG | $30 | $28 | −7% | Q4 guidance miss offset Democratic sweep mild positive |
+| PLTR | $176 | $162 | −8% | Q3 MASSIVE BEAT: revenue $2.31B +96% YoY; FY2026 guidance raised to $8.53B; fell on sell-the-news |
+| IONQ | $30 | $33 | +10% | Q3 beat; Superion installed at Nvidia Quantum Research Center |
+| RGTI | $11 | $13 | +18% | Quantum sector sympathy rally; Q3 earnings Nov 10 (tomorrow) |
+| QBTS | $11 | $13 | +16% | Quantum sector sympathy rally; best commercial traction in sector |
+| CRCL | $90 | $97 | +8% | Q3 MASSIVE BEAT: adj. EPS $0.84 vs $0.39 consensus |
+| COIN | $170 | $142 | −16% | Democratic sweep crypto sentiment headwind; Nov 5 selloff −11.45% |
+| AFRM | $66 | $73 | +11% | Range $69-77; BNPL rate headwinds persist |
+| SOFI | $20.50 | $16 | −22% | Nov 5 fintech selloff −9%; Democratic CFPB concern |
+| HOOD | $101 | $80 | −21% | Nov 5 crypto/fintech selloff −10 to −12% |
+| RKLB | $57 | $43 | −25% | Q3 earnings tonight (Nov 9 after close); Neutron delay to 2027 |
+| ASTS | $50 | $26 | −48% | SpaceX $8B spectrum spend (competitive threat); shareholder class action |
+
+### Key thesis changes
+- **MRVL** (Marvell): announced $115B all-stock acquisition of Lumentum Holdings (Nov 2). Stock fell ~45%. Major thesis pivot — from pure AI ASIC designer to AI silicon + optical networking. Prior analyst PTs ($350-365) under review. **Hold/Reassess** — reduce to a smaller position until deal completion and updated combined-entity guidance.
+- **ASTS**: SpaceX $8B spectrum spend entering direct-to-mobile market is a new structural competitive threat. Combined with shareholder class action, the risk profile has risen materially. Do not add; existing holders should consider trimming.
+- **PLTR**: Q3 massive beat (revenue $2.31B +96% YoY; FY2026 guidance raised to $8.53B) confirms the AI decision-intelligence thesis. Sell-the-news reaction at ~100x fwd earnings is normal.
+
+### Income/dividend notes updated
+- **BATS**: dividend payment Nov 6 confirmed paid
+- **NG.**: ex-dividend date Nov 19 — now 10 days away
+- **IMB**: full-year results Nov 17 — now 8 days away
+
+---
+
 ## 2026-11-02 — Weekly research refresh
 
 ### Summary
