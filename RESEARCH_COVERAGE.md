@@ -8,7 +8,23 @@ Tracks which watchlist tickers have received a weekly deep-dive in the **current
 
 ## Current cycle: 4
 
-## Covered this cycle (12/89)
+## Covered this cycle (24/89)
+
+### Run 2 (2026-11-12) — DIV completion + first stockData picks:
+- KO [DIV] (2026-11-12)
+- JNJ [DIV] (2026-11-12)
+- NG. [DIV] (2026-11-12)
+- HSBA [DIV] (2026-11-12)
+- ABBV [DIV — extra] (2026-11-12)
+- NVDA [AI & Compute] (2026-11-12)
+- AVGO [AI & Compute] (2026-11-12)
+- GEV [Energy & Nuclear] (2026-11-12)
+- FSLR [Clean & Batteries] (2026-11-12)
+- PLTR [Defence & Space] (2026-11-12)
+- IONQ [Quantum] (2026-11-12)
+- CRCL [Fintech & Other] (2026-11-12)
+
+*(All DIV names now fully covered in Cycle 4. Remaining stockData: AI & Compute — TSM, AMD, VRT, MRVL, ALAB, CRDO, NBIS, CRWV, CBRS, ANET, ETN, ARM; Energy & Nuclear — CCJ, OKLO, LEU, FLNC, VST, TLN, BWXT, UUUU, UEC, DNN; Clean & Batteries — ENPH, NXT, QS, AMPX, ALB, SEDG, BE, SLDP, ARRY, MP, EOSE, SQM; Defence & Space — SPCX, VOYG, KRMN, RDW, ONDS, UMAC, AVAV, RKLB, ASTS, KTOS, RCAT; Quantum — RGTI, QBTS, QNT, QUBT, INFQ, ARQQ, XNDU, IQMX; Fintech — KLAR, CHYM, COIN, AFRM, NU, SOFI, HOOD, PYPL; Biotech — NTRA, RXRX, ERAS; CRYPTO — BTC, ETH, SOL, XRP, cETN)*
 
 ### Run 1 (2026-11-05) — DIV priority slate:
 - VHYG [DIV — extra] (2026-11-05)
@@ -23,8 +39,6 @@ Tracks which watchlist tickers have received a weekly deep-dive in the **current
 - IMB [DIV] (2026-11-05)
 - AV. [DIV] (2026-11-05)
 - XOM [DIV] (2026-11-05)
-
-*(Remaining uncovered DIV names: KO, JNJ, NG., HSBA — priority for Run 2 along with ABBV and remaining stockData names)*
 
 ---
 
