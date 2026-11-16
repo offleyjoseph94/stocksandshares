@@ -4,6 +4,50 @@ Newest entry at the top. Each entry covers one weekly research cycle.
 
 ---
 
+## 2026-11-16 — Weekly research refresh
+
+### Macro context
+- **Hot Oct CPI** (Nov 12): +0.4% MoM vs +0.3% expected; keeps Fed on hold at 3.75-4%. NVDA fell to new low $168.89 on the print.
+- **NVDA Q3 FY2027 earnings TOMORROW Nov 17** — consensus $108.8B revenue / $2.47 EPS. Single biggest macro event of the week.
+- **Anthropic (ANT) IPO pricing TOMORROW Nov 18, first trading NOV 19** — 6x oversubscribed; price range $70-$78/share; at $78 ≈ $1.4T valuation. Biggest tech IPO of 2026.
+- **Semiconductor sector partial recovery** week of Nov 11 as investors look past midterms selloff.
+- **Quantum sector sold off hard** after RGTI Q3 miss (Nov 10): revenue $1.4M vs $3.52M est (-28% YoY); dragged QBTS and IONQ lower.
+- **National Grid (NG.) ex-dividend Nov 19** — only 3 days away; must hold by market close Tue Nov 18.
+- **IMB full-year results TOMORROW Nov 17** — watch full-year dividend decision and 4% growth guidance.
+
+### Price updates (verify live before trading)
+| Ticker | Prev | Now | Change | Note |
+|--------|------|-----|--------|------|
+| NVDA | $187 | $169 | −10% | Hot CPI + spy overhang; Q3 earnings TOMORROW Nov 17 |
+| AVGO | $294 | $299 | +2% | Chip recovery week of Nov 11 |
+| TSM | $375 | $380 | +1% | Chip recovery |
+| AMD | $449 | $458 | +2% | Chip recovery; MI400 racks shipping |
+| GEV | $800 | $815 | +2% | Partial bounce; Argus cut to $1,100 (Buy maintained) |
+| CEG | $268 | $285 | +6% | Q3 BEAT: $9.55B revenue, adj. EPS $5.06; FY guide raised to $12.50-12.80; DOE $5B nuclear loan |
+| CCJ | $72 | $73 | +1% | Bounced from 52-week low $67.87; Barclays cut to $89 Equal Weight |
+| FSLR | $201 | $206 | +2% | $500M buyback; Dec 4 MIP now 18 days away |
+| ENPH | $33 | $34 | +3% | Slight recovery; Section 25D secure |
+| RKLB | $43 | $40 | −7% | Q3 Nov 9: revenue $267.8M +73% YoY beat; backlog $3.57B +52% QoQ; BUT loss $0.12 vs $0.07 est; Neutron Oct 2027 |
+| IONQ | $33 | $29 | −12% | Lock-up expiry Nov 14 fresh overhang; Needham cut to $48 |
+| RGTI | $13 | $8 | −38% | Q3 MISS: $1.4M vs $3.52M est; B. Riley cut to $25 |
+| QBTS | $13 | $8 | −38% | Sector selloff on RGTI miss; Q3 ~$3.1M flat; B. Riley cut to $27 |
+| CRCL | $97 | $87 | −10% | Mizuho "uneventful" despite Q3 beat; crypto sector selloff Nov 5 |
+| COIN | $142 | $136 | −4% | Near 52-week low $133.50; Democratic tone; stock-trading launch |
+
+### Key events
+- **RGTI Q3 MISS** (Nov 10): revenue $1.4M vs $3.52M consensus; FY2026 $20M guide entirely Q4-dependent on C-DAC acceptance.
+- **CEG Q3 BEAT** (Nov 9): revenue $9.55B, adj. EPS $5.06, FY guide raised; DOE $5B nuclear uprates loan; Rhode Island acquisition.
+- **RKLB Q3** (Nov 9 after close): revenue $267.8M +73% YoY beat guidance; backlog $3.57B record; BUT loss $0.12 vs $0.07 est; Neutron Oct 2027.
+- **IONQ lock-up expiry** Nov 14: post-$2B equity offering sellers now free; Needham cut to $48 from $72.
+- **Coinbase launched US stock trading** in November 2026 (platform expansion).
+
+### Income / DIV section
+- **NG. ex-dividend NOV 19 (WEDNESDAY) — 3 DAYS AWAY** — most urgent income action; buy before market close Tue Nov 18 to receive Jan 12 2027 payment.
+- **IMB full-year results TOMORROW Nov 17** — watch full-year dividend decision; 4% annual growth target in focus.
+- **BATS Nov 6 dividend PAID** — confirmed; next ex-div early 2027.
+
+---
+
 ## 2026-11-09 — Weekly research refresh
 
 ### Macro context
