@@ -1,3 +1,561 @@
+# 2026-11-19 — Cycle 4, Run 3: TSM, VRT, CCJ, VST, ENPH, MP, RKLB, AVAV, RGTI, QBTS, COIN, BTC
+
+Cycle 4 Run 3 covers two names from each of six genres plus Coinbase and Bitcoin. Research date: **19 November 2026**. All figures drawn from company earnings releases, SEC filings, analyst research and secondary press coverage — re-verify live before acting. Nothing here is financial advice or a recommendation to buy or sell.
+
+Macro context: Higher-for-longer US rate environment persists (Fed funds 3.75–4.0%; 10Y Treasury ~4.5–5%). Democratic sweep aftermath: clean energy ITC structurally intact; crypto/deregulation narrative cooler; AI infrastructure permitting slower than hoped; semiconductor sector recovering partially from October/November selloff. Section 232 minimum import prices (MIP) for solar effective December 4 — now 15 days out. Bitcoin ETF flows have turned outflow in November after a 13-week inflow streak. Quantum computing sector had a busy earnings week (Nov 10–11) with both Rigetti and D-Wave reporting.
+
+---
+
+## TSM — TSMC (ADR)
+**Genre: AI & Compute | Ticker: NYSE:TSM | Risk: Balanced | Revolut: Yes | UK: US ADR — 15% WHT with W-8BEN**
+
+### What it does and how it makes money
+Taiwan Semiconductor Manufacturing Company is the world's sole-source manufacturer of the world's most advanced chips. It operates a "pure-play foundry" model: it designs nothing itself, but manufactures chips designed by Apple, Nvidia, AMD, Qualcomm, Broadcom and virtually every other chip company. The business model earns high-margin wafer revenue; at the leading edge (3nm, 2nm), TSMC is the only manufacturer technically capable, so its pricing power is structural rather than competitive. HPC (high-performance computing, which includes AI accelerators) now accounts for over 55% of revenue and is growing faster than the rest of the business.
+
+Revenue is priced in US dollars against a cost base partly in New Taiwan dollars, giving TSMC a natural currency hedge when the USD is strong.
+
+### Latest results and financial health (c. Nov 2026)
+Q3 2026 (reported October 15, 2026) was a record quarter:
+- **Revenue**: NT$1,494B (~$46.72B), up **50.9% YoY** in TWD terms (+41.2% in USD)
+- **Net income**: NT$763B (+68.7% YoY), **beating analyst consensus** of NT$746B
+- **Gross margin**: 66.4% (held near record levels)
+- **Operating margin**: 58.7%; net margin 51.1%
+- **EPS (ADR)**: US$4.60 per ADR for the quarter
+- **Product mix**: 2nm = 8% of revenue (ramp just started); 3nm = 33%; 5nm = 28%; 7nm and below = 79% of revenue
+- **Q4 2026 guidance**: $52.3–54.3B — a record quarterly guidance, up ~12–16% QoQ
+
+**Balance sheet**: TSMC carries ~$62B capex guidance for 2026, funded from operating cash flows (which have more than tripled since 2020). Net cash positive. No meaningful debt risk. The Arizona Phase 1 fab is ramping; Phase 2 is under construction.
+
+### How affordable is the business?
+Very profitable — 66% gross margin is exceptionally high for a capital-intensive manufacturer. FCF generation funds the capex cycle without external capital. TSMC pays a quarterly dividend (~$0.50/ADR per quarter, ~2% yield at $380) and has a selective buyback programme.
+
+### Bull thesis
+TSMC is the irreplaceable bottleneck in the entire AI compute stack. Every Nvidia GPU, every Apple A-series chip, every AMD EPYC and MI-series chip, every Google TPU and Amazon Trainium custom ASIC flows through TSMC's fabs. There is literally no alternative for 2nm and 3nm production — Intel Foundry is years behind, Samsung's yields are inferior. The ramp of 2nm in Q3 2026 sets up a multi-year revenue step-up as the most advanced node in history enters high-volume production. AI demand is the primary driver and is structural, not cyclical.
+
+### Catalysts ahead
+- **Q4 2026 earnings** (January 2027) — guidance already points to $52.3–54.3B, another record
+- **2nm high-volume ramp** throughout 2027 (Apple A20, Nvidia Blackwell Ultra, AMD EPYC Zen 6 all tape out on N2)
+- **Arizona Phase 2 ramp** (2027–2028) expanding US manufacturing with government subsidies
+- **N1.6 (1.6nm)** entering risk production in 2026, volume in 2027–2028
+
+### Main risks and what would break the thesis
+- **Taiwan geopolitical risk**: A Chinese blockade or invasion is the existential scenario — there is no hedging against this; it is binary and catastrophic for the global economy, not just TSMC. This risk is priced but not removable.
+- **Customer concentration**: Apple ~25% of revenue. Any iPhone cycle weakness hits TSMC directly.
+- **Capex cycle**: $62B/year capex is enormous. If demand disappoints, TSMC carries idle capacity; this happened in 2023 when crypto/PC demand collapsed.
+- **US tariffs / export controls**: Further US export restrictions on serving Chinese customers (currently Huawei-restricted) could reduce the addressable market.
+- **Arizona execution**: US fab costs are structurally higher (~50% premium per wafer vs Taiwan), which pressures margins on US-made chips.
+
+### Competitive position
+Effectively a monopoly at the leading edge. Intel is 2–3 nodes behind and burning cash trying to catch up. Samsung has yield problems. TSMC's "moat" is not patent-based but process-knowledge-based — decades of accumulated know-how that cannot be replicated quickly.
+
+### Valuation sense-check
+~15–18× forward earnings (c. Nov 2026 at ~$380). For a business growing 40–50% YoY with 66% gross margin and monopoly pricing power at the leading edge, this is cheap relative to US-listed tech. The Taiwan risk discount is the reason. A re-rating if geopolitical risk perception decreases would be a significant catalyst.
+
+---
+
+## VRT — Vertiv Holdings
+**Genre: AI & Compute | Ticker: NYSE:VRT | Risk: Balanced | Revolut: Yes**
+
+### What it does and how it makes money
+Vertiv makes the critical infrastructure inside AI data centres: power delivery equipment (UPS, switchgear, power distribution units), thermal management (liquid cooling, precision air conditioning), and integrated rack systems. As AI clusters move from air-cooled racks to liquid-cooled high-density GPU clusters, Vertiv's liquid cooling products (specifically its ThermoKey acquisition) become essential. The business is not a chip company — it benefits regardless of whether Nvidia or AMD GPU wins, as long as AI data centre build-out continues.
+
+Revenue model: equipment sales plus a growing aftermarket/services segment (recurring, higher-margin). Services/aftermarket now ~25–30% of revenue and growing as the installed base matures.
+
+### Latest results and financial health (Q3 2026, Oct 28)
+Q3 2026 was a strong beat that erased much of the Q2-driven selloff:
+- **Net sales**: $4.313B, up **61% YoY** (55% organic growth)
+- **Organic orders**: up **>100% YoY** — this is the most important forward indicator; it means orders are more than doubling while revenue grows 61%, so the backlog is building rapidly
+- **Adj. diluted EPS**: $2.21, up **78% YoY**
+- **Adj. operating margin**: 25.2%
+- **Full-year 2026 guidance raised**: Net sales $14.45–14.85B; Adj. EPS $7.10–7.20; Adj. FCF $2.6–2.8B
+- **Q4 guidance**: midpoint net sales ~$4.41B, Adj. EPS ~$2.25
+
+The stock surged ~14% on Q3 results, recovering most of the decline since the Q2 revenue miss. The dashboard price entry (~$183) pre-dates this recovery; check live for current level.
+
+**Balance sheet**: investment-grade rated; King Environmental Services acquisition (Q3 close) adds fluid management capability. No acute liquidity concerns.
+
+### Why the Q2 miss looks like a blip
+Q2 (July 2026) revenue of $3.27B missed the $3.38B estimate by ~3%, causing a ~14% selloff. Q3 revenue of $4.313B was well above estimates and represented a massive re-acceleration. The orders number (+100%+ organic in Q3) confirms demand is not weakening — delivery timing caused the Q2 miss.
+
+### Bull thesis
+Vertiv is the clearest "picks and shovels" pure-play on AI data centre build-out. Every hyperscaler, every AI neocloud and every enterprise AI cluster needs Vertiv's thermal and power equipment. Liquid cooling is shifting from an optional premium to a standard requirement for >100-watt-per-chip GPU racks. Vertiv's ThermoKey liquid cooling and its broader product portfolio make it the category leader. Orders growing at 100%+ while revenue grows 61% means visibility into 2027–2028 revenue is unusually high.
+
+### Catalysts ahead
+- **FY2026 and FY2027 results delivery**: the raised guidance sets a floor; beating it again builds credibility
+- **Liquid cooling penetration**: as next-generation GPU racks (Blackwell Ultra, GB300) require more cooling intensity, Vertiv's thermal management products expand their share
+- **Services/aftermarket growth**: the maturing installed base (from the last 2–3 years of data centre builds) transitions to recurring revenue
+
+### Main risks
+- **Multiple compression in higher-for-longer**: VRT trades at ~25–30× earnings; rising real rates suppress growth multiples; this was the driver of the Q2 de-rating (not the miss itself)
+- **Customer concentration**: a few hyperscalers represent a large share of orders; any capex pause by one hyperscaler is felt immediately
+- **Execution**: 61% revenue growth requires flawless supply chain execution; any manufacturing or supply constraint could cause another miss
+- **Democratic policy**: slower AI deregulation / permitting in some scenarios delays new data centre approvals
+
+### Valuation
+Evercore PT $375 implies ~105% upside from the $183 dashboard price (which is pre-Q3-beat recovery). Analyst consensus has converged around a higher range post-Q3. At ~25× forward EPS $7.15, the multiple is punchy but backed by 100%+ order growth.
+
+---
+
+## CCJ — Cameco Corporation
+**Genre: Energy & Nuclear | Ticker: NYSE:CCJ | Risk: Balanced | Revolut: Likely | UK: US-listed (W-8BEN applies)**
+
+### What it does and how it makes money
+Cameco is the largest Western uranium mining company, producing uranium from its mines in Saskatchewan (Cigar Lake, McArthur River/Key Lake) and Kazakhstan (JV interests). Revenue comes from selling uranium under long-term contracts (at prices typically around $80–90/lb) and spot sales. It also owns a 49% stake in Westinghouse Electric, the world's largest nuclear services company (fuel fabrication, reactor services, plant maintenance), giving it significant exposure to the nuclear services value chain beyond just mining.
+
+Cameco's key competitive advantages: highest-grade uranium ore in the world (Cigar Lake, McArthur River are the world's richest deposits), long-term contracts providing revenue floor, and Western provenance at a time of Russian/Kazakh supply concerns.
+
+### Dividend history
+Cameco pays a small dividend (~C$0.12/share annually, ~0.2% yield). It is not an income name — it is a commodity cyclical. The dividend has been cut historically; it was suspended during the uranium bear market (2017–2020). Do not hold for income.
+
+### Latest results and financial health (Q3 2026, Oct 30/Nov 3)
+Q3 2026 was the **fifth consecutive quarterly miss**:
+- **Revenue**: C$619M, up only 1% YoY (consensus expected more)
+- **Adj. EBITDA**: C$267M, down **14% YoY**
+- **Adj. EPS**: ~C$0 vs C$0.23 consensus — a significant miss
+- **Root cause**: Key Lake milling operation outage (extended maintenance/modernisation) cut Q3 uranium production by **20%**
+- **FY2026 cost guidance raised**: unit production costs now $67–70/lb (second consecutive raise)
+- **Westinghouse**: net loss of C$80M (Cameco's 49% share) for the nine-month period — drag on earnings
+- **Market reaction**: shares fell ~12% after results
+
+However, two structural positives remain intact:
+1. **Long-term contract portfolio**: 230M lbs under long-term contracts at ~$90/lb — this is locked revenue floor through the decade
+2. **Westinghouse IPO potential**: Cameco/Brookfield filed a confidential S-1 (IPO draft) for Westinghouse; this is a hidden value unlock; analysts estimate the Westinghouse stake alone is worth $6–10/share of CCJ value that is not reflected at current prices
+
+### Bull thesis
+Uranium demand is structurally growing: nuclear plant life extensions (US, Europe), new builds (Asia), and AI data centre nuclear PPAs all require more uranium. Western supply is constrained — Cameco's high-grade Canadian assets are the most reliable non-Russian supply. At $90/lb long-term contract prices, Cameco should be highly profitable once Key Lake returns to full capacity. The five-consecutive-miss streak is an operational problem, not a structural impairment — the ore is still there, the contracts are still there. The Westinghouse IPO is the near-term catalyst.
+
+### Catalysts ahead
+- **Key Lake restoration**: when the modernisation outage ends and production normalises, the Q3-level misses stop
+- **Westinghouse IPO**: hidden value unlock; Cameco's 49% stake becomes publicly valued
+- **Uranium spot price re-rating**: if spot uranium breaks materially above $100/lb, long-term contract repricing accelerates
+- **Next earnings**: Q4 2026 results, February 12, 2027
+
+### Main risks — and what would break the thesis
+- **Five consecutive misses** is a severe operational red flag; if Q4 2026 is a sixth miss, the thesis delivery timeline extends further
+- **Uranium price risk**: if uranium spot price falls materially below the long-term contract floor (~$90/lb), renewal contracts reprice downward
+- **Westinghouse integration**: the JV is still generating losses; execution risk on a large nuclear services business
+- **Regulatory risk**: nuclear permitting in key markets (US, UK, Germany) affects plant life extension timelines
+- **CFO departure** was flagged at Q3 results — management stability concern
+
+### Competitive position
+Cameco is the largest, lowest-cost Western uranium producer by ore grade. The McArthur River/Key Lake complex is essentially irreplaceable. No Western competitor can replicate the ore quality; Kazakh producers (National Atomic Company) are the only comparably large supplier, but carry sovereign risk.
+
+### Valuation
+Barclays PT $89 (Equal Weight), B. Riley and others cite uranium price support. At ~$73 (Nov 2026 dashboard price), CCJ is near its 52-week low ($67.87). The stock has historically traded 30–50% premium to book value when uranium is in an upcycle. Westinghouse unlock could be meaningful. Hold with caution — do not size large until Key Lake normalises and Q4 delivers.
+
+---
+
+## VST — Vistra Energy
+**Genre: Energy & Nuclear | Ticker: NYSE:VST | Risk: Balanced | Revolut: Yes**
+
+### What it does and how it makes money
+Vistra is the largest competitive (deregulated) electricity generator in the US by retail customer count. It operates a fleet of natural gas, nuclear and coal plants primarily in Texas (ERCOT market, ~15 GW) and the PJM market (Pennsylvania, Ohio, Illinois — another ~10 GW). The nuclear fleet — Perry, Davis-Besse, Beaver Valley, Comanche Peak — produces ~6,400 MW of always-on, zero-carbon baseload. The deregulated market model means Vistra sells power at market prices (or under PPAs), creating high operating leverage to electricity price moves.
+
+The Cogentrix acquisition (a natural gas fleet) closed in Q3 2026, adding ~3 GW of gas capacity.
+
+Revenue: wholesale power sales (exposed to ERCOT/PJM spot prices), retail electricity sales (~4M+ retail customers under TXU Energy and Dynegy brands), and growing capacity market revenues.
+
+### Dividend and cash return
+VST pays a growing dividend (~$0.95/share quarterly, ~$3.80/year annualised, ~2.4% yield at $158). The company is aggressively buying back stock: an additional $1.5B buyback was authorised at Q3 results, bringing total authorisation to ~$2.5B remaining.
+
+### Latest results and financial health (Q3 2026, Nov 6)
+Q3 2026 was a strong beat:
+- **Adj. EBITDA**: $2.378B — a **record for Vistra**
+- **EPS**: $3.23 (Zacks consensus: $2.94) — 9.86% beat
+- **FY2026 Adj. EBITDA guidance**: narrowed to $7.1–7.5B (from broader prior range)
+- **FY2027 guidance initiated**: $7.7–8.5B Adj. EBITDA; $4.3–5.1B FCF before growth — with ~98% of 2027 generation already hedged
+- **Capital return**: $1.5B additional buyback authorised
+- **DOE nuclear uprate loan**: $4.2B conditional commitment (confirmed Oct 5) — government backing for nuclear life extension
+- **Meta 20-year PPA**: 2,609 MW nuclear power (Perry, Davis-Besse, Beaver Valley), delivery beginning late 2026 — contracted revenue for two decades
+
+**Balance sheet**: leveraged (net debt ~$12B after Cogentrix) but manageable given $7B+ EBITDA.
+
+### Bull thesis
+Vistra is the purest "AI power demand" trade among operating electricity generators. The ERCOT Texas market is where the most AI data centre build-out is happening (Permian Basin cooling water access, low land costs, speed of permitting vs PJM). AI data centre load growth of 4–6% annually in ERCOT through 2030 (management's own estimate) means steadily rising power prices and capacity market revenues. The Meta 20-year PPA locks in 2.6 GW of nuclear revenue at a fixed rate, providing visibility. The DOE $4.2B nuclear uprate loan reduces capital cost of extending plant lives. 98% of 2027 production already hedged means FY2027 guidance is unusually visible.
+
+### Catalysts ahead
+- **FY2026 guidance delivery** (~$7.1–7.5B EBITDA) — Q4 results in early 2027
+- **Meta PPA nuclear delivery** (late 2026/early 2027) — first revenue from the landmark 20-year deal
+- **ERCOT capacity market repricing**: as AI data centre load growth accelerates Texas power demand, spot prices and capacity revenues could increase materially
+- **Buyback execution**: $2.5B remaining buyback at current price levels would retire ~15% of the float over 1–2 years
+
+### Main risks
+- **Democratic policy uncertainty**: IRA subsidies for nuclear uprates / zero-carbon energy; if IRA provisions are modified, the economics of nuclear life extension change
+- **Texas weather**: ERCOT is exposed to extreme weather events (Winter Storm Uri 2021 showed both the upside and the risk of unhedged generation); VST hedges most production but extreme events test hedging structures
+- **Interest rates**: a leveraged balance sheet with ~$12B net debt is expensive to refinance in a 4%+ rate environment; FCF generation needs to remain robust
+- **Cogentrix integration**: gas assets are lower-margin than nuclear; integration adds complexity
+
+### Competitive position
+One of two dominant independent power producers in deregulated US markets (the other is Constellation after Calpine acquisition). The nuclear fleet is the crown jewel — nuclear plants cannot be replicated, have zero fuel emission costs (carbon policy tailwind), and serve premium PPA buyers (AI hyperscalers). The retail electricity business (~4M customers) provides a stable, lower-margin base.
+
+### Valuation
+Analyst consensus PT ~$230 at ~$158 dashboard price = ~45% upside. At ~18–20× forward EBITDA and ~7× EV/EBITDA with $7.1–7.5B guidance, this is not expensive for a business with 20-year nuclear PPAs and 2027 guidance at 98% hedge. The post-Democratic-sweep pullback from $240+ to $158 looks like an overreaction.
+
+---
+
+## ENPH — Enphase Energy
+**Genre: Clean & Batteries | Ticker: NASDAQ:ENPH | Risk: Aggressive | Revolut: Likely**
+
+### What it does and how it makes money
+Enphase makes microinverters (the box that converts solar panel DC output to AC power) and home battery storage systems under the IQ brand. It is the premium residential solar brand in the US and Europe. Unlike string inverters (SolarEdge's approach), Enphase's microinverter architecture puts a small inverter on each panel individually, which improves performance, enables panel-level monitoring, and handles shading better. The tradeoff is higher cost per watt. Enphase is #1 in US residential solar microinverters by market share.
+
+Revenue: primarily hardware sales (microinverters, batteries, EV chargers); growing services (Enphase Network monitoring subscriptions).
+
+### Latest results (Q3 2026, Oct 27)
+Q3 2026 was a significant miss:
+- **Revenue**: $293.3M, down **28.5% YoY** and missed $303.85M consensus
+- **Non-GAAP EPS**: $0.41, missed $0.51 consensus
+- **Demand headwind**: global sell-through rose only 1% sequentially vs 10% expected
+- **Q4 guidance**: $225–255M — far below the ~$300M analyst consensus; the midpoint implies a further ~15% QoQ revenue decline
+
+**What is hurting Enphase:**
+1. **High interest rates**: residential solar is predominantly financed; at 7–8% mortgage rates, home solar has a longer payback period and the economics weaken for homeowners. This is the structural headwind.
+2. **Section 25D ITC expiration timing**: the residential solar tax credit had uncertainty around extension; some customers pulled forward purchases in prior quarters, creating a demand hangover.
+3. **European softness**: the resi solar boom that drove Enphase's European growth in 2022–2023 has reversed; installer inventory remains elevated.
+
+### Bull thesis
+Enphase is a category-defining technology brand in a structurally growing market (residential solar + storage). When interest rates eventually decline, the IRA Section 25D credit (now more secure with Democratic Congress) makes rooftop solar + battery economics attractive again. The next generation of storage products (IQ Battery 10T and beyond) positions Enphase in home energy management. Five growth vectors for 2027 management highlighted: residential batteries, Propel leases, commercial solar/storage, bidirectional EV charging, IQ SST for AI data centres.
+
+The Democratic sweep actually improved Enphase's policy outlook: the risk of residential ITC being cut in a Republican budget bill has diminished materially.
+
+### Catalysts ahead
+- **Rate cuts** (whenever the Fed pivots): a 100bp reduction in 10Y yields meaningfully improves residential solar IRRs; Enphase is effectively a "short rates" trade
+- **Q4 2026 and 2027 guidance recovery**: the $225–255M Q4 guide needs to show a floor; any signs of demand recovery in 2027 would re-rate the stock
+- **Next-generation battery launch**: IQ Battery 10T and commercial storage products entering production
+- **Residential solar ITC secure**: Section 25D credit is now politically safer, removing a persistent bearish overhang
+
+### Main risks
+- **Structural rate headwind**: if rates remain at 4%+ for 2027, residential solar demand does not recover; this could make the Q4 guidance a floor, not a trough
+- **Competitive pressure**: SolarEdge (despite its own struggles) and Tesla Powerwall are strong competitors; Chinese inverter makers (now partially restricted under the emergency order, but not fully banned) could re-enter
+- **European inventory hangover**: European distributor inventory is elevated; a normalisation could take 2–4 more quarters
+- **Guidance credibility**: multiple consecutive misses reduce investor confidence in guidance ranges
+
+### Competitive position
+#1 US resi microinverter by market share. The brand premium (reliability reputation, monitoring app, installer ecosystem) creates switching costs — installers trained on Enphase don't easily shift to competitors. Microinverter architecture has an inherent safety advantage over string inverters (no DC arcing risk on the roof), which matters for insurance and building codes.
+
+### Valuation
+At ~$33, the stock is trading at ~20–25× depressed earnings. If EPS recovers to prior cycle levels of $4–5+ in 2027–2028, this would look cheap. The risk is that the recovery is slower due to persistent rates. Wait for stabilisation signals in Q4 or Q1 2027 guidance.
+
+---
+
+## MP — MP Materials
+**Genre: Clean & Batteries | Ticker: NYSE:MP | Risk: Aggressive | Revolut: Likely**
+
+### What it does and how it makes money
+MP Materials owns and operates Mountain Pass in California — the **only operating rare earth mine and processing complex in the United States**. Rare earth elements (specifically neodymium-praseodymium, NdPr) are the essential ingredients in NdFeB permanent magnets, which power every EV motor, every wind turbine generator, and every defence system using electric motors. MP is now vertically integrating: it mines rare earth ore, processes it into NdPr oxide (midstream), and is ramping a magnet manufacturing facility in Fort Worth, Texas (downstream).
+
+Revenue: (1) NdPr oxide and other rare earth material sales to Chinese and international processors; (2) now beginning to sell finished NdFeB magnets to US OEMs.
+
+The government support angle is significant: Chinese export restrictions on rare earth materials (2025) made Mountain Pass a **strategic national asset**. MP has a US DoD contract and received "price protection" income under a July 2025 government agreement ($8.1M in Q3 2026).
+
+### Latest results (Q3 2026, Nov 5)
+Q3 2026 beat expectations:
+- **Revenue**: ~$148M vs $119M estimate — material beat (driven by elevated heavy rare earth prices)
+- **Adj. EPS**: $0.04 vs ($0.02) consensus (flipped from expected loss to small profit)
+- **NdPr production**: 1,018 MTs in Q3 (vs 721 MTs prior year) — substantial production ramp
+- **GM qualification**: General Motors magnet qualification is **complete**; saleable magnet deliveries begin in Q4 2026
+- **Apple supply agreement**: multi-year magnet supply agreement with Apple in development
+- **Magnets outlook**: positive Adj. EBITDA from magnets initially; full Magnetics segment earnings visibility in 2028
+
+**Risk noted by management**: elevated heavy rare earth prices may not persist; some unplanned midstream circuit interruptions flagged.
+
+### Bull thesis
+MP Materials is a rare "crown jewel" national security asset in the EV and defence supply chain. As China demonstrated in 2025 with export restrictions, Western governments cannot afford to depend on Chinese processing for the magnets in every EV motor and military system. MP's mountain Pass complex — the only US facility of its kind — is effectively irreplaceable. The vertical integration into magnets is the step-change: a magnet manufacturer earns 5–10× the margin per kilogram vs a raw material seller. As EV penetration grows globally and the US defence/drone build-out accelerates, demand for US-sourced NdFeB magnets should grow structurally.
+
+### Catalysts ahead
+- **Q4 2026 GM magnet deliveries**: first revenue from the Fort Worth magnet plant; a material confirmation event
+- **Apple supply agreement signing**: if the multi-year Apple deal is confirmed, it provides a large, long-term demand anchor
+- **Chinese export restriction escalation**: any further tightening of Chinese rare earth export controls is bullish for Mountain Pass
+- **DOE / DoD contract expansion**: government mandated domestic rare earth processing is a policy tailwind
+
+### Main risks
+- **Rare earth price cyclicality**: NdPr prices are volatile; the Q3 beat was partly driven by elevated heavy rare earth prices that management flagged may not persist
+- **Magnet ramp execution**: scaling a new manufacturing process to automotive-grade quality is hard; delays are common
+- **China competition**: Chinese magnet manufacturers have decades more experience; MP's magnets need to match quality before most OEMs switch
+- **Commodity risk**: if China opens export controls (unlikely but possible), NdPr prices fall and Mountain Pass economics weaken
+
+### Competitive position
+Effectively a domestic monopoly at Mountain Pass — there is no other US rare earth mine and processor of comparable scale in operation. The Chinese restriction moat is regulatory rather than technical, but it may persist indefinitely given geopolitical tensions.
+
+### Valuation
+Stock at ~$28 (Nov dashboard). Analyst targets range from $20–35. At ~$28, the market is not pricing in the full Magnetics segment buildout. If the magnet business reaches management's potential (~10× midstream margin uplift), valuation could double. The 2028 timeline for full Magnetics earnings is the key delay.
+
+---
+
+## RKLB — Rocket Lab USA
+**Genre: Defence & Space | Ticker: NASDAQ:RKLB | Risk: Aggressive | Revolut: Likely**
+
+### What it does and how it makes money
+Rocket Lab operates two main businesses:
+1. **Launch services** (Electron rocket): a small satellite launcher (~300 kg to LEO) that provides reliable, responsive access to space. Electron is the second most frequently launched orbital rocket in the world (behind Falcon 9). Revenue per launch is ~$7–8M; the business earns on a per-launch basis with ~12–18 launches per year.
+2. **Space Systems**: designs and manufactures spacecraft components (solar panels, flight software, reaction wheels, radio systems) and complete satellites/spacecraft. Customers include NASA, national security agencies and commercial operators. This segment also includes the Photon satellite bus.
+
+**Neutron** (a medium-lift rocket, ~15,000 kg to LEO) is the future growth driver — currently under development, targeting first launch in 2027.
+
+### Latest results (Q3 2026, Nov 9)
+Q3 2026 was a revenue beat with a wider-than-expected loss:
+- **Revenue**: $267.8M — up **73% YoY**, above company guidance of $250–265M and analyst consensus ~$257M
+- **Backlog**: $3.57B — up **52% QoQ** (~$1B from new launch contracts in Q3 alone). This is an extraordinary backlog build.
+- **Q4 guidance**: $270–290M (continued growth)
+- **Adj. EPS**: ($0.12), missed ($0.07) consensus
+- **Adj. EBITDA loss**: guidance $14–20M for Q4 (wider than expected)
+- **Neutron**: delayed to **2027** after a propellant-tank component defect was identified during testing
+
+**Stock reaction**: closed Nov 9 at $58.86 (+10.9% on the day); fell ~4.5% in after-hours on the EPS miss/EBITDA guidance.
+
+### Bull thesis
+Rocket Lab is the second-largest commercial launch provider globally and the only serious challenge to SpaceX in the small-satellite niche. The Space Systems business is growing faster than launch (high-margin spacecraft components, full satellite manufacture) and de-risks the revenue base. The $3.57B backlog — equivalent to roughly 13× quarterly revenue — provides extraordinary forward visibility. Neutron, when it flies, opens up medium-lift market competition with SpaceX and ULA at an addressable market worth $5B+/year. National security (US Space Force, NRO) is the most durable part of the customer base.
+
+### Catalysts ahead
+- **Neutron first flight** (2027): the most important binary catalyst; success validates the medium-lift market; failure is very costly
+- **Space Systems contract wins**: NASA's Gateway lunar programme, NRO, Space Force; each is a material revenue uplift
+- **SNC Dream Chaser spacecraft systems**: Rocket Lab builds structures for Sierra Space's Dream Chaser
+- **Global launch cadence acceleration**: as Electron approaches 20+ launches/year, operational leverage improves
+
+### Main risks
+- **Neutron delay risk**: the propellant tank defect that caused the 2027 delay is concerning; more delays are likely; first launches of new rocket architectures almost always slip
+- **SpaceX competition**: Falcon 9 is a bigger, more cost-effective launcher; for payloads that fit Falcon 9 rideshare, Rocket Lab is the more expensive option
+- **Loss-making**: still burning cash; $79.7M GAAP net loss in Q3; the EPS miss means losses are wider than modelled
+- **US competitor (Relativity Space, ABL)**: not yet meaningful, but the small launch market is competitive
+
+### Valuation
+At ~$58 (post-earnings), Rocket Lab trades at ~8× revenue on a $3.57B backlog. For a growth company with 73% revenue growth and a 13× backlog cover, the multiple is manageable if Neutron delivers on its 2027 timeline.
+
+---
+
+## AVAV — AeroVironment
+**Genre: Defence & Space | Ticker: NASDAQ:AVAV | Risk: Balanced | Revolut: Likely**
+
+### What it does and how it makes money
+AeroVironment is the US Army's primary tactical UAS (unmanned aircraft systems) supplier. Its portfolio covers:
+1. **Small UAS** (Raven, Wasp, Puma): hand-launched, man-portable systems for squad-level reconnaissance. Used extensively in Ukraine, Middle East, North Africa.
+2. **Tactical Missile Systems / Loitering Munitions** (Switchblade 300, 600, 900): one-way attack munitions; Switchblade 300 is designed to defeat personnel/light vehicles; Switchblade 600 is an anti-armour system.
+3. **High-Altitude Long Endurance** (HALE) UAS: Argus-IS, Global Observer (longer-range, persistent surveillance).
+
+Revenue is almost entirely US government (DoD/allies); the company also sells to international allies under Foreign Military Sales programmes. No consumer/commercial exposure.
+
+### Latest results (FY2027 Q1, Sep 9, 2026)
+Q1 FY2027 (fiscal year ends April 30) was a record quarter:
+- **Revenue**: $480.5M — up **6% YoY** and a new quarterly record
+- **Non-GAAP EPS**: $0.59, massively beat the $0.22 consensus
+- **GAAP**: net loss ($5.1M) or ($0.10)/share due to non-cash charges; operationally strong
+- **Funded backlog**: $1.5B (up from $1.2B at April 30, 2026) — a record
+- **Book-to-bill**: 1.4× — meaning for every $1 of revenue, $1.40 of new orders arrived
+
+**FY2027 full-year guidance** (maintained):
+- Revenue: $2.125–2.225B
+- Non-GAAP Adj. EBITDA: $305–325M
+- Non-GAAP EPS: $3.02–3.34
+- **Free cash flow**: expected negative (capex 12–14% of revenue for capacity expansion)
+
+Next reporting: Q2 FY2027 (fiscal quarter ended Oct 31), expected ~December 2026.
+
+### Bull thesis
+AeroVironment is the purest "near-peer conflict lessons learned" defence trade. The Ukraine war demonstrated that small, affordable, precision loitering munitions are as important to modern warfighting as tanks and artillery. Every NATO ally now wants Switchblade equivalents. US Army modernisation programmes (Future Attack Reconnaissance Aircraft, Futures Command drone priorities) continue to favour AeroVironment's product lines. The $1.5B funded backlog with 1.4× book-to-bill means the order pipeline is growing faster than deliveries — revenue visibility is excellent.
+
+### Catalysts ahead
+- **Q2 FY2027 results** (~December 2026): next read on order momentum
+- **International FMS sales**: NATO allies re-arming with US-sourced loitering munitions (Switchblade 600 specifically cited for anti-armour missions)
+- **Switchblade 900**: next-generation, larger loitering munition; if production orders are placed, adds a new high-value revenue stream
+- **Golden Dome** / US missile defence programme: AeroVironment may supply elements of the layered defence architecture
+
+### Main risks
+- **Continuing Resolution / Budget uncertainty**: management flagged FY2027 congressional budget timing as a potential risk; under a continuing resolution, procurement rates can slow
+- **Premium valuation**: BofA cut PT to $185 (from $200) post-Q4 beat surge; at ~$185, the stock has priced in strong execution — any stumble disappoints
+- **Shield AI competition**: Shield AI's autonomous drone systems are emerging as a potential US Army UAS alternative; not yet a threat to Switchblade but watch
+- **Personnel-heavy model**: AeroVironment's products require trained operators; armies are starting to prefer fully autonomous systems over semi-autonomous ones
+
+### Competitive position
+Near-monopoly in hand-launched small UAS (Raven programme of record) and in affordable loitering munitions (Switchblade). The active-conflict customer feedback loop — data from actual Ukraine deployments — improves the product faster than any lab can. This is a durable moat.
+
+### Valuation
+At ~$185 (dashboard price), the stock trades ~50× forward non-GAAP EPS guidance midpoint. High for a defence prime, but justified by 100%+ YoY revenue growth in the most recent full year (Q4 FY2026 $641.6M +100% YoY). FY2027 $2.1–2.2B guidance at this stock price implies ~8× forward revenue — premium but reasonable for a double-digit growth defence technology company.
+
+---
+
+## RGTI — Rigetti Computing ⭐ HELD BY INVESTOR
+**Genre: Quantum | Ticker: NASDAQ:RGTI | Risk: Moonshot | Revolut: Yes | UK: US stock**
+
+### What it does and how it makes money
+Rigetti is a **superconducting quantum computer** company that both manufactures QPUs (quantum processing units) and provides cloud access to its systems (Quantum Cloud Services, QCS). It competes with IBM's quantum systems, IonQ (trapped-ion architecture) and D-Wave (quantum annealing). Revenue comes from: (1) government/academic cloud access contracts — time-on-machine fees; (2) on-premises QPU sales/leases to research institutions and governments; (3) government R&D contracts.
+
+Rigetti's technical approach is **superconducting qubits**, the same approach as IBM and Google. This is the most mature pathway to fault-tolerant quantum computing in the near term, but requires near-absolute-zero operating temperatures (millikelvin), limiting where systems can be deployed.
+
+**At this stage, Rigetti is a pre-commercial research infrastructure company, not a profitable business.** Revenue is in the low millions per quarter. The investment thesis is entirely about whether quantum computing achieves practical utility at scale over the next 5–10 years.
+
+### Why the investor holds it
+The investor added RGTI to the ISA. At the time of purchase (likely during the January 2025–early 2026 quantum sentiment rally driven by Google Willow and Microsoft's Q2 announcements), RGTI was likely priced on speculation around quantum supremacy demonstrations. RGTI went from ~$1–2 to $20+ during the January 2025 quantum euphoria spike.
+
+**Current price**: ~$12.98 (day before Q3 2026 results). This represents a ~35–50% fall from peak quantum-hype levels of $20+.
+
+### Latest results (Q3 2026, Nov 10/11)
+Q3 2026 was a significant revenue miss but included an important technical milestone:
+- **Revenue**: $1.4M (vs $3.52M consensus — a **60% miss**)
+- **Operating loss**: $33.2M
+- **Non-GAAP net loss**: $20.5M
+- **GAAP net loss**: only $3.1M (flattering — includes a $25.3M non-cash gain from warrant fair value change)
+- **Cash**: $497.1M with no debt — **strong liquidity runway**; burn rate allows ~6+ years at current pace
+
+**Root cause of revenue miss**: on-premises QPU delivery timing. Customer acceptance of a QPU system (specifically for C-DAC, India's national computing lab) slipped out of Q3; recognition is now expected in Q4. This is "lumpy" revenue, not cancellation.
+
+**FY2026 guidance**: maintained at ~$20M, dependent on C-DAC acceptance in Q4. Nine-month revenue was $10.9M, so Q4 needs ~$9.1M to meet guidance. Manageable if C-DAC accepts.
+
+### Technical milestone
+**108-qubit Cepheus-1 system hit 99.5% median two-qubit gate fidelity** — this is the most important number in Rigetti's roadmap. For context:
+- Two-qubit gate fidelity is the key performance metric in quantum computing; higher = fewer errors = more usable computation
+- 99.5% is a meaningful milestone on the path to fault tolerance (which requires ~99.9%+)
+- Rigetti's roadmap: **300+ qubit system at ~99.7% fidelity by mid-2028**; then ~1,000 qubits at 99.9%+ fidelity by ~2029
+
+### Government support
+Rigetti signed a **US Department of Commerce CHIPS Act agreement for up to $100M** (milestone-based). The DoC received a minority, non-controlling equity stake. This is a material endorsement — the US government views Rigetti as strategically important for domestic quantum capability. Note: the initial $43.9M tranche is *available* but no cash was received by Q3 period-end; this is a framework, not a cheque.
+
+### Bull thesis
+Rigetti has better liquidity ($497M cash, no debt) than any peer except IBM (backed by IBM's balance sheet). The CHIPS Act agreement de-risks the funding runway and validates national importance. The 108-qubit fidelity milestone is real technical progress. If fault-tolerant quantum computing achieves utility at scale (even in niche applications like drug discovery or logistics optimisation), early movers with large qubit systems and institutional relationships win. Rigetti has the technology (superconducting, same as Google/IBM), the relationships (C-DAC, US government), and the runway.
+
+### What would have to happen for this to be a good investment
+Quantum computing needs to reach "quantum advantage" — demonstrably solving a commercially valuable problem faster/better than the best classical computer. This has not been proven for any economically meaningful problem. The fidelity milestones Rigetti is hitting (99.5% → 99.7% → 99.9%) are prerequisites for fault-tolerant computation, which is the threshold for genuine commercial utility. The timeline is mid-2028 to 2030 for the first plausible fault-tolerant demonstrations.
+
+**At this price (~$12–13), the question is not "will quantum computing work?" (it probably will, eventually) but "will Rigetti be one of the survivors when it does?"** The CHIPS Act validation and $497M cash say yes to survival. Whether it outperforms IBM and Google/Alphabet's quantum divisions (which have far deeper R&D resources) is less certain.
+
+### Main risks
+- **Revenue remains trivially small**: $1.4M/quarter is not a business yet; the company is entirely government- and grant-funded
+- **Roadmap delays**: the 300-qubit mid-2028 target is ambitious; every quantum company has historically taken longer than projected
+- **Hyperscaler competition**: Google, IBM and Microsoft all have massive quantum programmes with far more capital; they could surpass Rigetti's milestones
+- **IonQ competition**: trapped-ion qubits (IonQ, Quantinuum) have demonstrated higher gate fidelities than superconducting in some configurations; the architecture race is not settled
+- **Dilution risk**: the CHIPS Act equity stake plus prior ATM issuances have diluted shareholders; more may come
+
+### For the investor specifically
+You hold RGTI in your ISA. This is a **long-term moonshot position** — appropriate only if sized as a small speculative allocation (the STARTER_FRAMEWORK.md recommends capping speculative single names at 5–10% of the total portfolio). The $497M cash, the CHIPS Act validation, and the fidelity milestone provide more foundation than many quantum peers, but revenue is years away from covering operating costs. Hold if you believe in the quantum computing thesis over a 5–10 year horizon; do not add unless you're comfortable with a "could go to zero" scenario.
+
+---
+
+## QBTS — D-Wave Quantum
+**Genre: Quantum | Ticker: NYSE:QBTS | Risk: Moonshot | Revolut: Likely**
+
+### What it does and how it makes money
+D-Wave is the only commercial quantum computing company currently generating meaningful (if still small) recurring revenue. Its approach is **quantum annealing** — a specialised form of quantum computing optimised for combinatorial optimisation problems (scheduling, logistics routing, drug discovery, financial portfolio optimisation). Unlike gate-based quantum computers (IBM, Rigetti, Google), D-Wave's systems cannot do arbitrary quantum computations, but they can solve specific optimisation problems faster/better than classical computers *today* — making D-Wave potentially the first quantum company to achieve actual commercial utility.
+
+Customers include Volkswagen (traffic flow optimisation), Mastercard (fraud detection), NTT Docomo (network routing), and various logistics companies. Revenue from cloud access (Leap quantum cloud), on-premises system sales, and professional services.
+
+After the acquisition of Quantum Circuits Inc. (gate-based superconducting), D-Wave is developing a hybrid portfolio: quantum annealing (current revenue) + gate-based (future).
+
+### Latest results (Q3 2026, Nov 10)
+Q3 2026 was mixed — revenue grew but costs surged:
+- **Revenue**: $4.51M, up **20.7% YoY** (from $3.74M)
+- **RPO (Remaining Performance Obligations)**: surged **1,221% YoY** to $38.3M — this is extraordinary forward contract value
+- **Operating expenses**: $55.87M, up **83.7% YoY** (mostly QCI integration costs)
+- **GAAP net loss**: ($48.2M)
+- **Cash**: $503M (down 39.8% YoY — absorbing QCI acquisition costs)
+- **CHIPS Act**: finalized $100M milestone-based government agreement (identical structure to Rigetti's $100M deal)
+- **CFO change**: acting CFO Greg Golkov replaced CFO John Markovich without explanation in the release — a governance flag
+
+The RPO +1,221% is the standout: it means D-Wave has locked in contracted future revenue of $38.3M against $4.51M/quarter revenue — a ~2× annual revenue backlog. This is early evidence of commercial demand scaling, though costs are growing faster.
+
+### Bull thesis vs risks
+**Bull**: D-Wave is the only quantum company solving real commercial problems today (not just promising to). The RPO surge confirms that actual companies are committing to multi-quarter/multi-year contracts. CHIPS Act $100M provides a runway extension.
+
+**Risks**: Cash burn ($503M → burning ~$150M+ annually at current OpEx); QCI integration is expensive; quantum annealing is a specialised niche and cannot solve all quantum applications; gate-based systems (IBM, Rigetti, Google) may eventually match D-Wave at optimisation.
+
+### Valuation
+At ~$10–12/share (verify live), QBTS is a micro-cap moonshot. The RPO surge is the most important data point — if it continues to grow, it validates the commercial thesis ahead of the financial fundamentals.
+
+---
+
+## COIN — Coinbase Global
+**Genre: Fintech & Digital Money | Ticker: NASDAQ:COIN | Risk: Aggressive | Revolut: Yes**
+
+### What it does and how it makes money
+Coinbase is the largest US-regulated cryptocurrency exchange and the dominant institutional crypto custody platform. Revenue comes from:
+1. **Transaction fees**: percentage of trading volume; the most volatile line — rises with crypto market activity and prices
+2. **Subscription and services**: USDC interest income (Coinbase earns on USDC reserves as the Circle partner); staking rewards; Coinbase One subscriptions; Coinbase Cloud (developer tools)
+3. **Coinbase Ventures/Coinbase Wallet** ecosystem exposure
+
+The critical shift in 2026: Coinbase has been deliberately diversifying away from transaction-fee dependency. Subscription and services revenue was 49% of net revenue in Q3 2026 — close to parity with volatile trading fees for the first time. This matters because subscription/services revenue is recurring and largely independent of crypto prices.
+
+### Latest results (Q3 2026, Oct 29)
+Q3 2026 showed Coinbase's transformation but also transaction weakness:
+- **Net income**: $719M (+66% YoY) — but includes **$715M non-cash crypto asset gains** (mark-to-market on crypto held); strip this out and adjusted net income was only $78M
+- **Revenue**: ~$1.22B (conflicting sources; likely -35% YoY as crypto market was soft)
+- **Transaction revenue**: $590M, fell ~44% from Q2 2026 (crypto volatility and market cap were lower)
+- **Subscription & services**: ~$600M+ (now 49% of revenue, up from ~30% a year ago)
+- **Stablecoin revenue**: $328M, up 3% QoQ
+- **Prediction markets**: $200M+ annualised revenue (CEO Armstrong highlight)
+- **EPS**: $2.51/share (beat consensus)
+- **Stock reaction**: fell ~11% despite beat, attributed to Binance hack news weighing on crypto sentiment broadly
+
+### How the CLARITY Act changes the picture
+The CLARITY Act (digital asset market structure legislation, signed September 3, 2026) provided statutory clarity on how digital assets are classified and regulated in the US. For Coinbase specifically:
+- Clearer classification of which tokens are securities vs commodities
+- Formal framework for exchange registration and custody requirements
+- Reduced existential regulatory uncertainty that has hung over the company for years
+- **COIN surged ~16.5%** on CLARITY Act signing day (Sep 3)
+
+This is a genuine structural positive. The regulatory overhang that prevented institutional participation in US crypto markets for years is diminishing. Coinbase, as the most regulated and compliant US exchange, is the primary beneficiary.
+
+### Bull thesis
+Coinbase is essentially the NYSE of crypto — the dominant regulated venue at the moment when crypto is achieving mainstream institutional legitimacy. The CLARITY Act provides the legal infrastructure for institutional investment; Bitcoin spot ETFs (largely custodied through Coinbase) brought $55B+ in net inflows. The business is diversifying into genuinely recurring revenue (USDC interest, subscriptions) that is less dependent on volatile trading volumes. Prediction markets ($200M+ annualised) is a new high-growth vertical. If the next crypto bull cycle arrives with higher sustained volumes, transaction revenue returns and the diversified revenue base amplifies earnings.
+
+### Catalysts ahead
+- **Crypto market recovery**: higher BTC/ETH prices → higher transaction volumes → transaction revenue returns
+- **USDC growth**: Circle's USDC ($80B+ market cap as of 2026) and Coinbase's revenue share on reserves grows with USDC adoption and rate environment
+- **International expansion**: Coinbase is expanding European and international operations under clearer regulatory frameworks
+- **Q4 2026 / FY2027 outlook**: if crypto markets recover from November outflow pressure, Q4 transaction revenue could stabilise
+
+### Main risks
+- **Crypto bear market**: if BTC/ETH fall materially further, transaction volume collapses; Q3's $590M transaction revenue could halve again
+- **Competition**: Binance remains dominant globally; Kraken, Gemini compete in the US. Binance's occasional hacks (Nov 2026) affect sentiment for the sector
+- **Regulatory risk remains**: while CLARITY Act improved the environment, regulatory risk has not fully disappeared; the SEC is not entirely recused
+- **Non-cash earnings**: the $715M crypto asset gain inflating Q3 net income is not real cash; EPS $2.51 headlines flatter the underlying $78M adjusted profitability
+
+### Competitive position
+Dominant in US institutional crypto custody — most Bitcoin ETF custodians use Coinbase. Among the most regulated crypto exchanges globally (Bermuda, Germany, Singapore). The brand premium with US institutions is real. Consumer adoption (Coinbase app) is also substantial.
+
+### Valuation
+At ~$155–170 (verify live), Coinbase trades at ~15–25× adjusted earnings depending on how you treat the crypto gains. The base valuation case rests on subscription/services revenue growing to represent 60–70% of revenues, providing a more stable earnings floor. If transaction revenue recovers in a future crypto bull market, upside is substantial.
+
+---
+
+## BTC — Bitcoin
+**Genre: Crypto | Category: Store of Value / Risk Asset | Risk: Moonshot | Where to buy: Kraken / Revolut**
+
+### What it is and how it "makes money"
+Bitcoin is a decentralised digital currency with a fixed supply cap of 21 million coins, of which ~19.75M have been mined. It earns no yield, pays no dividend, and generates no cash flow. Its value proposition rests on three narratives: (1) **Digital gold / inflation hedge**: a scarce, non-sovereign store of value; (2) **Institutional reserve asset**: increasingly held by corporate treasuries, ETFs and sovereign wealth funds; (3) **Settlement layer**: used for large cross-border value transfers.
+
+Bitcoin's fourth halving (April 2024) cut the new supply issuance from 6.25 BTC/block to 3.125 BTC/block. Historical patterns show bull markets typically peak 12–18 months after halvings (which would point to 2025–2026 for the last cycle).
+
+### ETF and institutional adoption (2025–2026)
+The launch of US spot Bitcoin ETFs (January 2024) and the subsequent wave of approvals was the most important structural development. By November 2026:
+- **BlackRock IBIT**: the anchor; AUM ~$168B, the fastest-growing ETF in history
+- **Cumulative net inflows**: ~$55.6B across all US spot BTC ETFs
+- **But**: November 2026 has seen ETF outflows; $299.8M on November 11 alone; a 5-day outflow streak extending into mid-November; estimated ~$1.5B+ in outflows in the first two weeks of November
+
+### Price and market cap (c. mid-November 2026)
+Price data is conflicting across sources, but most credible readings suggest:
+- **Price**: approximately $80,000–90,000 (sources range; Decrypt ticker showed ~$80,400; some older readings show ~$89,700 — verify live)
+- This represents a significant decline from the January–February 2026 peak of ~$108,000+
+- The post-Democratic-sweep period and the higher-for-longer macro environment have pressured risk assets including BTC
+
+### Why BTC is a Revolut ISA note
+Bitcoin held directly is **not ISA-eligible** (since April 2026, crypto ETNs are also excluded from standard S&S ISAs). The reference in the watchlist is tracking purposes — the investor likely holds BTC outside the ISA (via Revolut crypto directly or Kraken). **Any gains on direct BTC are capital gains taxable.**
+
+### Bull thesis
+Bitcoin has achieved genuine institutional asset class status. IBIT's $168B AUM places it among the largest ETFs in the world. Central bank diversification away from USD reserves (a slow-moving process), corporate treasury adoption (Strategy/MicroStrategy model), and sovereign wealth fund allocations are all structural tailwinds. The fixed supply (21M cap, ~1.5% new issuance post-halving, eventually zero) means demand increases can only clear through price, not supply. The CLARITY Act provides regulatory clarity for the digital asset ecosystem.
+
+### Key risks and what to watch
+- **ETF outflow trend**: the November 2026 outflow streak after a 13-week inflow run is a material shift in sentiment; watch for reversal; sustained net outflows for 4+ weeks would be a warning
+- **Higher-for-longer macro**: Bitcoin yields nothing; at 4–5% risk-free rates, the opportunity cost of holding BTC vs Treasuries is high; rate expectations are the swing factor
+- **Regulatory risk (global)**: US regulatory clarity is improving; China-style bans elsewhere remain possible
+- **Volatility**: BTC has historically fallen 70–90% in bear markets from peaks; at $80–90K, the drawdown from $108K peak is ~16–25% — small by Bitcoin historical standards
+
+### For the investor
+You hold XRP on Kraken. Bitcoin is tracked here as a comparison asset and macro indicator for the crypto sleeve. The STARTER_FRAMEWORK.md caps the speculative bucket at 5–10% of total portfolio — both XRP and any BTC exposure should sit within that envelope.
+
+---
+
+*Research date: 19 November 2026. All figures require live verification before acting. This is educational research, not financial advice.*
+
+---
+
 # 2026-11-12 — Cycle 4, Run 2: KO, JNJ, NG., HSBA, ABBV, NVDA, AVGO, GEV, FSLR, PLTR, IONQ, CRCL
 
 This run **completes the DIV priority slate for Cycle 4** by covering the remaining five income names (KO, JNJ, NG., HSBA and ABBV), then moves into the first seven stockData picks of this cycle. Research date: **12 November 2026**. All figures drawn from company filings, earnings releases, ETF factsheets, broker research and secondary press coverage; financial metrics move constantly — **re-verify live before acting**. Nothing here is financial advice or a recommendation to buy or sell.

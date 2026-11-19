@@ -8,7 +8,23 @@ Tracks which watchlist tickers have received a weekly deep-dive in the **current
 
 ## Current cycle: 4
 
-## Covered this cycle (24/89)
+## Covered this cycle (36/89)
+
+### Run 3 (2026-11-19) — stockData cross-genre sweep (~2 per genre):
+- TSM [AI & Compute] (2026-11-19)
+- VRT [AI & Compute] (2026-11-19)
+- CCJ [Energy & Nuclear] (2026-11-19)
+- VST [Energy & Nuclear] (2026-11-19)
+- ENPH [Clean & Batteries] (2026-11-19)
+- MP [Clean & Batteries] (2026-11-19)
+- RKLB [Defence & Space] (2026-11-19)
+- AVAV [Defence & Space] (2026-11-19)
+- RGTI [Quantum] (2026-11-19)
+- QBTS [Quantum] (2026-11-19)
+- COIN [Fintech & Other] (2026-11-19)
+- BTC [CRYPTO] (2026-11-19)
+
+*(Remaining uncovered in Cycle 4: AI & Compute — AMD, MRVL, ALAB, CRDO, NBIS, CRWV, CBRS, ANET, ETN, ARM; Energy & Nuclear — OKLO, LEU, FLNC, TLN, BWXT, UUUU, UEC, DNN; Clean & Batteries — NXT, QS, AMPX, ALB, SEDG, BE, SLDP, ARRY, EOSE, SQM; Defence & Space — SPCX, VOYG, KRMN, RDW, ONDS, UMAC, KTOS, RCAT, ASTS; Quantum — QNT, QUBT, INFQ, ARQQ, XNDU, IQMX; Fintech — KLAR, CHYM, AFRM, NU, SOFI, HOOD, PYPL; Biotech — NTRA, RXRX, ERAS; CRYPTO — ETH, SOL, XRP, cETN)*
 
 ### Run 2 (2026-11-12) — DIV completion + first stockData picks:
 - KO [DIV] (2026-11-12)
