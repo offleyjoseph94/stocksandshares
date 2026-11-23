@@ -4,6 +4,61 @@ Newest entry at the top. Each entry covers one weekly research cycle.
 
 ---
 
+## 2026-11-23 — Weekly research refresh
+
+### Macro context
+- **NVDA CEO resignation** (Nov 18): Jensen Huang resigned citing personal reasons; Colette Kress (CFO) named interim CEO. Despite Q3 FY2027 BEAT ($115.8B revenue +103% YoY, EPS $2.68 vs $2.47 est, Q4 guided $130B), shares fell on the leadership shock.
+- **Anthropic (ANT) LISTED** Nov 19 on NASDAQ at $97/share — the biggest tech IPO of 2026. ANT added to watchlist; removed from ipoData pipeline.
+- **Clean energy sector selloff**: FSLR fell to near 52-week lows ($150.98 on Nov 18) and SEDG/ENPH also hit lows — DESPITE the Dec 4 Section 232 MIP being only 11 days away.
+- **ANET massive Q3 beat** (Nov 14): revenue $3.66B +58.5% YoY, Q4 guided $3.9-4.0B; stock jumped significantly.
+- **Coinbase federal trust bank charter** approved in principle — COIN boosted to $155.
+- **IMB full-year results** (Nov 17): total FY2026 dividend 166.72p +4.0%; sixth consecutive year of growth; 3rd interim ex-div ~Nov 26-27; £1.5B FY2027 buyback launched.
+- **NG. ex-dividend Nov 19 HAS PASSED** — payment Jan 12 2027 to holders of record.
+
+### Price updates (verify live before trading)
+| Ticker | Prev | Now | Change | Note |
+|--------|------|-----|--------|------|
+| NVDA | $169 | $155 | −8% | CEO resignation (Jensen Huang → Colette Kress interim); Q3 BEAT $115.8B +103% YoY |
+| AVGO | $299 | $305 | +2% | Partial chip recovery; Dec 9 earnings in focus |
+| AMD | $458 | $490 | +7% | NVDA CEO rotation; MI400 demand intact |
+| VRT | $183 | $175 | −4% | AI capex concern from leadership change |
+| GEV | $815 | $760 | −7% | AI power capex uncertainty from NVDA CEO change |
+| ANET | $170 | $186 | +9% | Q3 MASSIVE BEAT: $3.66B +58.5% YoY; Q4 guided $3.9-4.0B |
+| TSM | $380 | $378 | −1% | Slight pullback; fundamentals intact |
+| ARM | $215 | $220 | +2% | Minor recovery |
+| FSLR | $206 | $152 | −26% | NEAR 52-WEEK LOWS — sector selloff despite Dec 4 MIP only 11 days away |
+| ENPH | $33 | $22 | −33% | NEAR 52-WEEK LOWS — Section 25D secure but macro/sector pressure |
+| NXT | $98 | $91 | −7% | Sector-wide clean energy pullback |
+| SEDG | $28 | $22 | −21% | NEAR 52-WEEK LOWS — Dec 4 MIP only 11 days away; Q4 guidance soft |
+| IONQ | $29 | $24 | −17% | Lock-up expiry Nov 14 settled; found support; next earnings |
+| RGTI | $8 | $7 | −13% | Ongoing weakness; pre-revenue moonshot |
+| QBTS | $8 | $7.5 | −6% | Sector pressure; early-stage |
+| CRCL | $87 | $52 | −40% | SHARP DROP below listing price; ARK buying; USDC fundamentals intact |
+| COIN | $136 | $155 | +14% | Federal trust bank charter boost; crypto recovery |
+| HOOD | $80 | $75 | −6% | Q3 crypto revenue −55%; prediction markets +6x |
+| RKLB | $40 | $36 | −10% | Sector selloff; Neutron development ongoing |
+| PLTR | $162 | $140 | −14% | Risk-off rotation after strong YTD run |
+| ANT | — | $97 | NEW | Anthropic LISTED Nov 19 2026 at $97 on NASDAQ |
+
+### New entries
+- **ANT (Anthropic)** added to AI & Compute — NASDAQ listing Nov 19 2026 at $97; $4B ARR; world's #2 AI lab.
+
+### Removed from ipoData pipeline
+- **Anthropic** — now listed as ANT on NASDAQ at $97.
+
+### Key events
+- **NVDA Q3 FY2027 BEAT** (Nov 17): revenue $115.8B +103% YoY, EPS $2.68 vs $2.47 est; Q4 guided $130B; gross margin guided 71-72%. CEO Jensen Huang resigned same day.
+- **ANT IPO** (Nov 19): Anthropic listed on NASDAQ at $97, 6x oversubscribed. Largest AI/tech IPO of 2026.
+- **ANET Q3 BEAT** (Nov 14): revenue $3.66B +58.5% YoY; Q4 guided $3.9-4.0B.
+- **Dec 4 Section 232 MIP** — now only 11 days away; FSLR and SEDG at or near 52-week lows despite the imminent catalyst.
+
+### Income / DIV section
+- **NG. ex-dividend Nov 19 HAS PASSED** — payment Jan 12 2027; remove urgency note.
+- **IMB FY2026 results** (Nov 17): total FY2026 dividend 166.72p +4.0%; sixth consecutive year of growth; 3rd interim ex-div ~Nov 26-27; £1.5B FY2027 buyback launched.
+- **O (Realty Income)**: yield updated to ~5.5%; next ex-div Nov 30 approaching.
+
+---
+
 ## 2026-11-16 — Weekly research refresh
 
 ### Macro context
