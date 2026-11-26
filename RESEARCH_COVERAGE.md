@@ -8,7 +8,23 @@ Tracks which watchlist tickers have received a weekly deep-dive in the **current
 
 ## Current cycle: 4
 
-## Covered this cycle (36/89)
+## Covered this cycle (48/89)
+
+### Run 4 (2026-11-26) — stockData cross-genre sweep (~2 per genre):
+- AMD [AI & Compute] (2026-11-26)
+- MRVL [AI & Compute] (2026-11-26)
+- OKLO [Energy & Nuclear] (2026-11-26)
+- LEU [Energy & Nuclear] (2026-11-26)
+- NXT [Clean & Batteries] (2026-11-26)
+- QS [Clean & Batteries] (2026-11-26)
+- SPCX [Defence & Space] (2026-11-26)
+- VOYG [Defence & Space] (2026-11-26)
+- QNT [Quantum] (2026-11-26)
+- QUBT [Quantum] (2026-11-26)
+- KLAR [Fintech] (2026-11-26)
+- CHYM [Fintech] (2026-11-26)
+
+*(Remaining uncovered in Cycle 4: AI & Compute — ALAB, CRDO, NBIS, CRWV, CBRS, ANET, ETN, ARM, ANT [new IPO]; Energy & Nuclear — FLNC, TLN, BWXT, UUUU, UEC, DNN; Clean & Batteries — AMPX, ALB, SEDG, BE, SLDP, ARRY, EOSE, SQM; Defence & Space — KRMN, RDW, ONDS, UMAC, KTOS, RCAT, ASTS; Quantum — INFQ, ARQQ, XNDU, IQMX; Fintech — AFRM, NU, SOFI, HOOD, PYPL; Biotech — NTRA, RXRX, ERAS; CRYPTO — ETH, SOL, XRP, cETN)*
 
 ### Run 3 (2026-11-19) — stockData cross-genre sweep (~2 per genre):
 - TSM [AI & Compute] (2026-11-19)
